@@ -1,0 +1,62 @@
+artefato: TR
+versao: "2025-10-01"
+itens:
+  - id: base_legal
+    descricao: "Citar Lei 14.133/2021, Decreto Estadual 67.381/2022 e Provimento CSM 2724/2023 na introdução."
+    obrigatorio: true
+
+  - id: objeto
+    descricao: "Descrever claramente o objeto, finalidade e resultado pretendido."
+    obrigatorio: true
+
+  - id: justificativa
+    descricao: "Justificar a necessidade, alinhada ao planejamento (PCA/PEI) e aos resultados esperados."
+    obrigatorio: true
+
+  - id: escopo_entregas
+    descricao: "Definir escopo/entregáveis, quantidades, padrões e limites fora de escopo."
+    obrigatorio: true
+
+  - id: requisitos_tecnicos
+    descricao: "Especificar requisitos técnicos mínimos (hardware/software/desempenho)."
+    obrigatorio: true
+
+  - id: niveis_servico_sla
+    descricao: "Estabelecer níveis de serviço (SLA), tempos de resposta/solução e indicadores."
+    obrigatorio: true
+
+  - id: criterios_julgamento
+    descricao: "Definir critérios de julgamento (menor preço, técnica e preço, melhor técnica) e fórmula/ponderação."
+    obrigatorio: true
+
+  - id: estimativa_custos
+    descricao: "Apresentar planilha de custos e metodologia de pesquisa de preços (3 fontes/painéis públicos/datas/médias)."
+    obrigatorio: true
+
+  - id: prazos_execucao
+    descricao: "Definir prazos de entrega/execução, cronograma e marcos."
+    obrigatorio: true
+
+  - id: obrigacoes_partes
+    descricao: "Delimitar obrigações da Contratada e da Administração (gestão do contrato/insumos)."
+    obrigatorio: true
+
+  - id: sustentabilidade
+    descricao: "Incluir critérios ambientais (Procel A / Energy Star, logística reversa, descarte adequado)."
+    obrigatorio: true
+
+  - id: riscos_matriz
+    descricao: "Apresentar matriz de riscos (probabilidade x impacto) com mitigação e responsável."
+    obrigatorio: true
+
+  - id: fiscalizacao
+    descricao: "Definir mecanismos de fiscalização/aceite (gestor/fiscal, evidências, indicadores)."
+    obrigatorio: true
+
+  - id: garantias_penalidades
+    descricao: "Prever garantias contratuais, penalidades e hipóteses de glosa."
+    obrigatorio: false
+
+  - id: vigencia_reajuste
+    descricao: "Indicar vigência, reajuste e condição de repactuação (quando couber)."
+    obrigatorio: false
