@@ -1,0 +1,26 @@
+artefato: ETP
+versao: "2025-10-01"
+itens:
+  - id: base_legal
+    descricao: "Citar Lei 14.133/2021, Decreto Estadual 67.381/2022 e Provimento CSM 2724/2023 na introdução."
+    obrigatorio: true
+
+  - id: alternativas
+    descricao: "Comparar manutenção, locação e aquisição com justificativas."
+    obrigatorio: true
+
+  - id: riscos_matriz
+    descricao: "Apresentar matriz de riscos (probabilidade x impacto) com mitigação e responsável."
+    obrigatorio: true
+
+  - id: sustentabilidade
+    descricao: "Incluir critérios ambientais (p.ex., Procel A / Energy Star) e descarte adequado."
+    obrigatorio: true
+
+  - id: pesquisa_precos
+    descricao: "Explicar metodologia (mín. 3 fontes/fornecedores ou painéis públicos), datas e médias."
+    obrigatorio: true
+
+  - id: especificacoes_minimas
+    descricao: "Listar requisitos mínimos de hardware (processador, memória, SSD, monitor, SO)."
+    obrigatorio: true
