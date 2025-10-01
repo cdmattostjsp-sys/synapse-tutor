@@ -6,8 +6,8 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Importa o validador ETP
-from validators.etp_validator import score_etp, missing_items
+# Importa o validador ETP (corrigido para o caminho correto)
+from knowledge.validators.etp_validator import score_etp, missing_items
 
 # Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
@@ -60,7 +60,6 @@ def extract_text_from_docx(file):
 def extract_text_from_excel(file):
     try:
         df = pd.read_excel(file)
-        # Transforma em string simplificada
         preview = df.head(20).to_string(index=False)
         return f"Conteúdo da planilha (amostra):\n{preview}"
     except Exception as e:
@@ -146,7 +145,6 @@ if st.button("▶️ Executar Agente"):
             else:
                 st.success("Checklist integralmente atendido ✅")
 
-            # Mostrar tabela de conformidade
             df = pd.DataFrame(results)
             df["ok"] = df["ok"].map({True: "✅", False: "❌"})
             st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
