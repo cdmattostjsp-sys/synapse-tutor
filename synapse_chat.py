@@ -6,8 +6,9 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Importa o validador ETP (corrigido para o caminho correto)
+# Importa validadores
 from knowledge.validators.etp_validator import score_etp, missing_items
+from knowledge.validators.semantic_validator import semantic_validate_etp
 
 # Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
@@ -118,6 +119,10 @@ agent_list = [
 ]
 agent_name = st.selectbox("Escolha o agente:", agent_list)
 
+# Opção de validação semântica
+st.caption("⚙️ Validações")
+run_semantic = st.checkbox("Rodar validação semântica (IA) — análise de qualidade do conteúdo", value=True)
+
 # Botão executar
 if st.button("▶️ Executar Agente"):
     if not insumos_finais.strip():
@@ -130,16 +135,16 @@ if st.button("▶️ Executar Agente"):
 
         if agent_name == "CHECKLIST":
             st.markdown(result)
+
         elif agent_name == "ETP":
-            # Validação do ETP
+            # Validação RÍGIDA
             score, results = score_etp(result)
             faltando = missing_items(results)
 
-            st.subheader("🔎 Conformidade – ETP (Lei 14.133/21 e normas correlatas)")
-            st.metric("Selo de Conformidade", f"{score}%")
-
+            st.subheader("🔎 Conformidade – ETP (Checklist RÍGIDO)")
+            st.metric("Selo de Conformidade (rígido)", f"{score}%")
             if faltando:
-                st.warning("Itens ausentes ou incompletos:")
+                st.warning("Itens ausentes ou incompletos (rígido):")
                 for it in faltando:
                     st.write(f"• {it}")
             else:
@@ -149,7 +154,27 @@ if st.button("▶️ Executar Agente"):
             df["ok"] = df["ok"].map({True: "✅", False: "❌"})
             st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
 
+            # Validação SEMÂNTICA
+            if run_semantic:
+                with st.spinner("Executando validação semântica (IA)..."):
+                    sem_score, sem_results = semantic_validate_etp(result, client)
+
+                st.subheader("🧠 Conformidade Semântica — Adequação de Conteúdo (IA)")
+                st.metric("Selo Semântico", f"{sem_score}%")
+
+                df2 = pd.DataFrame(sem_results)
+                df2["presente"] = df2["presente"].map({True: "✅", False: "❌"})
+                st.dataframe(df2[["id", "descricao", "presente", "adequacao_nota", "justificativa"]], use_container_width=True)
+
+                pend = [r for r in sem_results if r.get("faltantes")]
+                if pend:
+                    st.info("Pontos que ainda faltam detalhar (semântico):")
+                    for r in pend:
+                        falt = "; ".join(r["faltantes"][:5])
+                        st.write(f"• **{r['id']}**: {falt}")
+
             st.divider()
             st.text_area("Documento Gerado:", value=result, height=600)
+
         else:
             st.text_area("Documento Gerado:", value=result, height=600)
