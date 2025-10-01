@@ -6,11 +6,15 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Importa validadores
-from knowledge.validators.etp_validator import score_etp, missing_items
+# Imports dos validadores
+from knowledge.validators.etp_validator import score_etp, missing_items as missing_items_etp
 from knowledge.validators.semantic_validator import semantic_validate_etp
+from knowledge.validators.tr_validator import score_tr, missing_items as missing_items_tr
+from knowledge.validators.tr_semantic_validator import semantic_validate_tr
 
-# Inicializa o cliente OpenAI
+# ========================================
+# Inicialização do cliente OpenAI
+# ========================================
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 if not api_key:
     st.error("❌ Chave da OpenAI não encontrada. Configure em Settings > Secrets.")
@@ -18,7 +22,9 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Função para carregar os prompts de cada agente
+# ========================================
+# Função para carregar os prompts
+# ========================================
 def load_prompt(agent_name):
     try:
         with open(f"prompts/{agent_name}.json", "r", encoding="utf-8") as f:
@@ -27,7 +33,9 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# Função que envia mensagem ao modelo
+# ========================================
+# Função para rodar um agente
+# ========================================
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -43,7 +51,9 @@ def run_agent(agent_name, insumos):
     )
     return response.choices[0].message.content
 
+# ========================================
 # Funções auxiliares para leitura de arquivos
+# ========================================
 def extract_text_from_pdf(file):
     try:
         reader = PyPDF2.PdfReader(file)
@@ -74,7 +84,9 @@ def extract_text_from_csv(file):
     except Exception as e:
         return f"⚠️ Erro ao processar CSV: {e}"
 
+# ========================================
 # Configuração da página
+# ========================================
 st.set_page_config(page_title="Synapse.IA - Orquestrador", layout="wide")
 st.title("🧠 Synapse.IA – Prova de Conceito (POC)")
 
@@ -119,9 +131,9 @@ agent_list = [
 ]
 agent_name = st.selectbox("Escolha o agente:", agent_list)
 
-# Opção de validação semântica
-st.caption("⚙️ Validações")
-run_semantic = st.checkbox("Rodar validação semântica (IA) — análise de qualidade do conteúdo", value=True)
+# Opção de rodar validação semântica
+st.subheader("✔️ Validações")
+run_semantic = st.checkbox("Rodar validação semântica (IA) — análise de qualidade do conteúdo")
 
 # Botão executar
 if st.button("▶️ Executar Agente"):
@@ -133,13 +145,12 @@ if st.button("▶️ Executar Agente"):
 
         st.subheader("📄 Saída do Agente")
 
-        if agent_name == "CHECKLIST":
-            st.markdown(result)
-
-        elif agent_name == "ETP":
-            # Validação RÍGIDA
+        # ===============================
+        # Fluxo para ETP
+        # ===============================
+        if agent_name == "ETP":
             score, results = score_etp(result)
-            faltando = missing_items(results)
+            faltando = missing_items_etp(results)
 
             st.subheader("🔎 Conformidade – ETP (Checklist RÍGIDO)")
             st.metric("Selo de Conformidade (rígido)", f"{score}%")
@@ -154,12 +165,11 @@ if st.button("▶️ Executar Agente"):
             df["ok"] = df["ok"].map({True: "✅", False: "❌"})
             st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
 
-            # Validação SEMÂNTICA
             if run_semantic:
                 with st.spinner("Executando validação semântica (IA)..."):
                     sem_score, sem_results = semantic_validate_etp(result, client)
 
-                st.subheader("🧠 Conformidade Semântica — Adequação de Conteúdo (IA)")
+                st.subheader("🧠 Conformidade Semântica — ETP (IA)")
                 st.metric("Selo Semântico", f"{sem_score}%")
 
                 df2 = pd.DataFrame(sem_results)
@@ -176,5 +186,49 @@ if st.button("▶️ Executar Agente"):
             st.divider()
             st.text_area("Documento Gerado:", value=result, height=600)
 
+        # ===============================
+        # Fluxo para TR
+        # ===============================
+        elif agent_name == "TR":
+            score, results = score_tr(result)
+            faltando = missing_items_tr(results)
+
+            st.subheader("🔎 Conformidade – TR (Checklist RÍGIDO)")
+            st.metric("Selo de Conformidade (rígido)", f"{score}%")
+            if faltando:
+                st.warning("Itens ausentes ou incompletos (rígido):")
+                for it in faltando:
+                    st.write(f"• {it}")
+            else:
+                st.success("Checklist integralmente atendido ✅")
+
+            df = pd.DataFrame(results)
+            df["ok"] = df["ok"].map({True: "✅", False: "❌"})
+            st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
+
+            if run_semantic:
+                with st.spinner("Executando validação semântica (IA)..."):
+                    sem_score, sem_results = semantic_validate_tr(result, client)
+
+                st.subheader("🧠 Conformidade Semântica — TR (IA)")
+                st.metric("Selo Semântico", f"{sem_score}%")
+
+                df2 = pd.DataFrame(sem_results)
+                df2["presente"] = df2["presente"].map({True: "✅", False: "❌"})
+                st.dataframe(df2[["id", "descricao", "presente", "adequacao_nota", "justificativa"]], use_container_width=True)
+
+                pend = [r for r in sem_results if r.get("faltantes")]
+                if pend:
+                    st.info("Pontos que ainda faltam detalhar (semântico):")
+                    for r in pend:
+                        falt = "; ".join(r["faltantes"][:5])
+                        st.write(f"• **{r['id']}**: {falt}")
+
+            st.divider()
+            st.text_area("Documento Gerado:", value=result, height=600)
+
+        # ===============================
+        # Demais agentes (saída simples)
+        # ===============================
         else:
             st.text_area("Documento Gerado:", value=result, height=600)
