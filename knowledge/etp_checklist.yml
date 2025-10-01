@@ -1,26 +1,42 @@
 artefato: ETP
 versao: "2025-10-01"
 itens:
-  - id: base_legal
-    descricao: "Citar Lei 14.133/2021, Decreto Estadual 67.381/2022 e Provimento CSM 2724/2023 na introdução."
+  - id: referencia_normativa
+    descricao: "Citar expressamente a Lei 14.133/2021, o Decreto Estadual 67.381/2022 e o Provimento CSM 2724/2023."
+    obrigatorio: true
+
+  - id: justificativa
+    descricao: "Justificar a contratação, alinhada ao PCA/PEI, às necessidades institucionais e aos serviços críticos."
     obrigatorio: true
 
   - id: alternativas
-    descricao: "Comparar manutenção, locação e aquisição com justificativas."
+    descricao: "Apresentar estudo de alternativas possíveis (manutenção, locação, aquisição), com análise comparativa."
     obrigatorio: true
 
-  - id: riscos_matriz
-    descricao: "Apresentar matriz de riscos (probabilidade x impacto) com mitigação e responsável."
+  - id: especificacoes
+    descricao: "Incluir especificações técnicas ou requisitos mínimos dos bens/serviços pretendidos."
+    obrigatorio: true
+
+  - id: estimativa_custos
+    descricao: "Apresentar estimativa de custos, detalhando metodologia, fontes utilizadas, número de fornecedores e datas."
     obrigatorio: true
 
   - id: sustentabilidade
-    descricao: "Incluir critérios ambientais (p.ex., Procel A / Energy Star) e descarte adequado."
+    descricao: "Incluir critérios de sustentabilidade e eficiência energética (Procel A / Energy Star)."
+    obrigatorio: false
+
+  - id: riscos_matriz
+    descricao: "Apresentar matriz de riscos (probabilidade x impacto), com responsáveis e mitigação."
     obrigatorio: true
 
-  - id: pesquisa_precos
-    descricao: "Explicar metodologia (mín. 3 fontes/fornecedores ou painéis públicos), datas e médias."
+  - id: beneficios
+    descricao: "Elencar benefícios esperados: eficiência operacional, redução de falhas, apoio à inovação."
     obrigatorio: true
 
-  - id: especificacoes_minimas
-    descricao: "Listar requisitos mínimos de hardware (processador, memória, SSD, monitor, SO)."
+  - id: avaliacao
+    descricao: "Definir critérios de medição e avaliação (prazo, qualidade técnica, satisfação do usuário)."
+    obrigatorio: true
+
+  - id: conclusao
+    descricao: "Conclusão e recomendação, indicando a alternativa escolhida e sua adequação técnica/econômica."
     obrigatorio: true
