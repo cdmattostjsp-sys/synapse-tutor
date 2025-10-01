@@ -6,9 +6,14 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Imports dos validadores
-from knowledge.validators.etp_validator import score_etp, missing_items as missing_items_etp
-from knowledge.validators.semantic_validator import semantic_validate_etp
+# --- Engine unificado (ETP) ---
+from knowledge.validators.validator_engine import (
+    rigid_validate as engine_rigid_validate,
+    semantic_validate as engine_semantic_validate,
+    missing_items_rigid as engine_missing_rigid,
+)
+
+# --- Validadores TR (mantidos como estão, ainda fora do engine) ---
 from knowledge.validators.tr_validator import score_tr, missing_items as missing_items_tr
 from knowledge.validators.tr_semantic_validator import semantic_validate_tr
 
@@ -146,13 +151,14 @@ if st.button("▶️ Executar Agente"):
         st.subheader("📄 Saída do Agente")
 
         # ===============================
-        # Fluxo para ETP
+        # Fluxo para ETP (usando ENGINE)
         # ===============================
         if agent_name == "ETP":
-            score, results = score_etp(result)
-            faltando = missing_items_etp(results)
+            # RÍGIDO (engine)
+            score, results = engine_rigid_validate(result, "ETP")
+            faltando = engine_missing_rigid(results)
 
-            st.subheader("🔎 Conformidade – ETP (Checklist RÍGIDO)")
+            st.subheader("🔎 Conformidade – ETP (Checklist RÍGIDO / Engine)")
             st.metric("Selo de Conformidade (rígido)", f"{score}%")
             if faltando:
                 st.warning("Itens ausentes ou incompletos (rígido):")
@@ -165,11 +171,12 @@ if st.button("▶️ Executar Agente"):
             df["ok"] = df["ok"].map({True: "✅", False: "❌"})
             st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
 
+            # SEMÂNTICO (engine)
             if run_semantic:
                 with st.spinner("Executando validação semântica (IA)..."):
-                    sem_score, sem_results = semantic_validate_etp(result, client)
+                    sem_score, sem_results = engine_semantic_validate(result, "ETP", client)
 
-                st.subheader("🧠 Conformidade Semântica — ETP (IA)")
+                st.subheader("🧠 Conformidade Semântica — ETP (IA / Engine)")
                 st.metric("Selo Semântico", f"{sem_score}%")
 
                 df2 = pd.DataFrame(sem_results)
@@ -187,7 +194,7 @@ if st.button("▶️ Executar Agente"):
             st.text_area("Documento Gerado:", value=result, height=600)
 
         # ===============================
-        # Fluxo para TR
+        # Fluxo para TR (mantido como estava, fora do engine)
         # ===============================
         elif agent_name == "TR":
             score, results = score_tr(result)
