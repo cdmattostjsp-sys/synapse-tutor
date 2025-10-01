@@ -54,7 +54,8 @@ def load_checklist(agent: str) -> List[Dict]:
     if not path or not path.exists():
         return []
     with open(path, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        return yaml.safe_load(f).get("itens", [])
+
 
 def engine_rigid_validate(text: str, agent: str) -> Tuple[float, List[Dict]]:
     """Validação rígida por regex"""
@@ -72,8 +73,10 @@ def engine_rigid_validate(text: str, agent: str) -> Tuple[float, List[Dict]]:
     score = round((acertos / total) * 100, 1) if total > 0 else 0.0
     return score, results
 
+
 def engine_missing_rigid(results: List[Dict]) -> List[str]:
     return [r["descricao"] for r in results if not r["ok"]]
+
 
 def engine_semantic_validate(text: str, agent: str, client: OpenAI) -> Tuple[float, List[Dict]]:
     """Validação semântica via LLM"""
@@ -91,13 +94,18 @@ Documento:
 Checklist:
 {yaml.dump(checklist, allow_unicode=True)}
 
-Para cada item, responda em JSON com:
-- id: identificador do item
-- descricao: descrição resumida
-- presente: true/false se o item aparece
-- adequacao_nota: 0 a 100 sobre a qualidade do detalhamento
-- justificativa: breve explicação
-- faltantes: lista de pontos que faltam detalhar
+Responda SOMENTE em JSON, no formato de uma lista de objetos assim:
+[
+  {{
+    "id": "base_legal",
+    "descricao": "Referência normativa citada",
+    "presente": true,
+    "adequacao_nota": 80,
+    "justificativa": "A lei foi mencionada, mas sem detalhamento",
+    "faltantes": ["citar decreto", "citar provimento CSM"]
+  }},
+  ...
+]
 """
 
     response = client.chat.completions.create(
@@ -110,8 +118,15 @@ Para cada item, responda em JSON com:
         max_tokens=1800
     )
 
+    content = response.choices[0].message.content.strip()
+
+    # Remove blocos de markdown, se existirem
+    if content.startswith("```"):
+        content = content.strip("`")
+        content = content.replace("json", "").strip()
+
     try:
-        parsed = yaml.safe_load(response.choices[0].message.content)
+        parsed = yaml.safe_load(content)
         if not isinstance(parsed, list):
             return 0.0, []
     except Exception:
