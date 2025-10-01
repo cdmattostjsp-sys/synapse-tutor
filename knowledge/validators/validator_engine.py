@@ -1,172 +1,122 @@
-# knowledge/validators/validator_engine.py
-from __future__ import annotations
+import re
+import yaml
 from pathlib import Path
 from typing import Dict, List, Tuple
-import re, json, yaml
+from openai import OpenAI
 
-# --- Cadastro de checklists por tipo de documento (começando com ETP) ---
+# --- CHECKLISTS DISPONÍVEIS ---
 CHECKLIST_FILES: Dict[str, Path] = {
     "ETP": Path("knowledge/etp_checklist.yml"),
-    # "TR": Path("knowledge/tr_checklist.yml"),  # adicionaremos ao migrar o TR
+    "TR": Path("knowledge/tr_checklist.yml"),
 }
 
-# --- Padrões rígidos por tipo (regex) — iniciando com ETP (mesmo do validador atual) ---
+# --- PADRÕES RÍGIDOS ---
 RIGID_PATTERNS: Dict[str, Dict[str, List[str]]] = {
     "ETP": {
+        "referencia_normativa": [
+            r"Lei\s*14\.?133/?\s*2021",
+            r"Decreto\s*67\.?381/?\s*2022",
+            r"(Provimento|Prov\.)\s*CSM\s*2724/?\s*2023",
+        ],
+        "alternativas": [r"alternativa[s]? poss[ií]veis", r"op[cç][oõ]es analisad"],
+        "riscos_matriz": [r"matriz.*risc", r"probabil", r"impacto", r"mitiga"],
+        "pesquisa_precos": [r"pesquisa de pre[cç]os", r"pain[eé]is? de pre[cç]os", r"contratos? similares"],
+        "especificacoes": [r"especifica[cç][oõ]es t[eé]cnicas", r"requisitos m[ií]nimos"],
+        "sustentabilidade": [r"sustentabilidade", r"efici[eê]ncia energ[eé]tica", r"Procel|Energy\s*Star"],
+    },
+    "TR": {
         "base_legal": [
             r"Lei\s*14\.?133/?\s*2021",
             r"Decreto\s*67\.?381/?\s*2022",
             r"(Provimento|Prov\.)\s*CSM\s*2724/?\s*2023",
         ],
-        "alternativas": [
-            r"alternativa",
-            r"manuten",
-            r"locaç",
-            r"aquisiç",
-        ],
-        "riscos_matriz": [
-            r"matriz.*risc",
-            r"probabil",
-            r"impacto",
-            r"mitiga",
-        ],
-        "sustentabilidade": [
-            r"sustentabil",
-            r"Procel",
-            r"Energy\s*Star",
-            r"descarte",
-        ],
-        "pesquisa_precos": [
-            r"pesquisa de preços|metodologi",
-            r"fornecedor|fontes|painel",
-            r"m[eé]dia|mediana|amostra",
-        ],
-        "especificacoes_minimas": [
-            r"processador",
-            r"mem[oó]ria",
-            r"SSD",
-            r"monitor",
-            r"sistema operacional|Windows|Linux",
-        ],
-    }
+        "objeto": [r"\bobje(to|to da contrata)"],
+        "justificativa": [r"justificativa|motivação"],
+        "escopo_entregas": [r"escopo|entreg[áa]veis|quantidad"],
+        "requisitos_tecnicos": [r"requisitos t[eé]cnicos|especifica(ç|c)[oõ]es|caracter[íi]sticas t[eé]cnicas"],
+        "niveis_servico_sla": [r"SLA|n[ií]veis? de servi[çc]o|tempo de resposta|tempo de solu"],
+        "criterios_julgamento": [r"crit[eé]rios de julgament|menor pre[cç]o|t[eé]cnica e pre[cç]o|melhor t[eé]cnica"],
+        "estimativa_custos": [r"estimativa de custos|planilha|pesquisa de pre[cç]os|metodologi"],
+        "prazos_execucao": [r"prazo|cronograma|entrega|execu[çc][aã]o"],
+        "obrigacoes_partes": [r"obriga[cç][oõ]es|responsabil|deveres da contratada|obriga[cç][aã]o da administra[cç][aã]o"],
+        "sustentabilidade": [r"sustentabil|Procel|Energy\s*Star|log[íi]stica reversa|descarte"],
+        "riscos_matriz": [r"matriz.*risc|probabil|impacto|mitiga"],
+        "fiscalizacao": [r"fiscaliza[cç][aã]o|acompanhamento|gestor do contrato|fiscal do contrato|aceite"],
+        "garantias_penalidades": [r"garantia|penalidade|multa|glosa"],
+        "vigencia_reajuste": [r"vig[eê]ncia|reajuste|repactua[cç][aã]o"],
+    },
 }
 
-# ---------------------- utilidades ----------------------
-def _load_checklist(doc_type: str) -> List[Dict]:
-    if doc_type not in CHECKLIST_FILES:
-        raise ValueError(f"Checklist não configurado para doc_type={doc_type}.")
-    data = yaml.safe_load(CHECKLIST_FILES[doc_type].read_text(encoding="utf-8"))
-    return data.get("itens", [])
+# --- FUNÇÕES DE SUPORTE ---
 
-def _present(text: str, patterns: List[str]) -> bool:
-    return all(re.search(p, text, flags=re.I | re.S) for p in patterns)
+def load_checklist(agent: str) -> List[Dict]:
+    path = CHECKLIST_FILES.get(agent)
+    if not path or not path.exists():
+        return []
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
 
-def _truncate(text: str, max_chars: int = 12000) -> str:
-    if len(text) <= max_chars:
-        return text
-    head = text[: max_chars // 2]
-    tail = text[-max_chars // 2 :]
-    return head + "\n\n[[...texto truncado...]]\n\n" + tail
-
-def _extract_json(s: str) -> dict:
-    m = re.search(r"```json\s*(\{.*?\})\s*```", s, flags=re.S | re.I)
-    if m:
-        return json.loads(m.group(1))
-    m2 = re.search(r"(\{.*\})", s, flags=re.S)
-    if m2:
-        try:
-            return json.loads(m2.group(1))
-        except Exception:
-            pass
-    m3 = re.search(r"(\[.*\])", s, flags=re.S)
-    if m3:
-        return {"itens": json.loads(m3.group(1))}
-    raise ValueError("Não foi possível extrair JSON da resposta do modelo.")
-
-# ---------------------- validação rígida genérica ----------------------
-def rigid_validate(doc_text: str, doc_type: str) -> Tuple[float, List[Dict]]:
-    itens = _load_checklist(doc_type)
-    patterns = RIGID_PATTERNS.get(doc_type, {})
+def engine_rigid_validate(text: str, agent: str) -> Tuple[float, List[Dict]]:
+    """Validação rígida por regex"""
+    patterns = RIGID_PATTERNS.get(agent, {})
     results = []
-    obrigatorios = [i for i in itens if i.get("obrigatorio", True)]
-    hits = 0
+    total = len(patterns)
+    acertos = 0
 
-    for item in itens:
-        pid = item["id"]
-        pats = patterns.get(pid, [])
-        ok = _present(doc_text, pats) if pats else False
-        if item.get("obrigatorio", True) and ok:
-            hits += 1
-        results.append({
-            "id": pid,
-            "descricao": item["descricao"],
-            "ok": ok,
-            "obrigatorio": item.get("obrigatorio", True)
-        })
+    for item, regex_list in patterns.items():
+        found = any(re.search(rgx, text, flags=re.IGNORECASE) for rgx in regex_list)
+        results.append({"id": item, "ok": found, "descricao": item})
+        if found:
+            acertos += 1
 
-    score = round((hits / len(obrigatorios)) * 100, 1) if obrigatorios else 0.0
+    score = round((acertos / total) * 100, 1) if total > 0 else 0.0
     return score, results
 
-def missing_items_rigid(results: List[Dict]) -> List[str]:
-    return [f"{r['id']} – {r['descricao']}" for r in results if r.get("obrigatorio", True) and not r["ok"]]
+def engine_missing_rigid(results: List[Dict]) -> List[str]:
+    return [r["descricao"] for r in results if not r["ok"]]
 
-# ---------------------- validação semântica genérica ----------------------
-def semantic_validate(doc_text: str, doc_type: str, client) -> Tuple[float, List[Dict]]:
-    itens = _load_checklist(doc_type)
-    if not itens:
+def engine_semantic_validate(text: str, agent: str, client: OpenAI) -> Tuple[float, List[Dict]]:
+    """Validação semântica via LLM"""
+    checklist = load_checklist(agent)
+    if not checklist:
         return 0.0, []
 
-    checklist = [
-        {"id": it["id"], "descricao": it["descricao"], "obrigatorio": bool(it.get("obrigatorio", True))}
-        for it in itens
-    ]
+    prompt = f"""
+Você é um avaliador de conformidade de documentos de licitação.
+Analise o seguinte documento do tipo {agent} e verifique cada item do checklist abaixo.
 
-    doc_trim = _truncate(doc_text, 12000)
+Documento:
+{text}
 
-    system_msg = (
-        "Você é um auditor técnico-jurídico da Lei 14.133/2021. "
-        "Avalie SEMANTICAMENTE se o DOCUMENTO atende cada item do CHECKLIST. "
-        "Considere sinônimos/redações equivalentes. "
-        "Se presente porém incompleto, use presente=true e adequacao_nota<100, explicando. "
-        "Responda SOMENTE JSON no formato:\n"
-        "{'itens':[{'id':'<id>', 'presente':bool, 'adequacao_nota':0-100, 'justificativa':'...','faltantes':['...']}]}"
-    )
+Checklist:
+{yaml.dump(checklist, allow_unicode=True)}
 
-    user_msg = "DOC_TYPE: " + doc_type + "\nCHECKLIST:\n" + json.dumps(checklist, ensure_ascii=False) + "\n\nDOCUMENTO:\n" + doc_trim
+Para cada item, responda em JSON com:
+- id: identificador do item
+- descricao: descrição resumida
+- presente: true/false se o item aparece
+- adequacao_nota: 0 a 100 sobre a qualidade do detalhamento
+- justificativa: breve explicação
+- faltantes: lista de pontos que faltam detalhar
+"""
 
-    resp = client.chat.completions.create(
+    response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": system_msg},
-            {"role": "user", "content": user_msg},
+            {"role": "system", "content": "Você é um avaliador técnico especialista em licitações."},
+            {"role": "user", "content": prompt}
         ],
-        temperature=0.0,
-        max_tokens=1500,
+        temperature=0.2,
+        max_tokens=1800
     )
 
-    data = _extract_json(resp.choices[0].message.content)
+    try:
+        parsed = yaml.safe_load(response.choices[0].message.content)
+        if not isinstance(parsed, list):
+            return 0.0, []
+    except Exception:
+        return 0.0, []
 
-    obrigatorios = [i for i in checklist if i["obrigatorio"]]
-    notas = []
-    results: List[Dict] = []
-
-    for it in checklist:
-        found = next((x for x in data.get("itens", []) if x.get("id") == it["id"]), None)
-        if not found:
-            found = {"presente": False, "adequacao_nota": 0, "justificativa": "Não avaliado.", "faltantes": []}
-
-        nota = max(0, min(100, int(found.get("adequacao_nota", 0))))
-        if it["obrigatorio"]:
-            notas.append(nota)
-
-        results.append({
-            "id": it["id"],
-            "descricao": it["descricao"],
-            "presente": bool(found.get("presente", False)),
-            "adequacao_nota": nota,
-            "justificativa": found.get("justificativa", ""),
-            "faltantes": found.get("faltantes", []),
-        })
-
-    score = round(sum(notas) / len(obrigatorios), 1) if obrigatorios else 0.0
-    return score, results
+    notas = [p.get("adequacao_nota", 0) for p in parsed]
+    score = round(sum(notas) / len(notas), 1) if notas else 0.0
+    return score, parsed
