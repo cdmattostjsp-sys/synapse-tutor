@@ -6,6 +6,9 @@ import PyPDF2
 import docx
 import pandas as pd
 
+# Importa o validador ETP
+from validators.etp_validator import score_etp, missing_items
+
 # Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 if not api_key:
@@ -125,7 +128,30 @@ if st.button("▶️ Executar Agente"):
             result = run_agent(agent_name, insumos_finais)
 
         st.subheader("📄 Saída do Agente")
+
         if agent_name == "CHECKLIST":
             st.markdown(result)
+        elif agent_name == "ETP":
+            # Validação do ETP
+            score, results = score_etp(result)
+            faltando = missing_items(results)
+
+            st.subheader("🔎 Conformidade – ETP (Lei 14.133/21 e normas correlatas)")
+            st.metric("Selo de Conformidade", f"{score}%")
+
+            if faltando:
+                st.warning("Itens ausentes ou incompletos:")
+                for it in faltando:
+                    st.write(f"• {it}")
+            else:
+                st.success("Checklist integralmente atendido ✅")
+
+            # Mostrar tabela de conformidade
+            df = pd.DataFrame(results)
+            df["ok"] = df["ok"].map({True: "✅", False: "❌"})
+            st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
+
+            st.divider()
+            st.text_area("Documento Gerado:", value=result, height=600)
         else:
             st.text_area("Documento Gerado:", value=result, height=600)
