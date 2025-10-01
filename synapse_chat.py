@@ -6,20 +6,14 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# --- Engine unificado (ETP) ---
+# importa o validador unificado
 from knowledge.validators.validator_engine import (
-    rigid_validate as engine_rigid_validate,
-    semantic_validate as engine_semantic_validate,
-    missing_items_rigid as engine_missing_rigid,
+    engine_rigid_validate,
+    engine_missing_rigid,
+    engine_semantic_validate,
 )
 
-# --- Validadores TR (mantidos como estão, ainda fora do engine) ---
-from knowledge.validators.tr_validator import score_tr, missing_items as missing_items_tr
-from knowledge.validators.tr_semantic_validator import semantic_validate_tr
-
-# ========================================
-# Inicialização do cliente OpenAI
-# ========================================
+# Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 if not api_key:
     st.error("❌ Chave da OpenAI não encontrada. Configure em Settings > Secrets.")
@@ -27,9 +21,7 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# ========================================
-# Função para carregar os prompts
-# ========================================
+# Função para carregar os prompts de cada agente
 def load_prompt(agent_name):
     try:
         with open(f"prompts/{agent_name}.json", "r", encoding="utf-8") as f:
@@ -38,9 +30,7 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# ========================================
-# Função para rodar um agente
-# ========================================
+# Função que envia mensagem ao modelo
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -56,9 +46,7 @@ def run_agent(agent_name, insumos):
     )
     return response.choices[0].message.content
 
-# ========================================
 # Funções auxiliares para leitura de arquivos
-# ========================================
 def extract_text_from_pdf(file):
     try:
         reader = PyPDF2.PdfReader(file)
@@ -89,9 +77,7 @@ def extract_text_from_csv(file):
     except Exception as e:
         return f"⚠️ Erro ao processar CSV: {e}"
 
-# ========================================
 # Configuração da página
-# ========================================
 st.set_page_config(page_title="Synapse.IA - Orquestrador", layout="wide")
 st.title("🧠 Synapse.IA – Prova de Conceito (POC)")
 
@@ -131,14 +117,13 @@ insumos_finais = insumos + "\n\n" + conteudo_documento
 # Seleção do agente
 st.subheader("🤖 Selecionar Agente")
 agent_list = [
-    "PCA", "DFD", "ETP", "PESQUISA_PRECOS", "TR", "CONTRATO",
+    "PCA", "DFD", "ETP", "TR", "PESQUISA_PRECOS", "CONTRATO",
     "FISCALIZACAO", "CHECKLIST", "PARECER_JURIDICO", "MAPA_RISCOS", "EDITAL"
 ]
 agent_name = st.selectbox("Escolha o agente:", agent_list)
 
-# Opção de rodar validação semântica
-st.subheader("✔️ Validações")
-run_semantic = st.checkbox("Rodar validação semântica (IA) — análise de qualidade do conteúdo")
+# Opção: rodar validação semântica
+run_semantic = st.checkbox("Rodar validação semântica (IA)", value=False)
 
 # Botão executar
 if st.button("▶️ Executar Agente"):
@@ -150,57 +135,11 @@ if st.button("▶️ Executar Agente"):
 
         st.subheader("📄 Saída do Agente")
 
-        # ===============================
-        # Fluxo para ETP (usando ENGINE)
-        # ===============================
-        if agent_name == "ETP":
-            # RÍGIDO (engine)
-            score, results = engine_rigid_validate(result, "ETP")
+        if agent_name in ["ETP", "TR"]:
+            score, results = engine_rigid_validate(result, agent_name)
             faltando = engine_missing_rigid(results)
 
-            st.subheader("🔎 Conformidade – ETP (Checklist RÍGIDO / Engine)")
-            st.metric("Selo de Conformidade (rígido)", f"{score}%")
-            if faltando:
-                st.warning("Itens ausentes ou incompletos (rígido):")
-                for it in faltando:
-                    st.write(f"• {it}")
-            else:
-                st.success("Checklist integralmente atendido ✅")
-
-            df = pd.DataFrame(results)
-            df["ok"] = df["ok"].map({True: "✅", False: "❌"})
-            st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
-
-            # SEMÂNTICO (engine)
-            if run_semantic:
-                with st.spinner("Executando validação semântica (IA)..."):
-                    sem_score, sem_results = engine_semantic_validate(result, "ETP", client)
-
-                st.subheader("🧠 Conformidade Semântica — ETP (IA / Engine)")
-                st.metric("Selo Semântico", f"{sem_score}%")
-
-                df2 = pd.DataFrame(sem_results)
-                df2["presente"] = df2["presente"].map({True: "✅", False: "❌"})
-                st.dataframe(df2[["id", "descricao", "presente", "adequacao_nota", "justificativa"]], use_container_width=True)
-
-                pend = [r for r in sem_results if r.get("faltantes")]
-                if pend:
-                    st.info("Pontos que ainda faltam detalhar (semântico):")
-                    for r in pend:
-                        falt = "; ".join(r["faltantes"][:5])
-                        st.write(f"• **{r['id']}**: {falt}")
-
-            st.divider()
-            st.text_area("Documento Gerado:", value=result, height=600)
-
-        # ===============================
-        # Fluxo para TR (mantido como estava, fora do engine)
-        # ===============================
-        elif agent_name == "TR":
-            score, results = score_tr(result)
-            faltando = missing_items_tr(results)
-
-            st.subheader("🔎 Conformidade – TR (Checklist RÍGIDO)")
+            st.subheader(f"🔎 Conformidade – {agent_name} (Checklist RÍGIDO / Engine)")
             st.metric("Selo de Conformidade (rígido)", f"{score}%")
             if faltando:
                 st.warning("Itens ausentes ou incompletos (rígido):")
@@ -215,9 +154,9 @@ if st.button("▶️ Executar Agente"):
 
             if run_semantic:
                 with st.spinner("Executando validação semântica (IA)..."):
-                    sem_score, sem_results = semantic_validate_tr(result, client)
+                    sem_score, sem_results = engine_semantic_validate(result, agent_name, client)
 
-                st.subheader("🧠 Conformidade Semântica — TR (IA)")
+                st.subheader(f"🧠 Conformidade Semântica — {agent_name} (IA / Engine)")
                 st.metric("Selo Semântico", f"{sem_score}%")
 
                 df2 = pd.DataFrame(sem_results)
@@ -231,11 +170,5 @@ if st.button("▶️ Executar Agente"):
                         falt = "; ".join(r["faltantes"][:5])
                         st.write(f"• **{r['id']}**: {falt}")
 
-            st.divider()
-            st.text_area("Documento Gerado:", value=result, height=600)
-
-        # ===============================
-        # Demais agentes (saída simples)
-        # ===============================
-        else:
-            st.text_area("Documento Gerado:", value=result, height=600)
+        st.divider()
+        st.text_area("Documento Gerado:", value=result, height=600)
