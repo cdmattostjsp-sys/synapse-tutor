@@ -6,7 +6,7 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Importa engine unificado (rígido)
+# Importa engine unificado
 from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 # Inicializa o cliente OpenAI
@@ -26,7 +26,7 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# Função que envia mensagem ao modelo (gera o documento do agente)
+# Função que envia mensagem ao modelo
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -108,15 +108,14 @@ if uploaded_file is not None:
         st.error(conteudo_documento)
 
 # Insumos finais
-insumos_finais = (insumos or "") + ("\n\n" + conteudo_documento if conteudo_documento else "")
+insumos_finais = insumos + "\n\n" + conteudo_documento
 
 # Seleção do agente
 st.subheader("🤖 Selecionar Agente")
-artefatos_opcoes = list(SUPPORTED_ARTEFACTS.keys())  # garante lista de chaves
-agent_name = st.selectbox("Escolha o agente:", artefatos_opcoes)
+agent_name = st.selectbox("Escolha o agente:", SUPPORTED_ARTEFACTS)
 
 # Checkbox para validação semântica
-use_semantic = st.checkbox("🔍 Executar validação semântica (disponível no momento para ETP)")
+use_semantic = st.checkbox("🔍 Executar validação semântica")
 
 # Botão executar
 if st.button("▶️ Executar Agente"):
@@ -125,33 +124,35 @@ if st.button("▶️ Executar Agente"):
     else:
         with st.spinner("Gerando documento..."):
             result = run_agent(agent_name, insumos_finais)
+            validation = validate_document(agent_name, result, use_semantic=use_semantic)
 
+        # --- Avaliação RÍGIDA ---
+        st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
+        st.write(f"**Score Rígido:** {validation.get('rigid_score', 0.0):.1f}%")
+
+        rigid_rows = validation.get("rigid_result", [])
+        if rigid_rows:
+            df_rigido = pd.DataFrame(rigid_rows)
+            df_rigido["obrigatorio"] = df_rigido["obrigatorio"].apply(lambda x: "✅" if x else "⬜")
+            df_rigido["presente"] = df_rigido["presente"].apply(lambda x: "✅" if x else "⬜")
+            st.dataframe(df_rigido, use_container_width=True)
+        else:
+            st.info("Nenhum item identificado no checklist rígido.")
+
+        # --- Avaliação SEMÂNTICA ---
+        if use_semantic:
+            st.subheader("🧠 Avaliação de Conformidade — Semântica (IA)")
+            st.write(f"**Score Semântico:** {validation.get('semantic_score', 0.0):.1f}%")
+
+            sem_rows = validation.get("semantic_result", [])
+            if sem_rows:
+                df_sem = pd.DataFrame(sem_rows)
+                if "presente" in df_sem.columns:
+                    df_sem["presente"] = df_sem["presente"].apply(lambda x: "✅" if x else "⬜")
+                st.dataframe(df_sem, use_container_width=True)
+            else:
+                st.info("Nenhum item identificado na validação semântica.")
+
+        # --- Documento (sempre por último) ---
         st.subheader("📄 Documento Gerado")
         st.text_area("Documento Gerado:", value=result, height=600)
-
-        # -----------------------------
-        # Validação RÍGIDA (engine)
-        # -----------------------------
-        st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
-        st.write(f"**Score Rígido:** {validation['rigid_score']:.1f}%")
-
-        if validation["rigid_result"]:
-            rigid_df = pd.DataFrame(validation["rigid_result"])
-            # Converte os booleanos em checkboxes visuais
-            rigid_df["obrigatorio"] = rigid_df["obrigatorio"].apply(lambda x: "✅" if x else "⬜")
-            rigid_df["presente"] = rigid_df["presente"].apply(lambda x: "✅" if x else "⬜")
-            st.dataframe(rigid_df, use_container_width=True)
-        else:
-            st.info("Nenhum item avaliado no checklist rígido.")
-
-        # -----------------------------
-        # Validação SEMÂNTICA (ETP)
-        # -----------------------------
-        if use_semantic:
-            st.subheader("🤖 Avaliação Semântica")
-            if validation["semantic_result"]:
-                sem_df = pd.DataFrame(validation["semantic_result"])
-                sem_df["presente"] = sem_df["presente"].apply(lambda x: "✅" if x else "⬜")
-                st.dataframe(sem_df, use_container_width=True)
-            else:
-                st.info("Nenhum resultado de avaliação semântica disponível.")
