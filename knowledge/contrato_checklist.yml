@@ -1,0 +1,30 @@
+artefato: CONTRATO
+versao: "2025-10-02"
+itens:
+  - id: conta_vinculada
+    descricao: "Prever obrigatoriamente conta vinculada em banco público para retenção de férias, 1/3, 13º, FGTS e encargos, com movimentação apenas mediante autorização do TJ."
+    obrigatorio: true
+
+  - id: pagamentos_diretos
+    descricao: "Permitir pagamento direto a trabalhadores ou reembolso à contratada mediante comprovação documental."
+    obrigatorio: true
+
+  - id: clausula_rescisoria
+    descricao: "Incluir cláusulas claras de rescisão contratual por descumprimento das obrigações trabalhistas."
+    obrigatorio: true
+
+  - id: garantias
+    descricao: "Prever garantias contratuais e penalidades aplicáveis em caso de descumprimento."
+    obrigatorio: true
+
+  - id: obrigacoes_fiscais
+    descricao: "Delimitar obrigações da contratada e da Administração, incluindo recolhimento e comprovação de encargos trabalhistas."
+    obrigatorio: true
+
+  - id: fiscalizacao
+    descricao: "Definir mecanismos de fiscalização com papel do gestor/fiscal de contrato e exigência de relatórios periódicos."
+    obrigatorio: true
+
+  - id: treinamentos
+    descricao: "Prever a obrigatoriedade de treinamento dos fiscais em conformidade com Res. CNJ nº 651/2025."
+    obrigatorio: false
