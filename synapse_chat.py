@@ -133,33 +133,25 @@ if st.button("▶️ Executar Agente"):
         # Validação RÍGIDA (engine)
         # -----------------------------
         st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
-        try:
-            rigid_score, rigid_results = validate_document(agent_name, result)
-            st.metric("Score Rígido", f"{rigid_score:.1f}%")
-            if rigid_results:
-                df_rigido = pd.DataFrame(rigid_results)
-                st.dataframe(df_rigido, use_container_width=True)
-            else:
-                st.info("Nenhum item identificado no checklist rígido.")
-        except Exception as e:
-            st.error(f"Falha na validação rígida: {e}")
+        st.write(f"**Score Rígido:** {validation['rigid_score']:.1f}%")
+
+        if validation["rigid_result"]:
+            rigid_df = pd.DataFrame(validation["rigid_result"])
+            # Converte os booleanos em checkboxes visuais
+            rigid_df["obrigatorio"] = rigid_df["obrigatorio"].apply(lambda x: "✅" if x else "⬜")
+            rigid_df["presente"] = rigid_df["presente"].apply(lambda x: "✅" if x else "⬜")
+            st.dataframe(rigid_df, use_container_width=True)
+        else:
+            st.info("Nenhum item avaliado no checklist rígido.")
 
         # -----------------------------
         # Validação SEMÂNTICA (ETP)
         # -----------------------------
         if use_semantic:
-            st.subheader("🧠 Avaliação de Conformidade — Semântica (IA)")
-            if agent_name == "ETP":
-                try:
-                    from knowledge.validators.semantic_validator import semantic_validate_etp
-                    sem_score, sem_results = semantic_validate_etp(result, client)
-                    st.metric("Score Semântico", f"{sem_score:.1f}%")
-                    if sem_results:
-                        df_sem = pd.DataFrame(sem_results)
-                        st.dataframe(df_sem, use_container_width=True)
-                    else:
-                        st.info("Nenhum item identificado na validação semântica.")
-                except Exception as e:
-                    st.error(f"Falha na validação semântica: {e}")
+            st.subheader("🤖 Avaliação Semântica")
+            if validation["semantic_result"]:
+                sem_df = pd.DataFrame(validation["semantic_result"])
+                sem_df["presente"] = sem_df["presente"].apply(lambda x: "✅" if x else "⬜")
+                st.dataframe(sem_df, use_container_width=True)
             else:
-                st.info("Validação semântica estará disponível para TR, CONTRATO e OBRAS em breve.")
+                st.info("Nenhum resultado de avaliação semântica disponível.")
