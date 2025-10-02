@@ -133,11 +133,9 @@ if st.button("▶️ Executar Agente"):
         rigid_rows = validation.get("rigid_result", [])
         if rigid_rows:
             df_rigido = pd.DataFrame(rigid_rows)
-            df_rigido["status"] = df_rigido.apply(
-                lambda r: "✅ Presente" if r["presente"] else "❌ Ausente", axis=1
-            )
-            df_rigido["obrigatorio"] = df_rigido["obrigatorio"].apply(lambda x: "✅" if x else "⬜")
-            st.dataframe(df_rigido[["id", "descricao", "obrigatorio", "status"]], use_container_width=True)
+            df_rigido["obrigatório"] = df_rigido["obrigatorio"].apply(lambda x: "✅" if x else "⬜")
+            df_rigido["presente"] = df_rigido["presente"].apply(lambda x: "✅" if x else "❌")
+            st.dataframe(df_rigido[["id", "descricao", "obrigatório", "presente"]], use_container_width=True)
         else:
             st.info("Nenhum item identificado no checklist rígido.")
 
@@ -149,21 +147,16 @@ if st.button("▶️ Executar Agente"):
             sem_rows = validation.get("semantic_result", [])
             if sem_rows:
                 df_sem = pd.DataFrame(sem_rows)
-                df_sem["status"] = df_sem.apply(
-                    lambda r: "✅ Adequado" if r["adequacao_nota"] == 100 else (
-                        "⚠️ Parcial" if r["adequacao_nota"] > 0 else "❌ Ausente"
-                    ),
-                    axis=1
-                )
                 if "presente" in df_sem.columns:
                     df_sem["presente"] = df_sem["presente"].apply(lambda x: "✅" if x else "❌")
-
+                df_sem["status"] = df_sem["adequacao_nota"].apply(
+                    lambda n: "✅ Adequado" if n == 100 else ("⚠️ Parcial" if n > 0 else "❌ Ausente")
+                )
                 st.dataframe(
                     df_sem[["id", "descricao", "presente", "adequacao_nota", "status", "justificativa"]],
                     use_container_width=True
                 )
 
-                # Exibir faltantes
                 faltantes_all = []
                 for r in sem_rows:
                     if r.get("faltantes"):
