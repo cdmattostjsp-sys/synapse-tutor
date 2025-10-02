@@ -1,5 +1,6 @@
 # knowledge/validators/semantic_validator.py
 # Validador semântico para ETP: usa LLM para avaliar "presença" e "adequação" de cada item do checklist.
+
 from __future__ import annotations
 from typing import List, Dict, Tuple
 from pathlib import Path
@@ -7,9 +8,7 @@ import json
 import re
 import yaml
 
-# Observação: usa o mesmo cliente OpenAI que já existe no app.
-# Vamos receber "client" por parâmetro para reaproveitar a instância criada no synapse_chat.py
-
+# Caminho para checklist de ETP
 CHECKLIST_PATH = Path("knowledge/etp_checklist.yml")
 
 def load_checklist_items() -> List[Dict]:
@@ -25,25 +24,34 @@ def _truncate(text: str, max_chars: int = 12000) -> str:
 
 def _extract_json(s: str) -> dict:
     """
-    Tenta extrair JSON mesmo que venha com texto ao redor ou dentro de ```json ...```.
+    Extrai JSON de uma string que pode vir com blocos ```json ou texto extra.
+    Retorna sempre um dict com a chave "itens".
     """
-    # bloco em ```json
-    m = re.search(r"```json\s*(\{.*?\})\s*```", s, flags=re.S | re.I)
+    # Limpa blocos markdown e crases extras
+    s = s.strip().strip("`").replace("```json", "").replace("```", "").strip()
+
+    try:
+        data = json.loads(s)
+        # Se o modelo devolver diretamente {"itens": [...]} → ok
+        if isinstance(data, dict) and "itens" in data:
+            return data
+        # Se devolver lista pura → envelopa
+        if isinstance(data, list):
+            return {"itens": data}
+    except Exception:
+        pass
+
+    # Procurar primeiro objeto JSON válido
+    m = re.search(r"(\{.*\})", s, flags=re.S)
     if m:
         return json.loads(m.group(1))
-    # primeiro objeto JSON isolado
-    m2 = re.search(r"(\{.*\})", s, flags=re.S)
+
+    # Procurar lista JSON
+    m2 = re.search(r"(\[.*\])", s, flags=re.S)
     if m2:
-        try:
-            return json.loads(m2.group(1))
-        except Exception:
-            pass
-    # última tentativa: lista JSON
-    m3 = re.search(r"(\[.*\])", s, flags=re.S)
-    if m3:
-        return {"itens": json.loads(m3.group(1))}
-    # fallback
-    raise ValueError("Não foi possível extrair JSON da resposta do modelo.")
+        return {"itens": json.loads(m2.group(1))}
+
+    raise ValueError("❌ Não foi possível extrair JSON válido da resposta do modelo.")
 
 def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
     """
@@ -92,7 +100,7 @@ def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
         + doc_trim
     )
 
-    # Usa o mesmo modelo já utilizado no app (custo baixo + bom raciocínio)
+    # Usa o mesmo modelo já utilizado no app
     resp = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
@@ -118,8 +126,13 @@ def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
                 rmatch = r
                 break
         if rmatch is None:
-            # item não avaliado → trata como ausente
-            rmatch = {"id": it["id"], "presente": False, "adequacao_nota": 0, "justificativa": "Não avaliado.", "faltantes": []}
+            rmatch = {
+                "id": it["id"],
+                "presente": False,
+                "adequacao_nota": 0,
+                "justificativa": "Não avaliado.",
+                "faltantes": []
+            }
 
         presente = bool(rmatch.get("presente", False))
         nota = max(0, min(100, int(rmatch.get("adequacao_nota", 0))))
