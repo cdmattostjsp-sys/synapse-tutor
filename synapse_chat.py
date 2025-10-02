@@ -7,7 +7,7 @@ import docx
 import pandas as pd
 
 # Importa engine unificado
-from validator_engine import validate_document, SUPPORTED_ARTEFACTS
+from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 # Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
