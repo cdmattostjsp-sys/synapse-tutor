@@ -6,10 +6,10 @@ from typing import List, Dict
 from pathlib import Path
 import yaml
 
-# Importa validadores semânticos
+# Importa validadores semânticos disponíveis
 from knowledge.validators.semantic_validator import semantic_validate_etp
 from knowledge.validators.tr_semantic_validator import semantic_validate_tr
-# (podemos adicionar futuramente semantic_validate_contrato, semantic_validate_obras etc.)
+# (futuramente: contrato_semantic_validator, obras_semantic_validator)
 
 # Mapear artefatos suportados → arquivos checklist
 SUPPORTED_ARTEFACTS = {
@@ -31,8 +31,8 @@ def load_checklist(artefato: str) -> List[Dict]:
 
 def rigid_validate(artefato: str, doc_text: str) -> Dict:
     """
-    Validação RÍGIDA (checagem por palavras-chave simples).
-    Retorna um dicionário com score e resultados item a item.
+    Validação RÍGIDA (checagem simples por palavras-chave).
+    Retorna dict com score e resultados item a item.
     """
     itens = load_checklist(artefato)
     if not itens:
@@ -44,7 +44,7 @@ def rigid_validate(artefato: str, doc_text: str) -> Dict:
     atendidos = 0
 
     for it in itens:
-        termo = it["descricao"].split()[0].lower()  # pega a primeira palavra da descrição como âncora
+        termo = it["descricao"].split()[0].lower()  # pega primeira palavra como âncora
         presente = termo in doc_lower
         if it.get("obrigatorio", True) and presente:
             atendidos += 1
@@ -62,7 +62,7 @@ def rigid_validate(artefato: str, doc_text: str) -> Dict:
 def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, client=None) -> Dict:
     """
     Engine unificado de validação.
-    Sempre retorna dicionário com rígido + opcional semântico.
+    Retorna sempre um dicionário com score rígido e semântico (se solicitado).
     """
     # --- Rígido ---
     rigid = rigid_validate(artefato, doc_text)
@@ -77,8 +77,12 @@ def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, 
                 semantic_score, semantic_result = semantic_validate_etp(doc_text, client)
             elif artefato.upper() == "TR":
                 semantic_score, semantic_result = semantic_validate_tr(doc_text, client)
-            # elif artefato.upper() == "CONTRATO": ...
-            # elif artefato.upper() == "OBRAS": ...
+            elif artefato.upper() == "CONTRATO":
+                # Placeholder: ainda não temos semântico de contrato
+                semantic_result = [{"id": "info", "descricao": "Validação semântica para CONTRATO ainda não implementada."}]
+            elif artefato.upper() == "OBRAS":
+                # Placeholder: ainda não temos semântico de obras
+                semantic_result = [{"id": "info", "descricao": "Validação semântica para OBRAS ainda não implementada."}]
         except Exception as e:
             semantic_result = [{"id": "erro", "descricao": f"Erro na validação semântica: {e}"}]
 
