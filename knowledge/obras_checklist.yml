@@ -1,0 +1,30 @@
+artefato: OBRAS
+versao: "2025-10-02"
+itens:
+  - id: base_legal
+    descricao: "Indicar conformidade com a Res. CNJ nº 652/2025 e legislações correlatas (Lei 14.133/2021, SINAPI/SICRO)."
+    obrigatorio: true
+
+  - id: criterios_priorizacao
+    descricao: "Explicitar critérios técnicos objetivos de priorização (Conjuntos 1 e 2)."
+    obrigatorio: true
+
+  - id: matriz_riscos
+    descricao: "Apresentar matriz de riscos obrigatória, com probabilidade, impacto e mitigação."
+    obrigatorio: true
+
+  - id: orcamento_oficial
+    descricao: "Adotar SINAPI/SICRO como base obrigatória de preços para orçamentos de obras."
+    obrigatorio: true
+
+  - id: uso_bim
+    descricao: "Prever uso de BIM (Building Information Modeling) sempre que aplicável."
+    obrigatorio: true
+
+  - id: clausulas_essenciais
+    descricao: "Incluir cláusulas obrigatórias: mecanismos de resolução de disputas, transparência em paralisações e alterações relevantes."
+    obrigatorio: true
+
+  - id: transparencia_cnj
+    descricao: "Definir procedimento para comunicação imediata ao CNJ em caso de paralisações, atrasos ou alterações relevantes."
+    obrigatorio: true
