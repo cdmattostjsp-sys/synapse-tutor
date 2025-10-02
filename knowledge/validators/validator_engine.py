@@ -9,7 +9,8 @@ import yaml
 # Importa validadores semânticos disponíveis
 from knowledge.validators.semantic_validator import semantic_validate_etp
 from knowledge.validators.tr_semantic_validator import semantic_validate_tr
-# (futuramente: contrato_semantic_validator, obras_semantic_validator)
+from knowledge.validators.contrato_semantic_validator import semantic_validate_contrato
+# (futuramente: obras_semantic_validator)
 
 # Mapear artefatos suportados → arquivos checklist
 SUPPORTED_ARTEFACTS = {
@@ -78,10 +79,8 @@ def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, 
             elif artefato.upper() == "TR":
                 semantic_score, semantic_result = semantic_validate_tr(doc_text, client)
             elif artefato.upper() == "CONTRATO":
-                # Placeholder: ainda não temos semântico de contrato
-                semantic_result = [{"id": "info", "descricao": "Validação semântica para CONTRATO ainda não implementada."}]
+                semantic_score, semantic_result = semantic_validate_contrato(doc_text, client)
             elif artefato.upper() == "OBRAS":
-                # Placeholder: ainda não temos semântico de obras
                 semantic_result = [{"id": "info", "descricao": "Validação semântica para OBRAS ainda não implementada."}]
         except Exception as e:
             semantic_result = [{"id": "erro", "descricao": f"Erro na validação semântica: {e}"}]
