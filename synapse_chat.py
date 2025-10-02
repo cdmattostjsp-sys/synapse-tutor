@@ -132,9 +132,20 @@ if st.button("▶️ Executar Agente"):
         st.text_area("Documento Gerado:", value=result, height=600)
 
         st.subheader("📊 Avaliação de Conformidade")
-        st.write(f"**Score rígido:** {validation['rigid_score']:.1f}%")
-        st.json(validation["rigid_result"])
 
+        # Exibe resultado do rígido como tabela
+        st.write(f"**Score Rígido:** {validation['rigid_score']:.1f}%")
+        if validation["rigid_result"]:
+            df_rigido = pd.DataFrame(validation["rigid_result"])
+            st.dataframe(df_rigido, use_container_width=True)
+        else:
+            st.info("Nenhum item identificado no checklist rígido.")
+
+        # Exibe resultado do semântico (se marcado)
         if use_semantic:
-            st.subheader("🤖 Avaliação Semântica")
-            st.json(validation["semantic_result"])
+            st.write(f"**Score Semântico:** {validation['semantic_score']:.1f}%")
+            if validation["semantic_result"]:
+                df_sem = pd.DataFrame(validation["semantic_result"])
+                st.dataframe(df_sem, use_container_width=True)
+            else:
+                st.info("Nenhum item identificado na validação semântica.")
