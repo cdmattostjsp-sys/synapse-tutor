@@ -1,30 +1,34 @@
 artefato: CONTRATO
 versao: "2025-10-02"
 itens:
+  - id: base_legal
+    descricao: "Citar Lei 14.133/2021, Decreto Estadual 67.381/2022, Provimento CSM 2724/2023 e Resolução CNJ 651/2025."
+    obrigatorio: true
+
+  - id: objeto
+    descricao: "Descrever o objeto da contratação e a finalidade pretendida."
+    obrigatorio: true
+
   - id: conta_vinculada
-    descricao: "Prever obrigatoriamente conta vinculada em banco público para retenção de férias, 1/3, 13º, FGTS e encargos, com movimentação apenas mediante autorização do TJ."
+    descricao: "Prever conta vinculada em banco público para retenção de encargos (férias, 13º, FGTS, multa)."
     obrigatorio: true
 
-  - id: pagamentos_diretos
-    descricao: "Permitir pagamento direto a trabalhadores ou reembolso à contratada mediante comprovação documental."
-    obrigatorio: true
-
-  - id: clausula_rescisoria
-    descricao: "Incluir cláusulas claras de rescisão contratual por descumprimento das obrigações trabalhistas."
-    obrigatorio: true
-
-  - id: garantias
-    descricao: "Prever garantias contratuais e penalidades aplicáveis em caso de descumprimento."
-    obrigatorio: true
-
-  - id: obrigacoes_fiscais
-    descricao: "Delimitar obrigações da contratada e da Administração, incluindo recolhimento e comprovação de encargos trabalhistas."
+  - id: obrigacoes
+    descricao: "Definir obrigações da contratada e da Administração, incluindo comprovação de encargos."
     obrigatorio: true
 
   - id: fiscalizacao
-    descricao: "Definir mecanismos de fiscalização com papel do gestor/fiscal de contrato e exigência de relatórios periódicos."
+    descricao: "Estabelecer mecanismos de fiscalização contratual e responsabilidades do gestor/fiscal."
     obrigatorio: true
 
-  - id: treinamentos
-    descricao: "Prever a obrigatoriedade de treinamento dos fiscais em conformidade com Res. CNJ nº 651/2025."
+  - id: penalidades
+    descricao: "Prever penalidades por descumprimento contratual (multas, rescisão)."
+    obrigatorio: true
+
+  - id: transparencia
+    descricao: "Prever mecanismos de transparência e prestação de contas."
+    obrigatorio: false
+
+  - id: vigencia_reajuste
+    descricao: "Indicar vigência, reajuste e condições de prorrogação/repactuação."
     obrigatorio: false
