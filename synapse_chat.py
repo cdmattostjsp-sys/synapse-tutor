@@ -124,7 +124,7 @@ if st.button("▶️ Executar Agente"):
     else:
         with st.spinner("Gerando documento..."):
             result = run_agent(agent_name, insumos_finais)
-            validation = validate_document(agent_name, result, use_semantic=use_semantic)
+            validation = validate_document(agent_name, result, use_semantic=use_semantic, client=client)
 
         # --- Avaliação RÍGIDA ---
         st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
