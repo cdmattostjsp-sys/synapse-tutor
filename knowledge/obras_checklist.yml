@@ -2,29 +2,37 @@ artefato: OBRAS
 versao: "2025-10-02"
 itens:
   - id: base_legal
-    descricao: "Indicar conformidade com a Res. CNJ nº 652/2025 e legislações correlatas (Lei 14.133/2021, SINAPI/SICRO)."
+    descricao: "Citar Lei 14.133/2021, Resolução CNJ 652/2025 e Resolução TJSP 940/2024 (atualizada)."
     obrigatorio: true
 
-  - id: criterios_priorizacao
-    descricao: "Explicitar critérios técnicos objetivos de priorização (Conjuntos 1 e 2)."
+  - id: objeto
+    descricao: "Descrever claramente a obra ou serviço de engenharia a ser realizado."
+    obrigatorio: true
+
+  - id: fontes_precos
+    descricao: "Utilizar SINAPI ou SICRO como referência oficial de preços."
+    obrigatorio: true
+
+  - id: metodologia_bim
+    descricao: "Prever uso de BIM (Building Information Modeling) no planejamento e execução."
     obrigatorio: true
 
   - id: matriz_riscos
-    descricao: "Apresentar matriz de riscos obrigatória, com probabilidade, impacto e mitigação."
+    descricao: "Apresentar matriz de riscos obrigatória (probabilidade x impacto, mitigação e responsável)."
     obrigatorio: true
 
-  - id: orcamento_oficial
-    descricao: "Adotar SINAPI/SICRO como base obrigatória de preços para orçamentos de obras."
-    obrigatorio: true
-
-  - id: uso_bim
-    descricao: "Prever uso de BIM (Building Information Modeling) sempre que aplicável."
+  - id: criterios_priorizacao
+    descricao: "Atender critérios técnicos de priorização definidos pelo CNJ (Conjuntos 1 e 2)."
     obrigatorio: true
 
   - id: clausulas_essenciais
-    descricao: "Incluir cláusulas obrigatórias: mecanismos de resolução de disputas, transparência em paralisações e alterações relevantes."
+    descricao: "Incluir cláusulas essenciais em contrato (disputas, mediação, mecanismos de resolução)."
     obrigatorio: true
 
-  - id: transparencia_cnj
-    descricao: "Definir procedimento para comunicação imediata ao CNJ em caso de paralisações, atrasos ou alterações relevantes."
+  - id: transparencia
+    descricao: "Prever comunicação ao CNJ em paralisações ou alterações relevantes."
     obrigatorio: true
+
+  - id: sustentabilidade
+    descricao: "Incluir critérios ambientais e de eficiência energética em obras e reformas."
+    obrigatorio: false
