@@ -6,7 +6,7 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# Importa engine unificado
+# Importa engine unificado (rígido)
 from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 # Inicializa o cliente OpenAI
@@ -26,7 +26,7 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# Função que envia mensagem ao modelo
+# Função que envia mensagem ao modelo (gera o documento do agente)
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -108,14 +108,15 @@ if uploaded_file is not None:
         st.error(conteudo_documento)
 
 # Insumos finais
-insumos_finais = insumos + "\n\n" + conteudo_documento
+insumos_finais = (insumos or "") + ("\n\n" + conteudo_documento if conteudo_documento else "")
 
 # Seleção do agente
 st.subheader("🤖 Selecionar Agente")
-agent_name = st.selectbox("Escolha o agente:", SUPPORTED_ARTEFACTS)
+artefatos_opcoes = list(SUPPORTED_ARTEFACTS.keys())  # garante lista de chaves
+agent_name = st.selectbox("Escolha o agente:", artefatos_opcoes)
 
 # Checkbox para validação semântica
-use_semantic = st.checkbox("🔍 Executar validação semântica")
+use_semantic = st.checkbox("🔍 Executar validação semântica (disponível no momento para ETP)")
 
 # Botão executar
 if st.button("▶️ Executar Agente"):
@@ -125,27 +126,40 @@ if st.button("▶️ Executar Agente"):
         with st.spinner("Gerando documento..."):
             result = run_agent(agent_name, insumos_finais)
 
-            # Validação com engine unificado
-            validation = validate_document(agent_name, result, use_semantic=use_semantic)
-
         st.subheader("📄 Documento Gerado")
         st.text_area("Documento Gerado:", value=result, height=600)
 
-        st.subheader("📊 Avaliação de Conformidade")
-
-        # Exibe resultado do rígido como tabela
-        st.write(f"**Score Rígido:** {validation['rigid_score']:.1f}%")
-        if validation["rigid_result"]:
-            df_rigido = pd.DataFrame(validation["rigid_result"])
-            st.dataframe(df_rigido, use_container_width=True)
-        else:
-            st.info("Nenhum item identificado no checklist rígido.")
-
-        # Exibe resultado do semântico (se marcado)
-        if use_semantic:
-            st.write(f"**Score Semântico:** {validation['semantic_score']:.1f}%")
-            if validation["semantic_result"]:
-                df_sem = pd.DataFrame(validation["semantic_result"])
-                st.dataframe(df_sem, use_container_width=True)
+        # -----------------------------
+        # Validação RÍGIDA (engine)
+        # -----------------------------
+        st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
+        try:
+            rigid_score, rigid_results = validate_document(agent_name, result)
+            st.metric("Score Rígido", f"{rigid_score:.1f}%")
+            if rigid_results:
+                df_rigido = pd.DataFrame(rigid_results)
+                st.dataframe(df_rigido, use_container_width=True)
             else:
-                st.info("Nenhum item identificado na validação semântica.")
+                st.info("Nenhum item identificado no checklist rígido.")
+        except Exception as e:
+            st.error(f"Falha na validação rígida: {e}")
+
+        # -----------------------------
+        # Validação SEMÂNTICA (ETP)
+        # -----------------------------
+        if use_semantic:
+            st.subheader("🧠 Avaliação de Conformidade — Semântica (IA)")
+            if agent_name == "ETP":
+                try:
+                    from knowledge.validators.semantic_validator import semantic_validate_etp
+                    sem_score, sem_results = semantic_validate_etp(result, client)
+                    st.metric("Score Semântico", f"{sem_score:.1f}%")
+                    if sem_results:
+                        df_sem = pd.DataFrame(sem_results)
+                        st.dataframe(df_sem, use_container_width=True)
+                    else:
+                        st.info("Nenhum item identificado na validação semântica.")
+                except Exception as e:
+                    st.error(f"Falha na validação semântica: {e}")
+            else:
+                st.info("Validação semântica estará disponível para TR, CONTRATO e OBRAS em breve.")
