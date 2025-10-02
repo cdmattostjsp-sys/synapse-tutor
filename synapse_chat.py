@@ -6,12 +6,8 @@ import PyPDF2
 import docx
 import pandas as pd
 
-# importa o validador unificado
-from knowledge.validators.validator_engine import (
-    engine_rigid_validate,
-    engine_missing_rigid,
-    engine_semantic_validate,
-)
+# Importa engine unificado
+from validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 # Inicializa o cliente OpenAI
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
@@ -91,7 +87,7 @@ insumos = st.text_area(
 # Upload de arquivo
 st.subheader("📂 Upload de Documento (opcional)")
 uploaded_file = st.file_uploader(
-    "Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, pesquisa de preços, minuta etc.)",
+    "Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)",
     type=["pdf", "docx", "xlsx", "csv"]
 )
 
@@ -116,14 +112,10 @@ insumos_finais = insumos + "\n\n" + conteudo_documento
 
 # Seleção do agente
 st.subheader("🤖 Selecionar Agente")
-agent_list = [
-    "PCA", "DFD", "ETP", "TR", "PESQUISA_PRECOS", "CONTRATO",
-    "FISCALIZACAO", "CHECKLIST", "PARECER_JURIDICO", "MAPA_RISCOS", "EDITAL"
-]
-agent_name = st.selectbox("Escolha o agente:", agent_list)
+agent_name = st.selectbox("Escolha o agente:", SUPPORTED_ARTEFACTS)
 
-# Opção: rodar validação semântica
-run_semantic = st.checkbox("Rodar validação semântica (IA)", value=False)
+# Checkbox para validação semântica
+use_semantic = st.checkbox("🔍 Executar validação semântica")
 
 # Botão executar
 if st.button("▶️ Executar Agente"):
@@ -133,42 +125,16 @@ if st.button("▶️ Executar Agente"):
         with st.spinner("Gerando documento..."):
             result = run_agent(agent_name, insumos_finais)
 
-        st.subheader("📄 Saída do Agente")
+            # Validação com engine unificado
+            validation = validate_document(agent_name, result, use_semantic=use_semantic)
 
-        if agent_name in ["ETP", "TR"]:
-            score, results = engine_rigid_validate(result, agent_name)
-            faltando = engine_missing_rigid(results)
-
-            st.subheader(f"🔎 Conformidade – {agent_name} (Checklist RÍGIDO / Engine)")
-            st.metric("Selo de Conformidade (rígido)", f"{score}%")
-            if faltando:
-                st.warning("Itens ausentes ou incompletos (rígido):")
-                for it in faltando:
-                    st.write(f"• {it}")
-            else:
-                st.success("Checklist integralmente atendido ✅")
-
-            df = pd.DataFrame(results)
-            df["ok"] = df["ok"].map({True: "✅", False: "❌"})
-            st.dataframe(df[["id", "descricao", "ok"]], use_container_width=True)
-
-            if run_semantic:
-                with st.spinner("Executando validação semântica (IA)..."):
-                    sem_score, sem_results = engine_semantic_validate(result, agent_name, client)
-
-                st.subheader(f"🧠 Conformidade Semântica — {agent_name} (IA / Engine)")
-                st.metric("Selo Semântico", f"{sem_score}%")
-
-                df2 = pd.DataFrame(sem_results)
-                df2["presente"] = df2["presente"].map({True: "✅", False: "❌"})
-                st.dataframe(df2[["id", "descricao", "presente", "adequacao_nota", "justificativa"]], use_container_width=True)
-
-                pend = [r for r in sem_results if r.get("faltantes")]
-                if pend:
-                    st.info("Pontos que ainda faltam detalhar (semântico):")
-                    for r in pend:
-                        falt = "; ".join(r["faltantes"][:5])
-                        st.write(f"• **{r['id']}**: {falt}")
-
-        st.divider()
+        st.subheader("📄 Documento Gerado")
         st.text_area("Documento Gerado:", value=result, height=600)
+
+        st.subheader("📊 Avaliação de Conformidade")
+        st.write(f"**Score rígido:** {validation['rigid_score']:.1f}%")
+        st.json(validation["rigid_result"])
+
+        if use_semantic:
+            st.subheader("🤖 Avaliação Semântica")
+            st.json(validation["semantic_result"])
