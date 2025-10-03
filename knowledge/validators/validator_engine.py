@@ -1,4 +1,3 @@
-# knowledge/validators/validator_engine.py
 # Engine unificado para rodar validações rígidas (checklist YAML) e opcionais (semântica via LLM)
 
 from __future__ import annotations
@@ -12,12 +11,25 @@ from knowledge.validators.tr_semantic_validator import semantic_validate_tr
 from knowledge.validators.contrato_semantic_validator import semantic_validate_contrato
 from knowledge.validators.obras_semantic_validator import semantic_validate_obras
 
+# ==== PLACEHOLDERS (ainda sem implementação específica) ====
+def semantic_validate_placeholder(doc_text: str, client=None):
+    """Retorno genérico para artefatos ainda sem validador semântico dedicado."""
+    return 0.0, [{"id": "info", "descricao": "Validação semântica não implementada para este artefato."}]
+
 # Mapear artefatos suportados → arquivos checklist
 SUPPORTED_ARTEFACTS = {
     "ETP": "knowledge/etp_checklist.yml",
     "TR": "knowledge/tr_checklist.yml",
     "CONTRATO": "knowledge/contrato_checklist.yml",
+    "CONTRATO_TECNICO": "knowledge/contrato_checklist.yml",  # usa mesmo checklist
     "OBRAS": "knowledge/obras_checklist.yml",
+    "DFD": "knowledge/dfd_checklist.yml",
+    "PCA": "knowledge/pca_checklist.yml",
+    "FISCALIZACAO": "knowledge/fiscalizacao_checklist.yml",
+    "PESQUISA_PRECOS": "knowledge/pesquisa_precos_checklist.yml",
+    "MAPA_RISCOS": "knowledge/mapa_riscos_checklist.yml",
+    "PARECER_JURIDICO": "knowledge/parecer_juridico_checklist.yml",
+    "EDITAL": "knowledge/edital_checklist.yml",
 }
 
 def load_checklist(artefato: str) -> List[Dict]:
@@ -74,14 +86,18 @@ def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, 
     # --- Semântico (opcional) ---
     if use_semantic and client is not None:
         try:
-            if artefato.upper() == "ETP":
+            artefato = artefato.upper()
+            if artefato == "ETP":
                 semantic_score, semantic_result = semantic_validate_etp(doc_text, client)
-            elif artefato.upper() == "TR":
+            elif artefato == "TR":
                 semantic_score, semantic_result = semantic_validate_tr(doc_text, client)
-            elif artefato.upper() == "CONTRATO":
+            elif artefato == "CONTRATO" or artefato == "CONTRATO_TECNICO":
                 semantic_score, semantic_result = semantic_validate_contrato(doc_text, client)
-            elif artefato.upper() == "OBRAS":
+            elif artefato == "OBRAS":
                 semantic_score, semantic_result = semantic_validate_obras(doc_text, client)
+            else:
+                # Para demais, usa placeholder até termos implementação própria
+                semantic_score, semantic_result = semantic_validate_placeholder(doc_text, client)
         except Exception as e:
             semantic_result = [{"id": "erro", "descricao": f"Erro na validação semântica: {e}"}]
 
