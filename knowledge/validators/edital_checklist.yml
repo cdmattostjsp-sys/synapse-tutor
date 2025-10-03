@@ -1,26 +1,16 @@
-artefato: EDITAL
+artefact: EDITAL
 items:
   - id: objeto
-    descricao: Definir objeto da licitação de forma clara e precisa.
+    descricao: Descrever claramente o objeto da licitação, quantidade e características.
     obrigatorio: true
-    padrao: '(?i)(objeto\s+da\s+licita[cç][aã]o|descri[cç][aã]o\s+do\s+objeto)'
-
-  - id: habilitacao
-    descricao: Incluir requisitos de habilitação jurídica, fiscal e técnica.
-    obrigatorio: true
-    padrao: '(?i)(habilita[cç][aã]o\s+j[uú]ridica|habilita[cç][aã]o\s+fiscal|habilita[cç][aã]o\s+t[eé]cnica)'
+    padrao: "(?i)(objeto|finalidade|descrição|características).*(licita|contrata|contratação)"
 
   - id: criterios_julgamento
-    descricao: Indicar critérios objetivos de julgamento das propostas.
+    descricao: Definir critérios de julgamento (menor preço, técnica e preço, etc.).
     obrigatorio: true
-    padrao: '(?i)(crit[eé]rios\s+de\s+julgamento|menor\s+pre[cç]o|t[eé]cnica\s+e\s+pre[cç]o|maior\s+desconto)'
+    padrao: "(?i)(crit[eé]rios?.*(julgamento|avaliação)|menor preço|técnica e preço|maior desconto)"
 
-  - id: matriz_riscos
-    descricao: Apresentar matriz de riscos obrigatória para obras e serviços.
+  - id: prazos
+    descricao: Estabelecer prazos de recebimento de propostas e execução contratual.
     obrigatorio: true
-    padrao: '(?i)(matriz\s+de\s+riscos|probabilidade|impacto|mitiga[cç][aã]o)'
-
-  - id: clausulas_essenciais
-    descricao: Incluir cláusulas essenciais exigidas pela Lei 14.133/2021.
-    obrigatorio: true
-    padrao: '(?i)(cl[aá]usulas\s+essenciais|lei\s+14\.133|obriga[cç][oõ]es\s+do\s+contratado|responsabilidades)'
+    padrao: "(?i)(prazo|data limite|período de execução|entrega das propostas|execução contratual)"
