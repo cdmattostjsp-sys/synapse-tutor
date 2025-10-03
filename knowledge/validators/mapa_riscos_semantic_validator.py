@@ -1,20 +1,33 @@
-import pandas as pd
+# knowledge/validators/mapa_riscos_semantic_validator.py
+from __future__ import annotations
+from typing import List, Dict, Tuple
 
-def validate_semantic(document: str) -> pd.DataFrame:
+def semantic_validate_mapa_riscos(doc_text: str, client=None) -> Tuple[float, List[Dict]]:
+    """
+    Validador semântico para Mapa de Riscos.
+    Retorna (score, results), onde:
+      - score: média das notas de adequação
+      - results: lista com campos: id, descricao, presente, adequacao_nota, justificativa
+    """
     results = [
         {
             "id": "identificacao",
-            "descricao": "Clareza na identificação do processo e responsável",
-            "presente": "mapa" in document.lower() or "processo" in document.lower(),
-            "adequacao_nota": 100,
-            "justificativa": "Placeholder – verificação semântica ainda não detalhada."
+            "descricao": "Mapa contém identificação clara dos riscos e responsáveis",
+            "presente": "risco" in doc_text.lower(),
+            "adequacao_nota": 100 if "risco" in doc_text.lower() else 0,
+            "justificativa": "Placeholder – checagem semântica ainda não detalhada."
         },
         {
-            "id": "riscos",
-            "descricao": "Listagem de riscos e medidas de mitigação",
-            "presente": "risco" in document.lower() or "mitigação" in document.lower(),
-            "adequacao_nota": 100,
-            "justificativa": "Placeholder – verificação semântica ainda não detalhada."
+            "id": "tratamento",
+            "descricao": "Indicação de medidas de mitigação ou tratamento",
+            "presente": "mitigação" in doc_text.lower() or "tratamento" in doc_text.lower(),
+            "adequacao_nota": 100 if ("mitigação" in doc_text.lower() or "tratamento" in doc_text.lower()) else 0,
+            "justificativa": "Placeholder – checagem semântica ainda não detalhada."
         }
     ]
-    return pd.DataFrame(results)
+
+    # cálculo do score médio
+    notas = [r["adequacao_nota"] for r in results]
+    score = round(sum(notas) / len(notas), 1) if notas else 0.0
+
+    return score, results
