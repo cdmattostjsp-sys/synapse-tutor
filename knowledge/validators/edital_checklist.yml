@@ -1,0 +1,26 @@
+artefato: EDITAL
+items:
+  - id: objeto
+    descricao: Definir objeto da licitação de forma clara e precisa.
+    obrigatorio: true
+    padrao: '(?i)(objeto\s+da\s+licita[cç][aã]o|descri[cç][aã]o\s+do\s+objeto)'
+
+  - id: habilitacao
+    descricao: Incluir requisitos de habilitação jurídica, fiscal e técnica.
+    obrigatorio: true
+    padrao: '(?i)(habilita[cç][aã]o\s+j[uú]ridica|habilita[cç][aã]o\s+fiscal|habilita[cç][aã]o\s+t[eé]cnica)'
+
+  - id: criterios_julgamento
+    descricao: Indicar critérios objetivos de julgamento das propostas.
+    obrigatorio: true
+    padrao: '(?i)(crit[eé]rios\s+de\s+julgamento|menor\s+pre[cç]o|t[eé]cnica\s+e\s+pre[cç]o|maior\s+desconto)'
+
+  - id: matriz_riscos
+    descricao: Apresentar matriz de riscos obrigatória para obras e serviços.
+    obrigatorio: true
+    padrao: '(?i)(matriz\s+de\s+riscos|probabilidade|impacto|mitiga[cç][aã]o)'
+
+  - id: clausulas_essenciais
+    descricao: Incluir cláusulas essenciais exigidas pela Lei 14.133/2021.
+    obrigatorio: true
+    padrao: '(?i)(cl[aá]usulas\s+essenciais|lei\s+14\.133|obriga[cç][oõ]es\s+do\s+contratado|responsabilidades)'
