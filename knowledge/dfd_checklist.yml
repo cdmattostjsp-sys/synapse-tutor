@@ -1,0 +1,14 @@
+artefato: DFD
+versao: "2025-10-05"
+itens:
+  - id: identificacao
+    descricao: "Indicar unidade demandante, data e responsável pela demanda."
+    obrigatorio: true
+
+  - id: objeto
+    descricao: "Descrever de forma clara o objeto ou necessidade que originou a demanda."
+    obrigatorio: true
+
+  - id: justificativa
+    descricao: "Apresentar justificativa da demanda, alinhada ao planejamento institucional."
+    obrigatorio: true
