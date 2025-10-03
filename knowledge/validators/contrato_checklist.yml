@@ -1,0 +1,26 @@
+artefato: CONTRATO
+items:
+  - id: clausulas_essenciais
+    descricao: Incluir cláusulas essenciais conforme Lei 14.133/2021.
+    obrigatorio: true
+    padrao: '(?i)(cl[aá]usulas\s+essenciais|lei\s+14\.133|obriga[cç][oõ]es\s+do\s+contratado)'
+
+  - id: garantias
+    descricao: Definir garantias contratuais exigidas.
+    obrigatorio: true
+    padrao: '(?i)(garantias\s+contratuais|cau[cç][aã]o|seguro\s+garantia)'
+
+  - id: fiscalizacao
+    descricao: Prever mecanismos de fiscalização contratual.
+    obrigatorio: true
+    padrao: '(?i)(fiscaliza[cç][aã]o\s+contratual|gestor\s+do\s+contrato|fiscal\s+designado)'
+
+  - id: pagamentos
+    descricao: Estabelecer condições de pagamento e retenções obrigatórias.
+    obrigatorio: true
+    padrao: '(?i)(condi[cç][oõ]es\s+de\s+pagamento|reten[cç][oõ]es\s+obrigat[oó]rias|conta\s+vinculada)'
+
+  - id: matriz_riscos
+    descricao: Anexar matriz de riscos contratual.
+    obrigatorio: true
+    padrao: '(?i)(matriz\s+de\s+riscos|probabilidade|impacto|mitiga[cç][aã]o)'
