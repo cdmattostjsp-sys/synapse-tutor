@@ -1,16 +1,28 @@
-artefato: DFD
 itens:
-  - id: identificacao
-    descricao: Indicar unidade demandante, data e responsável pela demanda.
+  - id: DFD1
+    descricao: Identificação da unidade demandante
     obrigatorio: true
-    padrao: '(?i)(unidade\s+demandante|respons[aã]vel|data\s*:|data\s+da\s+demand[a|e])'
-
-  - id: objeto
-    descricao: Descrever de forma clara o objeto ou necessidade que originou a demanda.
+  - id: DFD2
+    descricao: Descrição do objeto da contratação
     obrigatorio: true
-    padrao: '(?i)(objeto\s+da\s+contrata[cç][aã]o|objeto\s+da\s+demand[a|e]|necessidade\s+que\s+originou|finalidade\s+da\s+demand[a|e])'
-
-  - id: justificativa
-    descricao: Apresentar justificativa da demanda, alinhada ao planejamento institucional.
+  - id: DFD3
+    descricao: Justificativa da necessidade
     obrigatorio: true
-    padrao: '(?i)(justificativa\s+da\s+necessidade|justificativa\s+da\s+demand[a|e]|alinhad[ao]\s+ao\s+planejamento|motiva[cç][aã]o\s+da\s+demand[a|e])'
+  - id: DFD4
+    descricao: Alinhamento com o planejamento estratégico e normativos
+    obrigatorio: true
+  - id: DFD5
+    descricao: Estimativa preliminar de custos
+    obrigatorio: true
+  - id: DFD6
+    descricao: Alternativas possíveis para atendimento da demanda
+    obrigatorio: false
+  - id: DFD7
+    descricao: Riscos identificados e medidas de mitigação
+    obrigatorio: true
+  - id: DFD8
+    descricao: Indicação da legislação e regulamentação aplicável
+    obrigatorio: true
+  - id: DFD9
+    descricao: Aprovação da autoridade competente
+    obrigatorio: true
