@@ -1,0 +1,31 @@
+artefato: TR
+items:
+  - id: objeto
+    descricao: Definir claramente o objeto da contratação.
+    obrigatorio: true
+    padrao: '(?i)(objeto\s+da\s+contrata[cç][aã]o|descri[cç][aã]o\s+do\s+objeto)'
+
+  - id: justificativa
+    descricao: Justificar a necessidade e pertinência da contratação.
+    obrigatorio: true
+    padrao: '(?i)(justificativa\s+da\s+contrata[cç][aã]o|necessidade\s+da\s+contrata[cç][aã]o)'
+
+  - id: requisitos
+    descricao: Detalhar requisitos técnicos, funcionais e operacionais.
+    obrigatorio: true
+    padrao: '(?i)(requisitos\s+t[eé]cnicos|funcionais|operacionais)'
+
+  - id: criterios_avaliacao
+    descricao: Indicar critérios objetivos de avaliação das propostas.
+    obrigatorio: true
+    padrao: '(?i)(crit[eé]rios\s+de\s+avalia[cç][aã]o|t[eé]cnica|pre[cç]o|pontua[cç][aã]o)'
+
+  - id: matriz_riscos
+    descricao: Apresentar matriz de riscos da execução contratual.
+    obrigatorio: true
+    padrao: '(?i)(matriz\s+de\s+riscos|respons[aá]veis|impactos|mitiga[cç][aã]o)'
+
+  - id: clausulas
+    descricao: Prever cláusulas essenciais conforme a Lei 14.133/2021.
+    obrigatorio: true
+    padrao: '(?i)(cl[aá]usulas\s+essenciais|lei\s+14\.133|deveres\s+e\s+obriga[cç][oõ]es)'
