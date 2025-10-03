@@ -1,5 +1,5 @@
 # knowledge/validators/edital_semantic_validator.py
-# Validador semântico para EDITAL: usa LLM para avaliar presença e adequação de cada item do checklist.
+# Validador semântico para Edital, agora com suporte a PDF carregado.
 
 from __future__ import annotations
 from typing import List, Dict, Tuple
@@ -8,12 +8,27 @@ import json
 import re
 import yaml
 
-# Caminho para checklist de EDITAL
-CHECKLIST_PATH = Path("knowledge/edital_checklist.yml")
+# Dependência para extração de PDF
+import PyPDF2
+
+CHECKLIST_PATH = Path("knowledge/validators/edital_checklist.yml")
 
 def load_checklist_items() -> List[Dict]:
+    """Carrega os itens do checklist do edital a partir do YAML."""
     data = yaml.safe_load(CHECKLIST_PATH.read_text(encoding="utf-8"))
     return data.get("itens", [])
+
+def extract_text_from_pdf(pdf_path: str) -> str:
+    """Extrai texto de um PDF carregado."""
+    text = ""
+    try:
+        with open(pdf_path, "rb") as f:
+            reader = PyPDF2.PdfReader(f)
+            for page in reader.pages:
+                text += page.extract_text() or ""
+    except Exception as e:
+        return f"❌ Erro ao extrair texto do PDF: {e}"
+    return text
 
 def _truncate(text: str, max_chars: int = 12000) -> str:
     if len(text) <= max_chars:
@@ -23,10 +38,7 @@ def _truncate(text: str, max_chars: int = 12000) -> str:
     return head + "\n\n[[...texto truncado...]]\n\n" + tail
 
 def _extract_json(s: str) -> dict:
-    """
-    Extrai JSON de uma string que pode vir com blocos ```json ou texto extra.
-    Retorna sempre um dict com a chave "itens".
-    """
+    """Extrai JSON puro de respostas do modelo."""
     s = s.strip().strip("`").replace("```json", "").replace("```", "").strip()
 
     try:
@@ -48,15 +60,21 @@ def _extract_json(s: str) -> dict:
 
     raise ValueError("❌ Não foi possível extrair JSON válido da resposta do modelo.")
 
-def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
+def semantic_validate_edital(doc_input: str, client) -> Tuple[float, List[Dict]]:
     """
-    Retorna (score, results), onde:
-      - score: média das notas de adequação (0..100) dos itens obrigatórios
-      - results: lista com campos: id, descricao, presente, adequacao_nota, justificativa, faltantes
+    Valida semanticamente o EDITAL.
+    - doc_input pode ser texto ou caminho para um PDF.
+    Retorna (score, results).
     """
     itens = load_checklist_items()
     if not itens:
         return 0.0, []
+
+    # Detecta se é PDF
+    if doc_input.lower().endswith(".pdf"):
+        doc_text = extract_text_from_pdf(doc_input)
+    else:
+        doc_text = doc_input
 
     doc_trim = _truncate(doc_text, max_chars=12000)
 
@@ -66,24 +84,14 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
     ]
 
     system_msg = (
-        "Você é um auditor técnico-jurídico especializado em editais de licitação "
-        "com base na Lei 14.133/2021, Resoluções CNJ e boas práticas do TCU/TCE. "
-        "Avalie se o DOCUMENTO atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
+        "Você é um auditor técnico-jurídico especializado em licitações, "
+        "na Lei 14.133/2021 e nas Resoluções CNJ nº 651/2025 e nº 652/2025. "
+        "Avalie se o EDITAL atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
         "Considere sinônimos, redações equivalentes e conteúdo implícito. "
-        "Se o conceito estiver presente mas incompleto, marque presente=true e dê adequacao_nota < 100, explicando. "
+        "Se o conceito estiver presente mas incompleto, marque presente=true e adequacao_nota < 100, explicando. "
         "Se não houver evidência suficiente, presente=false e adequacao_nota=0. "
-        "Responda EXCLUSIVAMENTE em JSON no formato:\n"
-        "{\n"
-        '  "itens": [\n'
-        '    {\n'
-        '      "id": "<id do checklist>",\n'
-        '      "presente": true/false,\n'
-        '      "adequacao_nota": 0-100,\n'
-        '      "justificativa": "texto curto (máx. 3 frases)",\n'
-        '      "faltantes": ["lista opcional de pontos que faltam"]\n'
-        "    }\n"
-        "  ]\n"
-        "}"
+        "Responda EXCLUSIVAMENTE em JSON com o formato:\n"
+        "{ 'itens': [ { 'id': '<id>', 'presente': true/false, 'adequacao_nota': 0-100, 'justificativa': 'texto curto', 'faltantes': [] } ] }"
     )
 
     user_msg = (
