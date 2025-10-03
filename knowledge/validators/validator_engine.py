@@ -1,5 +1,6 @@
 # knowledge/validators/validator_engine.py
 # Engine unificado para rodar validações rígidas (checklist YAML) e opcionais (semântica via LLM)
+
 from __future__ import annotations
 from typing import List, Dict, Tuple
 from pathlib import Path
@@ -10,7 +11,7 @@ from knowledge.validators.semantic_validator import semantic_validate_etp
 from knowledge.validators.tr_semantic_validator import semantic_validate_tr
 from knowledge.validators.contrato_semantic_validator import semantic_validate_contrato
 from knowledge.validators.obras_semantic_validator import semantic_validate_obras
-# futuramente: dfd_semantic_validator etc.
+from knowledge.validators.dfd_semantic_validator import semantic_validate_dfd  # 🔹 novo import
 
 # Mapear artefatos suportados → arquivos checklist
 SUPPORTED_ARTEFACTS = {
@@ -23,9 +24,7 @@ SUPPORTED_ARTEFACTS = {
 }
 
 def load_checklist(artefato: str) -> List[Dict]:
-    """
-    Carrega os itens do checklist YAML para o artefato.
-    """
+    """Carrega os itens do checklist YAML para o artefato."""
     path = SUPPORTED_ARTEFACTS.get(artefato.upper())
     if not path:
         return []
@@ -33,10 +32,7 @@ def load_checklist(artefato: str) -> List[Dict]:
     return data.get("itens", [])
 
 def rigid_validate(artefato: str, doc_text: str) -> Dict:
-    """
-    Validação RÍGIDA (checagem simples por palavras-chave).
-    Retorna dict com score e resultados item a item.
-    """
+    """Validação RÍGIDA (checagem simples por palavras-chave)."""
     itens = load_checklist(artefato)
     if not itens:
         return {"score": 0.0, "results": []}
@@ -63,9 +59,7 @@ def rigid_validate(artefato: str, doc_text: str) -> Dict:
     return {"score": score, "results": results}
 
 def run_semantic(artefato: str, doc_text: str, client) -> Tuple[float, List[Dict]]:
-    """
-    Seleciona o validador semântico correto para o artefato.
-    """
+    """Seleciona o validador semântico correto para o artefato."""
     artefato_up = artefato.upper()
     if artefato_up == "ETP":
         return semantic_validate_etp(doc_text, client)
@@ -76,19 +70,14 @@ def run_semantic(artefato: str, doc_text: str, client) -> Tuple[float, List[Dict
     elif artefato_up == "OBRAS":
         return semantic_validate_obras(doc_text, client)
     elif artefato_up == "DFD":
-        # futuramente semantic_validate_dfd
-        return 0.0, [{"id": "info", "descricao": "Validação semântica para DFD ainda não implementada."}]
+        return semantic_validate_dfd(doc_text, client)  # 🔹 integração do DFD
     elif artefato_up == "CONTRATO_TECNICO":
-        # reutiliza contrato por enquanto
         return semantic_validate_contrato(doc_text, client)
     else:
         return 0.0, [{"id": "info", "descricao": f"Validação semântica para {artefato} ainda não implementada."}]
 
 def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, client=None) -> Dict:
-    """
-    Engine unificado de validação.
-    Retorna sempre um dicionário com score rígido e semântico (se solicitado).
-    """
+    """Engine unificado de validação."""
     # --- Rígido ---
     rigid = rigid_validate(artefato, doc_text)
 
@@ -101,7 +90,6 @@ def validate_document(artefato: str, doc_text: str, use_semantic: bool = False, 
         except Exception as e:
             semantic_result = [{"id": "erro", "descricao": f"Erro na validação semântica: {e}"}]
 
-    # --- Compatibilidade com synapse_chat.py ---
     return {
         "rigid_score": rigid.get("score", 0.0),
         "rigid_result": rigid.get("results", []),
