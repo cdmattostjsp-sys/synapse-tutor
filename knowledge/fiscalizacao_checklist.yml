@@ -1,0 +1,10 @@
+artefato: FISCALIZACAO
+versao: "2025-10-05"
+itens:
+  - id: designacao
+    descricao: "Indicar gestor e fiscais do contrato, com respectivas portarias."
+    obrigatorio: true
+
+  - id: mecanismos
+    descricao: "Definir mecanismos de acompanhamento, relatórios e evidências de conformidade."
+    obrigatorio: true
