@@ -1,16 +1,52 @@
-artefact: EDITAL
-items:
-  - id: objeto
-    descricao: Descrever claramente o objeto da licitação, quantidade e características.
+itens:
+  - id: "1"
+    descricao: "Identificação da unidade demandante"
     obrigatorio: true
-    padrao: "(?i)(objeto|finalidade|descrição|características).*(licita|contrata|contratação)"
 
-  - id: criterios_julgamento
-    descricao: Definir critérios de julgamento (menor preço, técnica e preço, etc.).
+  - id: "2"
+    descricao: "Objeto da contratação"
     obrigatorio: true
-    padrao: "(?i)(crit[eé]rios?.*(julgamento|avaliação)|menor preço|técnica e preço|maior desconto)"
 
-  - id: prazos
-    descricao: Estabelecer prazos de recebimento de propostas e execução contratual.
+  - id: "3"
+    descricao: "Fundamentação legal (Lei 14.133/21, Res. CNJ 652/25, Decreto Estadual nº 67.381/22, Provimento CSM nº 2724/23)"
     obrigatorio: true
-    padrao: "(?i)(prazo|data limite|período de execução|entrega das propostas|execução contratual)"
+
+  - id: "4"
+    descricao: "Justificativa da necessidade"
+    obrigatorio: true
+
+  - id: "5"
+    descricao: "Critérios objetivos de julgamento"
+    obrigatorio: true
+
+  - id: "6"
+    descricao: "Estimativa de custos ou referência de preços"
+    obrigatorio: true
+
+  - id: "7"
+    descricao: "Matriz de riscos obrigatória"
+    obrigatorio: true
+
+  - id: "8"
+    descricao: "Cláusulas essenciais (garantia, fiscalização, rescisão, penalidades, resolução de disputas)"
+    obrigatorio: true
+
+  - id: "9"
+    descricao: "Critérios de priorização (conjunto 1 e 2 da Resolução CNJ 652/25)"
+    obrigatorio: true
+
+  - id: "10"
+    descricao: "Sustentabilidade e acessibilidade"
+    obrigatorio: true
+
+  - id: "11"
+    descricao: "Cronograma de execução"
+    obrigatorio: true
+
+  - id: "12"
+    descricao: "Benefícios esperados"
+    obrigatorio: true
+
+  - id: "13"
+    descricao: "Transparência (publicidade dos atos e comunicação ao CNJ em alterações relevantes ou paralisações)"
+    obrigatorio: true
