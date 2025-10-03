@@ -1,11 +1,25 @@
-artefact: PESQUISA_PRECOS
-items:
-  - id: identificacao
-    descricao: Indicar unidade demandante e responsável pela pesquisa.
+itens:
+  - id: PP1
+    descricao: Indicação do objeto da pesquisa de preços
     obrigatorio: true
-    padrao: "(?i)(pesquisa de pre[cç]os|respons[aá]vel|unidade)"
-
-  - id: fornecedores
-    descricao: Apresentar pelo menos três cotações de fornecedores distintos.
+  - id: PP2
+    descricao: Fundamentação legal e normativa aplicável
     obrigatorio: true
-    padrao: "(?i)(fornecedor|cota[cç][aã]o|proposta)"
+  - id: PP3
+    descricao: Descrição detalhada da metodologia de pesquisa (número mínimo de cotações, fontes utilizadas etc.)
+    obrigatorio: true
+  - id: PP4
+    descricao: Registro das cotações obtidas, com identificação das fontes consultadas
+    obrigatorio: true
+  - id: PP5
+    descricao: Cálculo da média, mediana ou critério estatístico adotado para definição do valor de referência
+    obrigatorio: true
+  - id: PP6
+    descricao: Justificativa para exclusão de outliers ou preços discrepantes
+    obrigatorio: false
+  - id: PP7
+    descricao: Registro da data da pesquisa e validade dos preços
+    obrigatorio: true
+  - id: PP8
+    descricao: Assinatura ou identificação do responsável pela pesquisa
+    obrigatorio: true
