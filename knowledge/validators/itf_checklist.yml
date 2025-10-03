@@ -1,0 +1,28 @@
+itens:
+  - id: ITF1
+    descricao: Identificação do contrato e objeto fiscalizado
+    obrigatorio: true
+  - id: ITF2
+    descricao: Nome e designação do fiscal do contrato
+    obrigatorio: true
+  - id: ITF3
+    descricao: Procedimentos de acompanhamento e monitoramento definidos
+    obrigatorio: true
+  - id: ITF4
+    descricao: Registro das ocorrências e não conformidades
+    obrigatorio: true
+  - id: ITF5
+    descricao: Prazos e formas de comunicação com a contratada
+    obrigatorio: true
+  - id: ITF6
+    descricao: Critérios de medição e aceitação dos serviços/produtos
+    obrigatorio: true
+  - id: ITF7
+    descricao: Registro das providências adotadas diante de falhas
+    obrigatorio: true
+  - id: ITF8
+    descricao: Relatórios periódicos de fiscalização
+    obrigatorio: true
+  - id: ITF9
+    descricao: Arquivamento adequado da documentação de fiscalização
+    obrigatorio: true
