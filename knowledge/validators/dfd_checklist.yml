@@ -1,16 +1,16 @@
-artefact: DFD
-items:
+artefato: DFD
+itens:
   - id: identificacao
     descricao: Indicar unidade demandante, data e responsável pela demanda.
     obrigatorio: true
-    padrao: "(?i)(unidade\s+demandante|respons[aá]vel|data\s*:|data\s+da\s+demand[a|e])"
+    padrao: '(?i)(unidade\s+demandante|respons[aã]vel|data\s*:|data\s+da\s+demand[a|e])'
 
   - id: objeto
     descricao: Descrever de forma clara o objeto ou necessidade que originou a demanda.
     obrigatorio: true
-    padrao: "(?i)(objeto\s+da\s+contrata[cç][aã]o|objeto\s+da\s+demand[a|e]|necessidade\s+que\s+originou|finalidade\s+da\s+demand[a|e])"
+    padrao: '(?i)(objeto\s+da\s+contrata[cç][aã]o|objeto\s+da\s+demand[a|e]|necessidade\s+que\s+originou|finalidade\s+da\s+demand[a|e])'
 
   - id: justificativa
     descricao: Apresentar justificativa da demanda, alinhada ao planejamento institucional.
     obrigatorio: true
-    padrao: "(?i)(justificativa\s+da\s+necessidade|justificativa\s+da\s+demand[a|e]|alinhad[ao]\s+ao\s+planejamento|motiva[cç][aã]o\s+da\s+demand[a|e])"
+    padrao: '(?i)(justificativa\s+da\s+necessidade|justificativa\s+da\s+demand[a|e]|alinhad[ao]\s+ao\s+planejamento|motiva[cç][aã]o\s+da\s+demand[a|e])'
