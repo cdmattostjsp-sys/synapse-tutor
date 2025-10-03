@@ -1,6 +1,3 @@
-# knowledge/validators/edital_semantic_validator.py
-# Validador semântico para Edital: usa LLM para avaliar "presença" e "adequação" de cada item do checklist.
-
 from __future__ import annotations
 from typing import List, Dict, Tuple
 from pathlib import Path
@@ -8,12 +5,12 @@ import json
 import re
 import yaml
 
-# Caminho para checklist de Edital
+# Caminho para checklist do Edital
 CHECKLIST_PATH = Path("knowledge/edital_checklist.yml")
 
 def load_checklist_items() -> List[Dict]:
     data = yaml.safe_load(CHECKLIST_PATH.read_text(encoding="utf-8"))
-    return data.get("itens", [])
+    return data.get("items", [])
 
 def _truncate(text: str, max_chars: int = 12000) -> str:
     if len(text) <= max_chars:
@@ -66,13 +63,14 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
     ]
 
     system_msg = (
-        "Você é um auditor técnico-jurídico especializado na Lei 14.133/2021, "
-        "Resoluções CNJ nº 651/2025 e 652/2025, e boas práticas do TCU/TCE. "
-        "Avalie se o DOCUMENTO (EDITAL) atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
+        "Você é um auditor técnico-jurídico especializado em licitações (Lei 14.133/2021). "
+        "Avalie se o DOCUMENTO atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
         "Considere sinônimos, redações equivalentes e conteúdo implícito. "
-        "Se o conceito estiver presente mas INCOMPLETO, marque presente=true e dê adequacao_nota < 100, explicando. "
-        "Se não houver evidência suficiente, presente=false e adequacao_nota=0. "
-        "Responda EXCLUSIVAMENTE em JSON com o seguinte formato:\n"
+        "Use três níveis claros de nota:\n"
+        "- 100 = totalmente atendido (texto completo e claro)\n"
+        "- 50 a 90 = parcialmente atendido (há referência, mas incompleta ou insuficiente)\n"
+        "- 0 = ausente (nenhuma evidência suficiente)\n"
+        "Responda EXCLUSIVAMENTE em JSON no formato:\n"
         "{\n"
         '  "itens": [\n'
         '    {\n'
@@ -83,8 +81,7 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
         '      "faltantes": ["lista opcional de pontos que faltam"]\n'
         "    }, ...\n"
         "  ]\n"
-        "}\n"
-        "Não inclua comentários fora do JSON."
+        "}"
     )
 
     user_msg = (
