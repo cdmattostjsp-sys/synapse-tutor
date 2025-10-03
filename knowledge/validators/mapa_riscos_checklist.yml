@@ -1,0 +1,11 @@
+artefact: MAPA_RISCOS
+items:
+  - id: identificacao
+    descricao: Indicar processo, unidade e responsável pela elaboração do mapa.
+    obrigatorio: true
+    padrao: "(?i)(mapa de riscos|respons[aá]vel|processo)"
+
+  - id: riscos
+    descricao: Listar riscos identificados e respectivas medidas de mitigação.
+    obrigatorio: true
+    padrao: "(?i)(risco|mitiga[cç][aã]o|controle)"
