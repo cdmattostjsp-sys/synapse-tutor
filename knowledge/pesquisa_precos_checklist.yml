@@ -1,0 +1,14 @@
+artefato: PESQUISA_PRECOS
+versao: "2025-10-05"
+itens:
+  - id: fontes
+    descricao: "Apresentar pelo menos 3 fontes de preços (painéis públicos, cotações, atas vigentes)."
+    obrigatorio: true
+
+  - id: datas
+    descricao: "Indicar datas das coletas de preços e critérios de atualização."
+    obrigatorio: true
+
+  - id: metodologia
+    descricao: "Explicar metodologia de cálculo do preço estimado (média, mediana, menor preço)."
+    obrigatorio: true
