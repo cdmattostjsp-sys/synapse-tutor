@@ -1,5 +1,5 @@
-# knowledge/validators/etp_semantic_validator.py
-# Validador semântico para ETP: usa LLM para avaliar "presença" e "adequação" de cada item do checklist.
+# knowledge/validators/edital_semantic_validator.py
+# Validador semântico para Edital: usa LLM para avaliar "presença" e "adequação" de cada item do checklist.
 
 from __future__ import annotations
 from typing import List, Dict, Tuple
@@ -8,8 +8,8 @@ import json
 import re
 import yaml
 
-# Caminho para checklist de ETP
-CHECKLIST_PATH = Path("knowledge/etp_checklist.yml")
+# Caminho para checklist de Edital
+CHECKLIST_PATH = Path("knowledge/edital_checklist.yml")
 
 def load_checklist_items() -> List[Dict]:
     data = yaml.safe_load(CHECKLIST_PATH.read_text(encoding="utf-8"))
@@ -48,7 +48,7 @@ def _extract_json(s: str) -> dict:
 
     raise ValueError("❌ Não foi possível extrair JSON válido da resposta do modelo.")
 
-def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
+def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
     """
     Retorna (score, results), onde:
       - score: média das notas de adequação (0..100) dos itens obrigatórios
@@ -67,8 +67,8 @@ def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
 
     system_msg = (
         "Você é um auditor técnico-jurídico especializado na Lei 14.133/2021, "
-        "em ETP/DFD/TR e boas práticas do TCU/TCE. Avalie se o DOCUMENTO atende, "
-        "de forma SEMÂNTICA, cada item do CHECKLIST. "
+        "Resoluções CNJ nº 651/2025 e 652/2025, e boas práticas do TCU/TCE. "
+        "Avalie se o DOCUMENTO (EDITAL) atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
         "Considere sinônimos, redações equivalentes e conteúdo implícito. "
         "Se o conceito estiver presente mas INCOMPLETO, marque presente=true e dê adequacao_nota < 100, explicando. "
         "Se não houver evidência suficiente, presente=false e adequacao_nota=0. "
@@ -90,7 +90,7 @@ def semantic_validate_etp(doc_text: str, client) -> Tuple[float, List[Dict]]:
     user_msg = (
         "CHECKLIST:\n"
         + json.dumps(checklist_compacto, ensure_ascii=False)
-        + "\n\nDOCUMENTO (ETP):\n"
+        + "\n\nDOCUMENTO (EDITAL):\n"
         + doc_trim
     )
 
