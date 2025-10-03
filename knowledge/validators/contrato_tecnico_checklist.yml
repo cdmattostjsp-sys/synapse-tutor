@@ -1,0 +1,56 @@
+itens:
+  - id: objeto
+    descricao: "Cláusula de Objeto – descrição clara do que será contratado."
+    obrigatorio: true
+
+  - id: fundamentacao
+    descricao: "Cláusula de Fundamentação Legal – Lei 14.133/2021, Res. CNJ 651/2025, Decreto Estadual 67.381/2022, Provimento CSM 2724/2023."
+    obrigatorio: true
+
+  - id: vigencia
+    descricao: "Cláusula de Vigência – prazo contratual e possibilidade de prorrogação."
+    obrigatorio: true
+
+  - id: valor_pagamento
+    descricao: "Cláusula de Valor e Condições de Pagamento."
+    obrigatorio: true
+
+  - id: conta_vinculada
+    descricao: "Cláusula de Conta Vinculada – retenção mensal de férias, 13º, FGTS e multa."
+    obrigatorio: true
+
+  - id: garantia
+    descricao: "Cláusula de Garantia – forma e prazo de execução da garantia."
+    obrigatorio: true
+
+  - id: fiscalizacao
+    descricao: "Cláusula de Fiscalização – atribuição de gestor e fiscal de contrato."
+    obrigatorio: true
+
+  - id: obrigacoes_contratada
+    descricao: "Cláusula de Obrigações da Contratada."
+    obrigatorio: true
+
+  - id: obrigacoes_adm
+    descricao: "Cláusula de Obrigações da Administração."
+    obrigatorio: true
+
+  - id: penalidades
+    descricao: "Cláusula de Penalidades e Sanções Administrativas."
+    obrigatorio: true
+
+  - id: transparencia
+    descricao: "Cláusula de Transparência e Prestação de Contas."
+    obrigatorio: false
+
+  - id: rescisao
+    descricao: "Cláusula de Rescisão Contratual."
+    obrigatorio: true
+
+  - id: foro
+    descricao: "Cláusula de Foro Competente."
+    obrigatorio: true
+
+  - id: quadro_conformidade
+    descricao: "Quadro de Conformidade com checklist (✅ Atendido, ⚠️ Parcial, ❌ Pendente)."
+    obrigatorio: true
