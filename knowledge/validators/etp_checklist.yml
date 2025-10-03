@@ -1,1 +1,52 @@
+artefato: ETP
+items:
+  - id: referencia_normativa
+    descricao: Citar expressamente a Lei 14.133/2021 e normativos aplicáveis.
+    obrigatorio: true
+    padrao: '(?i)(lei\s+14\.133|decreto\s+67\.381|provimento\s+CSM\s+2724)'
+
+  - id: justificativa
+    descricao: Justificar a contratação, alinhada ao PCA/PEI.
+    obrigatorio: true
+    padrao: '(?i)(justificativa\s+da\s+contrata[cç][aã]o|alinhad[ao]\s+ao\s+pca|planejamento\s+estrat[eé]gico)'
+
+  - id: alternativas
+    descricao: Apresentar estudo de alternativas possíveis com análise comparativa.
+    obrigatorio: true
+    padrao: '(?i)(alternativas\s+poss[ií]veis|manuten[cç][aã]o|loca[cç][aã]o|aquisi[cç][aã]o|an[aá]lise\s+comparativa)'
+
+  - id: especificacoes
+    descricao: Incluir especificações técnicas ou requisitos mínimos.
+    obrigatorio: true
+    padrao: '(?i)(especifica[cç][oõ]es\s+t[eé]cnicas|requisitos\s+m[ií]nimos)'
+
+  - id: estimativa_custos
+    descricao: Apresentar estimativa de custos com metodologia e fontes.
+    obrigatorio: true
+    padrao: '(?i)(estimativa\s+de\s+custos|metodologia|fontes\s+utilizadas|n[uú]mero\s+de\s+fornecedores)'
+
+  - id: sustentabilidade
+    descricao: Incluir critérios de sustentabilidade e eficiência energética.
+    obrigatorio: false
+    padrao: '(?i)(sustentabilidade|efici[eê]ncia\s+energ[eé]tica|procel|energy\s+star)'
+
+  - id: riscos_matriz
+    descricao: Apresentar matriz de riscos com responsáveis e mitigação.
+    obrigatorio: true
+    padrao: '(?i)(matriz\s+de\s+riscos|probabilidade|impacto|mitiga[cç][aã]o)'
+
+  - id: beneficios
+    descricao: Elencar benefícios esperados.
+    obrigatorio: true
+    padrao: '(?i)(benef[ií]cios\s+esperados|efici[eê]ncia\s+operacional|redu[cç][aã]o\s+de\s+falhas|apoio\s+[àa]\s+inova[cç][aã]o)'
+
+  - id: avaliacao
+    descricao: Definir critérios de medição e avaliação.
+    obrigatorio: true
+    padrao: '(?i)(critérios\s+de\s+medi[cç][aã]o|avalia[cç][aã]o|qualidade\s+t[eé]cnica|satisfa[cç][aã]o\s+do\s+usu[aá]rio)'
+
+  - id: conclusao
+    descricao: Conclusão e recomendação final.
+    obrigatorio: true
+    padrao: '(?i)(conclus[aã]o|recomenda[cç][aã]o|alternativa\s+escolhida|adequa[cç][aã]o\s+t[eé]cnica)'
 
