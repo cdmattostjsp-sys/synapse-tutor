@@ -1,0 +1,11 @@
+artefact: PCA
+items:
+  - id: identificacao
+    descricao: Indicar o programa de contratação anual e unidade responsável.
+    obrigatorio: true
+    padrao: "(?i)(programa de contrata[cç][aã]o anual|PCA|unidade)"
+
+  - id: metas
+    descricao: Apresentar metas e objetivos vinculados ao planejamento institucional.
+    obrigatorio: true
+    padrao: "(?i)(meta|objetivo|planejamento)"
