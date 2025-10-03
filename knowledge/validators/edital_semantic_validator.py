@@ -1,5 +1,5 @@
 # knowledge/validators/edital_semantic_validator.py
-# Validador semântico para EDITAL: usa LLM para avaliar "presença" e "adequação" de cada item do checklist.
+# Validador semântico para EDITAL: usa LLM para avaliar presença e adequação de cada item do checklist.
 
 from __future__ import annotations
 from typing import List, Dict, Tuple
@@ -12,12 +12,10 @@ import yaml
 CHECKLIST_PATH = Path("knowledge/edital_checklist.yml")
 
 def load_checklist_items() -> List[Dict]:
-    """Carrega os itens do checklist de edital a partir do YAML."""
     data = yaml.safe_load(CHECKLIST_PATH.read_text(encoding="utf-8"))
-    return data.get("items", [])
+    return data.get("itens", [])
 
 def _truncate(text: str, max_chars: int = 12000) -> str:
-    """Trunca texto longo para não estourar limite do modelo."""
     if len(text) <= max_chars:
         return text
     head = text[: max_chars // 2]
@@ -27,27 +25,26 @@ def _truncate(text: str, max_chars: int = 12000) -> str:
 def _extract_json(s: str) -> dict:
     """
     Extrai JSON de uma string que pode vir com blocos ```json ou texto extra.
-    Retorna sempre um dict com a chave "items".
+    Retorna sempre um dict com a chave "itens".
     """
     s = s.strip().strip("`").replace("```json", "").replace("```", "").strip()
 
     try:
         data = json.loads(s)
-        if isinstance(data, dict) and "items" in data:
+        if isinstance(data, dict) and "itens" in data:
             return data
         if isinstance(data, list):
-            return {"items": data}
+            return {"itens": data}
     except Exception:
         pass
 
-    # fallback: tenta capturar o maior bloco de JSON
     m = re.search(r"(\{.*\})", s, flags=re.S)
     if m:
         return json.loads(m.group(1))
 
     m2 = re.search(r"(\[.*\])", s, flags=re.S)
     if m2:
-        return {"items": json.loads(m2.group(1))}
+        return {"itens": json.loads(m2.group(1))}
 
     raise ValueError("❌ Não foi possível extrair JSON válido da resposta do modelo.")
 
@@ -55,45 +52,43 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
     """
     Retorna (score, results), onde:
       - score: média das notas de adequação (0..100) dos itens obrigatórios
-      - results: lista com campos: id, descricao, presente (bool),
-                 adequacao_nota (0..100), justificativa (str), faltantes (list[str])
+      - results: lista com campos: id, descricao, presente, adequacao_nota, justificativa, faltantes
     """
-    items = load_checklist_items()
-    if not items:
+    itens = load_checklist_items()
+    if not itens:
         return 0.0, []
 
     doc_trim = _truncate(doc_text, max_chars=12000)
 
     checklist_compacto = [
         {"id": it["id"], "descricao": it["descricao"], "obrigatorio": bool(it.get("obrigatorio", True))}
-        for it in items
+        for it in itens
     ]
 
     system_msg = (
-        "Você é um auditor técnico-jurídico especializado em editais de licitação, "
-        "na Lei 14.133/2021 e boas práticas do TCU/TCE. Avalie se o DOCUMENTO atende, "
-        "de forma SEMÂNTICA, cada item do CHECKLIST. "
+        "Você é um auditor técnico-jurídico especializado em editais de licitação "
+        "com base na Lei 14.133/2021, Resoluções CNJ e boas práticas do TCU/TCE. "
+        "Avalie se o DOCUMENTO atende, de forma SEMÂNTICA, cada item do CHECKLIST. "
         "Considere sinônimos, redações equivalentes e conteúdo implícito. "
-        "Se o conceito estiver presente mas INCOMPLETO, marque presente=true e dê adequacao_nota < 100, explicando. "
+        "Se o conceito estiver presente mas incompleto, marque presente=true e dê adequacao_nota < 100, explicando. "
         "Se não houver evidência suficiente, presente=false e adequacao_nota=0. "
-        "Responda EXCLUSIVAMENTE em JSON com o seguinte formato:\n"
+        "Responda EXCLUSIVAMENTE em JSON no formato:\n"
         "{\n"
-        '  "items": [\n'
+        '  "itens": [\n'
         '    {\n'
         '      "id": "<id do checklist>",\n'
         '      "presente": true/false,\n'
         '      "adequacao_nota": 0-100,\n'
         '      "justificativa": "texto curto (máx. 3 frases)",\n'
         '      "faltantes": ["lista opcional de pontos que faltam"]\n'
-        "    }, ...\n"
+        "    }\n"
         "  ]\n"
-        "}\n"
-        "Não inclua comentários fora do JSON."
+        "}"
     )
 
     user_msg = (
         "CHECKLIST:\n"
-        + json.dumps(checklist_compacto, ensure_ascii=False, indent=2)
+        + json.dumps(checklist_compacto, ensure_ascii=False)
         + "\n\nDOCUMENTO (EDITAL):\n"
         + doc_trim
     )
@@ -105,7 +100,7 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
             {"role": "user", "content": user_msg},
         ],
         temperature=0.0,
-        max_tokens=1500,
+        max_tokens=1800,
     )
 
     raw = resp.choices[0].message.content
@@ -117,7 +112,7 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
 
     for it in checklist_compacto:
         rmatch = None
-        for r in data.get("items", []):
+        for r in data.get("itens", []):
             if r.get("id") == it["id"]:
                 rmatch = r
                 break
@@ -132,7 +127,7 @@ def semantic_validate_edital(doc_text: str, client) -> Tuple[float, List[Dict]]:
             }
 
         presente = bool(rmatch.get("presente", False))
-        nota = max(0, min(100, int(rmatch.get("adequacao_nota", 0))))  # garante nota 0..100
+        nota = max(0, min(100, int(rmatch.get("adequacao_nota", 0))))
 
         if it["obrigatorio"]:
             notas.append(nota)
