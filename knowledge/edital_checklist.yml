@@ -1,0 +1,14 @@
+artefato: EDITAL
+versao: "2025-10-05"
+itens:
+  - id: objeto
+    descricao: "Descrever claramente o objeto da licitação, quantidade e características."
+    obrigatorio: true
+
+  - id: criterios_julgamento
+    descricao: "Definir critérios de julgamento (menor preço, técnica e preço, etc.)."
+    obrigatorio: true
+
+  - id: prazos
+    descricao: "Estabelecer prazos de recebimento de propostas e execução contratual."
+    obrigatorio: true
