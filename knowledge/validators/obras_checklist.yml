@@ -1,0 +1,26 @@
+artefato: OBRAS
+items:
+  - id: referencia_normativa
+    descricao: Citar Resolução CNJ nº 652/2025 e normativos aplicáveis.
+    obrigatorio: true
+    padrao: '(?i)(resolu[cç][aã]o\s+cnj\s+652/2025|sinapi|sicro|bim)'
+
+  - id: objeto
+    descricao: Definir objeto da obra de forma clara e precisa.
+    obrigatorio: true
+    padrao: '(?i)(objeto\s+da\s+obra|descri[cç][aã]o\s+da\s+obra)'
+
+  - id: criterios_priorizacao
+    descricao: Incluir critérios técnicos objetivos de priorização (Conjuntos 1 e 2).
+    obrigatorio: true
+    padrao: '(?i)(crit[eé]rios\s+t[eé]cnicos\s+objetivos|conjuntos\s+1\s+e\s+2|prioriza[cç][aã]o)'
+
+  - id: matriz_riscos
+    descricao: Apresentar matriz de riscos obrigatória.
+    obrigatorio: true
+    padrao: '(?i)(matriz\s+de\s+riscos|probabilidade|impacto|mitiga[cç][aã]o)'
+
+  - id: transparencia
+    descricao: Prever comunicação ao CNJ em casos de paralisação ou alteração relevante.
+    obrigatorio: true
+    padrao: '(?i)(comunica[cç][aã]o\s+ao\s+cnj|paralisa[cç][aã]o|altera[cç][oõ]es\s+relevantes)'
