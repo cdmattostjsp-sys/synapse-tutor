@@ -147,21 +147,26 @@ if st.button("▶️ Executar Agente"):
             sem_rows = validation.get("semantic_result", [])
             if sem_rows:
                 df_sem = pd.DataFrame(sem_rows)
+
+                # Se existir coluna "presente"
                 if "presente" in df_sem.columns:
                     df_sem["presente"] = df_sem["presente"].apply(lambda x: "✅" if x else "❌")
-                df_sem["status"] = df_sem["adequacao_nota"].apply(
-                    lambda n: "✅ Adequado" if n == 100 else ("⚠️ Parcial" if n > 0 else "❌ Ausente")
-                )
-                st.dataframe(
-                    df_sem[["id", "descricao", "presente", "adequacao_nota", "status", "justificativa"]],
-                    use_container_width=True
-                )
+
+                # Se existir coluna "adequacao_nota", gera "status"
+                if "adequacao_nota" in df_sem.columns:
+                    df_sem["status"] = df_sem["adequacao_nota"].apply(
+                        lambda n: "✅ Adequado" if n == 100 else ("⚠️ Parcial" if n > 0 else "❌ Ausente")
+                    )
+
+                # Seleção segura de colunas (mostra só as que existem)
+                cols = [c for c in ["id", "descricao", "presente", "adequacao_nota", "status", "justificativa"] if c in df_sem.columns]
+                st.dataframe(df_sem[cols], use_container_width=True)
 
                 faltantes_all = []
                 for r in sem_rows:
                     if r.get("faltantes"):
                         for f in r["faltantes"]:
-                            faltantes_all.append(f"• **{r['id']}**: {f}")
+                            faltantes_all.append(f"• **{r.get('id','?')}**: {f}")
                 if faltantes_all:
                     st.markdown("### Pontos que ainda faltam detalhar (semântico):")
                     st.markdown("\n".join(faltantes_all))
