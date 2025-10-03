@@ -1,0 +1,11 @@
+artefact: FISCALIZACAO
+items:
+  - id: identificacao
+    descricao: Indicar unidade responsável pela fiscalização e data de início.
+    obrigatorio: true
+    padrao: "(?i)(fiscaliza[cç][aã]o|respons[aá]vel|data)"
+
+  - id: descricao
+    descricao: Descrever os objetivos e critérios da fiscalização.
+    obrigatorio: true
+    padrao: "(?i)(objetivo|crit[eé]rio|escopo)"
