@@ -1,0 +1,11 @@
+artefact: PESQUISA_PRECOS
+items:
+  - id: identificacao
+    descricao: Indicar unidade demandante e responsável pela pesquisa.
+    obrigatorio: true
+    padrao: "(?i)(pesquisa de pre[cç]os|respons[aá]vel|unidade)"
+
+  - id: fornecedores
+    descricao: Apresentar pelo menos três cotações de fornecedores distintos.
+    obrigatorio: true
+    padrao: "(?i)(fornecedor|cota[cç][aã]o|proposta)"
