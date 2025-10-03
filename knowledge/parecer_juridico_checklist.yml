@@ -1,0 +1,10 @@
+artefato: PARECER_JURIDICO
+versao: "2025-10-05"
+itens:
+  - id: fundamentacao
+    descricao: "Apresentar fundamentação legal com base na Lei 14.133/2021 e normas internas."
+    obrigatorio: true
+
+  - id: conclusao
+    descricao: "Emitir conclusão clara e fundamentada sobre a viabilidade da contratação."
+    obrigatorio: true
