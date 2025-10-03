@@ -1,0 +1,64 @@
+itens:
+  - id: DFD1
+    descricao: Identificação da Unidade Demandante
+    obrigatorio: true
+
+  - id: DFD2
+    descricao: Necessidade da Contratação
+    obrigatorio: true
+
+  - id: DFD3
+    descricao: Alinhamento Estratégico (PPA, PDTI, Res. CNJ nº 370/2021, Plano de Obras)
+    obrigatorio: true
+
+  - id: DFD4
+    descricao: Resultados Esperados
+    obrigatorio: true
+
+  - id: DFD5
+    descricao: Estimativa de Valor (com base em preços de mercado, SINAPI ou SICRO quando aplicável)
+    obrigatorio: true
+
+  - id: DFD6
+    descricao: Quantitativos Estimados
+    obrigatorio: true
+
+  - id: DFD7
+    descricao: Justificativa da Contratação
+    obrigatorio: true
+
+  - id: DFD8
+    descricao: Requisitos da Contratação (técnicos e funcionais)
+    obrigatorio: true
+
+  - id: DFD9
+    descricao: Benefícios Esperados
+    obrigatorio: true
+
+  - id: DFD10
+    descricao: Alternativas à Contratação (inclusive não contratar)
+    obrigatorio: true
+
+  - id: DFD11
+    descricao: Riscos da Contratação (com matriz de riscos quando aplicável)
+    obrigatorio: true
+
+  - id: DFD12
+    descricao: Impacto Orçamentário e Financeiro (compatibilidade com LOA/LDO)
+    obrigatorio: true
+
+  - id: DFD13
+    descricao: Sustentabilidade e Acessibilidade
+    obrigatorio: true
+
+  - id: DFD14
+    descricao: Conformidade com Resolução CNJ nº 651/2025 (conta vinculada, retenções, serviços continuados)
+    obrigatorio: true
+
+  - id: DFD15
+    descricao: Conformidade com Resolução CNJ nº 652/2025 (obras, critérios de priorização, SINAPI/SICRO, BIM)
+    obrigatorio: true
+
+  - id: DFD16
+    descricao: Aprovação da Alta Administração / Área Requisitante
+    obrigatorio: true
