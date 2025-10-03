@@ -1,0 +1,14 @@
+artefato: PCA
+versao: "2025-10-05"
+itens:
+  - id: identificacao
+    descricao: "Indicar unidade responsável pelo planejamento anual de contratações."
+    obrigatorio: true
+
+  - id: metas
+    descricao: "Definir objetivos e metas do PCA vinculados ao PEI/PPA."
+    obrigatorio: true
+
+  - id: consolidacao
+    descricao: "Apresentar consolidação das demandas recebidas das unidades."
+    obrigatorio: true
