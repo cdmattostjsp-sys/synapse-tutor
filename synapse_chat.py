@@ -6,6 +6,7 @@ import PyPDF2
 import docx
 import pandas as pd
 from PIL import Image
+import base64
 
 # Importa engine unificado
 from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
@@ -15,22 +16,31 @@ from knowledge.validators.validator_engine import validate_document, SUPPORTED_A
 # ======================================================
 st.set_page_config(page_title="Synapse.IA – Prova de Conceito (POC)", layout="wide")
 
-# --- Cabeçalho Institucional com Logotipo ---
-try:
-    logo = Image.open("ChatGPT Image 4 de out. de 2025, 17_46_48.png")
-    st.image(logo, width=320)
-except Exception:
-    st.warning("⚠️ Logotipo não encontrado. Verifique o nome do arquivo ou caminho.")
+# --- Exibe logotipo institucional no cabeçalho ---
+def get_base64_image(img_path):
+    """Converte uma imagem local em base64 para exibição no Streamlit."""
+    with open(img_path, "rb") as f:
+        return base64.b64encode(f.read()).decode()
 
-st.markdown(
-    """
-    <div style='text-align: center; margin-top: -30px;'>
-        <h1 style='color: #FFFFFF;'>Prova de Conceito – Synapse.IA</h1>
-        <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo (TJSP)</h4>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+logo_path = "logo_synapse.png"
+
+if os.path.exists(logo_path):
+    logo_base64 = get_base64_image(logo_path)
+    st.markdown(
+        f"""
+        <div style='display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 30px;'>
+            <img src="data:image/png;base64,{logo_base64}" width="45" style="border-radius: 6px;">
+            <h1 style='color: #FFFFFF;'>Synapse.IA – Prova de Conceito (POC)</h1>
+        </div>
+        <div style='text-align: center; margin-top: -10px;'>
+            <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo (TJSP)</h4>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+else:
+    st.title("🧠 Synapse.IA – Prova de Conceito (POC)")
+    st.caption("Tribunal de Justiça de São Paulo (TJSP)")
 
 # --- Estilo de fundo e layout ---
 st.markdown(
