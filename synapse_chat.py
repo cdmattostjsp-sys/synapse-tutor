@@ -14,7 +14,7 @@ from knowledge.validators.validator_engine import validate_document, SUPPORTED_A
 # ======================================================
 # 🧠 CONFIGURAÇÃO VISUAL DO APP
 # ======================================================
-st.set_page_config(page_title="Synapse.IA – Prova de Conceito (POC)", layout="wide")
+st.set_page_config(page_title="Synapse.IA", layout="wide")
 
 # --- Exibe logotipo institucional no cabeçalho ---
 def get_base64_image(img_path):
@@ -30,10 +30,10 @@ if os.path.exists(logo_path):
         f"""
         <div style='display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 30px;'>
             <img src="data:image/png;base64,{logo_base64}" width="45" style="border-radius: 6px;">
-            <h1 style='color: #FFFFFF;'>Synapse.IA – Prova de Conceito (POC)</h1>
+            <h1 style='color: #FFFFFF;'>Synapse.IA</h1>
         </div>
         <div style='text-align: center; margin-top: -10px;'>
-            <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo (TJSP)</h4>
+            <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo</h4>
         </div>
         """,
         unsafe_allow_html=True
