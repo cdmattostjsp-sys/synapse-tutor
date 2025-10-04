@@ -39,8 +39,8 @@ if os.path.exists(logo_path):
         unsafe_allow_html=True
     )
 else:
-    st.title("🧠 Synapse.IA – Prova de Conceito (POC)")
-    st.caption("Tribunal de Justiça de São Paulo (TJSP)")
+    st.title("🧠 Synapse.IA – Prova de Conceito")
+    st.caption("Tribunal de Justiça de São Paulo")
 
 # --- Estilo de fundo e layout ---
 st.markdown(
