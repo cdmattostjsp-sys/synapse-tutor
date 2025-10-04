@@ -5,11 +5,54 @@ from openai import OpenAI
 import PyPDF2
 import docx
 import pandas as pd
+from PIL import Image
 
 # Importa engine unificado
 from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
-# Inicializa o cliente OpenAI
+# ======================================================
+# 🧠 CONFIGURAÇÃO VISUAL DO APP
+# ======================================================
+st.set_page_config(page_title="Synapse.IA – Prova de Conceito (POC)", layout="wide")
+
+# --- Cabeçalho Institucional com Logotipo ---
+try:
+    logo = Image.open("ChatGPT Image 4 de out. de 2025, 17_46_48.png")
+    st.image(logo, width=320)
+except Exception:
+    st.warning("⚠️ Logotipo não encontrado. Verifique o nome do arquivo ou caminho.")
+
+st.markdown(
+    """
+    <div style='text-align: center; margin-top: -30px;'>
+        <h1 style='color: #FFFFFF;'>Prova de Conceito – Synapse.IA</h1>
+        <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo (TJSP)</h4>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+# --- Estilo de fundo e layout ---
+st.markdown(
+    """
+    <style>
+    [data-testid="stAppViewContainer"] {
+        background-color: #0E1117;
+    }
+    [data-testid="stSidebar"] {
+        background-color: #161A23;
+    }
+    h1, h2, h3, h4, h5, h6, p {
+        color: #FFFFFF;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# ======================================================
+# 🔐 CONFIGURAÇÃO OPENAI
+# ======================================================
 api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 if not api_key:
     st.error("❌ Chave da OpenAI não encontrada. Configure em Settings > Secrets.")
@@ -17,7 +60,11 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Função para carregar os prompts de cada agente
+# ======================================================
+# ⚙️ FUNÇÕES AUXILIARES
+# ======================================================
+
+# Carrega prompt do agente
 def load_prompt(agent_name):
     try:
         with open(f"prompts/{agent_name}.json", "r", encoding="utf-8") as f:
@@ -26,7 +73,7 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# Função que envia mensagem ao modelo
+# Executa agente
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -42,7 +89,7 @@ def run_agent(agent_name, insumos):
     )
     return response.choices[0].message.content
 
-# Funções auxiliares para leitura de arquivos
+# Leitura de arquivos
 def extract_text_from_pdf(file):
     try:
         reader = PyPDF2.PdfReader(file)
@@ -73,11 +120,11 @@ def extract_text_from_csv(file):
     except Exception as e:
         return f"⚠️ Erro ao processar CSV: {e}"
 
-# Configuração da página
-st.set_page_config(page_title="Synapse.IA - Orquestrador", layout="wide")
-st.title("🧠 Synapse.IA – Prova de Conceito (POC)")
+# ======================================================
+# 🧩 INTERFACE PRINCIPAL
+# ======================================================
 
-# Entrada manual
+st.divider()
 st.subheader("📥 Insumos manuais")
 insumos = st.text_area(
     "Descreva o objeto, justificativa, requisitos, prazos, critérios etc.",
@@ -107,14 +154,14 @@ if uploaded_file is not None:
     else:
         st.error(conteudo_documento)
 
-# Insumos finais
+# Junta insumos
 insumos_finais = insumos + "\n\n" + conteudo_documento
 
-# Seleção do agente
+# Seleção de agente
 st.subheader("🤖 Selecionar Agente")
 agent_name = st.selectbox("Escolha o agente:", SUPPORTED_ARTEFACTS)
 
-# Checkbox para validação semântica
+# Opção de validação semântica
 use_semantic = st.checkbox("🔍 Executar validação semântica")
 
 # Botão executar
@@ -147,32 +194,17 @@ if st.button("▶️ Executar Agente"):
             sem_rows = validation.get("semantic_result", [])
             if sem_rows:
                 df_sem = pd.DataFrame(sem_rows)
-
-                # Se existir coluna "presente"
                 if "presente" in df_sem.columns:
                     df_sem["presente"] = df_sem["presente"].apply(lambda x: "✅" if x else "❌")
-
-                # Se existir coluna "adequacao_nota", gera "status"
                 if "adequacao_nota" in df_sem.columns:
                     df_sem["status"] = df_sem["adequacao_nota"].apply(
                         lambda n: "✅ Adequado" if n == 100 else ("⚠️ Parcial" if n > 0 else "❌ Ausente")
                     )
-
-                # Seleção segura de colunas (mostra só as que existem)
                 cols = [c for c in ["id", "descricao", "presente", "adequacao_nota", "status", "justificativa"] if c in df_sem.columns]
                 st.dataframe(df_sem[cols], use_container_width=True)
-
-                faltantes_all = []
-                for r in sem_rows:
-                    if r.get("faltantes"):
-                        for f in r["faltantes"]:
-                            faltantes_all.append(f"• **{r.get('id','?')}**: {f}")
-                if faltantes_all:
-                    st.markdown("### Pontos que ainda faltam detalhar (semântico):")
-                    st.markdown("\n".join(faltantes_all))
             else:
                 st.info("Nenhum item identificado na validação semântica.")
 
-        # --- Documento (sempre por último) ---
+        # --- Documento Final ---
         st.subheader("📄 Documento Gerado")
         st.text_area("Documento Gerado:", value=result, height=600)
