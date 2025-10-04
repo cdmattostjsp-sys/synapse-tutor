@@ -28,12 +28,12 @@ if os.path.exists(logo_path):
     logo_base64 = get_base64_image(logo_path)
     st.markdown(
         f"""
-        <div style='display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 30px;'>
-            <img src="data:image/png;base64,{logo_base64}" width="45" style="border-radius: 6px;">
-            <h1 style='color: #FFFFFF;'>Synapse.IA</h1>
+        <div style='display: flex; align-items: center; justify-content: flex-start; gap: 12px; margin-bottom: 5px;'>
+            <img src="data:image/png;base64,{logo_base64}" width="50" style="border-radius: 6px;">
+            <h1 style='color: #FFFFFF; margin-bottom: 0;'>Synapse.IA</h1>
         </div>
-        <div style='text-align: center; margin-top: -10px;'>
-            <h4 style='color: #AAAAAA;'>Tribunal de Justiça de São Paulo</h4>
+        <div style='text-align: left; margin-top: -8px;'>
+            <h4 style='color: #AAAAAA; font-weight: normal;'>Tribunal de Justiça de São Paulo</h4>
         </div>
         """,
         unsafe_allow_html=True
@@ -74,7 +74,6 @@ client = OpenAI(api_key=api_key)
 # ⚙️ FUNÇÕES AUXILIARES
 # ======================================================
 
-# Carrega prompt do agente
 def load_prompt(agent_name):
     try:
         with open(f"prompts/{agent_name}.json", "r", encoding="utf-8") as f:
@@ -83,7 +82,6 @@ def load_prompt(agent_name):
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
-# Executa agente
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
@@ -99,7 +97,7 @@ def run_agent(agent_name, insumos):
     )
     return response.choices[0].message.content
 
-# Leitura de arquivos
+# Extração de texto
 def extract_text_from_pdf(file):
     try:
         reader = PyPDF2.PdfReader(file)
