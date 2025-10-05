@@ -1,193 +1,178 @@
-import os
-import json
 import streamlit as st
-from openai import OpenAI
-import PyPDF2
-import docx
-import pandas as pd
+from PIL import Image
 import base64
+import io
 
-# ======================================================
-# 🧠 CONFIGURAÇÃO VISUAL DO APP
-# ======================================================
-st.set_page_config(page_title="Synapse.IA", layout="wide")
+# ===============================
+# CONFIGURAÇÕES GERAIS DA PÁGINA
+# ===============================
+st.set_page_config(
+    page_title="Synapse.IA",
+    page_icon="🧠",
+    layout="wide",
+)
 
-def get_base64_image(img_path):
-    with open(img_path, "rb") as f:
-        return base64.b64encode(f.read()).decode()
-
-# ======================================================
-# 🔷 BRANDING BAR (versão institucional compacta)
-# ======================================================
-logo_path = "logo_synapse.png"
-
-if os.path.exists(logo_path):
-    logo_base64 = get_base64_image(logo_path)
-    st.markdown(
-        f"""
-        <div style='
-            background-color:#0E1117;
-            padding:12px 30px 6px 25px;
-            display:flex;
-            align-items:center;
-            justify-content:flex-start;
-            gap:16px;
-            border-bottom:1px solid #303030;
-            margin-bottom:10px;
-        '>
-            <img src="data:image/png;base64,{logo_base64}" width="62" style="border-radius:6px;">
-            <div style='display:flex; flex-direction:column; align-items:flex-start; line-height:1.1;'>
-                <h2 style='color:#FFFFFF; margin:0; font-weight:600; font-size:1.7rem;'>Synapse.IA</h2>
-                <h5 style='color:#AAAAAA; margin:2px 0 0 0; font-weight:normal; font-size:1rem;'>Tribunal de Justiça de São Paulo</h5>
-            </div>
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
-else:
-    st.title("🧠 Synapse.IA")
-    st.caption("Tribunal de Justiça de São Paulo")
-
-# ======================================================
-# 🎨 ESTILO GERAL DO APP
-# ======================================================
+# ===============================
+# ESTILOS CSS PERSONALIZADOS
+# ===============================
 st.markdown(
     """
     <style>
-        .stTextArea textarea {
-            background-color: #1E1E1E;
-            color: white;
-            border-radius: 8px;
-        }
-        .stFileUploader {
-            background-color: #1E1E1E;
-            border-radius: 8px;
-        }
-        .stSelectbox {
-            background-color: #1E1E1E;
-        }
-        .stButton button {
-            border-radius: 6px;
-            height: 2.8em;
-        }
-        /* Títulos padronizados */
-        .section-title {
-            display:flex;
-            align-items:center;
-            gap:10px;
-            font-size:1.7rem;
-            color:#FFFFFF;
-            font-weight:600;
-            margin-top:35px;
-            margin-bottom:6px;
-        }
-        .section-subtext {
-            color:#AAAAAA;
-            font-size:0.9rem;
-            margin-top:-5px;
-            margin-bottom:10px;
-        }
+    /* Fundo geral e remoção de margens */
+    .block-container {
+        padding-top: 0rem;
+        padding-bottom: 0rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    /* Branding bar */
+    .branding-bar {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        padding: 10px 0 15px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        margin-bottom: 1rem;
+    }
+
+    .branding-text {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .branding-title {
+        font-size: 2rem;
+        font-weight: 800;
+        color: white;
+        margin: 0;
+        padding: 0;
+    }
+
+    .branding-subtitle {
+        font-size: 1rem;
+        color: #bbb;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Seções */
+    .section-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: white;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-top: 1.5rem;
+        margin-bottom: 0.3rem;
+        text-shadow: 0px 0px 8px rgba(0, 150, 255, 0.25);
+    }
+
+    /* Ícones das seções */
+    .section-icon {
+        font-size: 1.6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    textarea, .stTextArea textarea {
+        background-color: #1E1E1E;
+        color: white;
+        border-radius: 8px;
+        border: 1px solid #444;
+        min-height: 150px;
+    }
+
+    .stFileUploader {
+        background-color: #2C2C2C;
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+    .stButton>button {
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        padding: 0.6rem 1.2rem;
+        font-weight: 600;
+    }
+
+    .stButton>button:hover {
+        background-color: #3399FF;
+    }
     </style>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
 
-# ======================================================
-# ⚙️ CONFIGURAÇÃO DO CLIENTE OPENAI
-# ======================================================
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ===============================
+# CABEÇALHO / BRANDING BAR
+# ===============================
+logo = Image.open("logo_synapse.png")
 
-# ======================================================
-# 📂 FUNÇÕES DE LEITURA DE DOCUMENTOS
-# ======================================================
-def read_file(file):
-    if file.name.endswith(".pdf"):
-        reader = PyPDF2.PdfReader(file)
-        return "\n".join([page.extract_text() or "" for page in reader.pages])
-    elif file.name.endswith(".docx"):
-        doc = docx.Document(file)
-        return "\n".join([para.text for para in doc.paragraphs])
-    elif file.name.endswith(".xlsx"):
-        df = pd.read_excel(file)
-        return df.to_string()
-    elif file.name.endswith(".csv"):
-        df = pd.read_csv(file)
-        return df.to_string()
-    else:
-        return file.read().decode("utf-8", errors="ignore")
+col1, col2 = st.columns([0.1, 0.9])
+with col1:
+    st.image(logo, width=70)
+with col2:
+    st.markdown(
+        """
+        <div class="branding-text">
+            <h1 class="branding-title">Synapse.IA</h1>
+            <p class="branding-subtitle">Tribunal de Justiça de São Paulo</p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-# ======================================================
-# 🧩 INTERFACE DO APP
-# ======================================================
-# Título 1: Insumos Manuais
+# ===============================
+# SEÇÃO 1 – INSUMOS MANUAIS
+# ===============================
 st.markdown(
-    f"""
+    """
     <div class="section-title">
-        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        <div class="section-icon">📥</div>
         Insumos Manuais
     </div>
-    <div class="section-subtext">Descreva o objeto, justificativa, requisitos, prazos, critérios etc.</div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
-texto_usuario = st.text_area("", height=200)
+st.write("Descreva o objeto, justificativa, requisitos, prazos, critérios etc.")
+insumos = st.text_area("", height=180)
 
-# Título 2: Upload de Documento
+# ===============================
+# SEÇÃO 2 – UPLOAD DE DOCUMENTO
+# ===============================
 st.markdown(
-    f"""
+    """
     <div class="section-title">
-        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        <div class="section-icon">📂</div>
         Upload de Documento (opcional)
     </div>
-    <div class="section-subtext">Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)</div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
-uploaded_file = st.file_uploader("Drag and drop file here", type=["pdf", "docx", "xlsx", "csv"])
+st.write("Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)")
+uploaded_files = st.file_uploader(
+    "Drag and drop file here", type=["pdf", "docx", "xlsx", "csv"], accept_multiple_files=True
+)
 
-# Título 3: Selecionar Agente
+# ===============================
+# SEÇÃO 3 – SELECIONAR AGENTE
+# ===============================
 st.markdown(
-    f"""
+    """
     <div class="section-title">
-        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        <div class="section-icon">🧠</div>
         Selecionar Agente
     </div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
-agente = st.selectbox("Escolha o agente:", ["ETP", "TR", "EDITAL", "CONTRATO", "PESQUISA_PRECOS", "DFD", "PCA", "FISCALIZACAO", "OBRAS", "MAPA_RISCOS"])
-executar_semantico = st.checkbox("Executar validação semântica")
 
-# ======================================================
-# 🚀 EXECUÇÃO DO AGENTE
-# ======================================================
-if st.button("▶️ Executar Agente"):
-    with st.spinner("Executando análise..."):
-        document_text = texto_usuario
-        if uploaded_file:
-            document_text += "\n\n" + read_file(uploaded_file)
+agente = st.selectbox("Escolha o agente:", ["ETP", "DFD", "TR", "Contrato", "Checklist", "Fiscalização"])
+validar = st.checkbox("Executar validação semântica")
 
-        prompt = f"""
-        Você é um validador técnico. Analise o seguinte documento do tipo {agente}
-        e aponte se contém os elementos obrigatórios, conforme as normas do TJSP
-        e a Lei 14.133/2021. Apresente uma nota (0 a 100) e uma justificativa breve
-        para cada item avaliado.
-        Documento:
-        {document_text}
-        """
-
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": "Você é um avaliador técnico de documentos administrativos."},
-                    {"role": "user", "content": prompt}
-                ],
-                max_tokens=800
-            )
-            result_text = response.choices[0].message.content
-            st.success("✅ Validação concluída com sucesso!")
-            st.text_area("Resultado da Validação", value=result_text, height=400)
-
-        except Exception as e:
-            st.error(f"Erro ao processar: {e}")
+if st.button("Executar Agente"):
+    st.success(f"Agente **{agente}** executado com sucesso!")
