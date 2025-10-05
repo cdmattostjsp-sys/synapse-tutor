@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
 import base64
-import io
 
 # ===============================
 # CONFIGURAÇÕES GERAIS DA PÁGINA
@@ -13,95 +12,112 @@ st.set_page_config(
 )
 
 # ===============================
-# ESTILOS CSS PERSONALIZADOS
+# UTIL – carregar imagem em base64
+# ===============================
+def img_to_b64(path: str) -> str:
+    with open(path, "rb") as f:
+        return base64.b64encode(f.read()).decode("utf-8")
+
+# Carrega o logo (cérebro azul)
+LOGO_PATH = "logo_synapse.png"
+logo_b64 = img_to_b64(LOGO_PATH)
+
+# ===============================
+# ESTILOS CSS (ajustes de layout)
 # ===============================
 st.markdown(
-    """
+    f"""
     <style>
-    /* Fundo geral e remoção de margens */
-    .block-container {
-        padding-top: 0rem;
+    /* Container principal – evita corte do título no topo  */
+    .block-container {{
+        padding-top: 0.9rem;   /* ↑ aumentei para evitar clipping do h1 */
         padding-bottom: 0rem;
         padding-left: 2rem;
         padding-right: 2rem;
-    }
+    }}
 
-    /* Branding bar */
-    .branding-bar {
+    /* Branding bar com degradê sutil */
+    .branding-bar {{
         display: flex;
         align-items: center;
-        gap: 15px;
-        padding: 10px 0 15px 0;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        margin-bottom: 1rem;
-    }
+        gap: 14px;
+        padding: 14px 0 12px 0; /* ↑ top padding maior para não cortar */
+        background: linear-gradient(180deg, #10151e 0%, #0E1117 100%);
+        border-bottom: 1px solid #303030;
+        margin-bottom: 10px;
+    }}
 
-    .branding-text {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .branding-title {
+    .branding-title {{
         font-size: 2rem;
         font-weight: 800;
-        color: white;
+        color: #ffffff;
         margin: 0;
-        padding: 0;
-    }
+        line-height: 1.1;
+    }}
 
-    .branding-subtitle {
+    .branding-subtitle {{
         font-size: 1rem;
-        color: #bbb;
+        color: #bdbdbd;
         margin: 0;
-        padding: 0;
-    }
+        line-height: 1.2;
+    }}
 
-    /* Seções */
-    .section-title {
-        font-size: 1.5rem;
-        font-weight: 700;
-        color: white;
+    /* Títulos de seção – mesmo peso e hierarquia visual */
+    .section-title {{
         display: flex;
         align-items: center;
         gap: 10px;
-        margin-top: 1.5rem;
-        margin-bottom: 0.3rem;
-        text-shadow: 0px 0px 8px rgba(0, 150, 255, 0.25);
-    }
+        font-size: 1.7rem;      /* proporcional ao título do app */
+        font-weight: 700;
+        color: #ffffff;
+        margin-top: 1.6rem;
+        margin-bottom: 0.35rem;
+        text-shadow: 0 0 8px rgba(0, 150, 255, 0.22);
+    }}
 
-    /* Ícones das seções */
-    .section-icon {
-        font-size: 1.6rem;
-        display: flex;
-        align-items: center;
-    }
+    .section-subtext {{
+        color: #AAAAAA;
+        font-size: 0.95rem;
+        margin-top: -4px;
+        margin-bottom: 10px;
+    }}
 
-    textarea, .stTextArea textarea {
+    /* Linha divisória azul entre blocos (estilo institucional) */
+    .section-divider {{
+        height: 1px;
+        width: 100%;
+        background: #1d4ed8; /* azul institucional */
+        opacity: 0.35;
+        margin: 12px 0 12px 0;
+    }}
+
+    /* Inputs */
+    textarea, .stTextArea textarea {{
         background-color: #1E1E1E;
-        color: white;
+        color: #ffffff;
         border-radius: 8px;
         border: 1px solid #444;
         min-height: 150px;
-    }
+    }}
 
-    .stFileUploader {
+    .stFileUploader {{
         background-color: #2C2C2C;
         border-radius: 10px;
-        padding: 15px;
-    }
+        padding: 12px;
+    }}
 
-    .stButton>button {
+    .stButton>button {{
         background-color: #007BFF;
-        color: white;
+        color: #ffffff;
         border: none;
         border-radius: 8px;
         padding: 0.6rem 1.2rem;
         font-weight: 600;
-    }
+    }}
 
-    .stButton>button:hover {
+    .stButton>button:hover {{
         background-color: #3399FF;
-    }
+    }}
     </style>
     """,
     unsafe_allow_html=True,
@@ -110,21 +126,18 @@ st.markdown(
 # ===============================
 # CABEÇALHO / BRANDING BAR
 # ===============================
-logo = Image.open("logo_synapse.png")
-
-col1, col2 = st.columns([0.1, 0.9])
-with col1:
-    st.image(logo, width=70)
-with col2:
-    st.markdown(
-        """
-        <div class="branding-text">
+st.markdown(
+    f"""
+    <div class="branding-bar">
+        <img src="data:image/png;base64,{logo_b64}" alt="Logo Synapse.IA" width="66" style="border-radius:6px;">
+        <div style="display:flex; flex-direction:column;">
             <h1 class="branding-title">Synapse.IA</h1>
             <p class="branding-subtitle">Tribunal de Justiça de São Paulo</p>
         </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 # ===============================
 # SEÇÃO 1 – INSUMOS MANUAIS
@@ -132,14 +145,15 @@ with col2:
 st.markdown(
     """
     <div class="section-title">
-        <div class="section-icon">📥</div>
+        <div style="font-size:1.6rem;">📥</div>
         Insumos Manuais
     </div>
+    <div class="section-subtext">Descreva o objeto, justificativa, requisitos, prazos, critérios etc.</div>
     """,
     unsafe_allow_html=True,
 )
-st.write("Descreva o objeto, justificativa, requisitos, prazos, critérios etc.")
 insumos = st.text_area("", height=180)
+st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
 
 # ===============================
 # SEÇÃO 2 – UPLOAD DE DOCUMENTO
@@ -147,32 +161,41 @@ insumos = st.text_area("", height=180)
 st.markdown(
     """
     <div class="section-title">
-        <div class="section-icon">📂</div>
+        <div style="font-size:1.6rem;">📂</div>
         Upload de Documento (opcional)
     </div>
+    <div class="section-subtext">Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)</div>
     """,
     unsafe_allow_html=True,
 )
-st.write("Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)")
 uploaded_files = st.file_uploader(
-    "Drag and drop file here", type=["pdf", "docx", "xlsx", "csv"], accept_multiple_files=True
+    "Drag and drop file here",
+    type=["pdf", "docx", "xlsx", "csv"],
+    accept_multiple_files=True,
 )
+st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
 
 # ===============================
 # SEÇÃO 3 – SELECIONAR AGENTE
+# (com o cérebro azul, igual ao do cabeçalho)
 # ===============================
 st.markdown(
-    """
+    f"""
     <div class="section-title">
-        <div class="section-icon">🧠</div>
+        <img src="data:image/png;base64,{logo_b64}" width="32" style="transform: translateY(2px);">
         Selecionar Agente
     </div>
     """,
     unsafe_allow_html=True,
 )
-
-agente = st.selectbox("Escolha o agente:", ["ETP", "DFD", "TR", "Contrato", "Checklist", "Fiscalização"])
+agente = st.selectbox(
+    "Escolha o agente:",
+    ["ETP", "DFD", "TR", "CONTRATO", "EDITAL", "PESQUISA_PRECOS", "FISCALIZACAO", "OBRAS", "MAPA_RISCOS", "PCA"],
+)
 validar = st.checkbox("Executar validação semântica")
 
+# ===============================
+# BOTÃO DE AÇÃO (placeholder funcional)
+# ===============================
 if st.button("Executar Agente"):
     st.success(f"Agente **{agente}** executado com sucesso!")
