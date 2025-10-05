@@ -5,44 +5,43 @@ from openai import OpenAI
 import PyPDF2
 import docx
 import pandas as pd
-from PIL import Image
 import base64
-
-# Importa engine unificado
-from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 # ======================================================
 # 🧠 CONFIGURAÇÃO VISUAL DO APP
 # ======================================================
 st.set_page_config(page_title="Synapse.IA", layout="wide")
 
-# --- Exibe logotipo institucional no cabeçalho ---
 def get_base64_image(img_path):
-    """Converte uma imagem local em base64 para exibição no Streamlit."""
     with open(img_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
+# ======================================================
+# 🔷 BRANDING BAR COMPACTA
+# ======================================================
 logo_path = "logo_synapse.png"
 
 if os.path.exists(logo_path):
     logo_base64 = get_base64_image(logo_path)
     st.markdown(
         f"""
-        <div style='display: flex; align-items: center; justify-content: flex-start; gap: 12px; margin-bottom: 5px;'>
-            <img src="data:image/png;base64,{logo_base64}" width="50" style="border-radius: 6px;">
-            <h1 style='color: #FFFFFF; margin-bottom: 0;'>Synapse.IA</h1>
-        </div>
-        <div style='text-align: left; margin-top: -8px;'>
-            <h4 style='color: #AAAAAA; font-weight: normal;'>Tribunal de Justiça de São Paulo</h4>
+        <div style='background-color:#0E1117; padding:10px 25px; display:flex; align-items:center; justify-content:flex-start; gap:10px; border-bottom:1px solid #222;'>
+            <img src="data:image/png;base64,{logo_base64}" width="42" style="border-radius:6px;">
+            <div style='display:flex; flex-direction:column; align-items:flex-start;'>
+                <h2 style='color:#FFFFFF; margin:0; font-weight:600;'>Synapse.IA</h2>
+                <h5 style='color:#AAAAAA; margin:0; font-weight:normal;'>Tribunal de Justiça de São Paulo</h5>
+            </div>
         </div>
         """,
         unsafe_allow_html=True
     )
 else:
-    st.title("🧠 Synapse.IA – Prova de Conceito")
+    st.title("🧠 Synapse.IA")
     st.caption("Tribunal de Justiça de São Paulo")
 
-# --- Estilo de fundo e layout ---
+# ======================================================
+# 🎨 ESTILO GERAL
+# ======================================================
 st.markdown(
     """
     <style>
@@ -52,8 +51,8 @@ st.markdown(
     [data-testid="stSidebar"] {
         background-color: #161A23;
     }
-    h1, h2, h3, h4, h5, h6, p {
-        color: #FFFFFF;
+    h1, h2, h3, h4, h5, h6, p, label, span, div {
+        color: #FFFFFF !important;
     }
     </style>
     """,
@@ -73,19 +72,18 @@ client = OpenAI(api_key=api_key)
 # ======================================================
 # ⚙️ FUNÇÕES AUXILIARES
 # ======================================================
+from knowledge.validators.validator_engine import validate_document, SUPPORTED_ARTEFACTS
 
 def load_prompt(agent_name):
     try:
         with open(f"prompts/{agent_name}.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-            return data["prompt"]
+            return json.load(f)["prompt"]
     except FileNotFoundError:
         return f"⚠️ Prompt do agente {agent_name} não encontrado."
 
 def run_agent(agent_name, insumos):
     prompt_base = load_prompt(agent_name)
     user_message = f"Insumos fornecidos:\n{insumos}\n\nElabore o documento conforme instruções do agente {agent_name}."
-
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
@@ -108,30 +106,27 @@ def extract_text_from_pdf(file):
 def extract_text_from_docx(file):
     try:
         doc = docx.Document(file)
-        return "\n".join([para.text for para in doc.paragraphs if para.text.strip()])
+        return "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
     except Exception as e:
         return f"⚠️ Erro ao processar DOCX: {e}"
 
 def extract_text_from_excel(file):
     try:
         df = pd.read_excel(file)
-        preview = df.head(20).to_string(index=False)
-        return f"Conteúdo da planilha (amostra):\n{preview}"
+        return f"Conteúdo da planilha (amostra):\n{df.head(20).to_string(index=False)}"
     except Exception as e:
         return f"⚠️ Erro ao processar Excel: {e}"
 
 def extract_text_from_csv(file):
     try:
         df = pd.read_csv(file)
-        preview = df.head(20).to_string(index=False)
-        return f"Conteúdo do CSV (amostra):\n{preview}"
+        return f"Conteúdo do CSV (amostra):\n{df.head(20).to_string(index=False)}"
     except Exception as e:
         return f"⚠️ Erro ao processar CSV: {e}"
 
 # ======================================================
 # 🧩 INTERFACE PRINCIPAL
 # ======================================================
-
 st.divider()
 st.subheader("📥 Insumos manuais")
 insumos = st.text_area(
@@ -139,7 +134,6 @@ insumos = st.text_area(
     height=200
 )
 
-# Upload de arquivo
 st.subheader("📂 Upload de Documento (opcional)")
 uploaded_file = st.file_uploader(
     "Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)",
@@ -147,7 +141,7 @@ uploaded_file = st.file_uploader(
 )
 
 conteudo_documento = ""
-if uploaded_file is not None:
+if uploaded_file:
     if uploaded_file.type == "application/pdf":
         conteudo_documento = extract_text_from_pdf(uploaded_file)
     elif uploaded_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
@@ -162,17 +156,12 @@ if uploaded_file is not None:
     else:
         st.error(conteudo_documento)
 
-# Junta insumos
 insumos_finais = insumos + "\n\n" + conteudo_documento
 
-# Seleção de agente
 st.subheader("🤖 Selecionar Agente")
 agent_name = st.selectbox("Escolha o agente:", SUPPORTED_ARTEFACTS)
-
-# Opção de validação semântica
 use_semantic = st.checkbox("🔍 Executar validação semântica")
 
-# Botão executar
 if st.button("▶️ Executar Agente"):
     if not insumos_finais.strip():
         st.warning("⚠️ Por favor, insira insumos ou envie um documento antes de executar.")
@@ -181,10 +170,8 @@ if st.button("▶️ Executar Agente"):
             result = run_agent(agent_name, insumos_finais)
             validation = validate_document(agent_name, result, use_semantic=use_semantic, client=client)
 
-        # --- Avaliação RÍGIDA ---
         st.subheader("📊 Avaliação de Conformidade — Checklist RÍGIDO")
         st.write(f"**Score Rígido:** {validation.get('rigid_score', 0.0):.1f}%")
-
         rigid_rows = validation.get("rigid_result", [])
         if rigid_rows:
             df_rigido = pd.DataFrame(rigid_rows)
@@ -194,25 +181,20 @@ if st.button("▶️ Executar Agente"):
         else:
             st.info("Nenhum item identificado no checklist rígido.")
 
-        # --- Avaliação SEMÂNTICA ---
         if use_semantic:
             st.subheader("🧠 Avaliação de Conformidade — Semântica (IA)")
             st.write(f"**Score Semântico:** {validation.get('semantic_score', 0.0):.1f}%")
-
             sem_rows = validation.get("semantic_result", [])
             if sem_rows:
                 df_sem = pd.DataFrame(sem_rows)
-                if "presente" in df_sem.columns:
-                    df_sem["presente"] = df_sem["presente"].apply(lambda x: "✅" if x else "❌")
                 if "adequacao_nota" in df_sem.columns:
                     df_sem["status"] = df_sem["adequacao_nota"].apply(
                         lambda n: "✅ Adequado" if n == 100 else ("⚠️ Parcial" if n > 0 else "❌ Ausente")
                     )
-                cols = [c for c in ["id", "descricao", "presente", "adequacao_nota", "status", "justificativa"] if c in df_sem.columns]
+                cols = [c for c in ["id", "descricao", "adequacao_nota", "status", "justificativa"] if c in df_sem.columns]
                 st.dataframe(df_sem[cols], use_container_width=True)
             else:
                 st.info("Nenhum item identificado na validação semântica.")
 
-        # --- Documento Final ---
         st.subheader("📄 Documento Gerado")
         st.text_area("Documento Gerado:", value=result, height=600)
