@@ -17,7 +17,7 @@ def get_base64_image(img_path):
         return base64.b64encode(f.read()).decode()
 
 # ======================================================
-# 🔷 BRANDING BAR (versão institucional compacta com divisor)
+# 🔷 BRANDING BAR (versão institucional compacta)
 # ======================================================
 logo_path = "logo_synapse.png"
 
@@ -70,6 +70,23 @@ st.markdown(
             border-radius: 6px;
             height: 2.8em;
         }
+        /* Títulos padronizados */
+        .section-title {
+            display:flex;
+            align-items:center;
+            gap:10px;
+            font-size:1.7rem;
+            color:#FFFFFF;
+            font-weight:600;
+            margin-top:35px;
+            margin-bottom:6px;
+        }
+        .section-subtext {
+            color:#AAAAAA;
+            font-size:0.9rem;
+            margin-top:-5px;
+            margin-bottom:10px;
+        }
     </style>
     """,
     unsafe_allow_html=True
@@ -102,17 +119,42 @@ def read_file(file):
 # ======================================================
 # 🧩 INTERFACE DO APP
 # ======================================================
-st.header("📄 Insumos manuais")
-st.caption("Descreva o objeto, justificativa, requisitos, prazos, critérios etc.")
+# Título 1: Insumos Manuais
+st.markdown(
+    f"""
+    <div class="section-title">
+        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        Insumos Manuais
+    </div>
+    <div class="section-subtext">Descreva o objeto, justificativa, requisitos, prazos, critérios etc.</div>
+    """,
+    unsafe_allow_html=True
+)
 texto_usuario = st.text_area("", height=200)
 
-# Upload de documentos
-st.header("📤 Upload de Documento (opcional)")
-st.caption("Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)")
+# Título 2: Upload de Documento
+st.markdown(
+    f"""
+    <div class="section-title">
+        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        Upload de Documento (opcional)
+    </div>
+    <div class="section-subtext">Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)</div>
+    """,
+    unsafe_allow_html=True
+)
 uploaded_file = st.file_uploader("Drag and drop file here", type=["pdf", "docx", "xlsx", "csv"])
 
-# Seleção de agente
-st.header("🧠 Selecionar Agente")
+# Título 3: Selecionar Agente
+st.markdown(
+    f"""
+    <div class="section-title">
+        <img src="data:image/png;base64,{get_base64_image(logo_path)}" width="36">
+        Selecionar Agente
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 agente = st.selectbox("Escolha o agente:", ["ETP", "TR", "EDITAL", "CONTRATO", "PESQUISA_PRECOS", "DFD", "PCA", "FISCALIZACAO", "OBRAS", "MAPA_RISCOS"])
 executar_semantico = st.checkbox("Executar validação semântica")
 
@@ -125,7 +167,6 @@ if st.button("▶️ Executar Agente"):
         if uploaded_file:
             document_text += "\n\n" + read_file(uploaded_file)
 
-        # Monta prompt de validação
         prompt = f"""
         Você é um validador técnico. Analise o seguinte documento do tipo {agente}
         e aponte se contém os elementos obrigatórios, conforme as normas do TJSP
@@ -138,8 +179,10 @@ if st.button("▶️ Executar Agente"):
         try:
             response = client.chat.completions.create(
                 model="gpt-4o-mini",
-                messages=[{"role": "system", "content": "Você é um avaliador técnico de documentos administrativos."},
-                          {"role": "user", "content": prompt}],
+                messages=[
+                    {"role": "system", "content": "Você é um avaliador técnico de documentos administrativos."},
+                    {"role": "user", "content": prompt}
+                ],
                 max_tokens=800
             )
             result_text = response.choices[0].message.content
