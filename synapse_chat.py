@@ -1,198 +1,122 @@
 import streamlit as st
-from PIL import Image
+from openai import OpenAI
 import base64
+import os
 
-# ===============================
-# CONFIGURAÇÕES GERAIS DA PÁGINA
-# ===============================
+# ==========================================================
+# CONFIGURAÇÕES GERAIS
+# ==========================================================
 st.set_page_config(
-    page_title="Synapse.IA",
+    page_title="Synapse.IA - TJSP",
     page_icon="🧠",
-    layout="wide",
+    layout="wide"
 )
 
-# ===============================
-# UTIL – carregar imagem em base64
-# ===============================
-def img_to_b64(path: str) -> str:
-    with open(path, "rb") as f:
-        return base64.b64encode(f.read()).decode("utf-8")
+# Inicializa cliente OpenAI
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Carrega o logo (cérebro azul)
-LOGO_PATH = "logo_synapse.png"
-logo_b64 = img_to_b64(LOGO_PATH)
+# ==========================================================
+# FUNÇÕES AUXILIARES
+# ==========================================================
+def get_base64_of_bin_file(bin_file):
+    with open(bin_file, "rb") as f:
+        return base64.b64encode(f.read()).decode()
 
-# ===============================
-# ESTILOS CSS (ajustes de layout)
-# ===============================
-st.markdown(
-    f"""
-    <style>
-    /* Container principal – evita corte do título no topo  */
-    .block-container {{
-        padding-top: 0.9rem;
-        padding-bottom: 0rem;
-        padding-left: 2rem;
-        padding-right: 2rem;
-    }}
+def branding_bar():
+    LOGO_PATH = "logo_synapse.png"
+    if os.path.exists(LOGO_PATH):
+        logo_base64 = get_base64_of_bin_file(LOGO_PATH)
+        st.markdown(
+            f"""
+            <div style="
+                display: flex;
+                align-items: center;
+                background-color: #f8f9fa;
+                padding: 10px 25px;
+                border-radius: 12px;
+                margin-bottom: 20px;
+            ">
+                <img src="data:image/png;base64,{logo_base64}" style="height:60px; margin-right:15px;">
+                <div style="line-height:1;">
+                    <h1 style="margin:0; font-size:32px; color:#2a2a2a;">Synapse.IA</h1>
+                    <h3 style="margin:0; font-size:18px; color:#5a5a5a;">Tribunal de Justiça de São Paulo</h3>
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    else:
+        st.warning("⚠️ Logo não encontrado. Verifique se o arquivo 'logo_synapse.png' está na raiz do projeto.")
 
-    /* Branding bar */
-    .branding-bar {{
-        display: flex;
-        align-items: center;
-        gap: 14px;
-        padding: 14px 0 12px 0;
-        background: linear-gradient(180deg, #10151e 0%, #0E1117 100%);
-        border-bottom: 1px solid #303030;
-        margin-bottom: 10px;
-    }}
+# ==========================================================
+# INTERFACE PRINCIPAL
+# ==========================================================
+branding_bar()
 
-    .branding-title {{
-        font-size: 2rem;
-        font-weight: 800;
-        color: #ffffff;
-        margin: 0;
-        line-height: 1.1;
-    }}
-
-    .branding-subtitle {{
-        font-size: 1rem;
-        color: #bdbdbd;
-        margin: 0;
-        line-height: 1.2;
-    }}
-
-    /* Títulos de seção */
-    .section-title {{
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        font-size: 1.7rem;
-        font-weight: 700;
-        color: #ffffff;
-        margin-top: 1.6rem;
-        margin-bottom: 0.35rem;
-        text-shadow: 0 0 8px rgba(0, 150, 255, 0.22);
-    }}
-
-    .section-subtext {{
-        color: #AAAAAA;
-        font-size: 0.95rem;
-        margin-top: -4px;
-        margin-bottom: 10px;
-    }}
-
-    .section-divider {{
-        height: 1px;
-        width: 100%;
-        background: #1d4ed8;
-        opacity: 0.35;
-        margin: 12px 0 12px 0;
-    }}
-
-    textarea, .stTextArea textarea {{
-        background-color: #1E1E1E;
-        color: #ffffff;
-        border-radius: 8px;
-        border: 1px solid #444;
-        min-height: 150px;
-    }}
-
-    .stFileUploader {{
-        background-color: #2C2C2C;
-        border-radius: 10px;
-        padding: 12px;
-    }}
-
-    .stButton>button {{
-        background-color: #007BFF;
-        color: #ffffff;
-        border: none;
-        border-radius: 8px;
-        padding: 0.6rem 1.2rem;
-        font-weight: 600;
-    }}
-
-    .stButton>button:hover {{
-        background-color: #3399FF;
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True,
+st.markdown("## 📨 Insumos Manuais")
+insumos = st.text_area(
+    "Descreva aqui o objeto, justificativa e requisitos do documento",
+    placeholder="Exemplo: Aquisição de 50 computadores desktop padrão corporativo...",
+    height=180
 )
 
-# ===============================
-# CABEÇALHO / BRANDING BAR
-# ===============================
-st.markdown(
-    f"""
-    <div class="branding-bar">
-        <img src="data:image/png;base64,{logo_b64}" alt="Logo Synapse.IA" width="66" style="border-radius:6px;">
-        <div style="display:flex; flex-direction:column;">
-            <h1 class="branding-title">Synapse.IA</h1>
-            <p class="branding-subtitle">Tribunal de Justiça de São Paulo</p>
-        </div>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+st.markdown("## 📂 Upload de Documento (opcional)")
+uploaded_file = st.file_uploader("Carregue um documento (PDF, DOCX ou TXT)", type=["pdf", "docx", "txt"])
 
-# ===============================
-# SEÇÃO 1 – INSUMOS MANUAIS
-# ===============================
-st.markdown(
-    """
-    <div class="section-title">
-        <div style="font-size:1.6rem;">📥</div>
-        Insumos Manuais
-    </div>
-    <div class="section-subtext">Descreva o objeto, justificativa, requisitos, prazos, critérios etc.</div>
-    """,
-    unsafe_allow_html=True,
-)
-insumos = st.text_area("", height=180)
-st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
-
-# ===============================
-# SEÇÃO 2 – UPLOAD DE DOCUMENTO
-# ===============================
-st.markdown(
-    """
-    <div class="section-title">
-        <div style="font-size:1.6rem;">📂</div>
-        Upload de Documento (opcional)
-    </div>
-    <div class="section-subtext">Envie PDF, DOCX, XLSX ou CSV (ex.: ETP, TR, Contrato, Obras etc.)</div>
-    """,
-    unsafe_allow_html=True,
-)
-uploaded_files = st.file_uploader(
-    "Drag and drop file here",
-    type=["pdf", "docx", "xlsx", "csv"],
-    accept_multiple_files=True,
-)
-st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
-
-# ===============================
-# SEÇÃO 3 – SELECIONAR AGENTE
-# ===============================
-st.markdown(
-    f"""
-    <div class="section-title">
-        <img src="data:image/png;base64,{logo_b64}" width="32" style="transform: translateY(2px);">
-        Selecionar Agente
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+st.markdown("## 🧠 Selecionar Agente")
 agente = st.selectbox(
-    "Escolha o agente:",
-    ["ETP", "DFD", "TR", "CONTRATO", "EDITAL", "PESQUISA_PRECOS", "FISCALIZACAO", "OBRAS", "MAPA_RISCOS", "PCA"],
+    "Escolha o tipo de artefato que deseja gerar:",
+    ["ETP", "TR", "DFD", "PESQUISA_PRECOS", "CONTRATO", "EDITAL", "MAPA_RISCOS", "PCA", "FISCALIZACAO", "OBRAS"]
 )
-validar = st.checkbox("Executar validação semântica")
 
-# ===============================
-# BOTÃO DE AÇÃO
-# ===============================
-if st.button("Executar Agente"):
-    st.success(f"Agente **{agente}** executado com sucesso!")
+# ==========================================================
+# EXECUÇÃO DO AGENTE
+# ==========================================================
+if st.button("🚀 Executar Agente"):
+    if not insumos and not uploaded_file:
+        st.warning("⚠️ Insira algum texto ou faça upload de um documento para análise.")
+    else:
+        with st.spinner(f"Executando agente {agente}... isso pode levar alguns segundos."):
+            try:
+                # Carrega texto base
+                texto_base = insumos
+
+                # Caso tenha upload de arquivo
+                if uploaded_file:
+                    file_data = uploaded_file.read().decode("utf-8", errors="ignore")
+                    texto_base += "\n\n" + file_data
+
+                # ==================================================
+                # ENVIA TEXTO PARA OPENAI GPT-4o
+                # ==================================================
+                prompt = f"""
+                Você é um agente institucional do Tribunal de Justiça de São Paulo chamado Synapse.IA.
+                Sua função é analisar e gerar **{agente}** de forma técnica e completa,
+                seguindo a Lei nº 14.133/2021 e demais normas aplicáveis.
+                
+                Abaixo estão os insumos fornecidos pelo usuário:
+                ----------------------
+                {texto_base}
+                ----------------------
+
+                Gere um texto estruturado e completo do artefato solicitado ({agente}),
+                com linguagem formal e detalhada, mantendo clareza e coerência institucional.
+                """
+
+                response = client.chat.completions.create(
+                    model="gpt-4o",
+                    messages=[
+                        {"role": "system", "content": "Você é um especialista em contratações públicas do TJSP."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.4,
+                    max_tokens=2200
+                )
+
+                resultado = response.choices[0].message.content
+                st.success(f"✅ Agente **{agente}** executado com sucesso!")
+                st.markdown("### 🧾 Resultado da Análise")
+                st.markdown(resultado)
+
+            except Exception as e:
+                st.error(f"❌ Erro ao processar o agente: {e}")
