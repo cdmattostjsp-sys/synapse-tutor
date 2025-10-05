@@ -1,162 +1,150 @@
 import streamlit as st
-from PIL import Image
 import base64
 import os
+from openai import OpenAI
 
-# ==============================
-# CONFIGURAÇÃO GERAL DO APLICATIVO
-# ==============================
+# ============================================================
+# CONFIGURAÇÕES GERAIS
+# ============================================================
+st.set_page_config(page_title="Synapse.IA", layout="wide")
 
-st.set_page_config(
-    page_title="Synapse.IA",
-    page_icon="🧠",
-    layout="wide"
-)
+# ============================================================
+# ESTILOS GERAIS - NOVA PALETA TJSP
+# ============================================================
+st.markdown("""
+    <style>
+    body {
+        background-color: #F4F4F4;
+    }
+    .branding-bar {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        background-color: #F4F4F4;
+        padding: 12px 25px;
+        border-bottom: 2px solid #C6A75E;
+        margin-bottom: 10px;
+    }
+    .branding-logo {
+        height: 75px;
+        margin-right: 20px;
+    }
+    .branding-text {
+        line-height: 1.2;
+    }
+    .branding-title {
+        font-size: 38px;
+        font-weight: 700;
+        color: #8B0000; /* vermelho TJSP */
+        font-family: 'Segoe UI', sans-serif;
+    }
+    .branding-subtitle {
+        font-size: 18px;
+        font-weight: 500;
+        color: #C6A75E; /* dourado TJSP */
+        font-family: 'Segoe UI', sans-serif;
+    }
+    .section-title {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+        color: #8B0000 !important;
+        font-family: 'Segoe UI', sans-serif;
+        margin-bottom: 5px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .brain-icon {
+        height: 26px;
+        vertical-align: middle;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
-# Define as cores institucionais do TJSP
-BACKGROUND_COLOR = "#F4F4F4"     # cinza-claro
-RED_TJSP = "#8B0000"             # vermelho institucional
-GOLD_TJSP = "#C6A75E"            # dourado fosco
+# ============================================================
+# FUNÇÕES AUXILIARES
+# ============================================================
+LOGO_PATH = "logo_synapse.png"
 
-# Define o caminho das imagens (ajuste o nome conforme o arquivo no repositório)
-LOGO_PATH = "logo_synapse_tjsp.png"
-ICON_PATH = "icon_synapse_tjsp.png"
-
-# ==============================
-# FUNÇÃO PARA CONVERTER IMAGEM EM BASE64 (para embutir no HTML)
-# ==============================
 def get_base64_of_bin_file(bin_file):
-    with open(bin_file, "rb") as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
+    try:
+        with open(bin_file, "rb") as f:
+            return base64.b64encode(f.read()).decode()
+    except FileNotFoundError:
+        st.warning(f"⚠️ O arquivo '{bin_file}' não foi encontrado. "
+                   f"Verifique se o logo está na raiz do projeto.")
+        return None
 
-# ==============================
-# BRANDING BAR
-# ==============================
 def branding_bar():
+    """Exibe o cabeçalho institucional do aplicativo."""
     logo_base64 = get_base64_of_bin_file(LOGO_PATH)
-    st.markdown(
-        f"""
-        <div style="
-            display: flex;
-            align-items: center;
-            background-color: {BACKGROUND_COLOR};
-            padding: 0.8rem 1.2rem;
-            border-bottom: 1px solid #ccc;
-        ">
-            <img src="data:image/png;base64,{logo_base64}" style="height: 60px; margin-right: 12px;">
-            <div style="line-height: 1;">
-                <h1 style="margin: 0; font-size: 2.2rem; color: {RED_TJSP}; font-weight: 700;">Synapse.<span style="color: {GOLD_TJSP};">IA</span></h1>
-                <h3 style="margin: 0; font-size: 1.1rem; color: {GOLD_TJSP}; font-weight: 500;">Tribunal de Justiça de São Paulo</h3>
+    if logo_base64:
+        st.markdown(f"""
+        <div class="branding-bar">
+            <img src="data:image/png;base64,{logo_base64}" class="branding-logo">
+            <div class="branding-text">
+                <div class="branding-title">Synapse.IA</div>
+                <div class="branding-subtitle">Tribunal de Justiça de São Paulo</div>
             </div>
         </div>
-        """,
-        unsafe_allow_html=True
-    )
+        """, unsafe_allow_html=True)
+    else:
+        st.markdown("""
+        <div class="branding-bar">
+            <div class="branding-text">
+                <div class="branding-title">Synapse.IA</div>
+                <div class="branding-subtitle">Tribunal de Justiça de São Paulo</div>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
 
+# ============================================================
+# INTERFACE PRINCIPAL
+# ============================================================
 branding_bar()
+st.markdown("")
 
-# ==============================
-# ESTILO GLOBAL DO APP
-# ==============================
-st.markdown(
-    f"""
-    <style>
-        .main {{
-            background-color: {BACKGROUND_COLOR};
-        }}
-        h2 {{
-            font-size: 1.8rem !important;
-            color: {RED_TJSP};
-            font-weight: 700 !important;
-            display: flex;
-            align-items: center;
-        }}
-        h3 {{
-            font-size: 1.1rem !important;
-            color: #444;
-        }}
-        .icon {{
-            height: 26px;
-            margin-right: 8px;
-        }}
-        .section-title {{
-            margin-top: 2.2rem;
-            margin-bottom: 1.2rem;
-        }}
-    </style>
-    """,
-    unsafe_allow_html=True
+# SEÇÃO 1 - INSUMOS MANUAIS
+st.markdown("""
+<div class="section-title">
+    <img src="https://cdn-icons-png.flaticon.com/512/709/709496.png" class="brain-icon">
+    Insumos Manuais
+</div>
+""", unsafe_allow_html=True)
+with st.expander("Clique para inserir informações manuais"):
+    st.text_area("Descreva aqui o objeto, justificativa ou requisitos do artefato:")
+
+# SEÇÃO 2 - UPLOAD DE DOCUMENTO
+st.markdown("""
+<div class="section-title">
+    <img src="https://cdn-icons-png.flaticon.com/512/3022/3022255.png" class="brain-icon">
+    Upload de Documento (opcional)
+</div>
+""", unsafe_allow_html=True)
+uploaded_file = st.file_uploader("Selecione um arquivo", type=["pdf", "docx", "txt"])
+
+# SEÇÃO 3 - SELEÇÃO DE AGENTE
+st.markdown("""
+<div class="section-title">
+    <img src="https://cdn-icons-png.flaticon.com/512/1161/1161388.png" class="brain-icon">
+    Selecionar Agente
+</div>
+""", unsafe_allow_html=True)
+agent = st.selectbox(
+    "Escolha o agente responsável pela validação:",
+    ["ETP", "TR", "DFD", "PCA", "PESQUISA_PRECOS", "OBRAS", "EDITAL", "CONTRATO", "MAPA_RISCOS", "FISCALIZACAO"]
 )
 
-# ==============================
-# SEÇÃO: INSUMOS MANUAIS
-# ==============================
-st.markdown(
-    f"""
-    <h2 class="section-title">
-        <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" class="icon">
-        Insumos Manuais
-    </h2>
-    """,
-    unsafe_allow_html=True
-)
+# SEÇÃO 4 - BOTÃO DE EXECUÇÃO
+if st.button("Executar Validação"):
+    st.success(f"✅ Validação do artefato **{agent}** concluída com sucesso!")
 
-insumo_text = st.text_area(
-    "Descreva o contexto, objetivo e informações adicionais:",
-    height=160,
-    placeholder="Digite aqui os detalhes do seu artefato..."
-)
-
-# ==============================
-# SEÇÃO: UPLOAD DE DOCUMENTO
-# ==============================
-st.markdown(
-    f"""
-    <h2 class="section-title">
-        <img src="https://cdn-icons-png.flaticon.com/512/151/151773.png" class="icon">
-        Upload de Documento (opcional)
-    </h2>
-    """,
-    unsafe_allow_html=True
-)
-
-uploaded_file = st.file_uploader("Selecione um arquivo (PDF, DOCX, TXT, etc.)", type=["pdf", "docx", "txt"])
-
-# ==============================
-# SEÇÃO: SELECIONAR AGENTE
-# ==============================
-if os.path.exists(ICON_PATH):
-    agent_icon_base64 = get_base64_of_bin_file(ICON_PATH)
-else:
-    agent_icon_base64 = ""
-
-st.markdown(
-    f"""
-    <h2 class="section-title">
-        <img src="data:image/png;base64,{agent_icon_base64}" class="icon">
-        Selecionar Agente
-    </h2>
-    """,
-    unsafe_allow_html=True
-)
-
-agent_options = [
-    "DFD - Documento de Formalização da Demanda",
-    "ETP - Estudo Técnico Preliminar",
-    "TR - Termo de Referência",
-    "PCA - Planejamento Anual de Contratações",
-    "Matriz de Riscos",
-    "Pesquisa de Preços",
-    "Fiscalização",
-    "Contrato",
-    "Edital"
-]
-
-agent_choice = st.selectbox("Selecione o agente responsável pela elaboração:", agent_options)
-
-# ==============================
-# BOTÃO DE EXECUÇÃO
-# ==============================
-if st.button("Executar Análise"):
-    st.success(f"✅ Análise iniciada para o agente **{agent_choice}** com insumo fornecido.")
+# ============================================================
+# RODAPÉ
+# ============================================================
+st.markdown("""
+<hr style="border-top: 1px solid #C6A75E;">
+<div style="text-align:center; font-size:13px; color:gray;">
+    © 2025 - Projeto Synapse.IA | Desenvolvido no âmbito do Tribunal de Justiça de São Paulo
+</div>
+""", unsafe_allow_html=True)
