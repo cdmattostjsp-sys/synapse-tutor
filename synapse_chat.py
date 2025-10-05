@@ -30,18 +30,18 @@ st.markdown(
     <style>
     /* Container principal – evita corte do título no topo  */
     .block-container {{
-        padding-top: 0.9rem;   /* ↑ aumentei para evitar clipping do h1 */
+        padding-top: 0.9rem;
         padding-bottom: 0rem;
         padding-left: 2rem;
         padding-right: 2rem;
     }}
 
-    /* Branding bar com degradê sutil */
+    /* Branding bar */
     .branding-bar {{
         display: flex;
         align-items: center;
         gap: 14px;
-        padding: 14px 0 12px 0; /* ↑ top padding maior para não cortar */
+        padding: 14px 0 12px 0;
         background: linear-gradient(180deg, #10151e 0%, #0E1117 100%);
         border-bottom: 1px solid #303030;
         margin-bottom: 10px;
@@ -62,12 +62,12 @@ st.markdown(
         line-height: 1.2;
     }}
 
-    /* Títulos de seção – mesmo peso e hierarquia visual */
+    /* Títulos de seção */
     .section-title {{
         display: flex;
         align-items: center;
         gap: 10px;
-        font-size: 1.7rem;      /* proporcional ao título do app */
+        font-size: 1.7rem;
         font-weight: 700;
         color: #ffffff;
         margin-top: 1.6rem;
@@ -82,16 +82,14 @@ st.markdown(
         margin-bottom: 10px;
     }}
 
-    /* Linha divisória azul entre blocos (estilo institucional) */
     .section-divider {{
         height: 1px;
         width: 100%;
-        background: #1d4ed8; /* azul institucional */
+        background: #1d4ed8;
         opacity: 0.35;
         margin: 12px 0 12px 0;
     }}
 
-    /* Inputs */
     textarea, .stTextArea textarea {{
         background-color: #1E1E1E;
         color: #ffffff;
@@ -177,7 +175,6 @@ st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
 
 # ===============================
 # SEÇÃO 3 – SELECIONAR AGENTE
-# (com o cérebro azul, igual ao do cabeçalho)
 # ===============================
 st.markdown(
     f"""
@@ -195,7 +192,7 @@ agente = st.selectbox(
 validar = st.checkbox("Executar validação semântica")
 
 # ===============================
-# BOTÃO DE AÇÃO (placeholder funcional)
+# BOTÃO DE AÇÃO
 # ===============================
 if st.button("Executar Agente"):
     st.success(f"Agente **{agente}** executado com sucesso!")
