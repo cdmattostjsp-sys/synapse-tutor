@@ -1,5 +1,15 @@
-# synapse_chat.py
-# v3.1 – Mantém layout aprovado; exibe fichas com score; gera rascunho orientado (Markdown) + download.
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Synapse.IA – Streamlit App
+# Versão POC 1.1 – Revisão de desempenho e lógica de validação (05/10/2025)
+#
+# Este arquivo mantém 100% do layout aprovado e integra:
+# - Execução do agente
+# - Exibição dos scores e fichas (rígida e semântica)
+# - Documento Orientado (Markdown) com lacunas e marcadores
+# - Controle de estado para evitar renderização duplicada
+# =============================================================================
+
 import streamlit as st
 from openai import OpenAI
 import base64, os, io
@@ -19,13 +29,21 @@ def img_to_b64(path: str) -> str:
         return base64.b64encode(f.read()).decode("utf-8")
 
 def get_openai_client():
+    """
+    Recupera a API Key do Streamlit Secrets (preferencial) ou do ambiente.
+    Mantém compatibilidade com o motor de análise profunda no validator_engine.
+    """
     api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
     if not api_key:
-        st.error("🔴 OPENAI_API_KEY ausente (Settings → Secrets).")
+        st.error("🔴 OPENAI_API_KEY ausente. Cadastre em Settings → Secrets (ou defina variável de ambiente).")
         return None
     return OpenAI(api_key=api_key)
 
 def extract_text_from_uploads(files):
+    """
+    Extrai texto básico de arquivos comuns (txt, pdf, docx). Para planilhas/CSV,
+    a POC atual mantém a abordagem mínima (sem parsing tabular complexo).
+    """
     if not files:
         return ""
     texts = []
@@ -36,20 +54,25 @@ def extract_text_from_uploads(files):
             if name.endswith(".txt"):
                 texts.append(data.decode("utf-8", errors="ignore"))
             elif name.endswith(".pdf"):
-                from PyPDF2 import PdfReader
-                reader = PdfReader(io.BytesIO(data))
-                texts.append("\n".join([(p.extract_text() or "") for p in reader.pages]))
+                try:
+                    from PyPDF2 import PdfReader
+                    reader = PdfReader(io.BytesIO(data))
+                    texts.append("\n".join([(p.extract_text() or "") for p in reader.pages]))
+                except Exception:
+                    # Fallback leve
+                    texts.append("")
             elif name.endswith(".docx"):
-                import docx
-                doc = docx.Document(io.BytesIO(data))
-                texts.append("\n".join([p.text for p in doc.paragraphs]))
+                try:
+                    import docx
+                    doc = docx.Document(io.BytesIO(data))
+                    texts.append("\n".join([p.text for p in doc.paragraphs]))
+                except Exception:
+                    texts.append("")
             else:
+                # Fallback: tenta decodificar como texto
                 texts.append(data.decode("utf-8", errors="ignore"))
         except Exception:
-            try:
-                texts.append(data.decode("utf-8", errors="ignore"))
-            except Exception:
-                pass
+            pass
     return "\n\n".join(texts).strip()
 
 # ===============================
@@ -170,7 +193,8 @@ st.markdown(
 )
 agente = st.selectbox(
     "Escolha o agente:",
-    ["ETP","DFD","TR","CONTRATO","EDITAL","PESQUISA_PRECOS","FISCALIZACAO","OBRAS","MAPA_RISCOS","PCA"]
+    ["ETP","DFD","TR","CONTRATO","EDITAL","PESQUISA_PRECOS","FISCALIZACAO","OBRAS","MAPA_RISCOS","PCA"],
+    index=0
 )
 validar_semantica = st.checkbox("Executar validação semântica", value=True)
 
@@ -205,6 +229,7 @@ if run:
 
         with st.spinner(f"Executando validação do artefato {agente}..."):
             try:
+                # A engine aplica análise profunda no semântico; layout permanece igual.
                 result = validate_document(texto, agente, client)
                 st.session_state.last_result = {
                     "token": st.session_state.result_token,
@@ -281,7 +306,7 @@ if st.session_state.last_result and st.session_state.last_result.get("token") ==
         if improved_doc.strip():
             st.code(improved_doc, language="markdown")
 
-            # download como .md (para não depender de python-docx)
+            # Download como .md (compatível, sem dependência extra)
             md_bytes = improved_doc.encode("utf-8")
             st.download_button(
                 label="⬇️ Baixar rascunho (.md)",
