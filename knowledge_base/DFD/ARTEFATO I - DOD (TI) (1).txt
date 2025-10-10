@@ -1,0 +1,455 @@
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+
+■ SECRETARIA DE TECNOLOGIA E INFORMAÇÃO
+
+STI 4 – Diretoria de Controle Operacional e Comunicação de TI 
+
+
+
+ 
+
+
+
+
+
+
+
+STI 4.2.2
+
+
+
+STI 4.2.2
+
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+
+Secretaria de Tecnologia e Informação
+
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+
+Secretaria de Tecnologia e Informação
+
+
+
+ARTEFATO I – D.O.D.
+
+Processo Administrativo nº 
+
+Gerenciamento de Segurança da Informação 
+
+São Paulo,  
+
+
+
+ARTEFATO I – D.O.D.
+
+Processo Administrativo nº 
+
+Gerenciamento de Segurança da Informação 
+
+São Paulo,  
+
+	
+
+	
+
+
+ARTEFATO I – DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA – DOD
+
+	
+
+		DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA – DOD
+
+		
+
+		Histórico de Revisões
+
+Data
+
+Versão
+
+Descrição
+
+Autor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+
+
+
+
+								DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA – DOD
+
+								
+
+INTRODUÇÃO
+
+Em conformidade a Resolução CNJ n° 468, de 15 de julho de 2022, a fase de Planejamento da Contratação terá início com o recebimento do Documento de Oficialização da Demanda pela Área de TIC. Este documento deverá ser elaborado pela Área Demandante da solução.
+
+
+
+								PREENCHIMENTO PELA ÁREA DEMANDANTE
+
+
+
+IDENTIFICAÇÃO DA ÁREA DEMANDANTE
+
+Área Demandante (Unidade/Diretoria/Coordenação/Divisão/Seção):
+
+
+
+Responsável pela demanda:
+
+
+
+Matrícula:
+
+
+
+E-mail:
+
+
+
+Telefone:
+
+
+
+
+
+IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE DEMANDANTE
+
+Nome:
+
+
+
+Matrícula:
+
+
+
+Cargo:
+
+Coordenador
+
+Lotação:
+
+
+
+E-mail:
+
+
+
+Telefone:
+
+
+
+Por este instrumento declaro ter ciência das competências do INTEGRANTE DEMANDANTE definidas na Resolução CNJ n° 468, de 15 de julho de 2022, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.
+
+São Paulo, data e assinatura em sistema.
+
+
+
+
+
+
+
+
+
+
+IDENTIFICAÇÃO DA DEMANDA
+
+
+
+
+
+ALINHAMENTO AOS PLANOS ESTRATÉGICOS
+
+ID
+
+Objetivos Estratégicos
+
+5
+
+	
+
+
+
+ALINHAMENTO AO PDTIC <2021-2026>
+
+ID
+
+ Ação do PDTIC
+
+ID
+
+Meta do PDTIC associada
+
+5
+
+	
+
+
+
+
+
+
+
+ALINHAMENTO AO Plano Anual de Contratações
+
+PCA nº/ano
+
+Descrição
+
+	
+
+	
+
+
+
+MOTIVAÇÃO/JUSTIFICATIVA
+
+
+
+
+
+RESULTADOS A SEREM ALCANÇADOS COM A CONTRATAÇÃO
+
+
+
+								9 – FONTE DE RECURSOS
+
+A indicação da fonte de recursos e do(s) código(s) da classificação da despesa para as contratações/aquisições realizadas por este Tribunal de Justiça é de responsabilidade da SOF – Secretaria de Orçamento e Finanças, que somente consegue fornecer tais informações após a conclusão e aprovação do Estudo Técnico Preliminar e do Termo de Referência (com todos os dados técnicos necessários) e já em fase avançada do processo de aquisição, ou seja, em razão do fluxo processual da presente fase de planejamento não prever a tramitação por aquele setor desde logo, bem como por depender de dados daqui oriundos, mostra-se inviável a obtenção das informações indicadas, no momento. Dessa forma, as despesas com a execução do contrato correrão à conta da classificação da despesa que será juntada pela respectiva Secretaria, futura e oportunamente, através de documento denominado “NOTA DE RESERVA”, do qual este documento fará parte. 
+
+								10 – COMPLEMENTO DE INFORMAÇÕES
+
+
+
+11 – ENCAMINHAMENTO
+
+Encaminhe-se ao Secretário de Tecnologia da Informação e Comunicações para providências.
+
+São Paulo, data e assinatura em sistema
+
+
+
+
+
+	
+
+
+
+
+								PREENCHIMENTO PELA ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+
+
+
+12 – IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE TÉCNICO
+
+Nome: 
+
+
+
+	Matrícula:
+
+	
+
+Cargo:
+
+
+
+Lotação:
+
+
+
+	E-mail:
+
+	 
+
+	Telefone:
+
+	
+
+Por este instrumento, declaro ter ciência das competências do INTEGRANTE TÉCNICO definidas na Resolução CNJ n° 468, de 15 de julho de 2022, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.
+
+São Paulo, data e assinatura em sistema.
+
+
+
+
+
+								
+
+JUSTIFICATIVA PARA ACUMULAÇÃO DE PAPÉIS
+
+
+
+
+
+ENCAMINHAMENTO
+
+Encaminhe-se à autoridade competente da Área Administrativa, que deverá:
+
+Decidir motivadamente sobre o prosseguimento da contratação;
+
+Indicar o Integrante Administrativo para composição da Equipe de Planejamento da Contratação, quando da continuidade da contratação; e
+
+Instituir a Equipe de Planejamento da Contratação, conforme exposto no art. 7º, parágrafo único da Resolução CNJ nº 468 de 15 de julho de 2022.
+
+São Paulo, data e assinatura em sistema.
+
+
+
+Marco Antonio Lopes Samaan
+
+
+
+								PREENCHIMENTO PELA ÁREA ADMINISTRATIVA
+
+
+
+								13 – DECISÃO DA AUTORIDADE COMPETENTE
+
+
+
+								14 – IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE ADMINISTRATIVO
+
+Nome:
+
+
+
+Matrícula:
+
+
+
+Cargo:
+
+
+
+Lotação:
+
+
+
+E-mail:
+
+
+
+Telefone:
+
+
+
+Por este instrumento, declaro ter ciência das competências do INTEGRANTE ADMINISTRATIVO definidas na Resolução CNJ n° 468, de 15 de julho de 2022, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.
+
+São Paulo, data e assinatura em sistema.
+
+
+
+
+
+
+
+								15 – IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE ADMINISTRATIVO
+
+Nome:
+
+
+
+Matrícula:
+
+
+
+Cargo:
+
+
+
+Lotação:
+
+
+
+E-mail:
+
+
+
+Telefone:
+
+
+
+Por este instrumento, declaro ter ciência das competências do INTEGRANTE ADMINISTRATIVO definidas na Resolução CNJ n° 468, de 15 de julho de 2022, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação
+
+São Paulo, data e assinatura em sistema.
+
+
+
+
+
+
+
+								16 – IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE ADMINISTRATIVO
+
+Nome:
+
+
+
+Matrícula:
+
+
+
+Cargo:
+
+Diretor
+
+Lotação:
+
+
+
+E-mail:
+
+
+
+Telefone:
+
+
+
+Por este instrumento, declaro ter ciência das competências do INTEGRANTE ADMINISTRATIVO definidas na Resolução CNJ n° 468, de 15 de julho de 2022, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação
+
+São Paulo, data e assinatura em sistema.
+
+
+
+Rodnei Pinto Fernandes
+
+
+
+Fica instituída a Equipe de Planejamento da Contratação, conforme dispõe o inciso III do art. 10 da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022.
+
+Conforme art. 29, § 9, da Instrução Normativa CNJ n° SGD/ME n 01/2019, a Equipe de Planejamento da Contratação será automaticamente destituída quando da assinatura do contrato.
+
+São Paulo, data e assinatura em sistema
+
+
+
+Fabio Makoto Tagliaferro Yokoyama
+
+Secretário da SAAB
+
+Página 2 de 2

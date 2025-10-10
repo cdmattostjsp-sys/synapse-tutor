@@ -1,0 +1,141 @@
+DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA (DFD)
+
+(Inexigibilidade - Lei nº 14.133/2021)
+
+
+
+Processo CPA nº
+
+0000/00000000
+
+Nº PCA
+
+0000/0000
+
+Unidade Requisitante:
+
+
+
+Responsável(eis):
+
+
+
+Data prevista de início:
+
+[previsão de data em que deve ser iniciada a prestação dos serviços ou a entrega do bem]
+
+OBJETO
+
+Descrever de forma sucinta o objeto da contratação.
+
+JUSTIFICATIVA DA CONTRATAÇÃO
+
+Descrever as necessidade de contratação, considerando o problema a ser resolvido sob a perspectiva do interesse público e do planejamento estratégico do Tribunal de Justiça.
+
+JUSTIFICATIVA DA CONTRATAÇÃO POR INEXIGIBILIDADE (art. 74)
+
+Justificar a inviabilidade de competição, nos termos do art. 74 da Lei 14.133/2021.
+
+Para aquisição de aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos:
+
+Demonstrar a inviabilidade de competição mediante atestado de exclusividade, contrato de exclusividade, declaração do fabricante ou outro documento idôneo capaz de comprovar que o objeto é fornecido ou prestado por produtor, empresa ou representante comercial exclusivos, vedada a preferência por marca específica. (§ 1º do art. 74)
+
+Considera-se empresário exclusivo a pessoa física ou jurídica que possua contrato, declaração, carta ou outro documento que ateste a exclusividade permanente e contínua de representação, no País ou em Estado específico, do profissional do setor artístico, afastada a possibilidade de contratação direta por inexigibilidade por meio de empresário com representação restrita a evento ou local específico.(§ 2º do art. 74)
+
+
+
+
+
+Para contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação, elencados nas alieneas “a” a “h”, do inc. III, do art. 74, da Lei nº 14.133/2021:
+
+Considera-se de notória especialização o profissional ou a empresa cujo conceito no campo de sua especialidade, decorrente de desempenho anterior, estudos, experiência, publicações, organização, aparelhamento, equipe técnica ou outros requisitos relacionados com suas atividades, permita inferir que o seu trabalho é essencial e reconhecidamente adequado à plena satisfação do objeto do contrato.(§ 3º do art. 74)
+
+É vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade (§ 3º do art. 74).
+
+Para aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha, devem ser observados os seguintes requisitos (inciso V e § 3º do art. 74):
+
+avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos;
+
+certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto;
+
+justificativas que demonstrem a singularidade do imóvel a ser comprado ou locado pela Administração e que evidenciem vantagem para ela.
+
+CONTRATOS EM SUBSTITUIÇÃO
+
+Indicação se o objeto se refere à substituição de contrato em vigor ou contratação nova.
+
+No caso de substituição de contrato(s), informar os dados no quadro abaixo:
+
+Nº do Contrato
+
+Objeto
+
+Término da Vigência
+
+000.000/000-CT
+
+[descrição resumida do objeto]
+
+00/00/0000
+
+
+
+
+
+
+
+DO VALOR ESTIMADO DA CONTRATAÇÃO
+
+Apresentar a estimativa preliminar do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte.
+
+Nas contratações diretas por inexigibilidade ou por dispensa, quando não for possível estimar o valor do objeto na forma estabelecida nos §§ 1º, 2º e 3º do artigo 23, da Lei nº 14.133/2021, o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro meio idôneo.
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18)
+
+Informar as estimativas das quantidades, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala.
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+Servidores que integrarão a equipe de planejamento da contratação:
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>  - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+Equipe técnica (se o caso)
+
+<Nome> - <Cargo> - < Setor >
+
+São Paulo, data registrada em sistema.
+
+(Assinatura eletrônica do responsável)
+
+
+
+Designo a equipe de planejamento da contratação acima indicada.
+
+Secretário/Secretária de ..../ Autoridade Competente
+
+
+
+(Assinatura eletrônica do responsável)
+
+
+
+2
+
+2Versão 01/2023
+
+
+
+|

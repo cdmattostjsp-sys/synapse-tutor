@@ -1,0 +1,121 @@
+DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA (DFD)
+
+(Inexigibilidade - Lei nº 14.133/2021)
+
+
+
+Processo CPA nº
+
+0000/00000000
+
+Nº PCA
+
+0000/0000
+
+Unidade Requisitante:
+
+
+
+Responsável(eis):
+
+
+
+Data prevista de início:
+
+[previsão de data em que deve ser iniciada a prestação dos serviços ou a entrega do bem]
+
+OBJETO
+
+Descrever de forma sucinta o objeto da contratação.
+
+Ex.: Trata-se de contratação de serviços de fornecimento de energia elétrica para o Fórum da Comarca de ______, situado ________.
+
+JUSTIFICATIVA DA CONTRATAÇÃO
+
+Descrever as necessidades de contratação, considerando o problema a ser resolvido sob a perspectiva do interesse público e do planejamento estratégico do Tribunal de Justiça.
+
+Ex.: A contratação se justifica pela continuidade do serviço de fornecimento de energia elétrica, assim como... 
+
+Sob a perspectiva do planejamento estratégico do Tribunal de Justiça, o objeto está alinhado, em especial, ao Objetivo (https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=63084)
+
+JUSTIFICATIVA DA CONTRATAÇÃO POR INEXIGIBILIDADE (art. 74)
+
+Justificar a inviabilidade de competição, nos termos do art. 74 da Lei 14.133/2021.
+
+Ex.: O Tribunal de Justiça poderá celebrar o contrato pretendido, por inexigibilidade de licitação decorrente da inviabilidade de competição... (sugestão de leitura: art. art. 74 da Lei nº 14.133/2021) 
+
+CONTRATOS EM SUBSTITUIÇÃO
+
+Indicação se o objeto se refere à substituição de contrato em vigor ou contratação nova.
+
+Ex.: Trata-se de renovação dos contratos de fornecimento de energia elétrica para o Fórum da Comarca de ______, situado _________:
+
+Nº dos Contratos Anteriores
+
+Objeto
+
+Término da Vigência
+
+00.000/20xx-CT
+
+Contrato de Uso do Sistema de Distribuição – CUSD nº ____
+
+01/01/2020
+
+00.000/20xx-CT
+
+Contrato de Compra de Energia Regulada – CCER nº ____
+
+01/01/2020
+
+DO VALOR ESTIMADO DA CONTRATAÇÃO
+
+Apresentar a estimativa do valor da contratação.
+
+Quando não for possível estimar o valor do objeto na forma estabelecida nos §§ 1º, 2º e 3º do artigo 23, da Lei nº 14.133/2021, o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza.
+
+Ex.: Conforme declaração da concessionária (fls. Xx/xx), os valores de energia elétrica foram definidos pela Agência Nacional de Energia Elétrica (ANEEL) e são aplicados em toda área de concessão da distribuidora. Portanto, a tarifa é aplicada de maneira uniforme para todos os órgãos públicos nas mesmas condições.
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18)
+
+Apresentar a estimativa dsa quantidades para a contratação.
+
+Ex.: Diante da análise realizada pelo setor de engenharia deste E. Tribunal de Justiça (processo CPA nº xxx/20xx – fls. Xx/xx), a demanda a ser contratada é de _____kW.
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+Servidores que integrarão a equipe de planejamento da contratação:
+
+Gestor de Planejamento
+
+Gestor - Nome - Cargo - Setor
+
+Equipe de planejamento da contratação
+
+Suplente de Gestor - Nome - Cargo - Setor
+
+Fiscal - Nome - Cargo - Setor
+
+Suplente de Fiscal - Nome - Cargo - Setor
+
+São Paulo, data registrada em sistema.
+
+(Assinatura eletrônica do responsável)
+
+
+
+Designo a equipe de planejamento da contratação acima indicada.
+
+Juiz Diretor do Fórum da Comarca de _______
+
+(Assinatura eletrônica do responsável)
+
+
+
+2
+
+2
+
+
+
+|

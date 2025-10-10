@@ -1,0 +1,187 @@
+DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA (DFD)
+
+(Dispensa de licitação – emergência/calamidade pública - inciso VIII, art. 75 da Lei nº 14.133/2021)
+
+
+
+Processo CPA nº
+
+0000/00000000
+
+Nº PCA
+
+000/0000
+
+Unidade demandante:
+
+
+
+Responsável:
+
+[gestor de planejamento da contratação]
+
+Data estimada da contratação
+
+[previsão de data em que deve ser iniciada a prestação dos serviços ou a entrega do bem]
+
+Grau de Prioridade
+
+[alto, médio ou baixo]
+
+Tipo de contratação
+
+Contratação emergencial
+
+OBJETO
+
+Descrever de forma sucinta o objeto da contratação.
+
+DESCRIÇÃO RESUMIDA DA DEMANDA (Inc. I do art. 4º do Provimento nº 97/2022)
+
+Descrever as necessidade de contratação, considerando o problema a ser resolvido sob a perspectiva do interesse público e do planejamento estratégico do Tribunal de Justiça.
+
+ALINHAMENTO COM O PLANEJAMENTO ESTRATÉGICO (Inc. III do art. 4º do Provimento nº 97/2022)
+
+Informar se o objeto está alinhado ao Planejamento Estratégico do Tribunal de Justiça, mencionando o número do objetivo estratégico e a meta.
+
+O Planejamento Estratégico poderá ser consultado no endereço: https://www.tjsp.jus.br/QuemSomos/PlanejamentoEstrategico.
+
+Caso o tipo de objeto não estiver alinhado ao Planejamento estratégico, informar que não se aplica.
+
+JUSTIFICATIVA DA CONTRATAÇÃO  (Inc. IV do art. 4º do Provimento nº 97/2022)
+
+Descrever as necessidade de contratação, considerando o problema a ser resolvido sob a perspectiva do interesse público e do planejamento estratégico do Tribunal de Justiça.
+
+
+
+JUSTIFICATIVA DA EMERGENCIALIDADE (Inc. VIII, art. 75, Lei nº 14.133/21)
+
+Descrever as necessidade de contratação, considerando o problema a ser resolvido nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto no inciso VIII, art.75 (grifado);
+
+ESTIMATIVA DA QUANTIDADE PARA A CONTRATAÇÃO (Inc. V do art. 4º do Provimento nº 97/2022)
+
+Informar as estimativas das quantidades, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala.
+
+ESTIMATIVA PRELIMINAR DO VALOR DA CONTRATAÇÃO
+
+Apresentar a estimativa preliminar do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte.
+
+CÓDIGOS DO BEM OU SERVIÇO
+
+Código
+
+Descrição
+
+Qtde
+
+XX-XXXX
+
+[descrição do material/serviço]
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+VINCULAÇÃO OU DEPENDÊNCIA (Inc. XI do art. 4º do Provimento nº 97/2022)
+
+Informar se o objeto está vinculado ou tem dependência, se o caso, com a contratação de outro item para sua execução, visando determinar a sequência de realização de procedimentos licitatórios.
+
+SUSTENTABILIDADE (Inc. XIV do art. 4º do Provimento nº 97/2022)
+
+Indicar se a demanda possui elementos sustentáveis.
+
+CONTRATAÇÃO COMPARTILHADA (Inc. XIII do art. 4º do Provimento nº 97/2022)
+
+Indicar se a demanda é passível de compra compartilhada com outros órgãos da Administração Pública.
+
+CONTRATOS EM SUBSTITUIÇÃO 
+
+Indicação se o objeto se refere à substituição de contrato em vigor ou contratação nova.
+
+No caso de substituição de contrato(s), informar os dados no quadro abaixo:
+
+Nº do Contrato
+
+Objeto
+
+Término da Vigência
+
+000.000/000-CT
+
+[descrição resumida do objeto]
+
+00/00/0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO (Inc. II do art.13 – do Provimento CSM nº 2.724/2023)
+
+Servidores que integrarão a equipe de planejamento da contratação:
+
+
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>  - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+Equipe técnica (se o caso)
+
+<Nome> - <Cargo> - < Setor >
+
+
+
+São Paulo, data registrada em sistema.
+
+(Assinatura eletrônica do responsável)
+
+
+
+Designo a equipe de planejamento da contratação acima indicada.
+
+Secretário/Secretária de ..../ Autoridade Competente
+
+
+
+(Assinatura eletrônica do responsável)
+
+
+
+
+
+2
+
+2Versão 01/2023
+
+
+
+|
