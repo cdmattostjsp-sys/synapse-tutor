@@ -1,0 +1,1075 @@
+ESTUDO TÉCNICO PRELIMINAR 
+
+
+
+(Lei 14.133/2021)
+
+
+
+INSTRUÇÕES DE PREENCHIMENTO DO ETP:
+
+Os textos destacados em AMARELO, são alteráveis conforme necessidade e particularidades da contratação. 
+
+Os textos NÃO destacados em amarelo, são fixos. 
+
+
+
+NOTA: Não se aplica à contratações emergenciais, nos termos do Provimento CSM n.º 2.724/2023, artigo 11, parágrafo 1.º e da Lei 14.133/2021, artigo 72, inciso I e artigo 75, inciso VIII.
+
+
+
+OBJETO
+
+
+
+Contratação de empresa especializada para o fornecimento e instalação de sistema de climatização, ventilação e exaustão, incluindo forro e toda a infraestrutura elétrica, civil e hidráulica necessária para o perfeito funcionamento do sistema, no prédio do Fórum da Comarca de Osasco, situado na Avenida das Flores, n.º 703.
+
+
+
+NOTA: Descrever de forma sucinta o objeto da contratação.
+
+
+
+DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (Inc. I, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Adquirir e instalar sistema de climatização, ventilação e exaustão visando alcançar um ambiente de trabalho e prestação de serviços com maior conforto, atendendo às normas e legislações de climatização, de forma a proporcionar o bem-estar das autoridades, servidores, servidoras e público em geral, usuários da edificação. 
+
++ TEXTO PRÓPRIO PARA O CASO EM QUESTÃO, individualizando a demanda para o caso concreto.
+
+
+
+NOTA: Descrever detalhadamente quais são os itens a serem contratados e as necessidade de contração, considerando o problema a ser resolvido sob a perspectiva do interesse público.
+
+
+
+DEMONSTRAÇÃO DA PREVISÃO DA CONTRATAÇÃO NO PLANO DE CONTRATAÇÕES ANUAL (Inc. II, § 1º, art. 18, Lei 14.133/21)
+
+
+
+A demanda está prevista no Plano de Obras de ....... , aprovado pela Egrégia Presidência e pelo Colendo Órgão Especial e, consequentemente, inserida no Plano de Contratação Anual de ......... mediante código de identificação número ......... .
+
+
+
+NOTA: Informar o ano do Plano de Obras, que poderá ser obtido pelo link: https://tjsp.sharepoint.com/sites/AdmGestaoLocaisTrabalho e o ano e o código de identificação do Plano de Contratações Anual, que poderá ser obtido pelo link: https://tjsp.sharepoint.com/sites/AdmLicitacoesSuprimentos (SAAB 5). A demanda deverá constar na lista do ano em exercício.
+
+Atenção: Se a contratação pretendida não estiver inserida no PCA do exercício, observar o art. 10, do Provimento nº 97/2022, o pedido será devolvido para o setor de origem. “Art. 10. Os pedidos de novas compras ou contratações e prorrogações contratuais formulados pelas áreas do Tribunal de Justiça do Estado de São Paulo que não estejam inseridos no Plano de Contratações Anual não serão processados e serão devolvidos ao setor de origem. §1º. O caput não se aplica às demandas emergenciais. §2º. Para os pedidos de contratações a serem efetivados nos meses de janeiro a abril do exercício seguinte, será considerada a versão Preliminar do Plano de Contratações Anual. §3º. Havendo relevante interesse público, devidamente justificado, o Comitê do Plano de Contratações Anual poderá analisar pedidos de contratação apresentado fora dos períodos estabelecidos no §2º e no artigo 9º, os quais serão aprovados pela Presidência do Tribunal de Justiça do Estado de São Paulo, bem como eventual alteração no Plano de Contratações Anual”.
+
+
+
+PLANEJAMENTO ESTRATÉGICO (Parágrafo Único, art. 11, Lei 14.133/21)
+
+
+
+A presente demanda está em conformidade com o Planejamento Estratégico 2021-2026 do Tribunal de Justiça e atende ao “Objetivo 3 - Aumentar a satisfação pessoal e profissional dos agentes públicos no ambiente de trabalho” e ao “Objetivo 9 - Adequar a infraestrutura física dos prédios”.
+
+
+
+NOTA: Informar se o objeto está alinhado ao Planejamento Estratégico do Tribunal de Justiça, mencionando o número do objetivo estratégico e a meta; o Planejamento Estratégico poderá ser consultado no endereço: https://www.tjsp.jus.br/QuemSomos/PlanejamentoEstrategico; caso o objeto não esteja alinhado ao Planejamento Estratégico, justificar.
+
+
+
+CATÁLOGO ELETRÔNICO DE PADRONIZAÇÃO (§ 5º, art. 12, do Provimento CSM nº 2.724/2023)
+
+
+
+A contratação em tela não possui Catálogo Eletrônico de padronização no Portal da Administração do Tribunal de Justiça do Estado de São Paulo.
+
+
+
+NOTA: Verificar se o objeto possui Catálogo Eletrônico de Padronização no Portal da Administração da intranet do TJSP (SharePoint – SAAB 5 Diretoria de Licitações e Patrimônio – Catálogos). Se existir catálogo publicado, deverão ser utilizados os modelos do Estudo Técnico Preliminar e do Termo de Referência disponibilizados no Portal. Nas contratações que utilizem Cadernos Padronizados de Contratação, a Equipe de Planejamento da Contratação produzirá somente os conteúdos listados abaixo, mantendo os demais itens no ETP:
+
+Descrição da necessidade da contratação;
+
+Estimativas das quantidades para a contratação;
+
+Estimativa do valor da contratação;
+
+Justificativas para o parcelamento ou não da contratação;
+
+Posicionamento conclusivo sobre a adequação da contratação.
+
+
+
+REQUISITOS DA CONTRATAÇÃO (Inc. III, § 1º, art. 18, Lei 14.133/21)
+
+	
+
+	Para se alcançar alguns requisitos da contratação a empresa, a ser contratada entre outras condições, deverá:
+
+	
+
+	fornecer mão de obra, materiais e equipamentos para a realização dos serviços;
+
+	ter experiência e competência comprovadas e profissionais devidamente habilitados;
+
+	adotar as práticas e as técnicas recomendadas pelas legislações e normas técnicas aplicáveis;
+
+	cumprir o prazo de execução;
+
+	responsabilizar-se pelo planejamento e coordenação dos serviços;
+
+	obter eventuais alvarás e autorizações legais para a execução dos serviços; 
+
+	atender as exigências previstas no Termo de Referência;
+
+	adotar práticas relativas a sustentabilidade, conforme disposto no Plano de Logística Sustentável do Tribunal de Justiça do Estado de São Paulo - https://tjsp.jus.br/Pls.
+
+
+
+O serviço a ser contratado é por tempo determinado, incluindo mão de obra e instalação. 
+
+
+
+Não haverá ações ou atividades de transição.
+
+
+
+No encerramento contratual deverão ser fornecidos os documentos solicitados no respectivo Termo de Referência como por exemplo: Laudos e manuais técnicos, as built, Termos de Garantias etc.
+
+
+
+Demais requisitos carecem de definição exata do projeto e constarão oportunamente no Termo de Referência.
+
+
+
+NOTA: Descrever os requisitos necessários e suficientes à escolha da solução ou produto, prevendo critérios e práticas de sustentabilidade. No caso de serviços em geral, deverá atender ao princípio da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; (inciso I, artigo 47 da Lei 14.133/2021).
+
+Nas aquisições de peças necessariamente originais, deverá haver uma justificativa robusta para não indicar favorecimento a um determinado fabricante. Informar em “Requisitos da Contratação”.
+
+
+
+CONDIÇÕES DE RECEBIMENTO (inc. III, art. 18, Lei 14.133/21)
+
+
+
+A definição das condições de recebimento serão apresentadas no Termo de Referência, que será elaborado oportunamente, bem como no Edital de Licitação.
+
+
+
+CONDIÇÕES DE EXECUÇÃO E PAGAMENTO (inc. III, art. 18, Lei 14.133/21)
+
+
+
+A definição das condições de execução e pagamento serão apresentadas no Termo de Referência, que será elaborado oportunamente, bem como no Edital de Licitação.
+
+
+
+GARANTIAS EXIGIDAS E OFERTADAS (inc. III, art. 18, Lei 14.133/21)
+
+
+
+No que diz respeito à garantia, os serviços de ordem civil, instalações elétricas, instalações hidráulicas etc., deverão contar com garantia contratual de 05 (cinco) anos, a partir da data de recebimento definitivo dos serviços.
+
+
+
+Os equipamentos novos e/ou que foram objeto de intervenção nos serviços contratados deverão contar com garantia contratual de 1 (um) ano, a contar da data de recebimento definitivo.
+
+
+
+MODALIDADE DE LICITAÇÃO, CRITÉRIO DE JULGAMENTO e MODO DE DISPUTA (inc. VIII, art. 18, Lei 14.133/21)
+
+
+
+ESCOLHER UM DOS TEXTOS ABAIXO (serviço comum de engenharia ou serviço especial de engenharia ou obra):
+
+
+
+O objeto em questão se refere a serviço comum de engenharia, visto que tem por objeto ações, objetivamente padronizáveis em termos de desempenho e qualidade, de manutenção, de adequação e de adaptação de bens móveis e imóveis, com preservação das características originais dos bens, consoante alínea “a”, inciso XXI, artigo 6.º da Lei 14.133/2021.
+
+
+
+Para a contratação em tela e de acordo com as normativas legais, tem-se o seguinte quadro:
+
+	
+
+	Modalidade da Licitação
+
+Pregão 
+
+	Formato 
+
+Eletrônico 
+
+	Critérios de Julgamento
+
+Menor preço
+
+	Regime de Execução
+
+Empreitada por preço unitário
+
+	Modo de disputa
+
+Aberto
+
+	Divulgação do orçamento estimativo
+
+Público
+
+	
+
+	NOTA: Utilizar o texto acima quando se tratar de serviço comum de engenharia. Lei 14.133/2021. Detalhes, consultar o Boletim Informativo n.º 02/2022.
+
+	
+
+O objeto em questão se refere a serviço especial de engenharia, que, por sua alta heterogeneidade ou complexidade, não se enquadra na definição constante da alínea “a” do inciso XXI do artigo 6.º da Lei 14.133/2021.
+
+	
+
+	O Objeto em questão se refere a obra, pois se trata de atividade estabelecida, por força de lei, como privativa das profissões de arquiteto e engenheiro que implica intervenção no meio ambiente por meio de um conjunto harmônico de ações que, agregadas, formam um todo que inova o espaço físico da natureza ou acarreta alteração substancial das características originais de bem imóvel, nos termos do inciso XII, artigo 6.º da Lei 14.133/2021.
+
+	
+
+	Para a contratação em tela e de acordo com as normativas legais, tem-se o seguinte quadro:
+
+	
+
+	Modalidade da Licitação
+
+	Concorrência
+
+	Formato
+
+	Eletrônico
+
+	Critérios de Julgamento
+
+	Menor preço
+
+	Regime de Execução
+
+				Empreitada por preços unitários
+
+	Modo de disputa
+
+			Aberto
+
+	Divulgação do orçamento estimativo
+
+			Público
+
+	
+
+	NOTA: Utilizar o texto acima quando se tratar de serviço especial de engenharia e/ou obra ou quando o valor da contratação for igual ou maior que R$9.000.000,00. Detalhes, consultar o Boletim Informativo n.º 02/2022.
+
+	
+
+	NOTA: Havendo dúvidas sobre os enquadramentos (modalidade, formato, critério de julgamento, regime de execução, modo de disputa, divulgação do orçamento estimativo) recomenda-se consultar, a título de assessoria e informações, a SAAB 5. 
+
+
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18, Lei 14.133/21)
+
+
+
+A estimativa das quantidades previstas para a contratação em tela será consolidada quando da finalização da planilha orçamentária, memória de cálculo e demais documentos que lhes dão suporte, documentos estes que integrarão o Termo de Referência.
+
+
+
+NOTA: Informar as estimativas das quantidades, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala.
+
+
+
+LEVANTAMENTO DE MERCADO E JUSTIFICATIVA TÉCNICA E ECONÔMICA (Inc. V, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Para o presente caso há duas alternativas disponíveis à saber:
+
+
+
+Alternativa 1: fornecimento de um sistema central do tipo água gelada.
+
+Alternativa 2: fornecimento de um sistema central do tipo VRF (variação de fluxo de refrigerante).
+
+
+
+Para o levantamento dos custos comparativos dos sistemas acima apresentados foi levado em conta somente os custos dos itens que não são comuns às duas alternativas. Os demais custos complementares e necessários ao funcionamento dos sistemas, e comuns a ambos, não foram previstos neste estudo (exaustões, rede de drenagem, etc.)
+
+
+
+Para composição dos preços foi utilizado os valores contidos no Boletim 181 da CDHU.
+
+
+
+A seguir quadro comparativo de custos envolvendo equipamento, implantação, manutenções e consumo de energia:
+
+
+
+
+
+DESCRIÇÃO
+
+
+
+UN
+
+
+
+QT.
+
+
+
+PREÇO UNIT.
+
+
+
+PREÇO TOTAL
+
+1ª ALTERNATIVA–ÁGUAGELADA
+
+
+
+
+
+
+
+
+
+Resfriadores de Liquido tipo Chiller de 190 TR 
+
+cj
+
+3,00
+
+710.000,00
+
+2.130.000,00
+
+Fancolete Cassete Hidronico 3 TR
+
+cj
+
+210,00
+
+6.200,00
+
+1.302.000,00
+
+Bombas de Agua Gelada
+
+cj
+
+5,00
+
+13.200,00
+
+66.000,00
+
+Quadro Eletrico das BAGs
+
+cj
+
+1,00
+
+48.200,00
+
+48.200,00
+
+Quadro de Controles e Automação
+
+cj
+
+1,00
+
+32.600,00
+
+32.600,00
+
+Rede hidraulica de Agua Gelada isolada
+
+cj
+
+1,00
+
+1.860.000,00
+
+1.860.000,00
+
+Rede de interligação eletrica
+
+cj
+
+1,00
+
+380.600,00
+
+380.600,00
+
+Rede de dutos de ar exterior
+
+cj
+
+1,00
+
+168.000,00
+
+168.000,00
+
+Manutenção mensal
+
+mês
+
+36,00
+
+30.000,00
+
+1.080.000,00
+
+Manutenção corretiva
+
+mês
+
+36,00
+
+3.000,00
+
+108.000,00
+
+Consumo de energia
+
+mês
+
+36,00
+
+78.000,00
+
+2.808.000,00
+
+TOTAL 1ª ALTERNATIVA
+
+
+
+
+
+
+
+9.983.400,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESCRIÇÃO
+
+
+
+UN
+
+
+
+QT.
+
+
+
+PREÇO UNIT.
+
+
+
+PREÇO TOTAL
+
+
+
+2ª ALTERNATIVA– VRF
+
+
+
+
+
+
+
+
+
+Condensador VRF50,0TR com Automação
+
+cj
+
+11,00
+
+202.000,00
+
+2.222.000,00
+
+SplitCassete 3 TR
+
+cj
+
+210,00
+
+6.200,00
+
+1.302.000,00
+
+Tubulação Frigorifica isolada
+
+cj
+
+1,00
+
+1.560.000,00
+
+1.560.000,00
+
+Rede de Interligação eletrica
+
+cj
+
+1,00
+
+350.000,00
+
+350.000,00
+
+Rede de dutos de ar exterior
+
+cj
+
+1,00
+
+168.000,00
+
+168.000,00
+
+Manutenção mensal
+
+mês
+
+36,00
+
+20.000,00
+
+720.000,00
+
+Manutenção corretiva
+
+mês
+
+36,00
+
+3.000,00
+
+108.000,00
+
+Consumodeenergia
+
+mês
+
+36,00
+
+59.000,00
+
+2.124.000,00
+
+TOTAL 2ª ALTERNATIVA
+
+
+
+
+
+
+
+8.554.000,00
+
+O custo de implantação do sistema VRF é menor do que o do sistema de Água Gelada (R$ 5.700.000,00 para o VRF, contra R$ 6.000.000,00 para Água Gelada). 
+
+
+
+O custo operacional do sistema VRF é bem menor do que o gasto do sistema de Água Gelada (R$ 2.952.000,00 para o VRF, contra R$ 3.996.000,00 da Água Gelada).
+
+
+
+Em três anos de operação a economia será de R$ 1.429.400,00.
+
+
+
+VANTAGENS DO SISTEMA VRF:
+
+Menor custo de implantação.
+
+Menor consumo de energia.
+
+Sistema de automação integrado original de fábrica.
+
+Melhor eficiência energética, com 300 kVA a menos na cabine primaria.
+
+Possibilidade de implantação dos equipamentos em etapas.
+
+Em caso de paralisação de um equipamento por pane ou manutenção preventiva, somente as áreas atendidas pelo equipamento ficarão prejudicadas.
+
+Menor custo operacional. 
+
+
+
+Para o presente caso, após levantamento de mercado avaliando as alternativas possíveis (sistema VRF x Central de água gelada), considerando o exposto acima, considerando ainda o cenário e particularidades do local, as necessidades dos setores que ocuparão a edificação, o ganho de eficiência energética, o menor custo de manutenção, menor custo de investimento inicial, maior facilidade na reposição de peças e as vantagens, o sistema tipo VRF (Variable Refrigerant Flow), é o que melhor se adequa a contratação em tela.
+
+
+
+OUTRO EXEMPLO DE TEXTO
+
+
+
+Para a presente contratação não há soluções construtivas alternativas e comparativas, motivo pelo qual a solução ora apresentada é a única possível.
+
+
+
+Será indispensável a recuperação das juntas de dilatação de pilares, lajes, pisos e cobertura, devido a variação de aberturas dos vãos e ausência de material elástico, além da recomposição dos acabamentos das alvenarias, lajes e pisos por meio de emassamento, pintura, revestimento cerâmico e recomposição de pilares, limpeza de superfície e aplicação de graute.
+
+
+
+Para a reforma do sistema de drenagem do piso externo do pavimento térreo, se faz necessária a demolição do piso, escavação para passagem da tubulação em PVC, execução de caixas de passagem, execução de canaletas, recomposição dos pisos e demais serviços de acabamento, serviços esses que depois de prontos visam eliminar alagamentos no entorno da edificação.
+
+
+
+A solução que contempla a execução de intervenções estruturais nas juntas de dilatação do prédio e a execução de reforma do sistema de drenagem do piso externo do pavimento térreo, é a solução mais indicada em função do tempo de execução e aproveitamento da estrutura existente, além de eliminar o risco de agravamento dos danos e demais patologias estruturais da edificação.
+
+
+
+NOTA: Realizar levantamento de mercado, analisando as alternativas possíveis, sob a ótica técnica e econômica e, ao final, expor as justificativas para escolha da solução a contratar.
+
+Pesquisar e indicar as diferentes soluções existentes no mercado e que podem atender à necessidade levantada. Solução 1 – Descrição completa e Preço Estimado Solução 2 – Descrição completa e Preço Estimado Fazer uma comparação entre as soluções encontradas no mercado para mostrar, de forma objetiva, qual delas é a mais vantajosa para a Administração sob os aspectos da conveniência, economicidade e eficiência. A comparação deve considerar os custos e benefícios durante o ciclo de vida do objeto (melhor relação custo-benefício).
+
+
+
+ESTIMATIVA DE VALOR DA CONTRATAÇÃO (Inc. VI, § 1º, art. 18, Lei 14.133/21) 
+
+
+
+O custo do valor da contratação, estimado em R$ .........................., será consolidado quando da finalização da planilha orçamentária, memória de cálculo e demais documentos que lhes dão suporte, documentos estes que integrarão o Termo de Referência.
+
+
+
+Para a manutenção preventiva e corretiva do sistema pelo período de 12 meses após o recebimento, a precificação utilizará tabelas oficiais como SINAPI ou, na falta de referências, cotações de mercado, considerando as particularidades e especificidades do sistema instalado e os parâmetros adotados em Provimento específicos do Tribunal de Justiça.
+
+
+
+Havendo legislação vigente e específica sobre aplicação da desoneração da folha de pagamento, e nos termos da orientação proferida no bojo dos autos 2021/61140 do corpo jurídico do TJSP, será aplicada, quando da elaboração da planilha de preços, a opção tributária mais vantajosa à administração para contratação do objeto, mediante simulação dos valores gastos com a contribuição previdenciária, constante na composição do BDI da instrução processual, de forma a verificar qual situação (com ou sem desoneração), será mais benéfica ao Tribunal de Justiça.
+
+
+
+NOTA: Apresentar a estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte. Este valor estimado poderá ser revisado/atualizado pela equipe de pesquisa de preços, após análise do ETP e do TR. 
+
+Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas (artigo 24 da Lei 14.133/2021).
+
+
+
+
+
+
+
+
+
+DESCRIÇÃO DA SOLUÇÃO (Inc. VII, § 1º, art. 18, Lei 14.133/21)
+
+	
+
+	Sob a ótica técnica e operacional, após minucioso estudo, neste momento a melhor alternativa técnica para solução do problema é a que está sendo agora apresentada.
+
+	O prédio está atualmente desocupado e em fase final de construção. 
+
+	Não se trata de serviço exclusivo, de complexidade e que seja restrito a poucos prestadores, motivo pelo qual a eficácia na contratação e, consequentemente, execução dos serviços é de alta probabilidade.
+
+	O prédio em questão – próprio do estado, deverá acomodar as unidades da Comarca de Osasco.
+
+	O plano de ocupação está em conformidade com a Resolução nº 114/2010 do Conselho Nacional de Justiça – CNJ.
+
+	Ainda, o estudo foi elaborado em conformidade com o programa funcional e informações fornecidas pelos representantes das unidades interessadas, considerando também, como diretrizes o teletrabalho e/ou trabalho de jornada alternada, resultando nas otimizações dos espaços.
+
+	A disponibilização/finalização/entrega do imóvel para uso da Comarca interessada carece da conclusão da obra de construção, cuja competência (contratação e gestão) é de total responsabilidade da prefeitura de Osasco.
+
+	Sob o aspecto documental, fora a documentação legal pertinente (eventuais licenças de Prefeitura, exigências de Código de Obras e normas técnicas) não há documentação complementar e/ou complexa (exemplo: licenças ambientais), que possa dificultar a contratação ou até mesmo o início dos serviços.
+
+Após a entrega final do objeto a CONTRATADA deverá, pelo período de doze (12) meses, fornecer assistência técnica preventiva/manutenção (com visitas periódicas) e atendimento corretivo tantos quanto necessários.
+
+Findo o prazo acima, o TJSP passa a ter independência para operação e/ou contratação de outro prestador para a realização de operação e/ou manutenção periódica.
+
+
+
+NOTA: O texto acima “Sob o aspecto documental” deve ser redigido conforme situação atual do projeto em questão. Necessário incluir os aprovativos realizados para a demanda mencionando-se também os órgãos em que ocorreram essas aprovações.
+
+
+
+JUSTIFICATIVAS PARA O PARCELAMENTO OU NÃO DA CONTRATAÇÃO (Inc. VIII, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Considerando a natureza do objeto, não é indicado o seu parcelamento, uma vez que as atividades referentes ao fornecimento dos bens e execução dos serviços a serem contratados são interdependentes e devem ser executados por uma única empresa, reduzindo assim os custos e os riscos da contratação. 
+
+O não parcelamento do objeto oferece maior nível de controle por parte da Administração, torna a fiscalização dos serviços mais eficaz e proporciona redução do custo total dos serviços, tendo em vista a possibilidade de otimizar serviços recorrentes em cada contratação como: canteiros, profissionais da administração direta (engenheiros, técnicos etc.), maquinários diversos, andaimes e limpeza.
+
+Ademais, na hipótese de parcelamento, há que se considerar a possibilidade de frustração dos procedimentos licitatórios ou descompasso nas contratações, fatos que prejudicariam a execução do objeto final, sem falar na dilação do prazo para a conclusão dos serviços. 
+
+
+
+
+
+
+
+
+
+
+
+ABAIXO, EXEMPLO DE JUSTIFICATIVA, PARA OS CASOS DE ETP SOBRE PPCI EM LOTE
+
+
+
+Conforme Planos de Obras do Tribunal de Justiça do Estado de São Paulo, existem vários serviços de Proteção e Combate a Incêndios (PPCI) aguardando contratação, sendo que parte considerável deles já possuem projetos aprovados no Corpo de Bombeiros.
+
+Considerando a similaridade de objeto, a reduzida quantidade de itens de serviços necessários para a adequação de cada edificação, bem como a subdivisão do Estado em 10 Regiões Administrativas pelo Tribunal de Justiça, após estudo, foi constatada a vantajosidade técnica e econômica de sua realização, dividindo-se as contratações em lotes, obedecendo os limites territoriais de cada Região Administrativa, devido à proximidade das Comarcas.
+
+Desta forma, para a 10ª RAJ, objeto do estudo em questão, foi considerada a contratação dos serviços de PPCI para as 10 edificações elencadas no item 1.1, sendo elaborado Plano de Ataque/Logística – estratégia de execução, prevendo a realização dos serviços utilizando-se três frentes de trabalho.
+
+A contratação de uma única empresa reduzirá os custos diretos e indiretos, com a aquisição de insumos em maior quantidade pela empresa contratada, com uma única equipe de engenharia para realização da Administração local, com a otimização do canteiro, além de manter um mesmo padrão de equipamentos a serem instalados em todos os prédios.
+
+Para otimização dos canteiros será realizada a instalação de canteiro central em Fórum com localização estratégica, incluindo escritório da Contratada e Fiscalização, bem como de áreas para depósito de material e equipamentos, refeitório e canteiros avançados de menor porte nos demais prédios, o que minimizará os custos com instalação de canteiros e facilitará o controle e gerenciamento dos serviços.
+
+Quanto a Administração local, comparando os custos previstos com a remuneração de profissionais que acompanham serviços da natureza aqui tratada (engenheiro civil, engenheiro elétrico e encarregado de obras, por exemplo), com a contratação da forma proposta, haverá significativa economia em razão da possibilidade de otimização do trabalho destes profissionais. 
+
+Ainda, haverá maior competitividade no certame e aumento da possibilidade de interesse por parte de empresa de maior porte e com melhor saúde financeira, em decorrência da quantidade de serviços abrangidos e do valor da contratação.
+
+Outro aspecto favorável será a viabilização da execução dos serviços nos Fóruns com poucas intervenções, considerando que licitações em prédios do interior com reduzido número de serviços, tem maior probabilidade de fracassar ou terminar deserta.
+
+Deve-se observar, também, a redução considerável dos custos com licitações e gerenciamentos, com a realização de contratação única para as dez edificações. Conforme Plataforma + Brasil do Portal SICONV (https://siconv.com.br/blog/voce-sabe-quanto-custa-uma-licitacao/) um processo licitatório gera um custo médio de R$14.351,50, isso em 2015. Desta forma, apenas nesse quesito, teremos uma economia de R$ 129.163,50 para a contratação em questão. 
+
+A licitação em lote ainda será melhor para controle, gestão e fiscalização do contrato, considerando a existência de um fiscal para cada RAJ, conforme dispõe o contrato nº 000.316/2018 com a empresa Fernandes Terruggi Consultores, bem como, a existência de um único interlocutor por parte da empresa, que acompanhará desde a execução dos serviços até a assistência técnica durante o período de garantia, propiciando agilidade na resolução de problemas.
+
+Quanto à hipótese de contratação de empresas distintas para execução dos serviços de uma mesma característica, considerando-se a natureza do objeto, também não é recomendado o seu parcelamento, uma vez que as atividades referentes ao fornecimento dos bens e execução dos serviços são semelhantes, devendo ser executados por uma única empresa; além disso, haveria o risco de perda de garantia no caso de defeitos oriundos de serviços mal executados ou de assistência técnica inadequada prestada por terceiros. Poderia haver também dificuldade em avaliar possíveis irregularidades nos serviços contratados, gerando um conflito de responsabilidades entre as empresas contratadas.
+
+Sob o aspecto estritamente econômico, ao se fragmentar o serviço aumenta-se o valor total de sua prestação.
+
+Por todo o exposto, a contratação da forma proposta justifica-se pelo princípio da economicidade (com economia em escala) e representa a promoção dos resultados esperados com qualidade, vantajosidade técnica e no menor custo possível.
+
+
+
+NOTA: Apresentar a justificativa para o parcelamento ou não da contratação.
+
+No caso de serviços o parcelamento do objeto da contratação, que visa ampliar a competição, será possível somente quando for tecnicamente viável e economicamente vantajoso, devendo o gestor expor os motivos, e deverão ser considerados: (inciso III, artigo 47 da Lei 14.133/2021)
+
+a responsabilidade técnica;
+
+o custo para a Administração de vários contratos frente às vantagens da redução de custos, com divisão do objeto em itens;
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+No caso de compras, o parcelamento do objeto deverá ser considerado:
+
+a viabilidade da divisão do objeto em lotes;
+
+o aproveitamento das peculiaridades do mercado local, com vistas à economicidade, sempre que possível, desde que atendidos os parâmetros de qualidade; e 
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado
+
+O parcelamento não será adotado quando:
+
+a economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor;
+
+o objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido; e
+
+o processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+
+
+
+DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS (Inc. IX, § 1º, art. 18, Lei 14.133/21)
+
+
+
+A contratação pretendida trará benefícios diretos às autoridades, servidores e usuários, garantindo melhores condições de uso da edificação e melhores condições de trabalho, resultando em conforto, funcionalidade, salubridade, segurança das pessoas e dos sistemas de instalações existentes. A solução adotada objetiva minimizar os gastos públicos, sem comprometimento dos padrões de qualidade.
+
+
+
+NOTA: Demonstrar os resultados pretendidos com a contratação, em termos de economicidade e aproveitamento dos recursos humanos, materiais e financeiros disponíveis.
+
+
+
+PROVIDÊNCIAS PRÉVIAS A CONTRATAÇÃO (Inc. X, § 1º, art. 18, Lei 14.133/21)
+
+	
+
+Disponibilizar espaços e áreas para o desenvolvimento dos trabalhos a serem contratados.
+
+Fiscalizar os serviços e gerir o contrato.
+
+
+
+NOTA: Identificar medidas indispensáveis com vistas aos resultados pretendidos na contratação. Ex: destinação de espaço e infraestrutura para execução de serviços ou recepção de materiais. Propor capacitação de servidores que atuarão diretamente na gestão e fiscalização do contrato.
+
+
+
+
+
+CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES (Inc. XI, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Para o objeto da contratação em tela não há serviços correlato e/ou interdependentes.
+
+
+
+NOTA: Contratações correlatas são aquelas que guardam relação com o objeto principal, interligando-se a essa prestação do serviço, mas que não precisam, necessariamente, ser adquiridas para a completa prestação do objeto principal. Exemplo: Serviços correlatos: serviços prestados pelas agências de turismo que se interligam com a prestação de serviços de agenciamento de viagens tais como: transportes terrestres e aquaviários, aluguel de veículos, hospedagem, seguro de viagem, dentre outros. Já as contratações interdependentes são aquelas que precisam ser contratadas juntamente com o objeto principal para sua completa prestação. Fonte: Portal de Compras do Governo Federal, item 2.6 – Qual a diferença entre contratações correlatas e interdependentes? Publicado em 20/08/2020 às 17hs14.
+
+
+
+Para o objeto da contratação em tela há serviços correlatos e/ou interdependentes de manutenção preventiva e corretiva pelo período de 12 meses após o recebimento.
+
+
+
+NOTA: No texto acima, nas contratações em que houver entregas, instalações e recebimentos fracionados, apontar o período total previsto de manutenção e justificar.
+
+
+
+IMPACTOS AMBIENTAIS (Inc. XII, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Para a contratação em tela a solução proposta levou em consideração:
+
+
+
+os possíveis impactos ambientais e respectivas medidas mitigadoras, logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável,  troca de peças e equipamentos sanitários que requerem menor quantidade de água para uso e, consequentemente, menor consumo de água, que requerem menor custo de manutenção, que possuem maior vida útil, (mencionar outros benefícios), nos termos do que está estabelecido no Plano de Logística Sustentável do TJSP 2021-2026.
+
+As normativas legais sobre o tema, em especial a Resolução n.º 400, de 16 de junho de 2021 do Conselho Nacional de Justiça – CNJ.
+
+
+
+NOTAS: 
+
+Os textos acima são exemplificativos; necessário aprimorar/detalhar a descrição para o serviço a ser contratado; no caso acima o exemplo se ateve a reformas hidráulicas (exigência Resolução CNJ 347/2020).
+
+Metas estabelecidas consoante PLS TJSP – Plano de Logística Sustentável 2021-2026 – 1.ª edição, combinado com a PORTARIA Nº 9.993/2021 de 27 de setembro de 2021. Fonte: sítio do www.tjsp.jus.br – Transparência – Plano de Logística Sustentável:
+
+Meta 6.1 - Reduzir em 10% o consumo de energia elétrica em relação ao ano de 2019, até 2026;
+
+Meta 7.1 - Reduzir em 10% o volume de água consumida em relação ao ano de 2019, até 2026;
+
+Meta 8.1 - Implantar coleta seletiva de recicláveis e refugos em 80% das Comarcas do TJSP, até 2026.
+
+
+
+NOTA: No caso de não atendimento ou da não aplicação dos subitens acima, necessário justificar. 
+
+
+
+POSSIBILIDADE DE COMPRA OU DE LOCAÇÃO DE BENS (art. 44, Lei 14.133/21)
+
+
+
+Situação não aplicável à contratação almejada e prevista neste Estudo Técnico Preliminar. 
+
+
+
+Nota: Avaliar se há possibilidade de compra ou de locação de bens.
+
+Nas situações em que for possível comprar ou alugar o bem, o agente público não poderá optar discricionariamente por uma ou outra solução. A decisão deverá recair sobre a alternativa mais vantajosa, apurada em estudo técnico preliminar que considere os custos e benefícios de cada uma.
+
+Em caso negativo informar como “item não aplicável”.
+
+
+
+PARTICIPAÇÃO EM CONSÓRCIO (art. 15, Lei 14.133/21)
+
+
+
+No presente caso, se indica não permitir a participação de consórcio pelos motivos a seguir expostos:
+
+
+
+1.º não ocorrerá prejuízo a competitividade, pelo contrário, é entendimento de que a proibição trará maior  gama de interessados.
+
+
+
+2.º Segundo tese do Professor MARÇAL JUSTEM FILHO, in Comentários à Lei de Licitações e Contratos Administrativos, 13 ed. 2009, pág. 47 a 477 leciona que:
+
+
+
+	"Em regra, o consórcio não é favorecido ou incentivado pelo nosso Direito. Como instrumento de atuação empresarial, o consórcio pode conduzir a resultados indesejáveis. A formação de consórcios acarreta riscos da dominação do mercado, através de pactos de eliminação de competição entre empresários. No campo de licitações, a formação de consórcios poderia reduzir o universo da disputa. O consórcio poderia retratar uma composição entre eventuais interessados, em vez de estabelecerem disputa entre si, formalizariam acordo para eliminar a competição.
+
+	Mas o consórcio tambem pode prestar-se a resultados positivos e compatíveis com a ordem jurídica. Há hipóteses em que as circunstâncias de mercado e (ou) a complexidade do objeto tornam problemática a competição. lsso se passa quando grande quantidade de empresas, isoladamente, não dispuserem de condições para participar de licitações. Nesse caso, a instituto do consórcio é a via adequada para propiciar ampliação do universo de participantes. É usual que a Administração Pública apenas autorize a participação de empresas em consórcio quando as dimensões ou a complexidade do objeto ou das circunstâncias concretas exijam a associação entre os particulares. São as hipóteses em que apenas umas poucas empresas estariarn aptas a preencher as condições especiais exigidas para a licitação."
+
+
+
+3.º Consoante ensinamentos acima, a contratação em tela não apresenta dimensões, complexidade ou circunstâncias particulares e/ou concretas, assim como situação  problemática à competição, que indiquem a permissão de participação de consórcio, situação que não configura restrição a competitividade, moralidade e economicidade.
+
+
+
+Nota: Pelo artigo 15 da Lei 14.133/21, necessário justificar, COM PROPRIEDADE, os fundamentos adotados pela Administração para a NÃO admissão da participação de empresas consorciadas na licitação. 
+
+
+
+No presente caso, se indica admitir a participação de consórcio pelos motivos a seguir expostos:
+
+RELACIONAR MOTIVOS
+
+
+
+
+
+
+
+VISTORIA/VISITA TÉCNICA (§§ 2º,3º e 4º, art. 63, Lei 14.133/21)
+
+
+
+A necessidade de vistoria prévia/visita técnica, obrigatória ou facultativa, será definida no Termo de Referência. Em sendo obrigatória, constará no Termo de Referência a devida justificativa.
+
+
+
+CUMPRIMENTO DAS RESOLUÇÕES N.ºS 255/2018 E 540/2023, ARTIGOS 2.º E N.º 401/2021, ARTIGO 8.º DO CONSELHO NACIONAL DE JUSTIÇA
+
+
+
+O serviço objeto da contratação em tela não prevê a dedicação exclusiva de mão de obra ou de estagiário, bem como atendimento ao público. 
+
+
+
+PLANO DE RISCOS (inc. XIII, art. 2.º Provimento 2.724/2023)
+
+
+
+O Plano de Riscos segue anexo a este Estudo Técnico Preliminar.
+
+
+
+Notas: 
+
+Texto em cumprimento ao Parecer Jurídico n.º 141/2024, tópico V, g, Processo 2023/114168.
+
+O Plano de Risco será anexado pela Coordenadoria da RAJ respectiva. 
+
+
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+
+
+Identificação dos servidores responsáveis pela execução do planejamento da contratação.
+
+
+
+Unidade solicitante
+
+<Sigla da unidade solicitante/interessada>
+
+Serviço de Administração do Prédio do Fórum de Osasco
+
+Secretaria/Diretoria responsável
+
+<Secretaria>
+
+SAAB – Secretaria de Administração e Abastecimento
+
+Gestor ou Gestora de Planejamento da contratação
+
+Nome> - <Cargo>
+
+Alian Labate Salas – Coodernadora de Administração da 1.ª Região Administrativa Judiciária – DARAJ – Grande São Paulo
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>
+
+Coordenaria de Gestão de Projetos – SAAB 1.1
+
+Serviço de Projetos de ................. - SAAB 1.1...... 
+
+Consórcio MHA-RAF
+
+Equipe de Apoio
+
+Carolina Canescki – Serviço de Padronização, Priorização e Apoio Técnico – SAAB 1.5.1 – Apoio Técnico na Licitação
+
+
+
+NOTA:  Atribuições nos termos do Provimento CSM n.º 2.724/2023.
+
+Gestor de Planejamento da Contratação: servidor responsável pela coordenação da Equipe de Planejamento da Contratação, lotado preferencialmente na Secretaria requisitante.
+
+Equipe de Planejamento da Contratação: equipe multidisciplinar, coordenada pelo Gestor de Planejamento da Contratação, responsável pela elaboração de Estudo Técnico Preliminar, Plano de Riscos e Termo de Referência, Projeto Básico ou Executivo.
+
+Equipe de Apoio: equipe composta por servidores e, se o caso, Responsável Técnico para auxiliar o subscritor do edital, o Agente de Contratação ou a Comissão de Contratação no exercício de suas atribuições.
+
+
+
+Identificação dos servidores responsáveis pela gestão do contrato (art. 72 do Provimento CSM nº 2.724/2023).
+
+
+
+Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+Suplente(s) do Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+
+
+AVALIAÇÃO CONCLUSIVA (Inc. XIII, § 1º, art. 18, Lei 14.133/21)
+
+
+
+Com base nas informações levantadas ao longo do estudo técnico preliminar, resta evidente que a contratação, nos termos propostos, atenderá às necessidades a que se destina.
+
+
+
+NOTA: O responsável pela elaboração do estudo deverá se posicionar conclusivamente sobre a adequação da contratação para o atendimento da necessidade a que se destina. Não se admite uma avaliação conclusiva imprestável, que se reduza a afirmar qua contratação se revela como uma solução adequada. É imprescindível examinar os diferentes tópicos do objeto de exame e daí extrair conclusões fundamentadas, com exposição satisfatória” Marçal Justen Filho, Comentários à Lei de Licitações e Contratações Administrativas, pág. 35, 29.13.
+
+
+
+SAAB 1.1 – Coordenaria de Gestão de Projetos - Rosemeire Gonçalves Martins Silva
+
+Equipe de Planejamento da Contratação:
+
+SAAB 1.1.1 - Serviço de Projetos de Engenharia Civil - Anna Claudia Tezin Zanuto e/ou
+
+SAAB 1.1.2 - Serviço de Projetos de Engenharia Elétrica e Sistemas Prediais - Eliane Alencar Leite
+
+Data de finalização:
+
+Assinatura:
+
+
+
+NOTAS: Utilizar o texto acima quando o ETP for elaborado pela SAAB 1.;“data de finalização” e “assinatura”, inserir quando conferido e finalizado o documento.
+
+
+
+Consórcio MHA-RAF
+
+Responsável Técnico(a): Nome do engenheiro(a)/arquiteto(a) do Consórcio
+
+Data de finalização:
+
+Assinatura:
+
+
+
+NOTAS: Utilizar o texto acima quando o ETP for elaborado pelo Apoio Técnico; “data de finalização” e “assinatura”, inserir quando emitido o TAP. 
+
+
+
+Versão: 09/05/2024 –R06
+
+
+
+11
+
+11Versão 07-05-2024 – R06 
+
+
+
+|

@@ -1,0 +1,879 @@
+ARTEFATO III – ESTUDO TÉCNICO PRELIMINAR
+
+Processo Administrativo nº 
+
+Objeto 
+
+São Paulo, 
+
+
+
+
+
+
+
+
+
+
+
+		Histórico de Revisões
+
+Data
+
+Versão
+
+Descrição
+
+Autor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTUDO TÉCNICO PRELIMINAR 
+
+(Lei nº 14.133/2021 e Resolução CNJ nº 468/2022)
+
+Contratações de Solução de Tecnologia da Informação e Comunicação (STIC) 
+
+
+
+Contratações de bens e serviços de Solução de Tecnologia da Informação e Comunicação (STIC) realizadas com base na Lei no 14.133/2021 disciplinadas pela Resolução CNJ nº 468/2022. (não transcrever, apenas orientativo)
+
+Na contratação cuja estimativa de preços seja inferior ao disposto no art. 75, II, da Lei no 14.133/2021, aplicam-se apenas os arts. 3o e 4o da Resolução nº 468/2022, competindo ao TJSP realizar procedimentos simplificados de contratação adequados nos termos da legislação vigente. (não transcrever, apenas orientativo)
+
+
+
+Processo CPA nº 0000/00000000
+
+OBJETO
+
+Descrever de forma sucinta o objeto da contratação.
+
+Ex: Contratação de empresa especializada em fábrica de sofware / Aquisição de mini-pcs para renovação do parque de computadores do TJSP.
+
+
+
+Obs. Art. 10 Parágrafo único. Caso seja identificada por qualquer órgão do Poder Judiciário, na base de dados da Plataforma de Governança Digital Colaborativa do Poder Judiciário (Connect-Jus), objeto similar à contratação pretendida, o ETP poderá ser aproveitado, no que couber, devendo ser revisto o gerenciamento de riscos quando a natureza do objeto o exigir.
+
+DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (Inc. I, § 1º, art. 18, Lei 14.133/21)
+
+Descrever as necessidades de contração, considerando o problema a ser resolvido sob a perspectiva do interesse público.
+
+DEMONSTRAÇÃO DA PREVISÃO DA CONTRATAÇÃO NO PLANO DE CONTRATAÇÕES ANUAL (Inc. II, § 1º, art. 18, Lei 14.133/21))
+
+Informar o código de identificação do Plano de Contratações Anual, que poderá ser obtido no Portal da Administração, SAAB 5, Monitoramento PCA do exercício vigente.
+
+Atenção: Se a contratação pretendida não estiver inserida no PCA, observar o art. 10, do Provimento nº 97/2022, o pedido será devolvido para o setor de origem
+
+Art. 10. Os pedidos de novas compras ou contratações e prorrogações contratuais formulados pelas áreas do Tribunal de Justiça do Estado de São Paulo que não estejam inseridos no Plano de Contratações Anual não serão processados e serão devolvidos ao setor de origem.
+
+§1º. O caput não se aplica às demandas emergenciais.
+
+§2º. Para os pedidos decontratações a serem efetivados nos meses de janeiro a abril do exercício seguinte, será considerada a versão Preliminar do Plano de Contratações Anual.
+
+§3º. Havendo relevante interesse público, devidamente justificado, o Comitê do Plano de Contratações Anual poderá analisar pedidos de contratação apresentado fora dos períodos estabelecidos no §2º e no artigo 9º, os quais serão aprovados pela Presidência do Tribunal de Justiça do Estado de São Paulo, bem como eventual alteração no Plano de Contratações Anual.
+
+ESTRATÉGIA DAS CONTRATAÇÕES – Capítulo II da Resolução CNJ nº 468/2022
+
+Indicar se o objeto pretendido foi precedido de Plano de Contratações de STI, e se o planejamento está alinhado com o Plano Diretor de Tecnlogia da Informação e Comunicação, com o Planejamento Estratégico Institucional e com a Estratégia Nacional do Poder Judiciário e Estratégia Nacional de TIC (ENTIC-JUD).
+
+PLANEJAMENTO ESTRATÉGICO (Parágrafo único, art. 11, Lei 14.133/21))
+
+Informar se o objeto está alinhado ao Planejamento Estratégico do Tribunal de Justiça, mencionando o número do objetivo estratégico e a meta.
+
+O Planejamento Estratégico poderá ser consultado no endereço: https://www.tjsp.jus.br/QuemSomos/PlanejamentoEstrategico.
+
+Caso o tipo de objeto não estiver alinhado ao Planejamento estratégico, informar que não se aplica.
+
+INSTRUMENTOS DE PLANEJAMENTO (Guia CNJ versão 4.0)
+
+Fazer referência a outros instrumentos de planejamento do órgão, se houver;
+
+
+
+CATÁLOGO ELETRÔNICO DE PADRONIZAÇÃO (§ 5º, art. 12, Provimento CSM nº 2.724/2023)
+
+Verificar se objeto possui Catálogo Eletrônico de Padronização no Portal da Administração da intranet do TJSP.
+
+Se existir catálogo publicado, o Estudo Técnico Preliminar e o Termo de Referência deverão ser utilizados os modelos disponibilizados no Portal, caso contrário apresentar justificativa.
+
+Se não existir, informar que o TJSP não disponibilizou catálogo eletrônico de padronização no Portal da Administração
+
+REQUISITOS DA CONTRATAÇÃO (Inc. III, § 1º, art. 18, Lei 14.133/21))
+
+Descrição dos requisitos necessários e suficientes à escolha da solução ou produto, prevendo critérios e práticas de sustentabilidade.
+
+No caso de serviços em geral,  deverá atender ao princípio da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; (inc I, art 47)
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+CONDIÇÕES DE RECEBIMENTO (inc III, art. 18, Lei 14.133/21))
+
+Das condições de recebimento
+
+Descrever as condições de recebimento de acordo com as características do objeto, assim como os prazos de recebimento definitivo e provisório.
+
+Indicar dos locais de entrega dos produtos ou da prestação de serviços, quando for o caso.
+
+Atenção! Na ausência de previsão, o prazo de recebimento provisório será de até 10 (dez) dias úteis e, definitivo, no prazo de até 30 (trinta) dias úteis nas hipóteses do inciso I do art. 140
+
+CONDIÇÕES DE EXECUÇÃO E PAGAMENTO (inc III, art. 18, Lei 14.133/21))
+
+Informar as condições de execução e pagamento.
+
+Ex1: O serviço terá execução imediata, após a assinatura do contrato, com a disponibilização da mão de obra terceirizada nos locais discriminados no termo de referência; 
+
+O pagamento será mensal, de acordo com a prestação de serviços por posto/dia, em 30 dias da data do ateste da Nota Fiscal pelo fiscal de contrato.
+
+Ex2: O pagamento será realizado em 30 dias a partir do ateste da Nota Fiscal/Fatura pelo fiscal do contrato, após a entrega dos bens de acordo com a especificação.
+
+GARANTIAS  
+
+Garantia de Execução Contratual ( art. 96, Lei 14.133/21)
+
+Informar as garantias para a contratação, se o caso.
+
+A critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos.
+
+§ 1º Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+
+I - caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia;
+
+II - seguro-garantia;
+
+III - fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no País pelo Banco Central do Brasil.
+
+IV - título de capitalização custeado por pagamento único, com resgate pelo valor total. (Incluído pela Lei nº 14.770, de 2023)
+
+§ 2º Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, o contratado ficará desobrigado de renovar a garantia ou de endossar a apólice de seguro até a ordem de reinício da execução ou o adimplemento pela Administração.
+
+§ 3º O edital fixará prazo mínimo de 1 (um) mês, contado da data de homologação da licitação e anterior à assinatura do contrato, para a prestação da garantia pelo contratado quando optar pela modalidade prevista no inciso II do § 1º deste artigo.
+
+Das garantias exigidas e ofertadas (inc. III, art. 18, Lei 14.133/21)
+
+Especificar as garantias exigidas e as condições de manutenção e assistência técnica, quando for o caso.
+
+Ex: O equipamento terá garantia de 12 meses a partir da instalação, sendo que empresa deverá dispor um canal de atendimento “0800” ou via “whatsapp” para suporte e acionamento da garantia para reparos em caso de problemas no equipamento adquirido
+
+
+
+Atenção! Requisito não obrigatório. Se não for o caso, informar : “Não se aplica”
+
+MODALIDADE DE LICITAÇÃO, CRITÉRIO DE JULGAMENTO e MODO DE DISPUTA (inc. VIII, art. 18, Lei 14.133/21))
+
+Considerando que o objeto do presente estudo possui padrões de desempenho e qualidade, assim como especificações usuais de mercado, logo, a modalidade de licitação será o Pregão, na forma eletrônica, o critério de julgamento [menor preço ou maior desconto] e o modo de disputa aberto 
+
+Atenção! Manter o texto acima como redação padrão, sendo necessário definir o critério de julgamento, destacado em vermelho.
+
+Modalidade de licitação e critério de julgamento
+
+O pregão é a modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto. 
+
+Modo de disputa
+
+Aberto: hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes, exceto para o critério de julgamento de técnica e preço;
+
+Fechado: hipótese em que as propostas permanecerão em sigilo até a data e hora designadas para sua divulgação. Este modo é vedado para os critérios de julgamento de menor preço ou de maior desconto.
+
+Qualquer dúvida, entrar em contato com a equipe da Diretoria de Licitações e Suprimentos.
+
+QUALIFICAÇÃO TÉCNICA (Inc. IX, art. 18, Lei 14.133/2021)
+
+Informar motivação circunstanciada das condições do edital, tais como justificativa de exigências de qualificação técnica, mediante indicação das parcelas de maior relevância técnica ou valor significativo do objeto, e de qualificação econômico-financeira, justificativa dos critérios de pontuação e julgamento das propostas técnicas, nas licitações com julgamento por melhor técnica ou técnica e preço, e justificativa das regras pertinentes à participação de empresas em consórcio;
+
+Atenção! Caso não se aplique, informar. 
+
+
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18, Lei 14.133/21))
+
+Informar as estimativas das quantidades, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala.
+
+LEVANTAMENTO DE MERCADO E JUSTIFICATIVA TÉCNICA E ECONÔMICA (Inc. V, § 1º, art. 18 da Lei 14.133/21 e Guia CNJ de Contrações de TIC do Poder Judiciário, versão 4.0, página 20)
+
+Realizar levantamento de mercado, que consiste em analisar:
+
+as alternativas possíveis
+
+as soluções disponíveis no mercado de Tecnologia da Informação e Comunicação e seus respectivos fornecedores
+
+as contratações similares realizadas por outros órgãos ou entidades da Administração Pública
+
+Informar justificativa técnica e econômica da escolha do tipo de solução a contratar
+
+ESTIMATIVA DE VALOR DA CONTRATAÇÃO (Inc. VI, § 1º, art. 18, Lei 14.133/21)) 
+
+Apresentar a estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte.
+
+Atenção! Este valor estimado poderá se revisado/atualizado pela equipe de pesquisa de preços, após análise do ETP e do TR.
+
+Atenção! Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas (art. 24)
+
+Novo!!!! Só cabe para entrega imediata
+
+Atenção! Utilizar o texto abaixo para manter o orçamento estimado sigiloso na licitação, exceto para contratações da rede de suprimentos, de prestação de serviços com dedicação exclusiva de mão de obra e de obras e serviços de engenharia. Ver parecer do GTAJ 929/2024, processo 2024/00097289
+
+Orçamento sigiloso (art. 24, caput, da Lei nº 14.133/2021)
+
+O valor do orçamento estimado da contratação a ser apurado pela Diretoria de Licitações e Suprimentos será em caráter sigiloso nos termos do art. 24, caput, da Lei nº 14.133/2021, em razão de que a publicação do orçamento estimado em edital implica a oferta de propostas iniciais muito próximas ou iguais àquele valor obtido pela Administração (“efeito âncora”), e será publicado no Portal da Transparência do Tribunal de Justiça após a homologação do resultado da licitação e no Portal Nacional de Contratações Públicas (PNCP).
+
+Mesmo na fase de lances, há pouco estímulo para que os licitantes proponham descontos relevantes, desejando orbitar o mais próximo possível do preço referencial.
+
+A partir de tal constatação, é possível extrair algumas conclusões vantajosas sobre o tema que corroboram a pertinência e cabimento do orçamento sigiloso, a saber: 
+
+Diminui a assimetria de informações entre a administração e o licitante: o licitante já é detentor dos dados informativos da composição de seus custos e, em caso de divulgação do orçamento estimado, também terá ciência do valor máximo a ser pago pela Administração, fato que desequilibra completamente a relação negocial, em prejuízo da atividade do pregoeiro/agente de contratação; 
+
+Estimula a apresentação de propostas iniciais mais adequadas aos reais preços de mercado: não saber o preço máximo que a Administração está disposta a investir tende a reduzir o valor das propostas iniciais apresentadas, porque serão pautadas, sobretudo, nos custos do fornecedor e nos preços por ele efetivamente praticados; 
+
+Desestimula a participação de empresas inexperientes: a divulgação do orçamento estimado permite que empresas sem qualquer experiência possam ofertar propostas e concorrer, ainda que não possuam conhecimento técnico adequado ou capacidade de planejamento para a contratação em questão, fato que pode implicar atrasos e prejuízos ao certame; 
+
+Fomenta a negociação e a busca das melhores propostas: quanto mais a competição e a oferta de lances forem favorecidas, mais provável será a obtenção de proposta vantajosa para a Administração (observada a exequibilidade, naturalmente), medida que beneficia o interesse público e consagra os princípios da eficiência, competitividade e economicidade;
+
+Auxilia na prevenção de conluios entre os licitantes: o fato de os licitantes não terem ciência do orçamento estimado contribui parafastar práticas de conluio, na medida em que, diante da incerteza do preço a ser investido pela Administração, obrigam-se a apresentar preços mais próximos do realmente praticados; e 
+
+Prestigia o princípio da publicidade: ainda que, prima facie, não aparente prestigiar tal princípio, certo é que a restrição de publicidade é apenas temporária e não se sustenta perante os órgãos de controle interno e externo (inciso I do art. 24).
+
+DESCRIÇÃO DA SOLUÇÃO (Inc. VII, § 1º, art. 18, Lei 14.133/21))
+
+Informar a Descrição da solução como um todo, incluindo:
+
+descrição sucinta, precisa, clara e suficiente da Solução de Tecnologia da Informação e Comunicação escolhida, indicando os bens e/ou serviços que a compõem;
+
+alinhamento em relação às necessidades de negócio e requisitos tecnológicos;
+
+identificação dos benefícios a serem alcançados com a solução escolhida além dos aspectos de eficácia, eficiência, economicidade e padronização, os aspectos qualitativos em termos de benefícios para o alcance dos objetivos da contratação;
+
+relação entre a demanda prevista e a quantidade dos bens e/ou serviços a serem contratados
+
+exigências relacionadas à manutenção e à assistência técnica, quando for o caso
+
+demonstrativo dos resultados pretendidos em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais ou financeiros disponíveis;
+
+a possibilidade de aquisição na forma de bens ou contratação como serviço;
+
+a ampliação ou substituição da solução implantada
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+
+
+JUSTIFICATIVAS PARA O PARCELAMENTO OU NÃO DA CONTRATAÇÃO (Inc. VIII, § 1º, art. 18, Lei 14.133/21))
+
+Apresentar a justificativa para o parcelamento ou não da contratação.
+
+No caso de serviços o parcelamento do objeto da contratação, que visa ampliar a competição, será possível somente quando for tecnicamente viável e economicamente vantajoso, devendo o gestor expor os motivos, e deverão ser considerados: (inc. III, art. 47)
+
+a responsabilidade técnica;
+
+o custo para a Administração de vários contratos frente às vantagens da redução de custos, com divisão do objeto em itens;
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+No caso de compras, o parcelamento do objeto deverá ser considerado:
+
+a viabilidade da divisão do objeto em lotes;
+
+o aproveitamento das peculiaridades do mercado local, com vistas à economicidade, sempre que possível, desde que atendidos os parâmetros de qualidade; e
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+O parcelamento não será adotado quando:
+
+A economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor;
+
+O objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido;
+
+O processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+
+
+
+
+
+
+
+DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS (Inc. IX, § 1º, art. 18, Lei 14.133/2021)
+
+Demonstrar os resultados pretendidos com a contratação, em termos de economicidade e aproveitamento dos recursos humanos, materiais e financeiros disponíveis.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+PLANO DE SUSTENTAÇÃO E TRANSIÇÃO CONTRATUAL  (Guia CNJ versão 4.0)
+
+	O documento Sustentação do Contrato deverá conter, sempre que possível e necessário, os seguintes elementos:
+
+	 os recursos materiais e humanos necessários à continuidade do objeto contratado;
+
+	a continuidade do fornecimento da Solução de Tecnologia da Informação e Comunicação em eventual interrupção contratual;
+
+	as atividades de transição contratual e de encerramento do contrato, que incluem, no mínimo a:
+
+	entrega de versões finais dos produtos alvos da contratação;
+
+	transferência final de conhecimentos sobre a execução e a manutenção da Solução de Tecnologia da Informação e Comunicação;
+
+	devolução de recursos materiais;
+
+	 revogação de perfis de acesso;
+
+	eliminação de caixas postais.
+
+	As regras para estratégia de independência do órgão com relação à empresa contratada, que contemplem, no mínimo:
+
+	a forma de transferência de conhecimento tecnológico nos casos de contratação de desenvolvimento de softwares sob encomenda no mercado de TIC;
+
+	os direitos de propriedade intelectual e autorais da Solução de Tecnologia da Informação e Comunicação, inclusive sobre os diversos produtos gerados ao longo do contrato, tais como a documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados, justificando os casos em que tais direitos são exclusivos da empresa contratada.
+
+PROVIDÊNCIAS PRÉVIAS A CONTRATAÇÃO (Inc. X, § 1º, art. 18, Lei 14.133/21))
+
+Identificar medidas indispensáveis com vistas aos resultados pretendidos na contratação. Ex: destinação de espaço e infraestrutura para execução de serviços ou recepção de materiais. 
+
+Propor capacitação de servidores que atuarão diretamente na gestão e fiscalização do contrato.
+
+	Atenção! Requisito não obrigatório. Na ausência apresentar justificativa
+
+CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES (Inc. XI, § 1º, art. 18, Lei 14.133/21))
+
+Informar se há contratações correlatas e/ou interdepedentes ao objeto que poderá impactar na execução contratual e até mesmo na homologação do objeto.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+IMPACTOS AMBIENTAIS (Inc. XII, § 1º, art. 18, Lei 14.133/21))
+
+ Impactos ambientais e medidas mitigadoras
+
+Avaliar os possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável.
+
+Metas - Plano de Logística Sustentável 
+
+Identificar quais são as metas que serão impactadas ou que se alinham com o propósito de aquisições sustentáveis e uso eficiente de insumos, materiais e serviços, de acordo com o Plano de Logística Sustentável do TJSP.
+
+Critérios de sustentabilidade
+
+Indicar os critérios de sustentabilidade, ou seja, os métodos utilizados para avaliação e especificação de bens, materiais, serviços e obras em função do seu impacto ambiental, social, cultural e econômico, no mínimo.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+Obs: cumprimento das Resoluções CNJ nºs 400/2021.
+
+
+
+
+
+POSSIBILIDADE DE COMPRA OU DE LOCAÇÃO DE BENS (art. 44, Lei 14.133/21)
+
+Avaliar se há possibilidade de compra ou de locação de bens.
+
+Se não for o caso, informar como: não aplicável.
+
+PARTICIPAÇÃO EM CONSÓRCIO (art. 15, Lei 14.133/21)
+
+A participação de empresas em consórcio deverá levar em consideração a complexidade do objeto e as restrições de mercado que levam à impossibilidade de empresas participarem da licitação isoladamente para atender ao objeto da contratação, tornando a competição reservada a poucas empresas aptas a preencher as condições especiais da licitação. Neste caso, o consórcio visa a ampliar o universo de licitantes permitindo a associação entre os particulares, a fim de possibilitar a soma das capacidades operacionais. 
+
+Considerando que o objeto a ser contratado não se enquadra na hipótese estabelecida no item anterior, em razão de ser de natureza comum, sem características especiais ou necessidade de esforços operacionais para atender ao objeto, possibilitando assim a ampla participação de empresas, não há necessidade da instituição do consórcio nesta contratação. 
+
+ 
+
+Atenção! Requisito não obrigatório. Na ausência, o edital de licitação irá prever a participação de empresas em consórcio. 
+
+
+
+VISTORIA/VISITA TÉCNICA (§§ 2º,3º e 4º, art. 63, Lei 14.133/21)
+
+Informar se há necessidade de vistoria ou visita técnica no local onde será prestado o serviço, que será em princípio facultativa.
+
+Se a vistoria ou visita técnica for obrigatória, a unidade solicitante deverá justificar esta exigência.
+
+CUMPRIMENTO DAS RESOLUÇÕES DO CONSELHO NACIONAL DE JUSTIÇA 
+
+Artigo 2ª da Resolução CNJ nº 255/2018. 
+
+Informar, no termo de referência, que a contratada deverá cumprir a distribuição de vagas, de acordo último Censo do IBGE, de acordo com o quadro abaixo o qual será divulgado nos editais de licitação, quando for prestação de serviços com dedicação de mão de obra exclusiva ou de estagiários: 
+
+Sexo 
+
+Percentual 
+
+Homens 
+
+48% 
+
+Mulher branca 
+
+29% 
+
+Mulher preta 
+
+4% 
+
+Mulher amarela 
+
+1% 
+
+Mulher parda 
+
+17% 
+
+Mulher indígena 
+
+1% 
+
+No caso de impossibilidade do cumprimento desta norma deverá ser justificado aqui. 
+
+Atenção: o cumprimento deste artigo está vinculado às contratações com dedicação exclusiva de mão de obra ou de estagiário, nos demais casos excluir este item.  
+
+Art. 2º Os órgãos do Poder Judiciário observarão, sempre que possível, a participação equânime de homens e mulheres, com perspectiva interseccional de raça e etnia, proporcionando a ocupação de, no mínimo, 50% de mulheres, em: (redação dada pela Resolução n. 540, de 18.12.2023) 
+
+[..] 
+
+V –contratação de estagiários(as), inclusive nos programas de residência jurídica, ressalvados os editais em andamento; (incluído pela Resolução n. 540, de 18.12.2023) 
+
+VI – contratação de empresa prestadora de serviço terceirizado, considerada cada função do contrato, ressalvados os editais em andamento. (incluído pela Resolução n. 540, de 18.12.2023) 
+
+§ 1º Para a composição equânime de que trata o caput, por mulher compreende-se mulher cisgênero, mulher transgênero e fluida. (redação dada pela Resolução n. 540, de 18.12.2023) 
+
+§ 2º O preenchimento das vagas deverá respeitar, resguardada a medida do possível, a proporção respectiva de gênero, raça e etnia da população brasileira, por Estado da Federação, segundo o último Censo da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) e de acordo com critérios estabelecidos pelo Departamento de Pesquisas Judiciárias do CNJ, sem prejuízo de superação dessa proporção se houver possibilidade, no que se refere aos grupos minorizados. (redação dada pela Resolução n. 540, de 18.12.2023) 
+
+ 
+
+Comunicado nº 056/2024 – Presidência – TJSP – Processo 2024/0007391 
+
+[...] 
+
+Os pedidos de contratação de empresas prestadoras de serviço terceirizado deverão conter, em seus termos de referência, a previsão da participação equânime de homens e mulheres, com perspectiva interseccional de raça e etnia, proporcionando a ocupação de, no mínimo, 50% de mulheres (compreendendo-se aqui mulher cisgênero, mulher transgênero e fluida), ressalvados os editais em andamento, admitindo-se a flexibilização no que tange às funções insalubres e com jornada noturna, cabendo informar no estudo técnico preliminar a impossibilidade de seu cumprimento ou necessidade de sua flexibilização. 
+
+[...] 
+
+ 
+
+Artigo 8º da Resolução CNJ nº 401/2021. 
+
+Informar, no termo de referência, a quantidade de postos de trabalho a serem ocupados por pessoas aptas em comunicação em Libras, nos casos de contratação que envolvam atendimento ao público. 
+
+No caso de impossibilidade do cumprimento desta norma deverá ser justificado aqui. 
+
+Atenção: o cumprimento deste artigo está vinculado às contratações com dedicação exclusiva de mão de obra, nos demais casos excluir este item.  
+
+ 
+
+[...] 
+
+Art. 8o Em contratos que envolvam atendimento ao público, devem estar previstos no instrumento de contratação postos de trabalho a serem ocupados por pessoas aptas em comunicação em Libras. 
+
+[...] 
+
+Art. 10. Os contratos de terceirização firmados no âmbito do Poder Judiciário devem conter cláusula que preveja a comprovação periódica do cumprimento da política de empregabilidade estabelecida no art. 93 da Lei no 8.213/1991. 
+
+
+
+
+
+
+
+
+
+Resolução CNJ nº 468/2022.
+
+Informar no termo de referência para as Contratações de bens e serviços de Solução de Tecnologia da Informação e Comunicação (STIC) realizadas com base na Lei no 14.133/2021, o cumprimento da Resolução CNJ nº 468/2022. 
+
+Na contratação cuja estimativa de preços seja inferior ao disposto no art. 75, II, da Lei no 14.133/2021, aplicam-se apenas os arts. 3o e 4o da Resolução nº 468/2022, competindo ao TJSP realizar procedimentos simplificados de contratação adequados nos termos da legislação vigente. 
+
+Parecer. Jurídico nº 1319/2025 Processo nº 70406/2025
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+Identificação dos servidores responsáveis pela execução do planejamento da contratação.
+
+Unidade solicitante
+
+<Sigla da unidade solicitante/interessada>
+
+Secretaria/Diretoria responsável
+
+<Secretaria>
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>
+
+<Nome> - <Cargo>
+
+<Nome> - <Cargo>
+
+<Nome> - <Cargo>
+
+Equipe Técnica (se houver)
+
+<Nome> - <Cargo> - <Setor>
+
+	
+
+Identificação dos servidores responsáveis pela gestão do contrato (art. 72 do Provimento CSM nº 2.724/2023.
+
+Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+Suplente(s) do Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+PLANO DE RISCOS
+
+Plano de Riscos (Arts. 2º e 25, XII,  Provimento CSM nº 2.724/2023)
+
+Documento integrante do Estudo Técnico Preliminar, elaborado pela Equipe de Planejamento da Contratação, que contém a descrição, análise e tratamento dos riscos que possam comprometer a contratação, desde a fase de planejamento até o termo final da vigência do contrato, envolvendo, se o caso, a elaboração da matriz de alocação de risco do contrato.
+
+ANEXO
+
+Informar os anexos que fazem parte dos Estudos, se houver.
+
+AVALIAÇÃO CONCLUSIVA (Inc. XIII, § 1º, art. 18, Lei 14.133/21))
+
+O responsável pela elaboração do estudo deverá se posicionar conclusivamente sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+
+“Não se admite uma avaliação conclusiva imprestável, que se reduza a afirmar qua contratação se revela como uma solução adequada. É imprescindível examinar os diferentes tópicos do objeto de exame e daí extrair conclusões fundamentadas, com exposição satisfatória” Marçal Justen Filho, Comentários à Lei de Licitações e Contratações Administrativas, pág. 35, 29.13
+
+São Paulo, data registrada no sistema.
+
+
+
+Observação: O gestor de planejamento necessariamente tem que ser servidor do TJSP e assinar o documento, sem o qual não será recepcionado pela SAAB 5
+
+
+
+OBSERVAÇÕES GERAIS
+
+Importante verificar os apontamentos abaixo, no decorrer dos estudos técnicos preliminares.
+
+Cota para ME e EPP´s
+
+A cota para médias e empresas pequenas (ME/EPP) está prevista no inc. III, do art. 48 Lei Complementar nº 123/2006, que estabelece:
+
+III - deverá estabelecer, em certames para aquisição de bens de natureza divisível, cota de até 25% (vinte e cinco por cento) do objeto para a contratação de microempresas e empresas de pequeno porte. 
+
+Para tanto, o/a(s) responsável/responsáveis pela elaboração do estudo deverá/deverão considerar a reserva de cota quando do levantamento do quantitativo para aquisição de bens de natureza divisível, somente para licitações cujo valor estimado seja superior a R$80.000,00. 
+
+Na impossibilidade de cumprimento deverá ser justificado. 
+
+Informar em “Requisitos da Contratação” 
+
+
+
+Flexão de gênero 
+
+Observar os termos da Resolução CNJ nº 326/2021, onde os documentos públicos deverão estar em concordância com a flexão de gênero.	 
+
+Ex: todos e todas, funcionário e funcionária, empregado e empregada, servidor e servidora, getor e gestora etc. 
+
+
+
+Peças originais 
+
+Nas aquisições de peças necessariamente originais, deverá haver uma justificativa robusta para não indicar favorecimento a um determinado fabricante. 
+
+Informar em “Requisitos da Contratação” 
+
+
+
+Cadernos Padronizados 
+
+Nas contratações que utilizem Cadernos Padronizados de Contratação, a Equipe de Planejamento da Contratação produzirá somente os conteúdos listados abaixo, mantendo os demais itens no ETP: 
+
+Descrição da necessidade da contratação; 
+
+Estimativas das quantidades para a contratação; 
+
+Estimativa do valor da contratação; 
+
+Justificativas para o parcelamento ou não da contratação; 
+
+Posicionamento conclusivo sobre a adequação da contratação. 
+
+
+
+
+
+
+
+
+
+Preços
+
+Art. 51. Os preços de itens constantes nos Catálogos de Soluções de TIC com Condições Padronizadas, publicados pelo Poder Executivo Federal ou Estadual, desde que compatíveis com o objeto a ser contratado pelo Tribunal de Justiça do Estado de São Paulo, poderão ser utilizados como preço estimado, observando-se os parâmetros e a metodologia de cálculo na forma estabelecido nos artigos 47 a 49 deste Provimento. (ICTI-IPEA)
+
+
+
+LEI Nº 14133/2021
+
+Art. 93. Nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos e dispositivos de tratamento e de comunicação da informação (software) e a respectiva documentação técnica associada, o autor deverá ceder todos os direitos patrimoniais a eles relativos para a Administração Pública, hipótese em que poderão ser livremente utilizados e alterados por ela em outras ocasiões, sem necessidade de nova autorização de seu autor.
+
+
+
+Art. 114. O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 15 (quinze) anos.
+
+
+
+Artigo 43.
+
+§ 2º As contratações de soluções baseadas em software de uso disseminado serão disciplinadas em regulamento que defina processo de gestão estratégica das contratações desse tipo de solução. (com relação a processos de padronização)
+
+
+
+
+
+RESOLUÇÃO 468/2022 – CNJ
+
+Art. 9o É vedado nas contratações: 
+
+I – estabelecer vínculo de subordinação com funcionários da empresa  contratada; 
+
+II – fixar em edital a remuneração dos funcionários da contratada, salvo  nas hipóteses prevista nos incisos VIII e IX;
+
+III – indicar pessoas para compor o quadro funcional da empresa  contratada;
+
+IV – demandar a execução de serviços ou tarefas estranhas ao objeto da  contratação, mesmo que haja anuência do preposto ou da própria contratada;
+
+V – prever exigências em edital que constituam intervenção indevida da  Administração na gestão interna dos fornecedores;
+
+VI – prever exigências em edital para que os fornecedores apresentem em  seus quadros a documentação de funcionários previamente à assinatura do contrato, com  o objetivo de aferir a qualificação técnica ou a formação da equipe que prestará os 
+
+serviços contratados;
+
+VII – prever em edital exigência para que os fornecedores apresentem em  seus quadros funcionários capacitados ou certificados para o fornecimento da solução  antes da contratação;
+
+VIII – adotar a métrica homem-hora ou equivalente para aferição de  esforço, salvo mediante justificativa e sempre vinculada à entrega de produtos de acordo  com prazos e qualidade previamente definidos;
+
+IX – contratar por postos de trabalho alocados, salvo os casos justificados  mediante a comprovação obrigatória de resultados compatíveis com o posto previamente definido;
+
+X – fazer referências, em edital ou em contrato, a regras externas de  fabricantes, fornecedores ou prestadores de serviços que possam acarretar alteração unilateral do contrato por parte da contratada.
+
+Parágrafo único. No caso dos incisos VIII e IX deste artigo,  excepcionalmente, a remuneração em edital deverá ser fundamentada por meio de estudo  que demonstre objetivamente e diante da realidade de mercado que tal exigência seja 
+
+representada condição indispensável para viabilizar a alocação dos profissionais com qualificação compatível com o perfil e os níveis de serviço exigidos para a execução do contrato.
+
+
+
+
+
+Art. 17. Nas licitações por preço global, cada serviço ou produto do lote deverá estar discriminado em itens separados nas propostas de preços, de modo a permitir a identificação do seu preço individual na composição do preço global, e a eventual incidência sobre cada item das margens de preferência para produtos e serviços que atendam às Normas Técnicas Brasileiras (NTB), de acordo com o art. 26 da Lei no 14.133/2021.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observações GUIA CNJ (VERSÃO 4.0)
+
+	11
+
+	Atualizar o Mapa de Gerenciamento de Riscos
+
+	Atualizar o Mapa de Gerenciamento de Riscos com os riscos identificados, nesta fase.
+
+	Equipe de Planejamento da Contratação
+
+	
+
+	12
+
+	Aprovar e assinar
+
+	Aprovar e assinar Estudo Técnico Preliminar
+
+	Equipe de Planejamento da Contratação
+
+	
+
+	13
+
+	Avaliar Estudo Técnico Preliminar
+
+	Avaliar informações contidas no documento de Estudo Técnico Preliminar.
+
+	Área Demandante
+
+	
+
+	14
+
+	Detalhar pendência
+
+	Detalhar ao máximo as pendências identificas a fim de possibilitar a continuidade do processo.
+
+	
+
+Área Demandante
+
+	
+
+	15
+
+	Sanar pendências elencadas
+
+	Tratar as pendências apontadas.
+
+	Equipe de Planejamento da Contratação
+
+	
+
+	16
+
+	Assinar Estudo Técnico Preliminar
+
+	Assinar Estudo Técnico Preliminar.
+
+	Área Demandante
+
+	
+
+	17
+
+	Dar encaminhamento à autoridade competente do órgão para deliberação
+
+	Deliberar sobre Estudo Técnico Preliminar.
+
+	Área Demandante
+
+	
+
+	18
+
+	Assinar Estudo Técnico Preliminar
+
+	Assinar Estudo Técnico Preliminar.
+
+	Comitê Gestor de TIC
+
+	
+
+	19
+
+	Informar motivos da não aprovação para devidas providências
+
+	Informar motivos da não aprovação para sejam tomadas as devidas providências.
+
+	Comitê Gestor de TIC
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	5
+
+	5.1 Ao elaborar os Estudos Técnicos Preliminares da contratação os Órgãos do Poder Judiciário Brasileiro devem atentar para a observância das recomendações contidas no acórdão Nº 1508/2020-TCU/Plenário, itens 9.1 a 9.1.4, quando se tratar de contratação por UST ou similares. 
+
+	6
+
+	6.1 Quando se tratar de novas contratações de serviços de tecnologia da informação, devem ser observados os seguintes procedimentos:
+
+	Limitar a criação de unidades de medida de forma unilateral, em novas contratações de TI, sem a ciência, a avaliação técnica e econômica e a padronização do CNJ;
+
+	Avaliar a economicidade dos preços estimados e contratados;
+
+	Proceder à prévia análise crítica da composição de preços unitários e do custo total estimado da contratação, complementando-a com a análise da planilha de composição de custos e formação de preços dos serviços e com a análise do fator-k;
+
+	Ao definir ou estabelecer parâmetros, pesos ou quaisquer variáveis quantitativas adotadas, que impactem o cálculo da quantidade de serviços e de seu preço, preceder a devida justificativa técnica e econômica, com vistas a mitigar o risco de sobrepreço e superfaturamento;
+
+	Implantar controles internos que assegurem a existência dos catálogos de serviços, juntamente com todos os detalhamentos cabíveis de cada serviço, como perfis profissionais, tempo estimado de execução e produtos e resultados esperados;
+
+	Atentar para necessidade de que os catálogos de serviços apresentem o respectivo valor monetário estimado de cada serviço, independentemente da métrica ou unidade utilizada;
+
+	Considerar os riscos inerentes às contratações baseadas em UST, entre outras denominações similares;
+
+	Atentar para o fato de que o uso de UST ou similares, em contratações por meio do Sistema de Registro de Preços (SRP), deve ocorrer somente se restar demonstrada a compatibilidade entre o uso de UST (e similares) e o SRP, tanto do ponto de vista técnico, quanto do ponto de vista financeiro, com imprescindível autorização da autoridade competente.
+
+	Definir critérios objetivos que devem ser observados nas análises de planilha de composição e formação de preços dos serviços e do fator-k, com vistas a mitigar o risco de fixação e de disseminação de critérios subjetivos
