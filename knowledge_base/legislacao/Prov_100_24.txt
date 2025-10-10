@@ -1,0 +1,607 @@
+PROVIMENTO Nº 100/2024 
+ 
+RegulamentaoSistemadeRegistrodePreçosnoâmbitodoTribunaldeJustiçadoEstadodeSãoPaulo,revogandoaPortarianº
+9.470/2017 (Processo nº 2004/1789) 
+ 
+ODesembargador FernandoAntonioTorresGarcia,PresidentedoTribunaldeJustiça,nousodesuasatribuições
+legais,emespecialoart.271,III,§3ºdoRegimentoInternodoTribunaldeJustiça,ediantedoquedispõeaLeinº
+14.133/2021 e as demais disposições cabíveis, e 
+ 
+CONSIDERANDO anecessidadederacionalização dascontrataçõespúblicaseosprincípiosdaceleridadeeda
+eficiência administrativa; 
+ 
+CONSIDERANDO ainstituiçãodoProvimentoCSMnº2.724/2023,quedispõesobreaslicitaçõesecontratos
+administrativos no âmbito do Tribunal de Justiça; e 
+ 
+CONSIDERANDO odispostonoart.78,caput,incisoIVc/c§1ºdaLeinº14.133,de1ºdeabrilde2021,prevendoa
+necessidadederegulamentarosprocedimentos paraasaquisiçõesecontrataçõesporSistemadeRegistrode
+Preços; 
+ 
+RESOLVE: 
+ 
+CAPÍTULO I - DAS DISPOSIÇÕES PRELIMINARES 
+ 
+Art.1º.EsteProvimentoregulamentaosarts.82a86daLeinº14.133,de1ºdeabrilde2021,paradisporsobreo
+sistemaderegistrodepreçosparaacontrataçãodebenseserviços,inclusiveobraseserviçosdeengenharia,no
+âmbito do Tribunal de Justiça do Estado de São Paulo. 
+ 
+Art.2º.NoSRPdeverãoserobservadasascompetênciasestabelecidasnoProvimentoCSMnº2724/2023,cabendo
+àSecretariadeAdministraçãoeAbastecimento providenciarainstruçãodoprocedimentodestinadoàlicitaçãoouà
+contratação direta respectiva. 
+§1º - Os atos de gestão serão praticados pela Unidade Gerenciadora da ARP. 
+§2º-Aresponsabilidade pelocontroleeemissãodaAutorizaçãodeFornecimento,AutorizaçãodeServiçosouTermo
+de Contrato será definida na Ata de Registro de Preços (ARP). 
+ 
+Seção I - Das definições
+ 
+Art. 3º.Para efeitos deste Provimento, considera-se: 
+-SistemadeRegistrodePreços(SRP):conjuntodeprocedimentos paraarealização,mediantecontrataçãodireta
+ou licitaçãonasmodalidadespregãoouconcorrência,deregistroformaldepreçosrelativosàprestaçãodeserviços,
+às obras e à aquisição e à locação de bens para contratações futuras; 
+-AtadeRegistrodePreços(ARP):documentovinculativoeobrigacional,comcaracterísticadecompromissopara
+futuracontratação,noqualsãoregistradosoobjeto,ospreços,osfornecedores,osórgãosouasentidades
+participanteseascondiçõesaserempraticadas,conformeasdisposiçõescontidasnoeditaldalicitação,noavisoou
+instrumento de contratação direta e nas propostas apresentadas; 
+-TermodeContrato(TC):documentofirmadoentreaspartes,quecontemplatodasascláusulasecondiçõescabíveis
+para a execução da avença; 
+-AutorizaçãodeFornecimento(AF):documentoemitidopelaautoridadeindicadanaAtadeRegistrodePreços
+(ARP),quegeraaobrigaçãodofornecimentopelaempresadetentoradopreçoregistradoequesubstituioTermode
+Contrato; 
+-AutorizaçãodeServiços(AS):documentoemitidopelaautoridadeindicadanaAtadeRegistrodePreços(ARP)que
+geraaobrigaçãodeexecuçãodoserviçopelaempresadetentoradopreçoregistradoequesubstituioTermode
+Contrato; 
+-Órgãoouentidadegerenciadora:órgãoouentidadedaAdministraçãoPúblicaestadualresponsávelpelacondução
+doconjuntodeprocedimentos pararegistrodepreçosepelogerenciamento daataderegistrodepreçosdele
+decorrente; 
+-Órgãoouentidadeparticipante:órgãoouentidadedaAdministraçãoPúblicaqueparticipadosprocedimentos
+iniciais 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 1 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+da contratação para registro de preços e integra a ata de registro de preços; 
+-Órgãoouentidadenãoparticipante:órgãoouentidadedaAdministração Públicaquenãoparticipados
+procedimentos  iniciais da licitação para registro de preços e não integra a ata de registro de preços; 
+-UnidadeGerenciadoradaARP:éaUnidadeAdministrativa doTribunaldeJustiça,nomeadapeloPresidente,
+responsável pelas práticas de todos os atos de controle e de administração da Ata de Registro de Preços (ARP); 
+-GestordaARP: oGestorouGestora,servidordoTribunaldeJustiça,responsávelpelogerenciamentodaAta
+de Registro de Preços; 
+-IntençãodeRegistrodePreços(IRP):procedimentopúblico,aserrealizadopeloórgãoouentidadegerenciadora,
+paraviabilizaraparticipaçãodeórgãosouentidades,paraparticiparemdalicitaçãopararegistrodepreçosdoórgão
+ou entidade gerenciadora. 
+ 
+Seção II - Da adoção do sistema de registro de preços
+ 
+Art. 4º.O Sistema de Registro de Preços (SRP) poderá ser adotado nas seguintes hipóteses: 
+- quando, pelas características dos bens, serviços ou obras, houver necessidade de contratações frequentes; 
+-quandoforconvenienteaaquisiçãodebenscomprevisãodeentregasparceladasoucontrataçãodeserviços
+remuneradosporunidadedemedida,comoquantidadedehorasdeserviço,postosdetrabalhoouemregimede
+tarefa; 
+-quandoforconvenienteaaquisiçãodebensouacontrataçãodeserviçoseobrasparaatendimentoamaisdeuma
+unidade administrativa ou judicial; ou 
+-quando,pelanaturezadoobjeto,nãoforpossíveldefinirpreviamenteoquantitativoaserdemandadopela
+Administração. 
+§ 1º Deverão ser observados no Sistema de Registro de Preços (SRP): 
+- realização prévia de ampla pesquisa de mercado; 
+- seleção de fornecedores de acordo com os procedimentos previstos no Provimento CSM nº 2.724/2023; 
+- desenvolvimento obrigatório de rotina de controle; 
+- atualização periódica dos preços registrados; 
+- definição do período de validade do registro de preços; 
+-inclusão,emataderegistrodepreços,dolicitantequeaceitarcotarosbensouserviçosempreçosiguaisaosdo
+licitante vencedor na sequência de classificação da licitação e inclusão do licitante que mantiver sua proposta original. 
+§2ºOSRPpoderáserutilizadoparaacontrataçãodeexecuçãodeobraseserviçosdeengenharia,desdeque
+atendidos os seguintes requisitos: 
+-existênciadetermodereferência,anteprojeto,projetobásicoouprojetoexecutivopadronizados,semcomplexidade
+técnica e operacional; e 
+- necessidade permanente ou frequente de obra ou serviço a ser contratado. 
+§3ºCaberáàÁreadeEngenhariadoTribunaldeJustiçaouaoResponsávelTécnicodequetrataoart.2º,inciso
+XVIII,doProvimentoCSMnº2.724/2023,conformeocaso,atestar,motivadamente, queoobjetorequeridoapresenta
+as características mencionadas nos incisos I e II acima, para fins de cabimento do SRP. 
+ 
+Seção III - Da indicação limitada a unidades de contratação 
+ 
+Art.5º.Épermitidooregistrodepreçoscomindicaçãolimitadaaunidadesdecontratação,semindicaçãodototala
+ser adquirido, apenas nas seguintes situações: 
+-quandoforaprimeiralicitaçãooucontrataçãodiretaparaoobjetoeoórgãoouaentidadenãotiverregistrode
+demandas  anteriores; 
+- no caso de alimento perecível; ou 
+- no caso em que o serviço estiver integrado ao fornecimento de bens. 
+Parágrafoúnico.Nassituaçõesreferidasnocaput,éobrigatóriaaindicaçãodovalormáximodadespesaeévedada
+a participação de outro órgão ou entidade na ata. 
+ 
+CAPÍTULO II - DO ÓRGÃO GERENCIADOR 
+ 
+Art.6º.CompeteaoTribunaldeJustiçanaqualidadedeÓrgãoGerenciadorpraticartodososatosdecontroleede
+administração do SRP, em especial: 
+-realizarprocedimentopúblicodeintençãoderegistrodepreços-IRPe,quandoforocaso,estabeleceronúmero
+máximo de participantes, em conformidade com sua capacidade de gerenciamento; 
+- aceitar ou recusar, justificadamente, no que diz respeito à IRP: 
+os quantitativos considerados ínfimos; 
+a inclusão de novos itens; e 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 2 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+os itens de mesma natureza com modificações em suas especificações. 
+-consolidarinformaçõesrelativasàestimativaindividualeaototaldeconsumo,promoveraadequaçãodostermosde
+referênciaouprojetosbásicosencaminhados paraatenderaosrequisitosdepadronizaçãoeracionalização, e
+determinar a estimativa total de quantidades da contratação; 
+-realizarpesquisademercadoparaidentificarovalorestimadodalicitaçãooucontrataçãodiretae,quandoforo
+caso, consolidar os dados das pesquisas de mercado realizadas pelos órgãos e pelas entidades participantes; 
+-confirmar,juntoaosórgãosouàsentidadesparticipantes,asuaconcordânciacomoobjeto,inclusivequantoaos
+quantitativos e ao termo de referência ou projeto básico, caso o Tribunal de Justiça entenda pertinente; 
+-promoverosatosnecessáriosàinstruçãoprocessualparaarealizaçãodoprocedimentolicitatóriooudacontratação
+diretaetodososatosdelesdecorrentes,comoadjudicaçãoehomologaçãodalicitaçãoouaautorizaçãodesua
+dispensaouinexigibilidade, aassinaturadaAtaeasuaimediatadisponibilização aosórgãoseentidades
+participantes; 
+- gerenciar a ata de registro de preços, no âmbito do Tribunal de Justiça; 
+- conduzir as negociações para alteração ou atualização dos preços registrados; 
+-deliberarquantoàadesãoposteriordeórgãoseentidadesquenãotenhammanifestadointeresseduranteoperíodo
+de divulgação da IRP; 
+-verificarseasmanifestações deinteresseemparticipardoregistrodepreçosatendemaodispostonoart.7ºe
+indeferir os pedidos que não o atendam; 
+-aplicar,garantidososprincípiosdaampladefesaedocontraditório,aspenalidadesdecorrentesdeinfraçõesno
+procedimento licitatório e registrá-las em cadastro público de sanções; 
+-aplicar,garantidososprincípiosdaampladefesaedocontraditório,aspenalidadesdecorrentesdodescumprimento
+dopactuadonaataderegistrodepreços,emrelaçãoàsuademandaregistrada,oudodescumprimento das
+obrigações contratuais, em relação às suas próprias contratações e registrá-las em cadastro público de sanções; e 
+-aceitar,excepcionalmente, aprorrogaçãodoprazoprevistono§2ºdoart.30,nostermosdo§3ºdestemesmo
+dispositivo. 
+§ 1º Os procedimentos de que tratam os incisos I a V do caput serão efetivados previamente à elaboração do edital. 
+§2ºOTribunaldeJustiçapoderásolicitarauxíliotécnicoaosórgãosouàsentidadesparticipantesparaaexecução
+das atividades de que trata o inciso IV do caput.
+§3º.Aspesquisasdemercadorealizadasporórgãoseentidadesparticipantessomentepoderãoserutilizadas,para
+finsdodispostonoincisoIVdocaput,quandoatenderemaosparâmetrosestabelecidosemnormaespecíficadeste
+Tribunal de Justiça, editada nos termos do art. 42, caput, do Provimento CSM nº 2724/2023 .
+§4º.Oexameeaaprovaçãodasminutasdoedital,dosavisosoudosinstrumentosdecontrataçãodiretaedo
+contrato serão efetuados exclusivamente pela Assessoria Jurídica do Tribunal de Justiça. 
+§5ºOTribunaldeJustiçadeliberará,excepcionalmente, quantoàinclusãodeórgãoouentidadeparticipantequenão
+tenhamanifestadointeresseduranteoperíododedivulgaçãodaIRP,desdequenãotenhasidofinalizadaa
+consolidação de que trata o inciso III do caput. 
+ 
+CAPÍTULO III - DO ÓRGÃO OU DA ENTIDADE PARTICIPANTE 
+ 
+Art.7º.Competeaoórgãoouàentidadeparticipante,queseráresponsávelpormanifestarsuaintençãoemparticipar
+do  registro de preços: 
+-informaraoTribunaldeJustiçaasuaintençãodeparticipardoregistrodepreços,pormeiodesistemaeletrônico,
+acompanhada: 
+do código do item do material ou serviço; 
+dadescriçãocompletadoitem,incluindotodasascaracterísticas técnicas,condiçõesdefornecimentoedemais
+especificações que permitam sua perfeita identificação, conforme estabelecido pelo Tribunal de Justiça. 
+da estimativa de consumo; e 
+do local de entrega. 
+-garantirqueosatosrelativosàinclusãonoregistrodepreçosestejamformalizadoseaprovadospelaautoridade
+competente; 
+-manifestarjuntoaoTribunaldeJustiçasuaconcordânciacomoobjetopreviamenteàrealizaçãodoprocedimento
+licitatório; 
+- auxiliar tecnicamente, por solicitação do Tribunal de Justiça, as atividades previstas no inciso IV do caput do art. 6º; 
+-tomarconhecimentodaataderegistrodepreços,inclusivedeeventuaisalterações,paraocorretocumprimentode
+suas  disposições; 
+-assegurar-se,quandodousodaataderegistrodepreços,dequeacontrataçãoaserrealizadaatendaaosseus
+interesses, sobretudo quanto aos valores praticados; 
+-verificaracompatibilidade entreaminutadaAtadeRegistrodePreços,aprovadapeloTribunaldeJustiça,eos
+eventuais normativos específicos do órgão ou entidade participante; 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 3 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+-zelarpelosatosrelativosaocumprimentodasobrigaçõesassumidaspelofornecedorepelaaplicaçãodeeventuais
+penalidades decorrentes do descumprimento do pactuado na ata de registro de preços ou de obrigações contratuais; 
+-aplicar,garantidososprincípiosdaampladefesaedocontraditório,aspenalidadesdecorrentesdodescumprimento
+dopactuadonaataderegistrodepreços,emrelaçãoàsuademandaregistrada,oudodescumprimento das
+obrigaçõescontratuais,emrelaçãoàssuasprópriascontratações,registrá-lasemcadastropúblicodesançõese
+informar as ocorrências ao Tribunal de Justiça; e 
+-prestarasinformaçõessolicitadaspeloTribunaldeJustiçaquantoàcontrataçãoeàexecuçãodademanda
+destinada ao seu órgão ou à sua entidade. 
+- declarar concordância com as regras previstas no presente Provimento. 
+ 
+CAPÍTULO IV - DOS PROCEDIMENTOS PARA O REGISTRO DE PREÇOS 
+ 
+Seção I - Da intenção de registro de preços 
+ 
+Art.8º.OprocedimentopúblicodeintençãoderegistrodepreçosserádivulgadonoPortalNacionaldeContratações
+Públicas - PNCP e no Portal da Transparência do Tribunal de Justiça. 
+§1ºOprocedimentopúblicodeintençãoderegistrodepreçosserádisponibilizadopeloprazodeoitodiasúteispara
+participaçãonaARP,deoutrosórgãosouentidadesdaadministraçãopúblicaqueestiveremsujeitosàjurisdiçãodo
+TribunaldeContasdoEstadodeSãoPaulo,contadoapartirdoprimeirodiaútilsubsequenteàdivulgaçãonoPortal
+Nacional de Contratações Públicas. 
+§2ºOprocedimentoprevistonocaputpoderáserdispensadoquandooTribunaldeJustiçaforoúnicocontratanteou
+quandonãopossuircondiçõesoperacionaiseestruturaparagerenciaraataderegistrodepreçoscomaparticipação
+de outros órgãos da Administração Pública, mediante justificativa a ser apresentada no Estudo Técnico Preliminar. 
+ 
+Seção II - Da licitação 
+ 
+Art.9º.Oprocessolicitatóriopararegistrodepreçosserárealizadonamodalidadeconcorrênciaoupregão,adotando-
+seocritériodejulgamentodemenorpreçooudemaiordescontosobreopreçoestimadoouatabeladepreços
+praticada no mercado. 
+§1ºSomentepoderáseradotadoocritériodejulgamentodemenorpreçooudemaiordescontoporgrupodeitens
+quando,emcadacasoconcreto,fordemonstradaainviabilidadedesepromoveraadjudicaçãoporitemefor
+evidenciada a sua vantagem técnica e econômica. 
+§ 2º Na hipótese do parágrafo anterior: 
+- o critério de aceitabilidade de preços unitários máximos será indicado no edital; e 
+-acontrataçãoposteriordeitemespecíficoconstantedegrupodeitensexigirápréviapesquisademercadoe
+demonstração de sua vantagem para o órgão ou a entidade. 
+ 
+Art.10.AUnidadeGerenciadoradaARP,quandodaaquisiçãodebensoucontrataçãodeserviçoseobras,poderá
+justificadamente subdividiraquantidadetotaldoitememlotes,desdequecomprovadotécnicaeeconomicamente
+viável,deformaapossibilitarmaiorcompetitividade, observadosoprazo,aquantidademínimaeolocaldeentregaou
+de prestação dos serviços. 
+§1ºNasjustificativasapresentadasparaasubdivisãodoobjetoouparaoagrupamentodediversositensemlote
+único,nãoserãopermitidasmençõesgenéricasàdivisãoterritorialdoEstadodeSãoPauloouainformaçõesnão
+incluídas nos documentos que instruem o processo de licitação ou contratação direta. 
+§2ºNocasodeserviços,asubdivisãosedaráemfunçãodaunidadedemedidaadotadaparaaferiçãodosprodutos
+e resultados esperados. 
+ 
+Seção III - Do edital 
+ 
+Art.11.Oeditaldelicitaçãopararegistrodepreçosobservaráasregrasgeraisestabelecidasnoart.82daLeinº
+14.133, de 2021, e disporá sobre: 
+-asespecificidades dalicitaçãoedeseuobjeto,incluídaaquantidademáximadecadaitemquepoderáser
+contratada, com a possibilidade de ser dispensada nas hipóteses previstas no art. 5º; 
+-ascondiçõesquantoaolocal,prazodeentrega,formadepagamento,enoscasosdeserviços,quandocabível,
+frequência,periodicidade,característicasdopessoal,materiaiseequipamentosaseremutilizados,procedimentos,
+cuidados, deveres, disciplina e controles a serem adotados; 
+- os modelos de planilhas de custo e minuta do Termo de Contrato, quando cabível; 
+- a minuta da Ata de Registro de Preços (ARP) como anexo; 
+-aestimativadequantidadesaseremadquiridasporórgãosouentidadesnãoparticipantes,observadososlimites
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 4 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+previstos nos incisos I e II do caput do art. 28, no caso de o Tribunal de Justiça admitir adesões; 
+-aquantidademínimaasercotadadeunidadesdebensou,nocasodeserviços,deunidadesdemedida,desde
+que justificada; 
+- a possibilidade de prever preços diferentes: 
+quando o objeto for realizado ou entregue em locais diferentes; 
+em razão da forma e do local de acondicionamento; 
+quando admitida cotação variável em razão do tamanho do lote; ou 
+por outros motivos justificados no processo; 
+-apossibilidadedeolicitanteoferecerounãopropostaemquantitativoinferioraomáximoprevistonoeditaleobrigar-
+se nos limites dela; 
+- o critério de julgamento da licitação; 
+-ascondiçõesparaalteraçãoouatualizaçãodepreçosregistrados,conformearealidadedomercadoeobservadoo
+disposto nos arts. 20 e 21; 
+-avedaçãoàparticipaçãodoórgãooudaentidadeemmaisdeumaataderegistrodepreçoscomomesmoobjeto
+noprazodevalidadedaqueladequejátiverparticipado,salvonaocorrênciadeataquetenharegistradoquantitativo
+inferior ao máximo previsto no edital; 
+- as hipóteses de cancelamento do registro de fornecedor e de preços, de acordo com o disposto nos arts. 22 e 23; 
+-oprazodevigênciadaataderegistrodepreços,queseráequivalentea01(um)ano,contadodoprimeirodiaútil
+subsequenteàdatadedivulgaçãonoPNCP,epoderá,decomumacordo,serprorrogadoporigualperíodo,desde
+que comprovada a vantajosidade dos preços. 
+-aspenalidadesaseremaplicadaspordescumprimento dopactuadonaataderegistrodepreçoseemrelação
+às  obrigações contratuais; 
+-ainclusão,naataderegistrodepreços,paraaformaçãodocadastrodereserva,conformeodispostonoincisoIIdo
+caput do art. 15: 
+doslicitantesqueaceitaremcotarosbens,asobrasouosserviçosempreçosiguaisaosdolicitantevencedor,
+observada a ordem de classificação da licitação; e 
+dos licitantes que mantiverem sua proposta original; 
+-avedaçãoàcontratação,nomesmoórgãoounamesmaentidade,demaisdeumaempresaparaaexecuçãodo
+mesmoserviço,afimdeassegurararesponsabilidade contratualeoprincípiodapadronização,ressalvadoodisposto
+no art. 49 da Lei nº 14.133, de 2021; e 
+§1ºNahipótesedelicitaçãoqueenvolvaofornecimentodebens,oTribunaldeJustiçapoderá,excepcionalmente,
+determinaraolicitanteprovisoriamente vencedoraapresentaçãodeamostraoudeprovadeconceitodobemdurante
+afasedejulgamentodaspropostasoudelances,ou,ainda,realizartalexigêncianoperíododevigênciadocontrato
+oudaAtadeRegistrodePreços,desdeque,emqualquercaso,hajaprevisãoespecíficaemeditaleseja
+devidamente justificada a necessidade da providência. 
+§2ºParafinsdodispostonoincisoVIdocaput,consideram-sequantidadesmínimasaseremcotadasasquantidades
+parciais,inferioresàdemandanalicitação,apresentadaspeloslicitantesemsuaspropostas,desdequepermitidono
+edital, com vistas à ampliação da competitividade e à preservação da economia de escala. 
+ 
+Art.12.Quandooeditalprevirofornecimentodebensouaprestaçãodeserviçosemlocaisdiferentes,éfacultadaa
+exigênciadeapresentaçãodepropostadiferenciadaporregião,demodoqueaospreçossejamacrescidoscustos
+variáveis por região. 
+ 
+Art.13.Paraformaçãodocadastrodereservatratadonoart.15,§1º,desteProvimento,oslicitantesclassificados
+poderão reduzir seus preços, aderindo ao valor do vencedor. 
+§1ºAapresentaçãodaspropostasreadequadas,naformadocaput,nãoprejudicaráoresultadodocertameem
+relação ao licitante vencedor. 
+§2º Na hipótese de adesão ao valor do vencedor, deverá ser obedecido o critério de aceitabilidade de preços. 
+§3º Os licitantes com propostas desclassificadas não poderão participar da adesão à melhor oferta. 
+ 
+Seção IV - Da contratação direta 
+ 
+Art.14.OSRPpoderáserutilizadonashipótesesdecontrataçãodireta,porinexigibilidadeoupordispensade
+licitação,paraaaquisiçãodebensouparaacontrataçãodeserviçospormaisdeumórgãoouumaentidade,
+observados: 
+- os requisitos da instrução processual previstos no art. 72 da Lei nº 14.133, de 2021; 
+-ospressupostosparaenquadramento dacontrataçãodireta,porinexigibilidadeoupordispensadelicitação,
+conforme previsto nos art. 74 e art. 75 da Lei nº 14.133, de 2021; e 
+-adesignaçãodacomissãodecontrataçãocomoresponsávelpeloexameejulgamentodosdocumentosdaproposta
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 5 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+e dos documentos de habilitação, nos termos do disposto no inciso L do caput do art. 6º da Lei nº 14.133, de 2021. 
+ 
+CAPÍTULO V - DA ATA DE REGISTRO DE PREÇOS 
+Seção I - Da formalização 
+ 
+Art.15.Apósahomologaçãodalicitaçãooudacontrataçãodireta,deverãoserobservadasasseguintescondições
+para a formalização da ata de registro de preços: 
+-serãoregistradosnaataospreçoseosquantitativosdoadjudicatário,observadoodispostonoincisoVIIIdocaput
+do  art. 11; 
+- serão registrados na ata: 
+oslicitantesoufornecedoresqueaceitaremcotarosbens,asobrasouosserviçoscompreçosiguaisaosdo
+adjudicatário, observada a classificação na licitação; e 
+os licitantes ou fornecedores que mantiverem sua proposta original; e 
+- será respeitada, nas contratações, a ordem de classificação dos licitantes ou fornecedores registrados na ata. 
+§1ºOregistroaqueserefereoincisoIIdocaputtemporobjetivoaformaçãodecadastrodereserva,paraocasode
+impossibilidade de atendimento pelo signatário da ata. 
+§2ºParafinsdaordemdeclassificação,oslicitantesoufornecedoresdequetrataaalínea"a"doincisoIIdocaput
+antecederão aqueles de que trata a alínea "b" do referido inciso. 
+§3ºAhabilitaçãodoslicitantesquecomporãoocadastrodereservaaquesereferemoincisoIIdocaputeo§1º
+somenteseráefetuadaquandohouvernecessidadedecontrataçãodoslicitantesremanescentes, nasseguintes
+hipóteses: 
+-quandoolicitantevencedornãoassinaraataderegistrodepreçosnoprazoenascondiçõesestabelecidosno
+edital; 
+ou 
+-quandohouverocancelamentodoregistrodofornecedoroudoregistrodepreços,nashipótesesprevistasnosart.
+22 e  art. 23; 
+§4ºOpreçoregistrado,comaindicaçãodosfornecedores,serádivulgadonoPNCPedisponibilizadodurantea
+vigência da ata de registro de preços. 
+ 
+Art.16.Olicitantemaisbemclassificadoouofornecedor,nocasodacontrataçãodireta,seráconvocadoparaassinar
+aataderegistrodepreçosnoprazoenascondiçõesestabelecidasnoeditaldelicitaçãoounoavisodecontratação
+direta, sob pena de decadência do direito. 
+§1ºOprazodeconvocaçãopoderáserprorrogadoumavez,porigualperíodo,mediantesolicitaçãodolicitantemais
+bem classificado ou do fornecedor convocado, desde que: 
+- a solicitação seja devidamente justificada e apresentada dentro do prazo; e 
+- a justificação apresentada seja aceita pela Administração 
+§2ºArecusainjustificadaemassinaraARP,nascondiçõesestabelecidasemedital,ensejaráaaplicaçãodas
+penalidades cabíveis. 
+§3ºNahipótesedoparágrafoanterior,oTribunaldeJustiçapoderáconvocaroslicitantesdocadastrodereserva,na
+ordemdesuaclassificação,paraaassinaturadaAtadeRegistrodePreçosnomesmoprazodeferidoaoprimeiro
+classificado, observadas as condições da proposta vencedora. 
+§4ºCasoaAtanãosejaassinadapornenhumdoslicitantestratadosnoart.15,caput,incisoII,alínea"a",oTribunal
+deJustiçapoderá,atentando-seaovalorinicialmenteestimadoeàsuaeventualatualização,naformaprevistaem
+edital: 
+-convocaroslicitantesdequetrataoart.15,caput,incisoII,alínea"b",naordemdeclassificação,paranegociação
+de sua proposta, com vistas à obtenção de preço mais vantajoso, mesmo que acima do preço do adjudicatário; 
+-ou,quandofrustradaanegociaçãodemelhorcondição,adjudicarefirmarocontratonascondiçõesofertadaspelos
+licitantes remanescentes, observada a ordem de classificação. 
+ 
+Art.17.Aexistênciadepreçosregistradosimplicarácompromissodefornecimentonascondiçõesestabelecidas,mas
+nãoobrigaráoTribunaldeJustiçaacontratar,facultadaarealizaçãodelicitaçãoespecíficaparaaaquisição
+pretendida, desde que devidamente motivada. 
+§1º.ArecusainjustificadadodetentordospreçosregistradoemfirmaroTermodeContrato,fornecerobemou
+prestaroserviçocomospreçosregistrados,dentrodoprazodavalidadedaARP,ensejaráaaplicaçãodas
+penalidades legalmente estabelecidas. 
+§2ºAmotivaçãodequetrataocaputdesteartigodeveráserobrigatoriamente apresentadanosautosrelativosà
+nova  contratação. 
+Art.18. OTribunaldeJustiçadisponibilizaráaAtadeRegistrodePreçosaosórgãosouentidadesparticipantes,que
+poderão firmar contratações em conformidade com sua demanda estimada. 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 6 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+ 
+Seção II - Da Gestão da Ata de Registro de Preços 
+ 
+Art.19.Arotinadecontroleprevistanoart.82,§5º,incisoIIIdaLeinº14.133/2021seráexecutadapelaunidade
+gerenciadora da ARP, que deverá: 
+- controlar os quantitativos e saldos da ARP, no que concerne às demandas do Tribunal de Justiça; 
+- acompanhar e deliberar sobre as solicitações de adesão. 
+§1º-OsquantitativosregistradosnasAtasdeRegistrodePreçosdosórgãosouentidadesparticipantesou
+aderentes deverão ter controle próprio em suas unidades de gerenciamento. 
+§2º-OgestorouagestoradaAtadeRegistrodePreçosserádesignadonoEstudoTécnicoPreliminar,juntamente
+com a Equipe de Planejamento da Contratação. 
+ 
+Seção III - Da atualização ou alteração dos preços registrados 
+ 
+Art.20.Ospreçosregistradospoderãoseralteradosouatualizadosemdecorrênciadeeventualreduçãodospreços
+praticadosnomercadooudefatoqueeleveocustodosbens,dasobrasoudosserviçosregistrados,cabendoà
+Unidade Gerenciadora promover as negociações junto aos fornecedores, observadas as seguintes situações: 
+-emcasodeforçamaior,casofortuitooufatodopríncipeouemdecorrênciadefatosimprevisíveisouprevisíveisde
+consequências incalculáveis,queinviabilizemaexecuçãodaatatalcomopactuada,nostermosdodispostonaalínea
+"d" do inciso II do caput do art. 124 de Lei nº 14.133/2021; 
+-emcasodecriação,alteraçãoouextinçãodequaisquertributosouencargoslegaisousuperveniência de
+disposiçõeslegais,comcomprovadarepercussãosobreospreçosregistrados,conformedispostonoart.134daLei
+nº 14.133/2021, ou; 
+- na hipótese de reajustamento em sentido estrito ou repactuação, atendidos os requisitos da Lei nº 14.1333/2021. 
+Parágrafoúnico.OprocedimentodequetrataocaputdeveráobedeceràsregrasdapresenteSeçãoe,
+subsidiariamente, no que couber, ao disposto nos arts. 95 a 101 do Provimento CSM nº 2724/2023 . 
+ 
+Art.21.AatualizaçãodepreçosfundadanoincisoIIIdocaputdoart.20seguiráaperiodicidadeeoscritériosfixados
+noeditaldalicitaçãoounoavisodecontrataçãodireta,semprejuízodaeventualconcessão,porpartedofornecedor,
+dedescontos,isençõesdereajusteououtrascondiçõesmaisvantajosasaoTribunaldeJustiça,oquedeveráser
+objeto de aditamento próprio. 
+ 
+Art.22.SeopreçofixadonaARPsetornarsuperioraospatamaresvigentesnomercado,porcircunstânciaprevista
+nos incisos I e II do caput do art. 20, o fornecedor será convocado para negociar a redução do valor registrado. 
+§1ºCasonãoaceitereduzirseupreçoaosvalorespraticadosnomercado,ofornecedorseráliberadodo
+compromisso assumido quanto ao item registrado, sem aplicação de penalidades administrativas. 
+§2ºNahipóteseprevistano§1º,aUnidadeGerenciadoradaARPconvocaráosfornecedoresdocadastrode
+reserva,naordemdeclassificação,paraverificarseaceitamreduzirseuspreçosaosatuaisvaloresdemercado,
+observado o disposto no art. 15, § 2º, do presente Provimento. 
+§3ºSe,aindaassim,nãoobtiverêxitonasnegociações,aUnidadeGerenciadorasolicitaráocancelamentototalou
+parcialdaAtadeRegistrodePreçoseadotaráasmedidasnecessáriasparaaobtençãodecontrataçãomais
+vantajosa. 
+§4ºNahipótesedereduçãodopreçoregistrado,autorizadapordecisãodoPresidentedoTribunaldeJustiça(art.97
+doProvimentoCSMnº2724/2023),aUnidadeGerenciadoracomunicaráofatoaosórgãoseàsentidadesque
+tiveremfirmadocontratosdecorrentesdaAtadeRegistrodePreços,paraqueavaliemaconveniênciaea
+oportunidade de diligenciarem a alteração contratual, observado o disposto no art. 124 da Lei nº 14.133/2021. 
+ 
+Art.23.Nahipótesedeopreçoregistradotornar-seinferioraovalorpraticadonomercado,nosmoldesdoart.20,
+incisosIeII,dopresenteProvimento,ofornecedorpoderárequereràUnidadeGerenciadoraarespectiva
+readequação, mediante a comprovação de fato superveniente que o impossibilite de cumprir o compromisso original. 
+§1ºParafinsdodispostonocaput,ofornecedorencaminhará,juntamentecomopedidodealteração,a
+documentação comprobatória ou a planilha de custos que demonstre, detalhadamente: 
+-aocorrênciadeeventossupervenientes descritosnoart.124,incisoII,alínea"d",ounoart.134daLeinº
+14.133/2021; 
+-arelaçãodecausalidadeentreosreferidoseventoseoincrementodoscustosrelativosàexecuçãodaatividadeou
+ao fornecimento de cada bem. 
+§2ºCompeteaoPresidentedoTribunaldeJustiçadeliberarsobreopedidodereequilíbrioeconômico-financeiro (art.
+97 do Provimento CSM nº 2.724/2023). 
+§3ºDuranteaanáliseadministrativadopedido,ofornecedornãopoderáofornecedordeixardeatenderàs
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 7 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+solicitações de contratação do Tribunal de Justiça, sob pena de inadimplemento das obrigações assumidas. 
+§4ºIndeferidoopedido,ofornecedordeverácumprirasobrigaçõesestabelecidasnaAta,sobpenadecancelamento
+de seu registro, sem prejuízo da aplicação das sanções previstas na Lei nº 14.133/2021. 
+§5ºCanceladooregistrodofornecedor,aUnidadeGerenciadoraconvocaráosfornecedoresdocadastrodereserva,
+naordemdeclassificação,paraverificarseaceitammanterseuspreçosregistrados,observadoo§3ºdoart.15deste
+Provimento. 
+§6ºSenãoobtiverêxitonasnegociações,aUnidadeGerenciadorasolicitaráocancelamentototalouparcialdaAta
+de Registro de Preços e adotará as medidas necessárias para a obtenção de contratação mais vantajosa. 
+§7ºDeferidoopedidodereequilíbrio,aUnidadeGerenciadoraatualizaráopreçoregistradoemconformidadecoma
+realidadedemercado,encaminhadoosautosaosetordoTribunaldeJustiçaresponsávelpelatramitaçãodos
+aditamentos. 
+§8ºAUnidadeGerenciadoracomunicaráaosórgãoseentidadesquetiveremfirmadocontratosdecorrentesdaARP
+sobre a efetiva alteração do preço registrado, para que avaliem a necessidade de aditamento contratual. 
+ 
+Seção IV - Do cancelamento do registro do fornecedor 
+ 
+Art.24.Oregistrodofornecedor,asseguradoocontraditórioeaampladefesa,poderásercanceladoquandoo
+fornecedor: 
+- não cumprir as condições da Ata de Registro de Preços; 
+-nãocumprirostermosdaAutorizaçãodeFornecimento(AF),daAutorizaçãodeServiço(AS)ounãosubscreverou
+descumprir o Termo de Contrato (TC) decorrente da ARP, no prazo estabelecido pela Administração; 
+- não aceitar manter seu preço registrado, nos termos do § 4º do art. 23 ou; 
+- sofrer sanção prevista nos incisos III ou IV, do caput do art. 156 da Lei nº 14.133/2021. 
+§1ºNahipótesedoincisoIVdocaput,casoapenalidadeaplicadaaofornecedornãoultrapasseoprazodevigência
+daARP,oTribunaldeJustiçapoderá,mediantedecisãofundamentadadaPresidência,decidirpelamanutençãodo
+registro de preços, vedadas novas contratações derivadas da ata enquanto perdurarem os efeitos da sanção. 
+§ 2º O cancelamento do registro nas hipóteses previstas no caput será formalizado por despacho da Presidência. 
+ 
+Seção V - Do cancelamento dos preços registrados 
+ 
+Art.25.OcancelamentodospreçosregistradosnasatasdoTribunaldeJustiçapoderásertotalouparcial,nas
+seguintes hipóteses, desde que devidamente comprovadas e justificadas: 
+- por razão de interesse público; 
+- se não houver êxito nas negociações, nos termos do disposto no § 3º do art. 22 e no § 6º do art. 23. 
+ 
+Seção VI - Da contratação 
+ 
+Art.26.AcontrataçãocomosfornecedoresregistradosseráformalizadapormeiodeAutorizaçãodeFornecimento,
+Autorização de Serviços ou Termo de Contrato, conforme o art. 95 da Lei nº 14.133/21. 
+§1ºOscontratosdecorrentesdoSistemadeRegistrodePreçosdeverãoserassinadosnoprazodevalidadeda
+ARP. 
+§2ºAvigênciadoscontratosdecorrentesdaARPobservaráodispostonoart.105daLeinº14.133/21.Art.27.É
+vedado efetuar acréscimos nos quantitativos fixados pela ARP. 
+Parágrafoúnico.OscontratosdecorrentesdoSistemadeRegistrodePreçospoderãoseralterados,observadoo
+disposto no art. 124, da Lei nº 14.133/21. 
+ 
+Seção VII - Da vigência e prorrogação da Ata de Registro de Preços. 
+ 
+Art.28.OprazodevigênciadaAtadeRegistrodePreçosserádeumano,contadodoprimeirodiaútilsubsequenteà
+datadedivulgaçãonoPNCP,epoderáserprorrogadoporigualperíodo,desdequecomprovadoqueopreçoé
+vantajoso. 
+§1ºParaaprorrogação,aUnidadeGerenciadoradeveráprotocolaropedidocomantecedênciamínimade180(cento
+e oitenta) dias, a contar do término da vigência da ARP. 
+§2ºCaberáàUnidadeGerenciadoracolheraanuênciadosfornecedoresparaaprorrogaçãoproposta,certificando-
+se, inclusive, da eventual permanência daqueles incluídos no cadastro de reserva. 
+§3ºAprorrogaçãoseráformalizadaporTermodeAditamentoeimplicaránarenovaçãodasquantidadesiniciaispara
+o novo período de vigência. 
+§4ºAtramitaçãodopedidodeprorrogaçãoobservará,noquecouber,odispostonosarts.41,42e85a91do
+Provimento CSM nº 2.724/2023. 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 8 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+§ 5º A prorrogação será comunicada aos órgãos e entidades que aderiram à ARP. 
+ 
+CAPÍTULO VI - DA PARTICIPAÇÃO EM LICITAÇÃO DE OUTROS ÓRGÃOS OU ENTIDADES  
+ 
+Art.29.OTribunaldeJustiçapoderáparticipardocertameparaRegistrosdePreçosouaderiràAtadeRegistrode
+PreçosdeoutroÓrgãodaAdministraçãoPúblicaqueestiversujeitoàjurisdiçãodoTribunaldeContasdoEstadode
+SãoPaulo,mediantepréviacomunicaçãoeconsentimento doÓrgãoGerenciadorqueprocessaráoprocedimento
+licitatório. 
+§1ºNahipótesedeadesãocomoórgãonãoparticipante,deveráserinstauradoprocedimentopróprionoâmbitodeste
+Tribunal de Justiça, que será instruído com: 
+-apresentaçãodejustificativadavantagemdaadesão,inclusiveemsituaçõesdeprováveldesabastecimento oude
+descontinuidade de serviço público; 
+-demonstraçãodacompatibilidade dosvaloresregistradoscomosvalorespraticadospelomercado,naforma
+prevista no art. 23 da Lei nº 14.133, de 2021; 
+- comprovação da aceitação prévia do órgão gerenciador e do fornecedor; 
+-cópiadoprocedimentolicitatório,dedispensaoudeinexigibilidadedelicitaçãorelativoàAtadeRegistrodePreços
+que 
+se pretende aderir; 
+- parecer da Assessoria Jurídica do Tribunal de Justiça; e 
+- autorização do Presidente do Tribunal de Justiça para a formalização da adesão. 
+§2ºParaaadesãoprevistanoparágrafoanterior,oórgãoouentidadegerenciadoradeveráintegraraAdministração
+Pública 
+do Estado de São Paulo. 
+ 
+CAPÍTULO VII - DA UTILIZAÇÃO DA ATA DE REGISTRO DE PREÇOS POR ÓRGÃOS OU ENTIDADES NÃO 
+PARTICIPANTES 
+ 
+Seção I - Regra geral 
+ 
+Art.30.DuranteavigênciadaAtaosórgãosdaAdministraçãoPúblicaqueestiveremsujeitosàjurisdiçãodoTribunal
+deContasdoEstadodeSãoPaulo,equenãoparticiparamdoprocedimentodeIRPpoderãoaderiràARPna
+condição de não participantes, mediante prévia autorização do Tribunal de Justiça. 
+§ 1º Para emitir a autorização de adesão, o Tribunal de Justiça deverá colher a anuência do fornecedor. 
+§2ºApósaautorizaçãodoTribunaldeJustiça,oórgãoouaentidadenãoparticipanteefetivaráaaquisiçãooua
+contratação solicitada em até 90 (noventa) dias, observado o prazo de vigência da Ata. 
+§3ºOprazoprevistono§2ºpoderáserprorrogadoexcepcionalmente, mediantesolicitaçãodoórgãooudaentidade
+nãoparticipanteaceitapeloórgãooupelaentidadegerenciadora,desdequerespeitadoolimitetemporaldevigência
+da ata de registro de preços. 
+§4ºOórgãoouaentidadepoderáaderiraitemdaataderegistrodepreçosdaqualsejaintegrante,naqualidadede
+nãoparticipante,paraaquelesitensparaosquaisnãotenhaquantitativoregistrado,observadososrequisitos
+previstos neste artigo. 
+ 
+Seção II - Limites para as adesões 
+ 
+Art.31.Serãoobservadasasseguintesregrasdecontroleparaaadesãoàataderegistrodepreçosdequetratao
+art.30:I-asaquisiçõesouascontrataçõesadicionaisnãopoderãoexceder,porórgãoouentidade,acinquentapor
+centodosquantitativosdositensdoinstrumentoconvocatórioregistradosnaataderegistrodepreçosparaoórgãoou
+a entidade gerenciadora e para os órgãos ou as entidades participantes; e 
+II-oquantitativodecorrentedasadesõesnãopoderáexceder,natotalidade,aodobrodoquantitativodecadaitem
+registradonaataderegistrodepreçosparaoórgãoouaentidadegerenciadoraeosórgãosouasentidades
+participantes,independentemente donúmerodeórgãosouentidadesnãoparticipantesqueaderiremàataderegistro
+de preços. 
+ 
+CAPÍTULO VIII - DISPOSIÇÕES FINAIS 
+ 
+Art.32.AAtadeRegistrodePreçocujalicitaçãotenhasidoregidapelaLeinº8.666/93,nostermosdodispostono
+art. 191 da Lei nº 14.133/2021, continuará submetida à Portaria nº 9470/2017 . 
+ 
+Art. 33. Este provimento entra em vigor na data de sua publicação, revogando-se a Portaria nº 9470/2017 .  
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 9 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
+ 
+ 
+REGISTRE-SE, PUBLIQUE-SE, CUMPRA-SE. 
+ 
+São Paulo, 03 de setembro de 2024. 
+ 
+(a) FERNANDO ANTONIO TORRES GARCIA , Presidente do Tribunal de Justiça 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TJSP - Tribunal de Justiça do Estado de São Paulo 10/10/2025 - 13:41
+GECON - Gestão do Conhecimento Judiciário
+Relatório de Legislação
+Página: 10 de 10
+Diretoria de Gestão do Conhecimento Judiciário - Serviço de Gestão de Legislação TJSP
+GECON - Gestão do Conhecimento Judiciário Formato - PDF
