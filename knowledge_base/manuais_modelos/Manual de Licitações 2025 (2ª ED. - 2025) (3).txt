@@ -1,0 +1,1597 @@
+Manual de 
+Licitações
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO 
+  Secretaria de Administração e Abastecimento | Saab
+MANUAL DE LICITAÇÕES
+2ª Edição – 2025
+Conforme Provimento CSM nº 2.724/23 e Lei nº 14.133/21
+SECRETÁRIO DE ADMINISTRAÇÃO E ABASTECIMENTO
+Fábio Makoto Tagliaferro Yokoyama
+EQUIPE DE TRABALHO
+Bruna Marcela de Barros Cunha
+Diego Aparecido Gabriel
+Karina Yamaguishi Ide
+Maurício Marcos Abambres
+COLABORADORES
+Caio Cesar Rodrigues Paes
+Maria Aparecida Lúcio
+Rodnei Pinto Fernandes
+Sumário
+Manual de Licitações
+INTRODUÇÃO ——————————————————————————————— 6
+1. DISPOSIÇÕES GERAIS ————————————————————————— 7
+1.1 A NOVA LEI DE LICITAÇÕES ————————————————————— 8
+1.2 COMPETÊNCIAS E RESPONSABILIDADES —————————————— 9
+1.3 PLANEJAMENTO DAS CONTRATAÇÕES  ——————————————— 15
+1.4 PLANO DE CONTRATAÇÕES ANUAL (PCA) —————————————— 17
+1.5 DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA (DFD) ——————— 20
+1.5.1  PASSO A PASSO PARA ELABORAÇÃO DO DFD   ———————————— 21
+1.6 ESTUDO TÉCNICO PRELIMINAR (ETP) ———————————————— 24
+1.6.1 PASSO A PASSO PARA ELABORAÇÃO DO ETP ————————————— 26
+1.6.2 PLANO DE RISCOS E O PASSO A PASSO PARA SUA ELABORAÇÃO ——— 28
+1.7 TERMO DE REFERÊNCIA (TR)  ———————————————————— 32
+1.7.1 PASSO A PASSO PARA ELABORAÇÃO DO TR  ————————————— 33
+ 332.  TIPOS DE CONTRATAÇÃO ——————————————————————— 35
+2.1 LICITAÇÃO ————————————————————————————— 36
+2.2  CONTRATAÇÃO DIRETA —————————————————————— 39
+2.2.1  DISPENSA DE LICITAÇÃO ——————————————————————— 40
+2.2.2     INEXIGIBILIDADE DE LICITAÇÃO   ——————————————————— 42
+2.3 LEILÃO —————————————————————————————— 44
+3.PROCEDIMENTOS AUXILIARES ———————————————————— 46
+3.1 CREDENCIAMENTO ———————————————————————— 47
+3.2 SISTEMA DE REGISTRO DE PREÇOS (SRP) ————————————— 48
+4.  CONTRATAÇÃO POR LICITAÇÃO NO TJSP ——————————————       50
+4.1 INICIANDO UMA CONTRATAÇÃO POR LICITAÇÃO —————————— 51
+4.2 ELABORAÇÃO DA DOCUMENTAÇÃO ———————————————— 51
+4.3 PEDIDO DE AUTORIZAÇÃO  ————————————————————— 52
+4.4 INSERÇÃO DO PEDIDO ———————————————————————   53
+4.5 MONITORAMENTO DO FLUXO DE LICITAÇÃO ————————————    54
+5. CONTRATAÇÃO DIRETA NO TJSP ——————————————————— 56
+5.1 TIPOS DE CONTRATAÇÃO DIRETA ——————————————————— 57
+5.2  ELABORAÇÃO DA DOCUMENTAÇÃO ————————————————— 57
+5.3 PEDIDO DE AUTORIZAÇÃO —————————————————————    58
+5.4 INSERÇÃO DO PEDIDO ———————————————————————   59
+5.5  MONITORAMENTO DO FLUXO DE CONTRATAÇÃO DIRETA —————     60
+FLUXO DE DISPENSA DE LICITAÇÃO NO TJSP   —————————————— 62
+FLUXO DE INEXIGIBILIDADE DE LICITAÇÃO NO TJSP ——————————— 62
+6. FLUXO RESUMIDO ——————————————————————————  63 
+INTRODUÇÃO
+ Desde a última edição deste manual, publicada em 2018, ocorreram 
+mudanças substanciais nas normas relacionadas às contratações 
+públicas, sobretudo com a publicação da Lei nº 14.133/21, denominada 
+Nova Lei de Licitações e Contratos, que estabelece as regras gerais de 
+licitações e contratos administrativos para as Administrações Públicas 
+diretas, autárquicas e fundacionais da União, dos Estados, do Distrito 
+Federal e dos Municípios.
+ Dessa maneira, em conformidade ao Provimento CSM nº 2.724/23 
+e à luz da Lei nº 14.133/21 , foi elaborado o presente Manual de Licitações, 
+cujo objetivo é reunir informações e orientações indispensáveis, or -
+ganizando-as de forma sistematizada e precisa, a fim de direcionar a 
+atuação dos servidores deste Tribunal de Justiça envolvidos no processo 
+de contratação de bens e serviços.
+7
+1.  
+DISPOSIÇÕES 
+GERAIS
+8
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.1 A NOVA LEI DE LICITAÇÕES
+ Em síntese, licitação é o procedimento administrativo no qual a Administração 
+Pública contrata obras, serviços, compras e alienações. Possui como objetivo a 
+seleção da proposta mais vantajosa, o tratamento isonômico entre os licitantes, a 
+justa competição, contratações com preços exequíveis e o incentivo à inovação e 
+o desenvolvimento nacional sustentável.
+ Em regra, as contratações e aquisições públicas, devem ser precedidas de 
+licitação, ressalvadas as hipóteses de dispensa e de inexigibilidade de licitação.
+ A Lei nº 14.133, de 1º de abril de 2021, estabelece normas gerais de licitação e 
+contratação para as Administrações Públicas diretas, autárquicas e fundacionais 
+da União, dos Estados, do Distrito Federal e dos Municípios.
+ O novo regramento sobre Licitações e Contratos Administrativos trouxe uma 
+série de inovações, como:
+ вA inclusão de novos princípios, como a segregação de funções e o 
+planejamento;
+ вRegras de governança, para avaliação, direcionamento e monitoramento 
+dos processos licitatórios;
+ вCriação da modalidade de licitação diálogo competitivo e exclusão das 
+modalidades convite e tomada de preços;
+ вUtilização da natureza do objeto (e não mais o valor) para definição da 
+modalidade licitatória aplicável;
+ вInserção de mais critérios de sustentabilidade;
+ вPossibilidade de utilização do sistema de registro de preços para 
+dispensas e inexigibilidades;
+ вA inclusão de novos procedimentos auxiliares, como a pré-qualificação, o 
+credenciamento e o procedimento de manifestação de interesse;
+ вA criação do Portal Nacional de Contratações Públicas (PNCP).
+9
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.2 COMPETÊNCIAS E 
+RESPONSABILIDADES
+ É importante entender quais as competências e responsabilidades dentro do 
+processo licitatório no Tribunal de Justiça de São Paulo.
+ Primordialmente, compete às áreas demandantes  o detalhamento do 
+objeto da contratação, por meio da elaboração do Documento de Formalização 
+de Demanda (DFD), do Estudo Técnico Preliminar (ETP), do Termo de Referência 
+(TR) e do Plano de Riscos que subsidiará a contratação, contando eventualmente 
+com o apoio das áreas técnicas envolvidas.
+ Em conformidade ao Provimento CSM nº 2.724/23, que regulamenta a 
+aplicação da Lei nº 14.133/21 no âmbito do TJSP, abaixo estão relacionados os 
+principais atores do processo licitatório dentro deste Tribunal, bem como suas 
+competências e responsabilidades: 
+ ЪPresidência do TJSP
+ вImplementar e manter mecanismos e instrumentos de governança nas 
+contratações públicas;
+ вPromover a gestão por competências;
+ вDesignar servidores para o desempenho das funções essenciais à 
+execução da Lei nº 14.133/21;
+ вZelar pela segregação de funções;
+/gid00008/gid00032/gid00046/gid00047/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00031/gid00036/gid00046/gid00043/gid00042/gid00041/gid00036/gid00029/gid00036/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00042/gid00045/gid00096/gid00028/gid00040/gid00032/gid00041/gid00047/gid00090/gid00045/gid00036/gid00028/gid00001/gid00031/gid00028/gid00001/gid00039/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00043/gid00028/gid00045/gid00032/gid00030/gid00032/gid00045/gid00001/gid00037/gid00048/gid00045/gid00102/gid00031/gid00036/gid00030/gid00042
+/gid00004/gid00042/gid00041/gid00031/gid00048/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001
+/gid00037/gid00048/gid00039/gid00034/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00028/gid00001/gid00039/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00017/gid00028/gid00034/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00031/gid00032/gid00046/gid00043/gid00032/gid00046/gid00028
+/gid00005/gid00032/gid00049/gid00032/gid00183/gid00046/gid00032/gid00001/gid00045/gid00032/gid00028/gid00039/gid00036/gid00053/gid00028/gid00045/gid00001/gid00028/gid00001
+/gid00046/gid00032/gid00034/gid00045/gid00032/gid00034/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00033/gid00048/gid00041/gid00096/gid00111/gid00032/gid00046 /gid00164/gid00001/gid00041/gid00028/gid00001
+/gid00040/gid00032/gid00046/gid00040/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00164/gid00001/gid00043/gid00028/gid00045/gid00028/gid00001
+/gid00028/gid00046/gid00001/gid00028/gid00047/gid00036/gid00049/gid00036/gid00031/gid00028/gid00031/gid00032/gid00046/gid00001/gid00031/gid00032/gid00165
+10
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab вAssegurar que a estrutura de servidores seja suficiente para o 
+desempenho de suas funções;
+ вDeliberar pelo prosseguimento ou não do processo de contratação;
+ вDeliberar sobre a minuta de edital;
+ вDeliberar sobre a abertura da licitação;
+ вDeliberar sobre a designação do Agente de Contratação ou da Comissão 
+de Contratação, dentre servidores lotados no Grupo de Pregoeiros e 
+Agentes de Contratação - GPAC;
+ вDeliberar sobre a designação da Equipe de Apoio que auxiliará o Agente 
+de Contratação ou a Comissão de Contratação;
+ вDeliberar sobre a contratação direta;
+ вAutorizar a despesa;
+ вAssinar o instrumento contratual, se este for obrigatório;
+ вDecidir sobre os recursos interpostos;
+ вDeterminar o retorno dos autos para saneamento de irregularidades;
+ вAnular o procedimento, por vício insanável;
+ вRevogar o procedimento por conveniência e oportunidade;
+ вAdjudicar o objeto ao licitante vencedor;
+ вHomologar os atos praticados na licitação.
+ ЪSecretaria de Administração e Abastecimento - Saab
+ вElaborar o Plano de Contratações Anual (PCA);
+ вElaborar o Plano de Obras (PO);
+ вElaborar o Plano Anual de Tratamento de Riscos no macroprocesso das 
+contratações públicas;
+ вEm conjunto com a SGP, elaborar o Plano Anual de Capacitação.
+ ЪSecretaria de Tecnologia da Informação - STI
+ вElaborar o Plano Diretor de Tecnologia da Informação;
+11
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab ЪSecretaria de Gestão de Pessoas - SGP
+ вEm conjunto com a Saab, elaborar o Plano Anual de Capacitação;
+ ЪDiretoria de Licitações da Saab – Saab 5
+ вGuardar e divulgar os catálogos eletrônicos de padronização;
+ вRecepcionar o pedido eletrônico da contratação;
+ вAnalisar a conformidade do pedido;
+ вAutuar o processo eletrônico da contratação;
+ вRealizar a pesquisa de preços ou orçamento estimado;
+ вElaborar a minuta de edital, conforme a modalidade licitatória;
+ вElaborar relatório da fase preparatória;
+ вIndicar o Agente de Contratação ou a Comissão de Contratação e a 
+Equipe de Apoio;
+ вEncaminhar os autos ao Secretário ou à Secretária da Saab para análise e 
+remessa à Presidência do TJSP;
+ вSubscrever o edital;
+ вPublicar o extrato de edital no Diário de Justiça Eletrônico - DJE e jornal 
+de grande circulação;
+ вDisponibilizar o ato convocatório e seus anexos no Portal Nacional de 
+Contratações Públicas - PNCP;
+ вEncaminhar informações da licitação ao Tribunal de Contas do Estado de 
+São Paulo - TCE SP;
+ вConfirmar a capitulação legal da contratação direta;
+ вVerificar a conformidade do critério de escolha do fornecedor e da 
+justificativa de preço;
+ вDisponibilizar o aviso de contratação direta e seus anexos no PNCP;
+ вEncaminhar informações da contratação direta ao TCE SP;
+ вElaborar parecer conclusivo e encaminhar os autos ao Secretário ou à 
+Secretária da Saab para análise.
+12
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab ЪDiretoria de Contratos da Saab – Saab 6
+ вElaborar a minuta de contrato;
+ вAdotar as providências pré-contratuais, se o caso;
+ вConvocar a proponente para assinatura do contrato;
+ вDivulgar o contrato no Portal da Transparência do TJSP e no PNCP;
+ вEncaminhar cópia do contrato ao Gestor do Contrato;
+ вEncaminhar informações dos contratos ao TCE SP;
+ вEncaminhar cópia do contrato à Assembleia Legislativa do Estado de São 
+Paulo - ALESP;
+ вCaso o instrumento contratual seja obrigatório, elaborar parecer 
+conclusivo e encaminhar os autos ao Secretário ou à Secretária da Saab 
+para análise.
+ ЪSecretaria de Orçamento e Finanças - SOF
+ вIndicar a existência de recursos orçamentários.
+ ЪAssessoria Jurídica
+ вRealizar o controle prévio de legalidade.
+ ЪEquipe de Planejamento da Contratação
+ вElaborar o DFD, o ETP e o TR;
+ вElaborar o Plano de Riscos e eventual matriz de alocação de riscos;
+ вNos casos de contratação direta, consultar previamente a Diretoria de 
+Licitações da Saab – Saab 5, para aferição dos limites de valores previstos 
+nos incisos I e II do art. 75 da Lei nº 14.133/21;
+ вAutuar processo administrativo eletrônico com relatório conclusivo e 
+principais peças dos estudos realizados;
+ вRemeter o processo ao Secretário ou à Secretária da área requisitante 
+para análise e deliberação acerca do prosseguimento da contratação;
+ вAdotar todas as providências para a formalização do pedido de 
+contratação com a antecedência necessária para cumprimento dos 
+prazos de processamento.
+13
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab ЪSecretário ou Secretária da área requisitante
+ вAprovar os documentos elaborados no planejamento da contratação, 
+submetendo-os à Presidência do TJSP;
+ вDevolver o processo à Equipe de Planejamento da Contratação para 
+eventuais ajustes ou rejeitá-lo, determinando seu arquivamento.
+ ЪSecretário ou Secretária da Saab
+ вVerificar a regularidade fiscal, previdenciária e trabalhista da licitante 
+vencedora;
+ вConsultar os cadastros públicos de sanções;
+ вApós a elaboração do relatório de conclusão do processo de contratação, 
+submeter os autos à Presidência do TJSP com proposta conclusiva.
+ ЪAgente de Contratação ou da Comissão de Contratação
+ вTomar ciência do edital;
+ вPropor alterações no edital;
+ вDesignar a data da sessão pública;
+ вNa contratação direta, compete ao Agente de Contratação verificar o 
+atendimento dos requisitos de habilitação e de qualificação mínima 
+necessária;
+ вAcompanhar o trâmite da licitação;
+ вDar impulso ao procedimento licitatório;
+ вTomar decisões sobre o julgamento da proposta e habilitação;
+ вDiligenciar e solicitar os esclarecimentos necessários das áreas técnicas;
+ вIndicar o vencedor do certame;
+ вEmitir parecer fundamentado quanto à licitação e eventual recurso 
+interposto;
+ вExecutar outras atividades para o bom andamento do certame até sua 
+homologação.
+14
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab ЪComissão de Contratação
+ вConduzir a licitação na modalidade diálogo competitivo;
+ вQuando designada pela Presidência do TJSP, atuar em substituição ao 
+Agente de Contratação, nas contratações de bens ou serviços essenciais;
+ вQuando designada pela Presidência do TJSP, conduzir licitações ou 
+procedimentos auxiliares.
+/gid00002/gid00034/gid00032/gid00041/gid00047/gid00032/gid00001/gid00031/gid00032/gid00001
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00016/gid00029/gid00045/gid00036/gid00034/gid00028/gid00047/gid00109/gid00045/gid00036/gid00028/gid00001/gid00041/gid00028/gid00001/gid00040/gid00042/gid00031/gid00028/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00005/gid00036/gid00090/gid00039/gid00042/gid00034/gid00042/gid00001/gid00004/gid00042/gid00040/gid00043/gid00032/gid00047/gid00036/gid00047/gid00036/gid00049/gid00042
+/gid00005/gid00032/gid00046/gid00036/gid00034/gid00041/gid00028/gid00031/gid00028/gid00001/gid00032/gid00040/gid00001/gid00030/gid00028/gid00045/gid00090/gid00047/gid00032/gid00045/gid00001
+/gid00043/gid00032/gid00045/gid00040/gid00028/gid00041/gid00032/gid00041/gid00047/gid00032/gid00001/gid00042/gid00048/gid00001/gid00032/gid00046/gid00043/gid00032/gid00030/gid00036/gid00028/gid00039
+/gid00004/gid00042/gid00040/gid00043/gid00042/gid00046/gid00047/gid00028/gid00001/gid00043/gid00042/gid00045/gid00164/gid00001/gid00041/gid00042/gid00001/gid00040/gid00102/gid00041/gid00036/gid00040/gid00042/gid00164/gid00001
+/gid00134/gid00001/gid00040/gid00032/gid00040/gid00029/gid00045/gid00042/gid00046
+/gid00017/gid00045/gid00032/gid00033/gid00032/gid00045/gid00032/gid00041/gid00030/gid00036/gid00028/gid00039/gid00040/gid00032/gid00041/gid00047/gid00032/gid00001/gid00032/gid00041/gid00047/gid00045/gid00032/gid00001
+/gid00046/gid00032/gid00045/gid00049/gid00036/gid00031/gid00042/gid00045/gid00032/gid00046/gid00001/gid00044/gid00048/gid00032/gid00001/gid00032/gid00051/gid00032/gid00045/gid00096/gid00028/gid00040/gid00001
+/gid00028/gid00001/gid00033/gid00048/gid00041/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00002/gid00034/gid00032/gid00041/gid00047/gid00032/gid00001/gid00031/gid00032/gid00001
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00002/gid00034/gid00032/gid00041/gid00047/gid00032/gid00046/gid00001
+/gid00045/gid00032/gid00046/gid00043/gid00042/gid00041/gid00046/gid00090/gid00049/gid00032/gid00036/gid00046/gid00001
+/gid00043/gid00032/gid00039/gid00028/gid00001/gid00030/gid00042/gid00041/gid00031/gid00048/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00028/gid00001/gid00013/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00004/gid00042/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00006/gid00046/gid00047/gid00028/gid00029/gid00032/gid00039/gid00032/gid00030/gid00032/gid00045/gid00001/gid00047/gid00045/gid00028/gid00047/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001
+/gid00031/gid00036/gid00033/gid00032/gid00045/gid00032/gid00041/gid00030/gid00036/gid00028/gid00031/gid00042/gid00001/gid00032/gid00041/gid00047/gid00045/gid00032/gid00001/gid00032/gid00040/gid00043/gid00045/gid00032/gid00046/gid00028/gid00046/gid00001
+/gid00029/gid00045/gid00028/gid00046/gid00036/gid00039/gid00032/gid00036/gid00045/gid00028/gid00046/gid00001/gid00001/gid00032/gid00001/gid00032/gid00046/gid00047/gid00045/gid00028/gid00041/gid00034/gid00032/gid00036/gid00045/gid00028/gid00046/gid00164/gid00001
+/gid00046/gid00028/gid00039/gid00049/gid00042/gid00001/gid00035/gid00036/gid00043/gid00109/gid00047/gid00032/gid00046/gid00032/gid00046/gid00001/gid00043/gid00045/gid00032/gid00049/gid00036/gid00046/gid00047/gid00028/gid00046/gid00001/gid00041/gid00042/gid00001
+/gid00028/gid00045/gid00047/gid00163/gid00001/gid00137/gid00131/gid00001/gid00031/gid00028/gid00001/gid00015/gid00013/gid00013/gid00004
+/gid00016/gid00043/gid00042/gid00045/gid00001/gid00045/gid00032/gid00046/gid00036/gid00046/gid00047/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001
+/gid00036/gid00041/gid00037/gid00048/gid00046/gid00047/gid00036/gid00033/gid00036/gid00030/gid00028/gid00031/gid00028/gid00001/gid00041/gid00042/gid00001/gid00028/gid00041/gid00031/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001
+/gid00031/gid00042/gid00046/gid00001/gid00043/gid00045/gid00042/gid00030/gid00032/gid00046/gid00046/gid00042/gid00046/gid00004/gid00042/gid00040/gid00043/gid00045/gid00042/gid00040/gid00032/gid00047/gid00028/gid00040/gid00164/gid00001
+/gid00045/gid00032/gid00046/gid00047/gid00045/gid00036/gid00041/gid00037/gid00028/gid00040/gid00001/gid00042/gid00048/gid00001/gid00033/gid00045/gid00048/gid00046/gid00047/gid00045/gid00032/gid00040/gid00001
+/gid00042/gid00001/gid00030/gid00028/gid00045/gid00090/gid00047/gid00032/gid00045/gid00001/gid00030/gid00042/gid00040/gid00043/gid00032/gid00047/gid00036/gid00047/gid00036/gid00049/gid00042
+/gid00006/gid00046/gid00047/gid00028/gid00029/gid00032/gid00039/gid00032/gid00096/gid00028/gid00040/gid00001
+/gid00043/gid00045/gid00032/gid00033/gid00032/gid00045/gid00099/gid00041/gid00030/gid00036/gid00028/gid00046/gid00001/gid00042/gid00048/gid00001
+/gid00031/gid00036/gid00046/gid00047/gid00036/gid00041/gid00096/gid00111/gid00032/gid00046/gid00001/gid00043/gid00042/gid00045/gid00001
+/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032/gid00164/gid00001/gid00046/gid00032/gid00031/gid00032/gid00001
+/gid00042/gid00048/gid00001/gid00031/gid00042/gid00040/gid00036/gid00030/gid00102/gid00039/gid00036/gid00042
+/gid00020/gid00032/gid00037/gid00028/gid00040/gid00001/gid00036/gid00040/gid00043/gid00032/gid00045/gid00047/gid00036/gid00041/gid00032/gid00041/gid00047/gid00032/gid00046/gid00001
+/gid00042/gid00048/gid00001/gid00036/gid00045/gid00045/gid00032/gid00039/gid00032/gid00049/gid00028/gid00041/gid00047/gid00032/gid00046/gid00002/gid00042/gid00046/gid00001/gid00002/gid00034/gid00032/gid00041/gid00047/gid00032/gid00046/gid00001
+/gid00017/gid00118/gid00029/gid00039/gid00036/gid00030/gid00042/gid00046/gid00001/gid00028/gid00047/gid00048/gid00028/gid00041/gid00047/gid00032/gid00046/gid00001
+/gid00041/gid00028/gid00046/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00111/gid00032/gid00046/gid00001
+/gid00098/gid00001/gid00049/gid00032/gid00031/gid00028/gid00031/gid00042/gid00002/gid00031/gid00040/gid00036/gid00047/gid00036/gid00045/gid00164/gid00001/gid00043/gid00045/gid00032/gid00049/gid00032/gid00045/gid00164/gid00001/gid00036/gid00041/gid00030/gid00039/gid00048/gid00036/gid00045/gid00001
+/gid00042/gid00048/gid00001/gid00047/gid00042/gid00039/gid00032/gid00045/gid00028/gid00045/gid00164/gid00001/gid00041/gid00042/gid00046/gid00001/gid00028/gid00047/gid00042/gid00046/gid00001/gid00044/gid00048/gid00032/gid00001
+/gid00043/gid00045/gid00028/gid00047/gid00036/gid00030/gid00028/gid00045/gid00164/gid00001/gid00046/gid00036/gid00047/gid00048/gid00028/gid00096/gid00111/gid00032/gid00046/gid00001/gid00044/gid00048/gid00032
+15
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+/gid00017/gid00039/gid00028/gid00041/gid00032/gid00037/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001
+/gid00031/gid00028/gid00001/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00017/gid00039/gid00028/gid00041/gid00032/gid00037/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001
+/gid00006/gid00046/gid00047/gid00045/gid00028/gid00047/gid00098/gid00034/gid00036/gid00030/gid00042/gid00001/gid00031/gid00042/gid00001/gid00021/gid00011/gid00020/gid00017
+/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00111/gid00032/gid00046/gid00001
+/gid00002/gid00041/gid00048/gid00028/gid00039/gid00017/gid00045/gid00042/gid00043/gid00042/gid00046/gid00047/gid00028/gid00001
+/gid00016/gid00045/gid00096/gid00028/gid00040/gid00032/gid00041/gid00047/gid00090/gid00045/gid00036/gid00028/gid00001
+/gid00020/gid00032/gid00047/gid00042/gid00045/gid00036/gid00028/gid000391.3 PLANEJAMENTO DAS 
+CONTRATAÇÕES
+ A Lei nº 14.133/21 elenca em seu artigo 5º o planejamento como um de seus 
+princípios basilares, sendo fundamental para que o processo de contratação ocorra 
+de forma satisfatória.
+ O planejamento das contratações deve compatibilizar-se com o Planejamento 
+Estratégico do Tribunal de Justiça de São Paulo , com a Proposta Orçamentária 
+Setorial (POS)  e com o Plano de Contratações Anual (PCA) .
+  A Equipe de Planejamento da Contratação  será constituída por servidores 
+do TJSP e, se o caso, por terceiro, na condição de Responsável Técnico, para asses -
+soramento.   
+ O Secretário ou a Secretária da área requisitante é responsável por designar 
+a Equipe de Planejamento da Contratação, sendo que seus membros serão 
+formalmente cientificados da respectiva designação, por meio de assinatura no 
+respectivo processo ou no DFD ou por e-mail .
+16
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab É na fase de planejamento que são elaborados os seguintes documentos:
+ вDocumento de Formalização de Demanda (DFD);
+ вEstudo Técnico Preliminar (ETP);
+ вPlano de Riscos;
+ вTermo de Referência (TR), Projeto Básico ou Projeto Executivo.
+ 
+ Conforme previsto no art. 40 do Provimento CSM nº 2.724/23, a Equipe  
+de Planejamento deve adotar todas as providências para a elaboração e  
+aprovação  do DFD, do ETP, do Plano de Riscos e do TR, com antecedência  
+necessária para cumprimento dos prazos de processamento da contratação,  
+de acordo com a tabela abaixo:
+ ATENÇÃO!
+Antecedência de  
+180 dias para:Antecedência de  
+240 dias para:
+ вPrestação de serviços
+ вFornecimento de bens 
+comuns вContratação complexa que demande 
+análise técnica para escolha do 
+fornecedor
+ вContratação que demande a 
+realização de audiência pública
+17
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.4 PLANO DE CONTRATAÇÕES 
+ANUAL (PCA)
+ O Plano de Contratações Anual (PCA) é um instrumento de governança que 
+visa racionalizar as contratações e aquisições, bem como garantir o alinhamento 
+com o planejamento estratégico dos órgãos e entidades. Além disso, objetiva 
+subsidiar a elaboração das respectivas leis orçamentárias.
+ É no PCA que ocorre a consolidação de todas as compras e contratações que 
+o órgão ou entidade pretende realizar ou prorrogar no ano seguinte, e contempla 
+bens, serviços, obras e soluções de tecnologia da informação.
+ No âmbito do TJSP, o PCA possui o seguinte cronograma :
+Elaboração do PCA do exercício seguinte
+ вAté 30/4 do exercício corrente: Elaboração do PCA Preliminar
+ вDe 1/5 a 29/10 do exercício corrente: Revisões e ajustes do PCA Preliminar
+ вAté 30/10 do exercício corrente: Publicação do PCA Final
+ вOu seja, como exemplo, a elaboração do PCA de 2026 deve seguir o 
+cronograma acima em 2025.
+Aditamentos ao PCA do exercício corrente
+ вDe 1/11 do exercício anterior a 31/5 do exercício corrente: Aditamentos  
+ao PCA Final
+ вDe 1/6 a 20/9 do exercício corrente: Aditamentos ao PCA Final (somente 
+para solicitações urgentes , priorizadas pela Presidência)
+18
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab O PCA possui vigência anual e é sempre elaborado no exercício anterior à 
+sua vigência, ou seja, o PCA deste ano foi elaborado no ano passado. Do mesmo 
+modo, o PCA do próximo exercício será elaborado neste ano.
+ No TJSP, sua elaboração inicia-se com a inclusão das demandas pelos 
+setores solicitantes no sistema da Proposta Orçamentária Setorial - POS, conforme 
+prazos estipulados em comunicado da Secretaria de Orçamento e Finanças - 
+SOF, publicado anualmente no DJE. A partir das solicitações inseridas no sistema 
+da Proposta Orçamentária Setorial é realizado filtro no sistema das demandas 
+que serão contratadas ou prorrogadas no exercício seguinte. Essas demandas 
+comporão o Plano de Contratações Anual Preliminar , publicado até 30 de abril.
+ATENÇÃO:  O Plano de Contratações 
+Anual não se confunde com a 
+Proposta Orçamentária Setorial, pois 
+ele contém apenas uma parte das 
+demandas nela inseridas.
+ Ressalta-se a importância de que os dados relativos à contratação sejam 
+informados de forma clara e precisa (descrição da solicitação, justificativa, tipo de 
+objeto, grau de prioridade, data estimada da compra/prorrogação e valor).
+ Para que a demanda seja inserida no PCA, é importante atentar-se, quando do 
+preenchimento da POS, ao campo “data estimada da contratação / prorrogação”, 
+que não é a data do pedido de licitação, mas sim da efetiva celebração da aquisição. 
+Também importante atentar-se ao “tipo de contratação” a ser selecionado.  
+Alguns exemplos:
+Contrato vigente, sem possibilidade de nova prorrogação, 
+que se encerra em 14/9/25 e haverá necessidade de 
+nova contratação – Preencher com data estimada da 
+contratação / prorrogação com 15/9/25 e cadastrar 
+o pedido de contratação em março de 2025. Tipo de 
+contratação: “Contratação recorrente”.
+19
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  SaabContrato vigente, que vence em 6/10/24, mas com possibili -
+dade de prorrogação até 2027 e que será prorrogado – Aqui 
+a próxima data de prorrogação vai depender do prazo de 
+vigência desse contrato. Supondo um contrato de vigência 
+de 12 meses, ele vencerá novamente em 6/10/25 e deverá 
+ser preenchido com 7/10/25. Supondo um contrato com 
+vigência de 15 meses, ele vencerá novamente em 6/1/26 e deverá ser 
+preenchida no sistema a data de 7/1/26. 
+           Supondo um contrato com vigência de 30 meses, ele 
+vencerá novamente em 6/4/27, e deverá ser preenchida no sistema a 
+data de 7/4/27.
+ Em caso de necessidade de alterações  ao PCA Preliminar - como retificação 
+de valores, exclusão ou inclusão de demandas - os setores interessados devem 
+encaminhá-las à Coordenadoria de Governança - Saab 7, no prazo estabelecido 
+por este setor, para consolidação e aprovação, pela E. Presidência, do Plano de 
+Contratações Anual até 30 de outubro , com sua posterior publicação no Portal 
+Nacional de Contratações Públicas (PNCP).
+ Por outro lado, publicada a versão final do PCA, eventuais aditamentos devem 
+ser efetuados mediante preenchimento do formulário “ DFD aditamento ” disponível 
+em Monitoramento PCA , para análise do Comitê do Plano de Contratações Anual 
+e posterior análise e aprovação da E. Presidência. 
+ATENÇÃO:  O status de “pendente” 
+de aprovação no PCA não inviabiliza 
+a inserção do pedido de contratação 
+no sistema.
+ Esses aditamentos  ao PCA Final podem ocorrer até 31 de maio do ano de sua 
+vigência . Entretanto, para as solicitações urgentes, priorizadas pela E. Presidência, 
+tais aditamentos podem ocorrer até 20 de setembro .
+ O PCA do TJSP pode ser acompanhado em Monitoramento PCA .
+20
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.5 DOCUMENTO DE FORMALIZAÇÃO 
+DE DEMANDA (DFD)
+ De acordo com a Lei nº 14.133/21, o Documento de Formalização de Demanda 
+(DFD) é o instrumento que inicia o processo de planejamento da aquisição de 
+produto ou serviço e é elemento obrigatório  de todo processo de contratação.
+ É por meio do DFD que o Plano de Contratações Anual (PCA) do TJSP é 
+construído, ou seja, quando da elaboração do PCA, cada Secretaria Requisitante 
+deve preencher um formulário de DFD para cada contratação pretendida. No 
+TJSP, o Plano de Contratações Preliminar e o Final são elaborados a partir das 
+demandas inseridas na Proposta Orçamentária Setorial e ao longo do exercício 
+pode ser aditado com demandas não previstas inicialmente.
+ O DFD é, assim, o primeiro documento a ser preenchido para que uma 
+contratação ou aquisição seja demandada. É nele também que consta a relação dos 
+membros que compõem a Equipe de Planejamento da Contratação, designados 
+pelo Secretário ou pela Secretária da área demandante.
+21
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.5.1  PASSO A PASSO PARA ELABORAÇÃO DO DFD
+1. Consultar a demanda no PCA
+ Inicialmente, o gestor ou a gestora responsável pelo planejamento deve 
+consultar se a demanda pretendida já consta no PCA do ano corrente ou do 
+ano seguinte, caso se trate de demanda a ser contratada no primeiro semestre 
+(Monitoramento PCA ). 
+ вCaso a demanda já conste no PCA, o DFD deve ser elaborado a partir dos 
+modelos disponibilizados no Portal da Administração (disponíveis em 
+Modelos DFD ).
+ вNa hipótese de a demanda não constar no PCA, deve-se solicitar sua 
+inserção por aditamento, com o preenchimento do formulário “ DFD 
+aditamento ” disponível em Monitoramento PCA .
+ ÍApós o preenchimento do formulário, a demanda será inserida, pela 
+Coordenadoria de Governança da Saab, no módulo POS do sistema 
+SAJADM, ao passo que será gerada uma numeração de identificação 
+(nº ID PCA ) e comunicada ao setor requisitante, por e-mail;
+ ÍA seguir, a demanda aditiva será apreciada pelo Comitê do Plano de 
+Contratações Anual (PCA) para deliberação acerca de sua aprovação ou 
+reprovação, com posterior ratificação da Presidência.
+/gid00004/gid00042/gid00041/gid00046/gid00048/gid00039/gid00047/gid00028/gid00045/gid00001/gid00046/gid00032/gid00001
+/gid00028/gid00001/gid00031/gid00032/gid00040/gid00028/gid00041/gid00031/gid00028/gid00001
+/gid00037/gid00090/gid00001/gid00030/gid00042/gid00041/gid00046/gid00047/gid00028/gid00001/gid00041/gid00042/gid00001
+/gid00017/gid00004/gid00002/gid00017/gid00045/gid00032/gid00032/gid00041/gid00030/gid00035/gid00032/gid00045
+/gid00042/gid00001/gid00005/gid00007/gid00005/gid00013/gid00042/gid00030/gid00028/gid00039/gid00036/gid00053/gid00028/gid00045/gid00001
+/gid00042/gid00001/gid00030/gid00109/gid00031/gid00036/gid00034/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00029/gid00032/gid00040/gid00001/gid00042/gid00048/gid00001
+/gid00046/gid00032/gid00045/gid00049/gid00036/gid00096/gid00042/gid00002/gid00048/gid00047/gid00048/gid00028/gid00045/gid00001
+/gid00032/gid00051/gid00043/gid00032/gid00031/gid00036/gid00032/gid00041/gid00047/gid00032/gid00001
+/gid00043/gid00045/gid00109/gid00043/gid00045/gid00036/gid00042
+22
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2. Preencher o DFD
+ O gestor ou gestora responsável pelo planejamento, após consulta ao PCA, 
+deve efetuar o preenchimento do DFD, de acordo com a orientação do tópico 
+anterior, utilizando-se do modelo aplicável.
+Quais informações devem constar no DFD?
+ вUnidade demandante;
+ вNome do responsável (gestor de planejamento da contratação) e setor;
+ вData estimada da efetivação da contratação ou prorrogação contratual;
+ вGrau de prioridade (alto, médio ou baixo);
+ вTipo de contratação (novo investimento, contratação recorrente ou 
+prorrogação contratual sem nova contratação) – artigo 4º, §4º do 
+Provimento TJSP nº 97/22;
+ вNovo investimento: contratação feita pela primeira vez; contratação que 
+não era adquirida por licitação; ou expansão de contratação e demandas 
+para outras regiões;
+ вContratação recorrente:  contratação de prestação continuada; 
+ вProrrogação contratual sem nova contratação: prorrogação de um 
+contrato vigente, sem a necessidade de novo procedimento licitatório.
+ вObjeto;
+ вDescrição resumida da demanda;
+ вAlinhamento com o Planejamento Estratégico;
+ вJustificativa;
+ вEstimativa de quantidade;
+ вEstimativa preliminar do valor;
+ вCódigos do bem ou serviço;
+ вVinculação ou dependência com outra contratação;
+ вContratação compartilhada;
+ вSustentabilidade;
+ вContrato em substituição;
+ вEquipe de Planejamento da Contratação
+23
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab3. Localizar o código do bem ou serviço
+ Os códigos do bem ou serviço demandado devem ser consultados no 
+módulo SPD  do sistema SAJADM, em “Pedido”  “Pedido Catalogação”  
+“Novo pedido”.
+ вCaso não haja código cadastrado para o bem ou serviço, deve-se 
+solicitar seu cadastro no referido sistema, utilizando-se o mesmo  
+caminho acima descrito.
+ вApós a solicitação do cadastro, deve-se acompanhar, periodicamente,  
+sua efetivação no sistema, a fim de dar continuidade ao preenchimento 
+do DFD.
+ 
+4. Autuar expediente próprio
+ Considerando que todos os procedimentos relacionados às compras e 
+licitações devem tramitar via sistema SAJADM, um expediente próprio para cada 
+contratação deve ser autuado. Nele deverão ser anexados todos os documentos 
+pertinentes ao procedimento de contratação, sendo o primeiro deles o DFD.
+ вApós a autuação do expediente, cabe ao gestor ou à gestora do 
+planejamento da contratação anexar o DFD devidamente preenchido no 
+respectivo processo, assinando-o e solicitando a assinatura do Secretário 
+ou da Secretária responsável.
+24
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.6 ESTUDO TÉCNICO 
+PRELIMINAR (ETP)
+ O Estudo Técnico Preliminar (ETP) é o documento no qual há a descrição 
+da necessidade da contratação, bem como as pesquisas, as análises e os estudos 
+realizados, a fim de definir a contratação mais vantajosa para o TJSP, considerando 
+os critérios financeiro, operacional e gerencial.
+ Em suma, é o ETP que demonstra o problema a ser resolvido e sua  
+melhor solução , de modo a permitir a avaliação da viabilidade técnica e  
+econômica da contratação.
+ O ETP é elaborado logo após o DFD e subsidia a elaboração do Termo de 
+Referência (TR).
+ Em regra, o ETP é elemento obrigatório  de todo processo de contratação, 
+ressalvados os casos em que ele é facultativo , conforme relação abaixo:
+ETP Facultativo
+ вCompras com valores dentro dos limites do art. 75, incisos I e II, da Lei 
+nº 14.133/21 (valores atualizados disponíveis para consulta em Decreto - 
+Consulta de valores atualizados );
+ вLicitação deserta ou fracassada (art. 75, inciso III, Lei nº 14.133/21);
+ вCasos de guerra, estado de defesa, estado de sítio, intervenção federal 
+ou grave perturbação de ordem (art. 75, VII, Lei nº 14.133/21)
+ вEmergência ou calamidade pública (art. 75, inciso VIII, Lei nº 14.133/21);
+ вPara prorrogações contratuais;
+ вConvocação dos demais licitantes classificados para a contratação de 
+remanescente de obra, de serviço ou de fornecimento em consequência 
+de rescisão contratual (art. 75, §7º, Lei nº 14.133/21).
+25
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab A Equipe de Planejamento da Contratação deve adotar  os catálogos 
+eletrônicos de padronização de compras, serviços e obras que contarem  
+com a aprovação da Presidência do TJSP, sendo necessária justificativa no ETP 
+para a não utilização.
+O que são Catálogos Eletrônicos de Padronização de 
+Compras, Serviços e Obras?
+Os catálogos eletrônicos objetivam manter informações padronizadas de 
+itens a serem contratados pela Administração, cujos documentos básicos 
+de aquisição estarão disponíveis para a licitação ou para contratação direta.
+No âmbito do TJSP, possui as seguintes características:
+ вSão elaborados pela Saab, submetidos à análise jurídica e, 
+posteriormente, à aprovação da Presidência do TJSP;
+ вSerão atualizados, no mínimo, anualmente, pelo Gestor ou Gestora da 
+Equipe de Planejamento da Contração;
+ вSão guardados e divulgados pela Diretoria de Licitações da Saab.
+26
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.6.1 PASSO A PASSO PARA ELABORAÇÃO DO ETP
+/gid00004/gid00042/gid00041/gid00046/gid00048/gid00039/gid00047/gid00028/gid00045/gid00001/gid00032/gid00001
+/gid00046/gid00032/gid00039/gid00032/gid00030/gid00036/gid00042/gid00041/gid00028/gid00045/gid00001
+/gid00040/gid00042/gid00031/gid00032/gid00039/gid00042/gid00001/gid00031/gid00032/gid00001/gid00006/gid00021/gid00017/gid00001
+/gid00028/gid00001/gid00046/gid00032/gid00045/gid00001/gid00048/gid00047/gid00036/gid00039/gid00036/gid00053/gid00028/gid00031/gid00042/gid00017/gid00045/gid00032/gid00032/gid00041/gid00030/gid00035/gid00032/gid00045
+/gid00042/gid00001/gid00006/gid00021/gid00017/gid00023/gid00032/gid00045/gid00036/gid00033/gid00036/gid00030/gid00028/gid00045/gid00001/gid00046/gid00032/gid00001/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00046/gid00048/gid00029/gid00046/gid00047/gid00036/gid00047/gid00048/gid00036/gid00045/gid00090/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001
+/gid00049/gid00036/gid00034/gid00032/gid00041/gid00047/gid00032/gid00011/gid00048/gid00041/gid00047/gid00028/gid00045/gid00001/gid00042/gid00001/gid00006/gid00021/gid00017/gid00001/gid00041/gid00042/gid00001
+/gid00043/gid00045/gid00042/gid00030/gid00032/gid00046/gid00046/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00045/gid00001/gid00042/gid00001
+/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046
+ 1. Consultar e selecionar o modelo de ETP a ser utilizado
+ Inicialmente, o gestor ou gestora responsável pela contratação deve selecionar 
+o modelo de ETP de acordo com o objeto pretendido (modelos disponíveis em 
+Modelos ETP ).
+ATENÇÃO : Os documentos serão 
+revisados com frequência, em 
+virtude de novas jurisprudências e 
+pareceres jurídicos, motivos pelos 
+quais recomenda-se que a consulta 
+ao link seja realizada a cada nova 
+necessidade de elaboração , a fim de 
+mantê-los atualizados.
+27
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2. Preencher o ETP
+ Com a seleção do modelo apropriado, cabe ao gestor ou gestora responsável 
+efetuar o preenchimento do ETP.
+Quais informações devem constar no ETP?
+I. Descrição da necessidade da contratação ( item obrigatório );
+II. Demonstração da previsão da contratação no PCA ( item obrigatório );
+III. Requisitos da contratação;
+IV. Estimativas das quantidades para contratação, com as memórias de 
+cálculos e documentos que lhes dão suporte ( item obrigatório );
+V. Levantamento de mercado, com análise das alternativas possíveis, 
+e justificativa técnica e econômica da escolha do tipo de solução a 
+contratar; 
+VI. Estimativa do valor da contratação, acompanhada dos preços unitários 
+referenciais, memórias de cálculos e documentos que lhes dão suporte 
+(item obrigatório );
+VII. Descrição da solução como um todo;
+VIII. Justificativas para o parcelamento ou não da contratação ( item 
+obrigatório );
+IX. Demonstrativo dos resultados pretendidos em termos de 
+economicidade e de melhor aproveitamento dos recursos humanos, 
+materiais e financeiros disponíveis;
+X. Providências a serem adotadas pela Administração previamente à 
+celebração do contrato, inclusive quanto à capacitação de servidores 
+para fiscalização e gestão ambiental;
+XI. Contratações correlatas ou interdependentes;
+XII. Descrição de possíveis impactos ambientais e respectivas medidas 
+mitigadoras;
+XIII. Posicionamento conclusivo sobre a adequação da contratação para o 
+atendimento da necessidade a que se destina ( item obrigatório )
+ O ETP deve conter obrigatoriamente, ao menos, os itens I, II, IV, VI, VIII e 
+XIII do quadro acima. Quando não contemplar os demais elementos, deve-se 
+apresentar as devidas justificativas .
+28
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab3. Verificar se a contratação substituirá contrato vigente
+ Caso o objeto da contratação substitua contrato vigente, o Gestor ou 
+Gestora do Contrato atual deve ser consultado , a fim de fornecer relatório com 
+informações sobre a execução contratual, especialmente quanto à:
+ вEfetiva obtenção dos objetivos que justificaram a contratação;
+ вRelação dos Processos Administrativos Apuratórios, suas principais causas 
+e impactos na execução contratual.
+ Com base nas informações fornecidas, o Gestor ou Gestora do Contato deverá 
+propor melhorias a serem observadas no ETP, no TR e no Plano de Riscos.
+4. Juntar o ETP no processo da contratação
+ Com a conclusão do preenchimento do ETP, cabe ao gestor ou gestora do 
+planejamento da contratação anexá-lo ao expediente próprio da contratação no 
+sistema SAJADM. O documento deverá ser assinado obrigatoriamente pelo gestor 
+ou pela gestora de planejamento e pelos membros da Equipe de Planejamento. 
+5. Elaborar o Plano de Riscos
+ Verificar próximo item (1.6.2).
+1.6.2 PLANO DE RISCOS E O PASSO A PASSO PARA SUA 
+ELABORAÇÃO
+ O Plano de Riscos objetiva o mapeamento e a análise de eventuais riscos 
+relacionados à contratação pretendida, permitindo, dessa forma, sua identificação, 
+avaliação e gerenciamento, de modo a possibilitar a escolha da solução mais 
+vantajosa para o TJSP. 
+ Trata-se de elemento obrigatório  em todo processo de contratação, devendo 
+compor o ETP ou ser apresentado em documento anexo.
+29
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+/gid00006/gid00021/gid00002/gid00017/gid00002/gid00020/gid00001/gid00005/gid00002/gid00001
+/gid00008/gid00006/gid00020/gid00021/gid00057/gid00016/gid00001/gid00005/gid00006/gid00001
+/gid00019/gid00010/gid00020/gid00004/gid00016/gid000201º/gid00001
+/gid00010/gid00031/gid00032/gid00041/gid00047/gid00036/gid00033/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00046/gid00001
+/gid00043/gid00045/gid00036/gid00041/gid00030/gid00036/gid00043/gid00028/gid00036/gid00046/gid00001/gid00045/gid00036/gid00046/gid00030/gid00042/gid00046
+3º/gid00001
+/gid00021/gid00045/gid00028/gid00047/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00042/gid00046/gid00001/gid00045/gid00036/gid00046/gid00030/gid00042/gid00046/gid00001
+/gid00028/gid00049/gid00028/gid00039/gid00036/gid00028/gid00031/gid00042/gid00046/gid00164/gid00001/gid00040/gid00032/gid00031/gid00036/gid00028/gid00041/gid00047/gid00032/gid00001
+/gid00045/gid00032/gid00046/gid00043/gid00042/gid00046/gid00047/gid00028/gid00001/gid00032/gid00001/gid00043/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00028/gid00030/gid00042/gid00045/gid00031/gid00042/gid00001/gid00030/gid00042/gid00040/gid00001/gid00028/gid00001
+/gid00043/gid00045/gid00036/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00036/gid00031/gid00032/gid00041/gid00047/gid00036/gid00033/gid00036/gid00030/gid00028/gid00031/gid00028
+4º/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046/gid00001/gid00032/gid00001/gid00031/gid00032/gid00001
+/gid00032/gid00049/gid00032/gid00041/gid00047/gid00048/gid00028/gid00039/gid00001/gid00040/gid00028/gid00047/gid00045/gid00036/gid00053/gid00001/gid00031/gid00032/gid00001
+/gid00028/gid00039/gid00042/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00045/gid00036/gid00046/gid00030/gid00042/gid00046
+5º/gid00001
+/gid00014/gid00042/gid00041/gid00036/gid00047/gid00042/gid00045/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00032/gid00001
+/gid00045/gid00032/gid00049/gid00036/gid00046/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046/gid00001/gid00187/gid00028/gid00047/gid00098/gid00001/gid00042/gid00001/gid00033/gid00036/gid00040/gid00001/gid00031/gid00028/gid00001
+/gid00049/gid00036/gid00034/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00188
+2º 
+/gid00002/gid00049/gid00028/gid00039/gid00036/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00046/gid00001/gid00045/gid00036/gid00046/gid00030/gid00042/gid00046/gid00164/gid00001
+/gid00030/gid00042/gid00040/gid00001/gid00046/gid00048/gid00028/gid00001/gid00043/gid00045/gid00042/gid00029/gid00028/gid00029/gid00036/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00032/gid00001/gid00036/gid00040/gid00043/gid00028/gid00030/gid00047/gid00042
+ Figura 1 - Fluxo - Etapas da Gestão de Riscos
+ Como visto no quadro acima, o Plano de Riscos deve ser monitorado e revisto 
+até o termo final da vigência do contrato.
+ O Plano de Riscos deve ser preenchido por um Analista de Riscos.
+Quem atua como Analista de Riscos?
+ вEquipe de Planejamento da Contratação;
+ вAgente de Contratação ou Comissão de Contratação;
+ вGestor ou Gestora do Contrato;
+ вResponsável técnico, se o caso.
+30
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  SaabAbaixo segue o passo a passo  
+para elaboração do Plano de Riscos:
+/gid00010/gid00041/gid00046/gid00047/gid00028/gid00048/gid00045/gid00028/gid00045/gid00001
+/gid00032/gid00051/gid00043/gid00032/gid00031/gid00036/gid00032/gid00041/gid00047/gid00032/gid00001
+/gid00043/gid00045/gid00109/gid00043/gid00045/gid00036/gid00042/gid00002/gid00030/gid00032/gid00046/gid00046/gid00028/gid00045/gid00001/gid00042/gid00001
+/gid00028/gid00043/gid00039/gid00036/gid00030/gid00028/gid00047/gid00036/gid00049/gid00042/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00045/gid00001
+/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046/gid00006/gid00041/gid00030/gid00028/gid00040/gid00036/gid00041/gid00035/gid00028/gid00045/gid00001
+/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046/gid00001/gid00043/gid00028/gid00045/gid00028/gid00001
+/gid00028/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00045/gid00001/gid00042/gid00001
+/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046
+ 1.  Instaurar expediente próprio
+ Um protocolo administrativo deve ser instaurado, com o assunto “Análise de 
+Riscos” . Deverá ser autuado um único protocolo (CPA) para cada tipo de objeto.
+ O CPA da análise de riscos será único, mantendo-se o histórico em um único 
+expediente para todas as contratações do mesmo objeto.
+2.  Acessar o aplicativo
+ Para a realização da Gestão de Riscos, um membro da Equipe de Planejamento 
+da Contratação deve utilizar o aplicativo - “Gestão de Riscos” , solicitando o seu 
+cadastro no próprio aplicativo caso não esteja cadastrado como gestor ou analista.
+ No aplicativo há instruções para o seu correto preenchimento e utilização.
+3. Elaborar o Plano de Riscos
+ A elaboração do Plano de Riscos observará o manual de gestão de riscos 
+em contratações públicas, homologado pela Presidência do TJSP (disponível em 
+Gestão de Riscos em Aquisições ).
+ Ademais, há um roteiro desenvolvido para auxiliar na realização da Análise de 
+Riscos, disponível em Roteiro para Análise de Riscos .
+ Em suma, as seguintes etapas devem ser observadas:
+a. realizar a análise dos riscos relacionados ao serviço ou bem demandado;
+b. Avaliação dos riscos com sua probabilidade e impacto;
+31
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saabc. Tratamento dos riscos avaliados, com as respostas e planos de ação 
+esperados;
+d. Gerar relatório ao final da análise;
+e. Inserir relatório em PDF no CPA criado, assinando-o;
+4. Encaminhar o Plano de Riscos para aprovação
+Após a elaboração do Plano de Riscos e a juntada de seu respectivo relatório no 
+processo criado, a Equipe de Planejamento da Contratação o encaminhará para 
+análise do Diretor ou da Diretora da área requisitante .
+ вCaso o tratamento dos riscos avaliados demande o dispêndio de recursos 
+orçamentários, o Diretor ou a Diretora requisitante  submeterá o 
+Plano de Riscos e eventual matriz de alocação de riscos para análise do 
+Secretário ou da Secretaria da respectiva área, que, por fim, submeterá à 
+deliberação da Presidência do TJSP ;
+ вO Plano de Riscos aprovado integrará o Planejamento da Contratação.
+5. Revisar o Plano de Riscos
+ O Plano de Riscos deve ser revisto nas seguintes situações e etapas:
+ вNo final da elaboração do ETP, do TR, do Projeto Básico ou Executivo, 
+caso sejam observados novos riscos pela Equipe de Planejamento da 
+Contratação;
+ вNo encerramento da fase preparatória, se identificados eventos relevantes 
+apontados pela Diretoria de Licitações da Saab;
+ вNo encerramento da fase externa, se identificados eventos relevantes 
+apontados pelo Agente de Contratação ou Comissão de Contratação; 
+ вDurante a gestão administrativa da execução contratual, se verificados 
+eventos relevantes apontados pela Diretoria de Contratos da Saab; 
+ вDurante a gestão e fiscalização da execução contratual, pelo Gestor ou 
+Gestora do Contrato.
+ Caso sejam identificados novos riscos, o Analista de Riscos verificará os 
+ fatos apontados e, se o caso, realizará os eventuais tratamentos e atualização  
+do Plano de Riscos.
+32
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.7 TERMO DE REFERÊNCIA (TR)
+ O Termo de Referência (TR) é o documento que demonstra, detalhadamente, 
+todas as informações do objeto, da solução escolhida e da forma de contratação, a 
+partir dos resultados apresentados no ETP.
+ Trata-se de elemento obrigatório  de todo processo de contratação e é 
+utilizado como principal referência para definição de preços e elaboração de 
+documentos, como edital e contratos.
+ Nas contratações que utilizem catálogos eletrônicos de padronização de 
+compras, serviços e obras, a Equipe de Planejamento da Contratação deve adotar 
+o modelo padronizado de TR .
+ O TJSP criou modelos de TR, que devem ser utilizados pelo gestor do plane -
+jamento da contratação, disponíveis em Modelos TR . 
+33
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab1.7.1 PASSO A PASSO PARA ELABORAÇÃO DO TR
+/gid00004/gid00042/gid00041/gid00046/gid00048/gid00039/gid00047/gid00028/gid00045/gid00001/gid00032/gid00001
+/gid00046/gid00032/gid00039/gid00032/gid00030/gid00036/gid00042/gid00041/gid00028/gid00045/gid00001
+/gid00040/gid00042/gid00031/gid00032/gid00039/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00021/gid00019/gid00001/gid00028/gid00001/gid00046/gid00032/gid00045/gid00001
+/gid00048/gid00047/gid00036/gid00039/gid00036/gid00053/gid00028/gid00031/gid00042/gid00017/gid00045/gid00032/gid00032/gid00041/gid00030/gid00035/gid00032/gid00045
+/gid00042/gid00001/gid00021/gid00019/gid00011/gid00048/gid00041/gid00047/gid00028/gid00045/gid00001/gid00042/gid00001/gid00021/gid00019/gid00001/gid00041/gid00042/gid00001
+/gid00043/gid00045/gid00042/gid00030/gid00032/gid00046/gid00046/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042
+ 
+1. Consultar e selecionar o modelo de TR a ser utilizado
+Primeiramente, o gestor responsável pela contratação deve selecionar o modelo 
+de TR de acordo com o objeto demandado (modelos disponíveis em Modelos TR ).
+ATENÇÃO : Os documentos serão 
+revisados com frequência, em 
+virtude de novas jurisprudências e 
+pareceres jurídicos, motivos pelos 
+quais recomenda-se que a consulta 
+ao link seja realizada a cada nova 
+necessidade de elaboração , a fim de 
+mantê-los atualizados.
+2. Preencher o TR
+ Com a seleção do modelo apropriado, cabe ao gestor ou à gestora responsável 
+efetuar o preenchimento do TR.
+ Importante mencionar que nos modelos desenvolvidos pela Saab há 
+explicações de como o TR deve ser preenchido, bem como quais itens, caso não 
+aplicáveis, devem ser justificados e quais devem ser excluídos.
+34
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+Quais informações devem constar no TR?
+ вDefinição do objeto;
+ вFundamentação da contratação;
+ вDescrição da solução, considerando todo o seu ciclo de vida;
+ вRequisitos da contratação;
+ вLocais de entrega/prestação de serviço;
+ вPrazo de início da prestação de serviços/fornecimento;
+ вModelo de execução do objeto;
+ вModelo de gestão do contrato;
+ вForma e critérios de seleção do fornecedor;
+ вEstimativa do valor da contratação;
+ вAdequação orçamentária
+ вPrestação de garantia na contratação;
+ вRequisitos de habilitação e qualificação técnica;
+ вCronograma físico-financeiro, se o caso;
+ вObrigações da contratada;
+ вIndicação de preposto da contratada, se o caso;
+ вMatriz de alocação de risco, se o caso;
+3. Juntar o TR no processo de contratação
+ Concluído o preenchimento do TR, cabe ao gestor ou à gestora do plane -
+jamento da contratação anexá-lo ao processo de contração no sistema  
+SAJADM e assiná-lo. 
+35
+2.  
+TIPOS DE 
+CONTRATAÇÃO
+36
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab Em caso de aquisição de bens ou contratação de serviços, a Administração 
+deverá analisar a forma que melhor se adequa à sua necessidade, observados os 
+limites e as condições legalmente previstas. 
+ Já no caso de alienação  de bens imóveis ou de bens móveis inservíveis  
+ou legalmente apreendidos, a Administração deve utilizar a modalidade  
+de licitação leilão .
+2.1 LICITAÇÃO
+ Como visto anteriormente, licitação é o procedimento administrativo pelo 
+qual a Administração Pública contrata obras e serviços, bem como efetua compras 
+e alienações, ou seja, é a forma como a Administração pode comprar e vender.
+/gid00017/gid00045/gid00032/gid00034/gid00092/gid00042
+/gid00004/gid00042/gid00041/gid00030/gid00042/gid00045/gid00045/gid00099/gid00041/gid00030/gid00036/gid00028
+/gid00004/gid00042/gid00041/gid00030/gid00048/gid00045/gid00046/gid00042
+/gid00005/gid00036/gid00090/gid00039/gid00042/gid00034/gid00042/gid00001
+/gid00004/gid00042/gid00040/gid00043/gid00032/gid00047/gid00036/gid00047/gid00036/gid00049/gid00042/gid00013/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00004/gid00042/gid00040/gid00043/gid00045/gid00028
+/gid00005/gid00036/gid00045/gid00032/gid00047/gid00028
+/gid00005/gid00036/gid00046/gid00043/gid00032/gid00041/gid00046/gid00028/gid00001/gid00031/gid00032/gid00001
+/gid00013/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00010/gid00041/gid00032/gid00051/gid00036/gid00034/gid00036/gid00029/gid00036/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032
+/gid00002/gid00044/gid00048/gid00036/gid00046/gid00036/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00029/gid00032/gid00041/gid00046/gid00001
+/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00046/gid00032/gid00045/gid00049/gid00036/gid00096/gid00042/gid00046
+37
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab Em regra, toda contratação e aquisição pública deve ser precedida de 
+licitação, salvo as hipóteses legalmente previstas para dispensa e inexigibilidade 
+de licitação.
+ A Lei nº 14.133/21, estabelece normas gerais de licitação e contratação para as 
+Administrações Públicas diretas, autárquicas e fundacionais da União, do Distrito 
+Federal e dos Municípios.
+ Entre as modalidades licitatórias previstas na Nova Lei de Licitações e 
+Contratos estão:
+Pregão
+ вModalidade obrigatória para aquisição de bens e serviços comuns;
+ вCritério de julgamento: 
+ ÍMenor preço
+ ÍMaior desconto
+Concorrência
+ вModalidade para contratação de:
+ ÍBens e serviços especiais;
+ ÍObras e serviços comuns e especiais de engenharia.
+ вCritério de julgamento:
+ ÍMenor preço;
+ ÍMelhor técnica ou conteúdo artístico;
+ ÍTécnica e preço;
+ ÍMaior retorno econômico;
+ ÍMaior desconto.
+38
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  SaabConcurso
+ вModalidade para escolha de trabalho técnico, científico ou artístico.
+ вCritério de julgamento:
+ ÍMelhor técnica;
+ ÍConteúdo artístico.
+ вÉ concedido um prêmio ou remuneração ao vencedor.
+Diálogo Competitivo
+ вModalidade para contratação de obras, serviços e compras em que a 
+Administração realiza diálogos com licitantes previamente selecionados 
+mediante critérios objetivos;
+ вObjetiva desenvolver alternativas capazes de atender às necessidades da 
+Administração;
+ вProposta final é apresentada pelos licitantes após o encerramento dos 
+diálogos.
+ Via de regra, as licitações do TJSP ocorrem por meio de pregão ou con -
+corrência, tendo em vista a natureza dos objetos contratados e adquiridos por  
+este Tribunal.
+ No mais, cabe à Diretoria de Licitações (Saab 5) definir a modalidade licitatória 
+adequada para cada contratação.
+39
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2.2  CONTRATAÇÃO DIRETA
+ O processo de contratação direta é aquele em que há supressão da etapa de 
+disputa entre os licitantes, característica elementar da licitação. Trata-se, portanto, 
+de exceção ao processo licitatório, no qual, por meio de dispensa ou inexigibilidade 
+de licitação, a Administração contrata diretamente com terceiros.
+ Dessa forma, o gestor ou gestora deve realizar uma análise criteriosa para 
+decidir acerca da contratação direta, observando se há previsão na legislação para 
+o objeto pretendido e se a contratação será mais vantajosa para o TJSP. Em síntese, 
+deve ser demonstrado que a solução a ser contratada atende ao interesse público, 
+tanto no aspecto econômico quanto nos aspectos técnico e legal.
+ Para tanto, as contratações diretas devem ser instruídas com a devida fun -
+damentação  da dispensa ou inexigibilidade, contendo o motivo de escolha do 
+fornecedor/executante  e a justificativa do preço contratado.
+ Importante ressaltar que o ato que autoriza a contratação direta deverá ser 
+divulgado e mantido à disposição do púbico.
+Quais documentos devem constar no processo de 
+contratação direta? (Art. 72, da Lei nº 14.133/21)
+ вDFD, ETP (se for o caso), análise de riscos, TR, projeto básico ou projeto 
+executivo;
+ вEstimativa de despesa;
+ вParecer jurídico e pareceres técnicos, se for o caso, que demonstrem o 
+atendimento dos requisitos exigidos;
+ вDemonstração da compatibilidade da previsão de recursos 
+orçamentários com o compromisso a ser assumido;
+ вComprovação de que o contratado preenche os requisitos de habilitação 
+e qualificação mínima necessária;
+ вRazão da escolha do contratado;
+ вJustificativa de preço;
+ вAutorização da autoridade competente.
+40
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2.2.1  DISPENSA DE LICITAÇÃO
+ Na dispensa, a lei desobriga a realização da licitação. Trata-se de rol taxativo, 
+com hipóteses expressamente previstas no artigo 75, da Lei nº 14.133/21, ou seja, 
+não há margem para casos adicionais.
+Abaixo seguem as situações que permitem a contrat ação p or dispensa no TJSP :
+ a) Em razão do valor , para:
+ բObras e serviços de engenharia ou serviços de manutenção de 
+veículos;
+ բOutros serviços e compras.
+Considerando o fato de que os limites são atualizados anualmente, deve-se 
+consultar o valor atualizado no momento da contratação (disponível em 
+Valores atualizados - Dispensa de Licitação );
+ATENÇÃO
+      Para aferição dos valores que atendam aos limites, deverão ser observados:
+ вO somatório do que for despendido no exercício financeiro pela 
+respectiva unidade gestora;
+ вO somatório da despesa realizada com objetos da mesma natureza, 
+entendidos como tais aqueles relativos a contratações no mesmo ramo 
+de atividade.
+b) Para contratação que mantenha todas as condições definidas em 
+edital de licitação realizada há menos de 1 (um) ano, quando se veri-
+ficar que naquela licitação: 
+ բNão surgiram licitantes interessados ou não foram apresentadas 
+propostas válidas; 
+ բAs propostas apresentadas consignaram preços manifestamente 
+superiores aos praticados no mercado ou incompatíveis com os 
+fixados pelos órgãos oficiais competentes;
+41
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saabc) Em razão do objeto, para:
+ բBens, componentes ou peças de origem nacional ou estrangeira 
+necessários à manutenção de equipamentos a serem adquiridos 
+do fornecedor original desses equipamentos durante o período de 
+garantia técnica, quando essa condição de exclusividade for indis -
+pensável para a vigência da garantia;
+ բProdutos para pesquisa e desenvolvimento, limitada a contratação, 
+no caso de obras e serviços de engenharia, observados os valores 
+atualizados anualmente (consultar o Art. 75, IV, C, da Lei nº 14.1333/21 
+e o respectivo Decreto em vigor);
+ բOutras hipóteses previstas no Art. 75, da Lei nº 14.133/21.
+d) Nos casos de emergência ou de calamidade pública, quando carac-
+terizada urgência de atendimento de situação que possa ocasio -
+nar prejuízo ou comprometer a continuidade dos serviços públicos 
+ou a segurança de pessoas, obras, serviços, equipamentos e outros 
+bens, públicos ou particulares, e somente para aquisição dos bens 
+necessários ao atendimento da situação emergencial ou calamitosa 
+e para as parcelas de obras e serviços que possam ser concluídas 
+no prazo máximo de 1 (um) ano, contado da data de ocorrência da 
+emergência ou da calamidade, vedadas a prorrogação dos respec -
+tivos contratos e a recontratação de empresa já contratada com base 
+no disposto neste inciso;
+e) Para a aquisição, por pessoa jurídica de direito público interno, de 
+bens produzidos ou serviços prestados por órgão ou entidade que in-
+tegrem a Administração Pública e que tenham sido criados para esse 
+fim específico, desde que o preço contratado seja compatível com o 
+praticado no mercado;
+f) Para contratação de profissionais para compor a comissão de ava-
+liação de critérios de técnica, quando se tratar de profissional técnico 
+de notória especialização;
+g) Para contratação de associação de pessoas com deficiência, sem 
+fins lucrativos e de comprovada idoneidade, por órgão ou entidade 
+da Administração Pública, para a prestação de serviços, desde que 
+o preço contratado seja compatível com o praticado no mercado e 
+os serviços contratados sejam prestados exclusivamente por pessoas 
+com deficiência;
+h) Outras hipóteses previstas no Art. 75, da Lei nº 14.133/21.
+42
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2.2.2  INEXIGIBILIDADE DE LICITAÇÃO
+ Diferentemente da dispensa de licitação, em que há a possiblidade de 
+licitação, na inexigibilidade a licitação é inviável , uma vez que não há competitivi -
+dade entre os fornecedores.
+ Na inexigibilidade o rol de situações previstas no artigo 74 da Lei nº 14.133/21 é 
+exemplificativo, ou seja, sua utilização é permitida em qualquer hipótese na qual 
+a competição seja inviável .
+ O artigo 74 da Nova Lei de Licitações e Contratos prevê os seguintes casos de 
+inexigibilidade:
+a) Aquisição de materiais, de equipamentos ou de gêneros ou con-
+tratação de serviços que só possam ser fornecidos por produtor, em-
+presa ou representante comercial exclusivos;
+ATENÇÃO : Nesse caso , a 
+inviabilidade de competição 
+deve ser demonstrada mediante 
+atestado de exclusividade, contrato 
+de exclusividade, declaração do 
+fabricante ou outro documento 
+idôneo capaz de comprovar que o 
+objeto é fornecido ou prestado por 
+produtor, empresa ou representante 
+comercial exclusivos, vedada a 
+preferência por marca específica.
+43
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saabb) Contratação de profissional do setor artístico, diretamente ou por 
+meio de empresário exclusivo, desde que consagrado pela crítica es-
+pecializada ou pela opinião pública;
+c) Contratação dos seguintes serviços técnicos especializados de na-
+tureza predominantemente intelectual com profissionais ou empre -
+sas de notória especialização, vedada a inexigibilidade para serviços 
+de publicidade e divulgação:
+ բestudos técnicos, planejamentos, projetos básicos ou projetos 
+executivos;
+ բpareceres, perícias e avaliações em geral;
+ բassessorias ou consultorias técnicas e auditorias financeiras ou 
+tributárias;
+ բfiscalização, supervisão ou gerenciamento de obras ou serviços;
+ բpatrocínio ou defesa de causas judiciais ou administrativas;
+ բtreinamento e aperfeiçoamento de pessoal;
+ բrestauração de obras de arte e de bens de valor histórico;
+ բcontroles de qualidade e tecnológico, análises, testes e ensaios 
+de campo e laboratoriais, instrumentação e monitoramento de 
+parâmetros específicos de obras e do meio ambiente e demais 
+serviços de engenharia que se enquadrem no disposto neste inciso;
+d) Objetos que devam ou possam ser contratados por meio de creden-
+ciamento;
+e) Aquisição ou locação de imóvel cujas características de instalações e 
+de localização tornem necessária sua escolha.
+44
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab2.3 LEILÃO
+ Leilão é a modalidade licitatória pela qual a Administração Pública realiza a 
+alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos 
+a quem oferecer o melhor lance.
+ Essa modalidade, no que concerne aos bens móveis inservíveis, é conduzida 
+por um leiloeiro oficial ou servidor designado pela Presidência do TJSP. Caso 
+ocorra por intermédio de um leiloeiro oficial, compete à Administração selecioná-
+lo mediante processo de credenciamento ou licitação na modalidade pregão, 
+adotando-se o critério de julgamento de maior desconto para as comissões a 
+serem cobradas.
+ Assim como nas outras modalidades de licitação, haverá a publicação de 
+edital para divulgação do leilão, tanto no sítio eletrônico oficial do TJSP como em 
+local de ampla circulação de pessoas na sede da Administração.
+ No TJSP deverá seguir o estabelecido na Instrução Normativa nº 5/23 .
+O que deve conter no edital de Leilão?
+ вA descrição do bem, com suas características;
+ вO valor pelo qual o bem foi avaliado, o preço mínimo pelo qual poderá 
+ser alienado, as condições de pagamento e, se for o caso, a comissão do 
+leiloeiro designado;
+ вA indicação do lugar onde estiverem os bens;
+ вO sítio da internet e o período em que ocorrerá o leilão, salvo se 
+excepcionalmente for realizado sob forma presencial por comprovada 
+inviabilidade técnica ou desvantagem para a Administração, hipótese 
+em que serão indicados o local, o dia e a hora de sua realização;
+ вA especificação de eventuais ônus, gravames ou pendências existentes 
+sobre os bens a serem leiloados.
+45
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab 
+Figura 2 - Fluxo do Leilão no TJSP
+/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00036/gid00028/gid00039/gid00001/gid00184/gid00001
+/gid00002/gid00034/gid00032/gid00041/gid00031/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00032/gid00001/gid00028/gid00049/gid00028/gid00039/gid00036/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00046/gid00001/gid00029/gid00032/gid00041/gid00046/gid00001/gid00032/gid00001/gid00028/gid00043/gid00045/gid00032/gid00046/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001/gid00021/gid00045/gid00028/gid00029/gid00028/gid00039/gid00035/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00001/gid00183/gid00001/gid00004/gid00042/gid00041/gid00049/gid00042/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00036/gid00028/gid00039
+/gid00004/gid00042/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00013/gid00032/gid00036/gid00039/gid00092/gid00042/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00032/gid00001/gid00028/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001/gid00021/gid00045/gid00028/gid00029/gid00028/gid00039/gid00035/gid00042
+/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00036/gid00028/gid00039/gid00001/gid00184/gid00001
+/gid00023/gid00028/gid00039/gid00036/gid00031/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001/gid00031/gid00042/gid00001
+/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00001/gid00031/gid00032/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00001/gid00183/gid00001/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001/gid00031/gid00032/gid00001/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00001/gid00031/gid00032/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00001/gid00184/gid00001
+/gid00007/gid00042/gid00045/gid00040/gid00028/gid00039/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001
+/gid00043/gid00045/gid00042/gid00030/gid00032/gid00046/gid00046/gid00042/gid00001/gid00031/gid00032/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+/gid00008/gid00021/gid00002/gid00011/gid00001/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00037/gid00048/gid00045/gid00036/gid00031/gid00036/gid00030/gid00028
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001
+/gid00030/gid00042/gid00040/gid00001/gid00039/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00032/gid00001/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001/gid00043/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00001/gid00031/gid00032/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00001/gid00183/gid00001/gid00017/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001
+/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00001/gid00031/gid00032/gid00001/gid00039/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001/gid00004/gid00042/gid00041/gid00049/gid00042/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00028/gid00039/gid00001/gid00043/gid00028/gid00045/gid00028/gid00001
+/gid00028/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042
+/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00036/gid00028/gid00039/gid00001/gid00184/gid00001
+/gid00019/gid00032/gid00028/gid00039/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042/gid00001/gid00043/gid00042/gid00045/gid00001/gid00040/gid00032/gid00036/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00043/gid00039/gid00028/gid00047/gid00028/gid00033/gid00042/gid00045/gid00040/gid00028/gid00001/gid00032/gid00039/gid00032/gid00047/gid00045/gid00110/gid00041/gid00036/gid00030/gid00028/gid00001/gid00032/gid00001
+/gid00039/gid00036/gid00029/gid00032/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00043/gid00028/gid00034/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00042/gid00046/gid00001
+/gid00029/gid00032/gid00041/gid00046/gid00001/gid00028/gid00045/gid00045/gid00032/gid00040/gid00028/gid00047/gid00028/gid00031/gid00042/gid00046
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00032/gid00001/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001/gid00001
+/gid00002/gid00031/gid00037/gid00048/gid00031/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001/gid00035/gid00042/gid00040/gid00042/gid00039/gid00042/gid00034/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042/gid00164/gid00001/gid00029/gid00032/gid00040/gid00001/gid00030/gid00042/gid00040/gid00042/gid00001
+/gid00028/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00046/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00042/gid00046/gid00001
+/gid00031/gid00032/gid00001/gid00047/gid00045/gid00028/gid00041/gid00046/gid00033/gid00032/gid00045/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001 /gid00187/gid00046/gid00032/gid00001/gid00042/gid00001/gid00030/gid00028/gid00046/gid00042/gid00188
+/gid00020/gid00016/gid00007/gid00001/gid00183/gid00001/gid00004/gid00042/gid00041/gid00033/gid00036/gid00045/gid00040/gid00028/gid00096/gid00092/gid00042/gid00001/gid00046/gid00032/gid00001
+/gid00042/gid00046/gid00001/gid00049/gid00028/gid00039/gid00042/gid00045/gid00032/gid00046/gid00001/gid00032/gid00041/gid00047/gid00045/gid00028/gid00045/gid00028/gid00040/gid00001/gid00041/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00028/gid00001/gid00030/gid00042/gid00045/gid00045/gid00032/gid00041/gid00047/gid00032
+/gid00004/gid00042/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00013/gid00032/gid00036/gid00039/gid00092/gid00042/gid00001/gid00184/gid00001
+/gid00017/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00045/gid00032/gid00046/gid00048/gid00039/gid00047/gid00028/gid00031/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042/gid00001/gid00041/gid00042/gid00001/gid00005/gid00011/gid00006
+/gid00017/gid00028/gid00047/gid00045/gid00036/gid00040/gid00110/gid00041/gid00036/gid00042/gid00001/gid00184/gid00001
+/gid00002/gid00030/gid00042/gid00040/gid00043/gid00028/gid00041/gid00035/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00045/gid00032/gid00047/gid00036/gid00045/gid00028/gid00031/gid00028/gid00001/gid00031/gid00042/gid00046/gid00001/gid00029/gid00032/gid00041/gid00046/gid00001/gid00032/gid00001
+/gid00045/gid00032/gid00028/gid00039/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00046/gid00001/gid00029/gid00028/gid00036/gid00051/gid00028/gid00046/gid00001/gid00041/gid00042/gid00001
+/gid00046/gid00036/gid00046/gid00047/gid00032/gid00040/gid00028/gid00001/gid00020/gid00010/gid00017/gid00193/gid00020/gid00036/gid00028/gid00033/gid00032/gid00040
+/gid00013/gid00032/gid00036/gid00039/gid00042/gid00032/gid00036/gid00045/gid00042/gid00001/gid00016/gid00033/gid00036/gid00030/gid00036/gid00028/gid00039/gid00001/gid00184/gid00001
+/gid00006/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00041/gid00042/gid00047/gid00028/gid00001/gid00031/gid00032/gid00001
+/gid00049/gid00032/gid00041/gid00031/gid00028
+/gid00004/gid00042/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00013/gid00032/gid00036/gid00039/gid00092/gid00042/gid00001/gid00184/gid00001
+/gid00006/gid00040/gid00036/gid00046/gid00046/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00043/gid00028/gid00045/gid00032/gid00030/gid00032/gid00045/gid00001/gid00031/gid00032/gid00001
+/gid00032/gid00041/gid00030/gid00032/gid00045/gid00045/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00042/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00001/gid00183/gid00001/gid00017/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001
+/gid00045/gid00032/gid00046/gid00048/gid00039/gid00047/gid00028/gid00031/gid00042/gid00001/gid00041/gid00042/gid00001/gid00017/gid00042/gid00045/gid00047/gid00028/gid00039/gid00001/gid00031/gid00028/gid00001
+/gid00021/gid00045/gid00028/gid00041/gid00046/gid00043/gid00028/gid00045/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00031/gid00042/gid00001/gid00021/gid00011/gid00020/gid00017/gid00001/gid00032/gid00001/gid00041/gid00042/gid00001
+/gid00017/gid00015/gid00004/gid00017/gid00001/gid00032/gid00001/gid00028/gid00045/gid00044/gid00048/gid00036/gid00049/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001/gid00031/gid00042/gid00001
+/gid00043/gid00045/gid00042/gid00030/gid00032/gid00046/gid00046/gid00042/gid00001/gid00031/gid00032/gid00001/gid00039/gid00032/gid00036/gid00039/gid00092/gid00042
+46
+3.. 
+PROCEDIMENTOS  
+AUXILIARES
+47
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab3.1 CREDENCIAMENTO
+ Credenciamento é o processo administrativo de chamamento público em 
+que a Administração Pública convoca interessados em prestar serviços ou fornecer 
+bens para que, preenchidos os requisitos necessários, se credenciem para executar 
+o objeto quando convocados.
+ O credenciamento poderá ser adotado nas seguintes hipóteses de contratação:
+I. Paralela e não excludente – situação em que seja viável e vantajosa 
+para o TJSP a realização de contratações simultâneas em condições 
+padronizadas;
+II. Com seleção a critério de terceiros – situação em que a seleção do 
+contratado está a cargo do beneficiário direto da prestação;
+III. Em mercados fluidos – situação em que a flutuação constante do val-
+or da prestação e das condições de contratação inviabiliza a seleção 
+de agente por meio de processo de licitação.
+ Os procedimentos de credenciamento, no âmbito do TJSP, estão definidos 
+no Provimento nº 99/24  e deverão ser observadas as seguintes regras: 
+a) O TJSP deverá divulgar e manter à disposição do público, em sítio 
+eletrônico oficial, edital de chamamento de interessados, de modo a 
+permitir o cadastramento permanente de novos interessados; 
+b) No caso de contratação paralela e não excludente, quando o objeto 
+não permitir a contratação imediata e simultânea de todos os cre -
+denciados, deverão ser adotados critérios objetivos de distribuição da 
+demanda; 
+c) O edital de chamamento de interessados deverá prever as condições 
+padronizadas de contratação; 
+d) Na contratação com seleção a critério de terceiros ou em mercados 
+fluidos, deverá ser definido o valor da contratação; 
+e) Na contratação em mercados fluidos deverão ser registradas as co -
+tações de mercado vigentes no momento da contratação; 
+f) Não será permitido o cometimento a terceiros do objeto contratado 
+sem autorização expressa da Administração; 
+g) Será admitida a denúncia por qualquer das partes nos prazos fixados 
+no edital. 
+48
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab Importante ressaltar que o credenciamento não obriga o TJSP a efetuar a 
+contratação. Além disso, o credenciamento ficará permanentemente aberto 
+durante a vigência do edital.
+3.2 SISTEMA DE REGISTRO DE 
+PREÇOS (SRP)
+ O Sistema de Registro de Preços (SRP) é o conjunto de procedimentos para 
+a realização, mediante contratação direta ou licitação nas modalidades pregão ou 
+concorrência, de registro formal de preços relativos à prestação de serviço, a obras 
+e a aquisição e locação de bens para contratações futuras.
+ O SRP poderá ser adotado nas seguintes hipóteses:
+I. Quando, pelas características dos bens, serviços ou obras, houver a 
+necessidade de contratações frequentes;
+II. Quando for conveniente a aquisição de bens com previsão de entre -
+gas parceladas ou contratação de serviços remunerados por unidade 
+de medida, como quantidade de horas de serviço, postos de trabalho 
+ou em regime de tarefa;
+III. Quando for conveniente a aquisição de bens ou a contratação de 
+serviços e obras para atendimento a mais de uma unidade adminis-
+trativa ou judicial;
+IV. Quando, pela natureza do objeto, não for possível definir previamente 
+o quantitativo a ser demandado pela Administração.
+49
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  SaabDeverão ser observados no Sistema de Registro de 
+Preços (SRP)
+ вRealização prévia de ampla pesquisa de mercado;
+ вSeleção de fornecedores de acordo com os procedimentos previstos no 
+Provimento CSM nº 2.724/23;
+ вDesenvolvimento obrigatório de rotina de controle;
+ вAtualização periódica dos preços registrados;
+ вDefinição do período de validade do registro de preços;
+ вInclusão, em ata de registro de preços, do licitante que aceitar cotar 
+os bens ou serviços em preços iguais aos do licitante vencedor na 
+sequência da classificação da licitação e inclusão do licitante que 
+mantiver sua proposta original;
+ вPrazo de vigência de 1 (um) ano, podendo ser prorrogada, por igual 
+período, desde que comprovado o preço vantajoso.
+ No âmbito do TJSP, o Sistema de Registro de Preços é regulamentado pelo 
+Provimento nº 100/24 .
+50
+4.  
+CONTRATAÇÃO 
+POR LICITAÇÃO 
+NO TJSP
+51
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab4.1  INICIANDO UMA CONTRATAÇÃO 
+POR LICITAÇÃO
+ Inicialmente, a Unidade Solicitante deve verificar se a demanda pretendida já 
+consta no Plano de Contratações Anual (PCA) do ano vigente ou do ano seguinte, 
+se o caso, acessando o Monitoramento PCA .
+ Caso o objeto não esteja inserido no PCA, uma solicitação de aditamento ao 
+PCA deve ser inserida, mediante preenchimento do formulário “ DFD aditamento ” 
+disponível em Monitoramento PCA . Essa solicitação será direcionada ao Comitê 
+do Plano de Contratações Anual, para análise e posterior aprovação da Presidência  
+do TJSP. Ao final, um número de identificação (nº ID PCA) será informado à  
+Unidade Solicitante.
+ Por outro lado, caso a demanda já conste no PCA, basta identificá-la em 
+Monitoramento PCA , anotando o seu respectivo número identificador (nº ID PCA).
+ Com o objeto inserido no PCA e com o seu número identificador em mãos, 
+avancemos ao próximo passo.
+4.2  ELABORAÇÃO DA 
+DOCUMENTAÇÃO
+ Nessa etapa, a Unidade Solicitante, por meio da Equipe de Planejamento da 
+Contratação, deve providenciar o preenchimento do Documento de Formalização 
+de Demanda (DFD), Estudo Técnico Preliminar (ETP), Termo de Referência (TR) e 
+Plano de Riscos, observadas as explicações fornecidas nos tópicos relacionados ao 
+DFD , ao ETP , ao TR  e ao Plano de Riscos  deste Manual.
+ Preenchidos os documentos, passemos à próxima etapa do processo.
+52
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab4.3 PEDIDO DE AUTORIZAÇÃO
+ Com o preenchimento dos documentos pertinentes e após sua devida 
+juntada no expediente autuado para a contratação pretendida, no sistema 
+SAJADM, módulo CPA , deve-se solicitar a aprovação da respectiva documen -
+tação e a autorização para prosseguimento do processo de contratação junto à 
+Secretaria responsável pela Unidade.
+ Após, a Secretaria responsável encaminhará o expediente para deliberação 
+da Presidência.
+ Com a autorização concedida, avancemos ao procedimento seguinte.
+ 
+Figura 3 - Fluxo do processo de elaboração da documentação e autorização/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00004/gid00042/gid00041/gid00046/gid00048/gid00039/gid00047/gid00028/gid00001/gid00028/gid00042/gid00001/gid00017/gid00004/gid00002
+/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00005/gid00007/gid00005/gid00164/gid00001/gid00006/gid00021/gid00017/gid00164/gid00001
+/gid00021/gid00019/gid00001/gid00032/gid00001/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00032/gid00001/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046
+/gid00020/gid00032/gid00030/gid00045/gid00032/gid00047/gid00028/gid00045/gid00036/gid00028/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00001/gid00183/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001/gid00031/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00183/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001
+/gid00028/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042
+
+53
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab4.4 INSERÇÃO DO PEDIDO
+ Após a autorização, o pedido deve ser inserido no sistema SAJADM, módulo 
+SPD , observando-se o seu correto preenchimento, selecionando, oportunamente, 
+a opção “Licitação”.
+ 
+ 
+
+54
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab4.5 MONITORAMENTO DO 
+FLUXO DE LICITAÇÃO
+ Importante demonstrar o fluxo que o processo licitatório percorre dentro do 
+TJSP, bem como os setores responsáveis por cada etapa, a fim de que a Unidade 
+Solicitante possa monitorar o andamento de sua solicitação. 
+ Após o cadastro do pedido no sistema SAJADM, módulo SPD, o processo de 
+contratação por licitação observará as seguintes etapas:
+EtapasUnidade 
+responsável
+Fase Interna
+1 - Análise de conformidade da documentação Saab 5.2
+2 - Pesquisa de Preço Saab 5.2
+3 - Elaboração da Minuta de Edital Saab 5.1
+4 - Elaboração da Minuta de Contrato (se houver) Saab 6.1
+5 - Indicação de recursos SOF
+6 - Análise Jurídica GTAJ
+7 - Despacho de Conclusão Saab 5.1/8
+8 - Aprovação da licitação Presidência
+9 - Publicação do Edital Saab 5.1
+Fase Externa
+10 - Apresentação de propostas, questionamentos e impugnações Saab 5.1
+11 - Sessão Pública GPAC
+12 - Análise da documentação de habilitação e aceitabilidade de preços GPAC
+13 - Recursos - razões e contrarrazões (se houver) Licitante
+14 - Parecer do pregoeiro GPAC
+15 - Elaboração do contrato/despacho de conclusão Saab 6
+16 - Adjudicação, homologação e Assinatura dos Contratos Presidência
+17 - Assinatura do contrato - empresa Empresa
+55
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  SaabATENÇÃO : O prazo estimado 
+para conclusão de uma licitação 
+é de 180 dias , desde que a 
+documentação esteja em termos 
+para prosseguimento.  
+Figura 4 - Fluxo de processo de Licitação no TJSP
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00133/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00033/gid00042/gid00045/gid00040/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00019/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00010/gid00041/gid00046/gid00047/gid00045/gid00048/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00043/gid00032/gid00031/gid00036/gid00031/gid00042/gid00001
+/gid00032/gid00039/gid00032/gid00047/gid00045/gid00110/gid00041/gid00036/gid00030/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00040/gid00043/gid00045/gid00028/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00133/gid00001/gid00184/gid00001
+/gid00017/gid00032/gid00046/gid00044/gid00048/gid00036/gid00046/gid00028/gid00001/gid00031/gid00032/gid00001/gid00043/gid00045/gid00032/gid00096/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001
+/gid00031/gid00032/gid00001/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001
+/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00020/gid00016/gid00007/gid00001/gid00184/gid00001
+/gid00010/gid00041/gid00031/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00045/gid00032/gid00030/gid00048/gid00045/gid00046/gid00042/gid00046
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00032/gid00001/gid00020/gid00028/gid00028/gid00029/gid00001/gid00139/gid00001/gid00001/gid00184/gid00001
+/gid00005/gid00032/gid00046/gid00043/gid00028/gid00030/gid00035/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00030/gid00039/gid00048/gid00046/gid00092/gid00042/gid00008/gid00021/gid00002/gid00011/gid00001/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00037/gid00048/gid00045/gid00036/gid00031/gid00036/gid00030/gid00028/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00039/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00002/gid00043/gid00045/gid00032/gid00046/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00043/gid00045/gid00042/gid00043/gid00042/gid00046/gid00047/gid00028/gid00046/gid00164/gid00001
+/gid00044/gid00048/gid00032/gid00046/gid00047/gid00036/gid00042/gid00041/gid00028/gid00040/gid00032/gid00041/gid00047/gid00042/gid00046/gid00001/gid00032/gid00001
+/gid00036/gid00040/gid00043/gid00048/gid00034/gid00041/gid00028/gid00096/gid00111/gid00032/gid00046/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00017/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039/gid00008/gid00017/gid00002/gid00004/gid00001/gid00184/gid00001
+/gid00020/gid00032/gid00046/gid00046/gid00092/gid00042/gid00001/gid00017/gid00118/gid00029/gid00039/gid00036/gid00030/gid00028
+/gid00013/gid00036/gid00030/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00184/gid00001/gid00001
+/gid00019/gid00032/gid00030/gid00048/gid00045/gid00046/gid00042/gid00046/gid00001/gid00184/gid00001/gid00045/gid00028/gid00053/gid00111/gid00032/gid00046/gid00001/gid00032/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00045/gid00045/gid00028/gid00053/gid00111/gid00032/gid00046/gid00001/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00008/gid00017/gid00002/gid00004/gid00001 /gid00183/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00035/gid00028/gid00029/gid00036/gid00039/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001
+/gid00028/gid00030/gid00032/gid00036/gid00047/gid00028/gid00029/gid00036/gid00039/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00031/gid00032/gid00001/gid00043/gid00045/gid00032/gid00096/gid00042/gid00046/gid00008/gid00017/gid00002/gid00004/gid00001/gid00184/gid00001
+/gid00017/gid00028/gid00045/gid00032/gid00030/gid00032/gid00045/gid00001/gid00031/gid00042/gid00001/gid00043/gid00045/gid00032/gid00034/gid00042/gid00032/gid00036/gid00045/gid00042
+/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00031/gid00037/gid00048/gid00031/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00164/gid00001/gid00035/gid00042/gid00040/gid00042/gid00039/gid00042/gid00034/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00032/gid00001/gid00028/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00193/gid00001
+/gid00031/gid00032/gid00046/gid00043/gid00028/gid00030/gid00035/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00030/gid00039/gid00048/gid00046/gid00092/gid00042/gid00006/gid00040/gid00043/gid00045/gid00032/gid00046/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042
+56
+5.  
+CONTRATAÇÃO 
+DIRETA NO TJSP
+57
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab5.1 TIPOS DE CONTRATAÇÃO DIRETA
+ Como visto anteriormente neste Manual, a contratação direta pode ocorrer 
+por dispensa ou inexigibilidade de licitação.
+ Recapitulando, na dispensa a licitação é possível, mas, por expressa previsão 
+legal, sua realização não é obrigatória, desde que o objeto da contratação figure 
+nos casos permitidos pelo artigo 75, da Lei nº 14.133/21.
+ Por outro lado, na inexigibilidade a licitação é inviável, tendo em vista que não 
+há competitividade entre os fornecedores. 
+ Para maiores detalhes acerca das características e situações em que a 
+contratação direta é cabível, volte ao tópico 2.2  deste Manual.
+5.2  ELABORAÇÃO DA 
+DOCUMENTAÇÃO
+ATENÇÃO : Preliminarmente, a 
+Unidade Solicitante deve verificar 
+se a demanda pretendida já consta 
+no Plano de Contratações Anual 
+(PCA) do ano vigente ou do ano 
+seguinte, se o caso, acessando o 
+Monitoramento PCA
+ Caso o objeto não esteja inserido no PCA, uma solicitação de aditamento ao 
+PCA deve ser inserida, mediante preenchimento do formulário “ DFD aditamento ” 
+disponível em Monitoramento PCA ,. Essa solicitação será direcionada ao Comitê  
+58
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saabdo Plano de Contratações Anual, para análise e posterior aprovação da Presidência 
+do TJSP. Ao final, um número de identificação (nº ID PCA) será informado à  
+Unidade Solicitante.
+ Por outro lado, caso a demanda já conste no PCA, basta identificá-la em 
+Monitoramento PCA , anotando o seu respectivo número identificador (nº ID PCA).
+ Antes de iniciar o preenchimento da documentação, para os casos de dispensa 
+de licitação em razão do valor , inicialmente, deve-se consultar a Coordenadoria de 
+Licitações da Saab – Saab 5.2, por meio do e-mail compradireta@tjsp.jus.br , para 
+aferição dos limites de valores previstos nos incisos I e II do art. 75 da Lei nº 14.133/21, 
+para objetos de mesma natureza.
+ Nessa etapa, a Unidade Solicitante deve providenciar o preenchimento do 
+Documento de Formalização de Demanda (DFD), Estudo Técnico Preliminar (ETP) 
+e Termo de Referência (TR) e Plano de Riscos (se o caso), observadas as explicações 
+fornecidas nos tópicos relacionados ao DFD , ao ETP, ao TR e ao Plano de Riscos 
+deste Manual.
+ Preenchidos os documentos, passemos à próxima etapa do processo.
+ 
+5.3 PEDIDO DE AUTORIZAÇÃO
+ Com o preenchimento dos documentos pertinentes e após sua devida 
+ juntada no expediente autuado para a contratação pretendida, no sistema 
+SAJADM, módulo CPA , deve-se solicitar a aprovação da respectiva documen-
+tação e a autorização para prosseguimento do processo de contratação junto à 
+Secretaria responsável pela Unidade.
+ Após, a Secretaria responsável encaminhará o expediente para deliberação 
+da Presidência.
+ Com a autorização concedida, avancemos ao procedimento seguinte.
+59
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00004/gid00042/gid00041/gid00046/gid00048/gid00039/gid00047/gid00028/gid00001/gid00028/gid00042/gid00001/gid00017/gid00004/gid00002
+/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00005/gid00007/gid00005/gid00164/gid00001/gid00006/gid00021/gid00017/gid00164/gid00001
+/gid00021/gid00019/gid00001/gid00032/gid00001/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00032/gid00001/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046
+/gid00020/gid00032/gid00030/gid00045/gid00032/gid00047/gid00028/gid00045/gid00036/gid00028/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00001/gid00183/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001/gid00031/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00183/gid00001
+/gid00002/gid00043/gid00045/gid00042/gid00049/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00032/gid00001
+/gid00028/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042
+ 
+Figura 5 - Fluxo do processo de elaboração da documentação e autorização
+5.4 INSERÇÃO DO PEDIDO
+ O pedido deve ser inserido no sistema SAJADM, módulo SPD , observan -
+do-se o seu correto preenchimento, selecionando, oportunamente, a opção  
+“Contratação direta”.
+
+60
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab 5.5  MONITORAMENTO DO FLUXO DE 
+CONTRATAÇÃO DIRETA
+ Vale apresentar o fluxo do processo de contratação direta existente no TJSP, 
+bem como os setores responsáveis por cada fase, a fim de que a Unidade Solicitante 
+possa monitorar o andamento de seu pedido. 
+ Nas contratações diretas no TJSP, o processo de contratação observará as 
+seguintes etapas:
+EtapasUnidade
+Responsável
+Fase 1 Triagem Saab 5.1.2
+Fase 2 Pesquisa de Preços Saab 5.1.2
+Fase 3 Elaboração do Aviso de Contratação Direta Saab 5.1
+Fase 4 Elaboração da Minuta de Contrato (se houver) Saab 6.1
+Fase 5 Publicação do Edital Saab 5.1
+Fase 6 Sessão Pública Saab 5.1
+Fase 7 Análise da documentação pelo agente de contratação GPAC
+Fase 8 Relatório do resultado da contratação direta Saab 5.1
+Fase 9 Indicação de Recursos SOF
+Fase 10 Elaboração do contrato (se houver) Saab 6
+Fase 11 Análise Jurídica GTAJ
+Fase 12 Despacho de Conclusão Saab 5.1/8
+Fase 13 Autorização da contratação direta e assinatura do contrato Presidência
+Fase 14 Assinatura do contrato – empresa/expedição do ofício de 
+autorizaçãoSaab 5.1/6
+ATENÇÃO : O prazo estimado para 
+conclusão de uma contratação 
+direta é de 90 dias , desde que a 
+documentação esteja em termos 
+para prosseguimento.
+61
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00033/gid00042/gid00045/gid00040/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00019/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00010/gid00041/gid00046/gid00047/gid00045/gid00048/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00043/gid00032/gid00031/gid00036/gid00031/gid00042/gid00001
+/gid00032/gid00039/gid00032/gid00047/gid00045/gid00110/gid00041/gid00036/gid00030/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00040/gid00043/gid00045/gid00028/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00184/gid00001
+/gid00017/gid00032/gid00046/gid00044/gid00048/gid00036/gid00046/gid00028/gid00001/gid00031/gid00032/gid00001/gid00043/gid00045/gid00032/gid00096/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00028/gid00049/gid00036/gid00046/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00036/gid00045/gid00032/gid00047/gid00028/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001
+/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00017/gid00048/gid00029/gid00039/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00032/gid00031/gid00036/gid00047/gid00028/gid00039
+/gid00008/gid00017/gid00002/gid00004/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00043/gid00032/gid00039/gid00042/gid00001/gid00028/gid00034/gid00032/gid00041/gid00047/gid00032/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00020/gid00032/gid00046/gid00046/gid00092/gid00042/gid00001/gid00043/gid00118/gid00029/gid00039/gid00036/gid00030/gid00028/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00019/gid00032/gid00039/gid00028/gid00047/gid00109/gid00045/gid00036/gid00042/gid00001/gid00031/gid00042/gid00001/gid00045/gid00032/gid00046/gid00048/gid00039/gid00047/gid00028/gid00031/gid00042/gid00001/gid00031/gid00028/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00036/gid00045/gid00032/gid00047/gid00028
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001
+/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00020/gid00016/gid00007/gid00001/gid00183/gid00001
+/gid00010/gid00041/gid00031/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00019/gid00032/gid00030/gid00048/gid00045/gid00046/gid00042/gid00046/gid00008/gid00021/gid00002/gid00011/gid00001/gid00184 /gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00037/gid00048/gid00045/gid00102/gid00031/gid00036/gid00030/gid00028
+/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00036/gid00045/gid00032/gid00047/gid00028/gid00001/gid00032/gid00001/gid00028/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00193/gid00001/gid00020/gid00028/gid00028/gid00029/gid00001/gid00139/gid00001/gid00183/gid00001
+/gid00005/gid00032/gid00046/gid00043/gid00028/gid00030/gid00035/gid00042/gid00001/gid00031/gid00032/gid00001/gid00004/gid00042/gid00041/gid00030/gid00039/gid00048/gid00046/gid00092/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00193/gid00001/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00184/gid00001
+/gid00002/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001
+/gid00184/gid00001/gid00032/gid00040/gid00043/gid00045/gid00032/gid00046/gid00028/gid00193/gid00032/gid00051/gid00043/gid00032/gid00031/gid00036/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00042/gid00001/gid00042/gid00033/gid00102/gid00030/gid00036/gid00042/gid00001/gid00031/gid00032/gid00001/gid00028/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042FLUXO DE DISPENSA DE 
+LICITAÇÃO NO TJSP
+Figura 6 - Fluxo do processo de Dispensa de Licitação no TJSP
+62
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+FLUXO DE INEXIGIBILIDADE DE 
+LICITAÇÃO NO TJSP
+ 
+Figura 7 - Fluxo do processo de Inexigibilidade de Licitação no TJSP
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00033/gid00042/gid00045/gid00040/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001
+/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00022/gid00041/gid00036/gid00031/gid00028/gid00031/gid00032/gid00001/gid00019/gid00032/gid00044/gid00048/gid00036/gid00046/gid00036/gid00047/gid00028/gid00041/gid00047/gid00032/gid00001/gid00183/gid00001
+/gid00010/gid00041/gid00046/gid00047/gid00045/gid00048/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00043/gid00032/gid00031/gid00036/gid00031/gid00042/gid00001
+/gid00032/gid00039/gid00032/gid00047/gid00045/gid00110/gid00041/gid00036/gid00030/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00040/gid00043/gid00045/gid00028/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00184/gid00001
+/gid00017/gid00032/gid00046/gid00044/gid00048/gid00036/gid00046/gid00028/gid00001/gid00031/gid00032/gid00001/gid00043/gid00045/gid00032/gid00096/gid00042
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00040/gid00036/gid00041/gid00048/gid00047/gid00028/gid00001
+/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00008/gid00017/gid00002/gid00004/gid00001/gid00184/gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00031/gid00028/gid00001/gid00031/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00043/gid00032/gid00039/gid00042/gid00001/gid00028/gid00034/gid00032/gid00041/gid00047/gid00032/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00183/gid00001
+/gid00019/gid00032/gid00039/gid00028/gid00047/gid00109/gid00045/gid00036/gid00042/gid00001/gid00031/gid00042/gid00001/gid00045/gid00032/gid00046/gid00048/gid00039/gid00047/gid00028/gid00031/gid00042/gid00001
+/gid00031/gid00028/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00036/gid00045/gid00032/gid00047/gid00028
+/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00183/gid00001
+/gid00006/gid00039/gid00028/gid00029/gid00042/gid00045/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001
+/gid00187/gid00046/gid00032/gid00001/gid00035/gid00042/gid00048/gid00049/gid00032/gid00045/gid00188/gid00020/gid00016/gid00007/gid00001/gid00183/gid00001
+/gid00010/gid00041/gid00031/gid00036/gid00030/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00032/gid00001/gid00019/gid00032/gid00030/gid00048/gid00045/gid00046/gid00042/gid00046/gid00008/gid00021/gid00002/gid00011/gid00184 /gid00001
+/gid00002/gid00041/gid00090/gid00039/gid00036/gid00046/gid00032/gid00001/gid00037/gid00048/gid00045/gid00102/gid00031/gid00036/gid00030/gid00028
+/gid00017/gid00045/gid00032/gid00046/gid00036/gid00031/gid00099/gid00041/gid00030/gid00036/gid00028/gid00001/gid00184/gid00001
+/gid00002/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001/gid00031/gid00028/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00036/gid00045/gid00032/gid00047/gid00028/gid00001/gid00032/gid00001/gid00028/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001
+/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00193/gid00001/gid00020/gid00028/gid00028/gid00029/gid00001/gid00139/gid00001/gid00183/gid00001
+/gid00005/gid00032/gid00046/gid00043/gid00028/gid00030/gid00035/gid00042/gid00001/gid00031/gid00032/gid00001/gid00004/gid00042/gid00041/gid00030/gid00039/gid00048/gid00046/gid00092/gid00042/gid00020/gid00028/gid00028/gid00029/gid00001/gid00136/gid00163/gid00132/gid00001/gid00193/gid00001/gid00020/gid00028/gid00028/gid00029/gid00001/gid00137/gid00001/gid00184/gid00001
+/gid00002/gid00046/gid00046/gid00036/gid00041/gid00028/gid00047/gid00048/gid00045/gid00028/gid00001/gid00031/gid00042/gid00001/gid00030/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00042/gid00001/gid00184/gid00001
+/gid00032/gid00040/gid00043/gid00045/gid00032/gid00046/gid00028/gid00193/gid00032/gid00051/gid00043/gid00032/gid00031/gid00036/gid00096/gid00092/gid00042/gid00001/gid00031/gid00042/gid00001/gid00042/gid00033/gid00102/gid00030/gid00036/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00028/gid00048/gid00047/gid00042/gid00045/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042
+63
+6.  
+FLUXO 
+RESUMIDO
+64
+MANUAL DE LICITAÇÕES  | 2025
+Secretaria de Administração e Abastecimento  |  Saab
+Consulta/Inclusão 
+da demanda no PCA
+Elaboração da 
+Documentação
+Tipo de Contratação
+/gid00017/gid00004/gid00002/gid00001/gid00183/gid00001/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00111/gid00032/gid00046/gid00001
+/gid00002/gid00041/gid00048/gid00028/gid00039
+/gid00005/gid00007/gid00005/gid00001/gid00183/gid00001/gid00005/gid00042/gid00030/gid00048/gid00040/gid00032/gid00041/gid00047/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00007/gid00042/gid00045/gid00040/gid00028/gid00039/gid00036/gid00053/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00031/gid00032/gid00001/gid00005/gid00032/gid00040/gid00028/gid00041/gid00031/gid00028
+/gid00006/gid00021/gid00017/gid00001/gid00183/gid00001/gid00006/gid00046/gid00047/gid00048/gid00031/gid00042/gid00001
+/gid00021/gid00098/gid00030/gid00041/gid00036/gid00030/gid00042/gid00001
+/gid00017/gid00045/gid00032/gid00039/gid00036/gid00040/gid00036/gid00041/gid00028/gid00045
+/gid00017/gid00039/gid00028/gid00041/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00036/gid00046/gid00030/gid00042/gid00046
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00043/gid00042/gid00045/gid00001/gid00013/gid00036/gid00030/gid00036/gid00047/gid00028/gid00096/gid00092/gid00042
+/gid00004/gid00042/gid00041/gid00047/gid00045/gid00028/gid00047/gid00028/gid00096/gid00092/gid00042/gid00001
+/gid00005/gid00036/gid00045/gid00032/gid00047/gid00028
+/gid00021/gid00019/gid00001/gid00183/gid00001/gid00021/gid00032/gid00045/gid00040/gid00042/gid00001/gid00031/gid00032/gid00001
+/gid00019/gid00032/gid00033/gid00032/gid00045/gid00099/gid00041/gid00030/gid00036/gid00028 Abaixo segue o fluxo resumido que a Unidade Requisitante deve atentar-se 
+ao solicitar alguma contratação. 
+ Basta clicar no assunto desejado que você será direcionado ao tópico 
+específico no Manual.
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+Secretaria de Administração e Abastecimento
+Layout e diagramação
+Secretaria da Presidência
+Diretoria de Comunicação Social
+São Paulo | 2025

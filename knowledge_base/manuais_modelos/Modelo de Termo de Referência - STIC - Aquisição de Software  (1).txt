@@ -1,0 +1,397 @@
+TERMO DE REFERÊNCIA
+
+(Lei nº 14.133/2021)
+
+Modelo STIC – Licença de Sofware
+
+OBJETO  (Guia CNJ item 1 e  2 pag. 32)
+
+Contratação de serviço de assinatura de software........
+
+Catálogo de materiais no Compras.Gov: 27502 - Cessão temporária de direitos sobre programas de computador locação de software.
+
+DEFINIÇÃO DO OBJETO (alínea “a”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Natureza do Objeto
+
+A natureza do objeto a ser contratado é a assinatura, com características e padrões de desempenho e qualidade definidos objetivamente neste termo de referência, por meio de especificações usuais de mercado.
+
+A contratação deste serviço será para utilização da .............., portanto, não  integra  o  Plano  de  Contratações  de  Tecnologia  da Informação e Comunicação (TIC).
+
+Aquisição de itens de luxo (art. 20 da Lei nº 14.133/2021)
+
+O objeto desta contratação não se enquadra como sendo de bem de luxo.
+
+Quantitativo
+
+Informar o quantitativo
+
+Prazo do Contrato
+
+O prazo de vigência contratual será de xx (xxx) meses, contados da disponibilização das licenças ao TJSP.
+
+FUNDAMENTAÇÃO DA CONTRATAÇÃO (alínea “b”, inc. XXIII, art. 6º da Lei 14.133/2021 e Guia CNJ, item 4 pag. 32)
+
+A contratação está fundamentada, conforme descrito nos itens abaixo:
+
+Motivação da contratação
+
+A contratação do software é para ......... 
+
+Objetivos a serem alcançados por meio da contratação
+
+A adoção do sistema visa......
+
+Benefícios diretos e indiretos resultantes da contratação;
+
+Otimização dos processos, redução de custos e melhora na qualidade, planejamento e controle dos estudos dos espaços físicos ocupados pelo Tribunal de Justiça.
+
+Alinhamento entre a contratação e o Planejamento Estratégico do órgão ou de Tecnologia da Informação e Comunicação e o Plano Anual de Contratações;
+
+A contratação deste serviço será para utilização da Coordenadoria de Arquitetura do Tribunal de Justiça, portanto, não  integra  o  Plano  de  Contratações  de  Tecnologia  da Informação e Comunicação (TIC), no entanto, está inserido no Plano Anual de Contratações do TJSP, sob o número xxx/xxx, aprovado pela E. Presidência.
+
+A referência ao  Estudo Técnico Preliminar realizados, apontando para o documento ou processo administrativo de contratação que contém os referidos estudos;
+
+O Estudo Técnico Preliminar está instruído no processo de contratação nº XXX/XXXXXX.
+
+Relação entre a demanda prevista e a quantidade de bens e/ou serviços a serem contratados, acompanhada dos critérios de medição utilizados, e de documentos e outros meios probatórios;
+
+Adquirir uma assinatura do software .......
+
+Análise de mercado de Tecnologia da Informação e Comunicação com o levantamento das soluções disponíveis e/ou contratadas por órgãos ou entidades da Administração Pública, seus respectivos valores, bem como a definição e a justificativa da escolha da solução;
+
+A contratação do software é necessária para ......
+
+O quadro abaixo, demonstra a utilização do software por outros órgãos da administração pública.
+
+Órgão
+
+Valor
+
+PNCP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Observação: A variação nos valores das compras pesquisadas no PNCP é atribuída diretamente ao período de duração do contrato e à quantidade demandada.
+
+Parcelamento ou não dos itens que compõem a Solução de Tecnologia da Informação e Comunicação, desde que se mostre técnica e economicamente viável, com vistas a ampliar a competitividade sem perda de economia de escala, bem como a forma de adjudicação da contratação;
+
+Informar se é aplicável ou não.
+
+Permissão consórcio ou subcontratação da solução de TIC, justificando-se a decisão.
+
+Não se aplica, por se tratar de assinatura de software.
+
+Subcontratação
+
+Não se aplica, por se tratar de assinatura de software
+
+Forma e o critério de seleção do fornecedor com a indicação da modalidade e o tipo de licitação escolhidos, bem como os critérios de habilitação obrigatórios, os quais deverão ser estabelecidos, no mínimo, de acordo com os princípios da legalidade, razoabilidade e competitividade.
+
+A seleção do fornecedor será realizada por meio de ......
+
+Os critérios de habilitação encontram-se detalhados no item 14 deste Termo de Referência.
+
+Conformidade técnica e legal do objeto com a indicação das normas técnicas e legais, caso existam, as quais a Solução de Tecnologia da Informação e Comunicação deverá estar aderente;
+
+Não se aplica, por se tratar da contratação de assinatura de software classificado como 'de prateleira', conforme as características descritas a seguir:
+
+Disponível comercialmente: Pode ser comprado ou licenciado diretamente, como em lojas físicas ou online.
+
+Uso imediato: Não requer desenvolvimento adicional para começar a ser utilizado.
+
+Funcionalidades padronizadas: Atende a demandas comuns, como edição de texto, planilhas, gestão financeira, etc.
+
+Exemplos: Microsoft Office, Adobe Photoshop, AutoCAD, sistemas ERP genéricos, antivírus comerciais.
+
+DESCRIÇÃO DA SOLUÇÃO (alínea “c”, inc. XXIII, art. 6º da Lei 14.133/2021 e item 3 pag. 32 Do Guia CNJ)
+
+
+
+Informar a descrição da solução.................
+
+REQUISITOS DA CONTRATAÇÃO (alínea “d”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Contrato válido por xx (xxx) meses.
+
+Contratação do software será para......, na última versão disponibilizada pela fabricante, com garantia de manutenções corretivas e de segurança, além de atualizações de versões, sem ônus ao Tribunal de Justiça, durante a vigência do contrato. 
+
+Deverá ser fornecido o cartão de registro e/ou licenças de uso, contendo todas as chaves, senhas, números de identificação, série e demais informações necessárias para identificação, instalação, reinstalação e operação do produto.
+
+O software deve ser compatível com sistema operacional MS-Windows das máquinas usadas pelo Tribunal de Justiça.
+
+Sustentabilidade
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Suporte técnico
+
+O software contratado deverá ter garantia da atualização de todas as suas funcionalidades para as novas versões com a disponibilização de arquivos de correções, assinaturas e atualizações conforme política do fabricante para o tipo de licenciamento especificado, sem ônus ao Tribunal de Justiça, durante a vigência do contrato.
+
+Requisitos de negócio
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de capacitação
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos legais
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de manutenção
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos temporais
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de segurança
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos sociais, ambientais e culturais
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de arquitetura tecnológica
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de projeto e de implementação
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de implantação 
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de garantia
+
+A contratada deverá efetuar as manutenções corretivas e de segurança, além de atualizações de versões, sem ônus ao Tribunal de Justiça, durante a vigência do contrato. 
+
+Requisitos de experiência profissional
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de formação da equipe
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de metodologia de trabalho
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Requisitos de segurança da informação
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+RECEBIMENTO DO OBJETO
+
+Locais de entrega
+
+As assinaturas das licenças deverão ser disponibilizadas pelo fornecedor para ...., através do e-mail......, aos cuidados do (a) .....
+
+PRAZO DE ÍNICIO DA PRESTAÇÃO DE SERVIÇOS/FORNECIMENTO
+
+Imediato após assinatura do contrato pela contratada e liberação de acesso à plataforma para download e ativação da licença.
+
+MODELO DE EXECUÇÃO DO OBJETO (alínea “e”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A execução dos serviços iniciará quando a licença for liberada para que a contratante realize a ativação do produto diretamente na plataforma da desenvolvedora.
+
+Após ativação do produto serão feitos testes de acesso, caso a assinatura apresente problema ou esteja em desacordo com o presente Termo de Referência, a contratada deverá prestar a assistência necessária para resolução do problema.
+
+Rotinas de execução
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Quantidade mínima de bens ou serviços para comparação e controle
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Mecanismos formais de comunicação.
+
+Indicado no item 12.2.
+
+Manutenção de sigilo e normas de segurança
+
+A contratada assinará o Termo de Confidencialidade e Proteção de Dados.
+
+ESTIMATIVA DO VALOR DA CONTRATAÇÃO (Item 8, pag. 33 do Guia 2022 de Contrações de TIC do Poder Judiciário, versão 4.0)
+
+A estimativa do valor da contratação será informada pela Diretoria de Licitações e Suprimentos, de acordo com o resultado da pesquisa de preços ou orçamento.
+
+ADEQUAÇÃO ORÇAMENTÁRIA (alínea “j”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A adequação orçamentária será apresentada pela SOF, e posteriormente inserida neste documento após a indicação de recurso.
+
+RESPONSABILIDADES (item 13, pag. 36 do GUIA CNJ)
+
+Obrigações da Contratada
+
+A Contratada deve cumprir todas as obrigações constantes no Termo de Referência, assumindo os seus riscos e as despesas decorrentes da boa e perfeita execução do objeto e, ainda:
+
+ A Contratada deverá fornecer atualizações e correções de ferramentas e segurança durante a vigência do contrato sem ônus ao TJSP. 
+
+Indicar formalmente preposto apto a representá-lo junto à contratante, que deverá responder pela fiel execução do contrato;
+
+Atender prontamente quaisquer orientações e exigências da Equipe de Fiscalização do Contrato, inerentes à execução do objeto contratual;
+
+Reparar quaisquer danos diretamente causados à contratante ou a terceiros por culpa ou dolo de seus representantes legais, prepostos ou empregados, em decorrência da relação contratual, não excluindo ou reduzindo a responsabilidade da fiscalização ou o acompanhamento da execução dos serviços pela contratante;
+
+Manter, durante toda a execução do contrato, as mesmas condições da habilitação;
+
+Obrigações do Contratante
+
+O Tribunal de Justiça irá nomear o Gestor ou Gestora do Contrato e os Fiscais do Contrato para para acompanhar e fiscalizar a execução do contrato;
+
+Encaminhar formalmente a demanda por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo com os critérios estabelecidos no Termo de Referência, se o caso;
+
+Receber o objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, conforme inspeções realizadas;
+
+Comunicar a empresa para que emita a Nota Fiscal ou Fatura com o valor exato contratado
+
+Aplicar à contratada as sanções administrativas regulamentares e contratuais cabíveis;
+
+Liquidar o empenho e efetuar o pagamento à contratada, dentro dos prazos preestabelecidos em contrato;
+
+Comunicar à contratada todas e quaisquer ocorrências relacionadas com o fornecimento da solução de Tecnologia da Informação e Comunicação (TIC);
+
+MODELO DE GESTÃO DO CONTRATO (alínea “f”, inc. XXIII, art. 6º da Lei 14.133/2021 e Guia CNJ)
+
+Área administrativas e/ou técnicas e empresa
+
+A Contratante atuará na gestão e fiscalização de cumprimento do contrato, nos termos do Capítulo IX do Provimento no 2.724/2023.
+
+Na execução da ativação da conta da licença de uso, serão feitos testes e caso sejam constatadas falhas ou divergência com este Termo de Referência, poderá ser solicitado suporte técnico, ou, ainda, o objeto de contratação poderá ser rejeitado. 
+
+ Após os testes de funcionamento das licenças, o gestor providenciará o ateste da Nota Fiscal.
+
+Protocolo de comunicação (provimento 2.724/2023 e item 14, pag. 40 do Guia CNJ)
+
+A comunicação entre a Contratada e Contratante dar-se-á por meio eletrônico.
+
+Metodologia e formas de avaliação ( item 14 da pag. 40 do Guia CNJ)
+
+Metodologia, formas de avaliação da qualidade e adequação da solução de Tecnologia da Informação e Comunicação (TIC) às especificações funcionais e tecnológicas:
+
+Quantificação ou estimativa prévia do volume de serviços demandados ou quantidade de bens a serem fornecidos, para comparação e controle;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software .
+
+Definição de mecanismos de inspeção e avaliação da solução, a exemplo de inspeção por amostragem ou total do fornecimento de bens ou da prestação deserviços;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software.
+
+Adoção de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadores estabelecidos;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software .
+
+Origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software .
+
+Definição de listas de verificação e de roteiros de testes para subsidiar a ação dos Fiscais do contrato; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software .
+
+Garantia de inspeções e diligências, quando aplicáveis, e suas formas de exercício;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software .
+
+Recebimento Provisório (item 14, pag. 40 do GUIA CNJ)
+
+O recebimento da chave de acesso para uso do software diretamente na plataforma da empresa desenvolvedora ocorrerá no e-mail ..... em até xx (xxx) dias úteis.
+
+Recebimento Definitivo (item 14, pag. 40 do GUIA CNJ)
+
+O recebimento definitivo será efetuado no prazo de até 03 (três) dias úteis, contados a partir da ativação da licença. 
+
+Condições de pagamento  (item 14, pag. 40 do GUIA CNJ)
+
+Para o pagamento, a nota fiscal/fatura será atestada definitivamente pela ..... , com posterior remessa à SOF.
+
+O ateste da Nota Fiscal será feito após a instalação da licença e o devido teste de funcionalidade.
+
+O pagamento será efetuado 30 (trinta) dias contados da data do ateste da Nota Fiscal/Fatura pelo Fiscal do Contrato.
+
+Acordo de nível de serviço (item 14, pag. 39 do GUIA CNJ)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Manutenção das condições de habilitação e qualificação durante a execução contratual (item 14 da pagina 42 do GUIA CNJ)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Hipótese de glosa (item 14, pag. 40 do GUIA CNJ)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Sanção Administrativa (Multa) (item 14, pag. 41, GUIA CNJ)
+
+Será observado o artigo 107 do Provimento 2.724/2023. 
+
+Modelos de documentos (item 14, pag. 41, Guia CNJ)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Extinção do contrato (art. 137 da Lei nº 14.133/2021 e item 14, pag. 42 do GUIA CNJ)
+
+O Contrato poderá ser extinto nas hipóteses previstas no art. 137 da Lei nº 14.133/2021
+
+PRESTAÇÃO DE GARANTIA NA CONTRATAÇÃO (arts. 96 da Lei nº 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+REQUISITOS DE HABILITAÇÃO E QUALIFICAÇÃO TÉCNICA (art. 67 da Lei nº 14.133/2021 / art. 30 do Provimento CSM nº 2.724/2023)
+
+Qualificação Técnico-Profissional (inc. I, art. 67 da Lei nº 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Qualificação Técnico-Operacional (inc. II, art. 67 da Lei nº 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+Indicação de pessoal técnico (inc. III, art. 67 da Lei nº 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+CRONOGRAMA FÍSICO-FINANCEIRO
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+MATRIZ DE ALOCAÇÃO DE RISCO (arts. 22 e 103 da Lei nº 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software, com entrega imediata.
+
+
+
+
+
+8
+
+8Versão – 28/07/2025
+
+
+
+|

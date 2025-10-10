@@ -1,0 +1,252 @@
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+
+■ SECRETARIA DE ADMINISTRAÇÃO E ABASTECIMENTO	
+
+
+
+LicIA - Projeto de uso de Inteligência Artificial (IA) nas etapas internas da licitação entre os setores da SAAB/TJSP
+
+Versão: v1.0
+Data: 18/09/2025
+Unidade demandante: Secretaria de Administração e Abastecimento – SAAB
+Unidade técnica envolvida: STI, SAAB, RAJs envolvidas
+Patrocinador: Secretário(a) de Administração e Abastecimento
+Gestor do Projeto: Fabio Makoto Tagliaferro
+Elaboração: [Equipe técnica SAAB/STI]
+
+
+
+1. Identificação e escopo da necessidade
+
+Implantar o uso de Inteligência Artificial (IA) — com prioridade ao Microsoft 365 Copilot e Azure OpenAI — para dinamizar e qualificar as etapas internas do processo licitatório, desde o DFD/Planejamento até a minuta do edital, incluindo ETP, IPR, TR/Projeto Básico, matriz de riscos, pesquisas de preços, justificativas, minutas e checklists de conformidade.
+
+A proposta contempla a criação de assistentes de IA institucionais, integrados ao ecossistema Microsoft do TJSP, com governança, segurança e supervisão humana, visando produtividade, conformidade legal e redução de retrabalho.
+
+
+
+2. Problema a ser resolvido
+
+Tempo elevado na elaboração de ETP/IPR/TR.
+
+Riscos de desconformidade com a Lei nº 14.133/2021, LGPD e normativos internos (ex.: IN SAAB nº 12/2025).
+
+Baixa reutilização de conhecimento institucional.
+
+Alta demanda com quadro de pessoal limitado.
+
+Impacto atual: atrasos, maior custo transacional e qualidade desigual.
+
+
+
+3. Objetivos do projeto
+
+Geral: Aumentar eficiência, padronização e conformidade no ciclo interno de licitações com apoio de IA institucional.
+
+Específicos:
+
+Padronizar e acelerar a redação de ETP, IPR e TR.
+
+Apoiar pesquisas de preços e levantamentos de mercado.
+
+Gerar minutas iniciais de editais e justificativas com supervisão humana.
+
+Implementar checklists de conformidade (Lei 14.133, LGPD, sustentabilidade).
+
+Reduzir em ≥ 40% o tempo médio de elaboração.
+
+Consolidar um repositório vivo de modelos e boas práticas.
+
+
+
+
+
+4. Abrangência
+
+Abrange: DFD, ETP, IPR, TR, matriz de riscos, pesquisas de preços, minutas de editais/contratos, checklists, painéis de acompanhamento.
+Não abrange (fase inicial): julgamento de propostas, habilitação e gestão contratual.
+
+
+
+5. Requisitos
+
+Funcionais:
+
+Geração assistida de documentos em Word/PowerPoint.
+
+Resumos e análises automáticas de documentos.
+
+Planilhas inteligentes em Excel para consolidação de cotações.
+
+Checklists dinâmicos de conformidade.
+
+Repositório versionado em SharePoint.
+
+Não funcionais:
+
+Segurança e privacidade (tenant TJSP, LGPD).
+
+Auditabilidade (logs, histórico, versionamento).
+
+Disponibilidade corporativa.
+
+Acessibilidade conforme padrões.
+
+
+
+6. Alternativas analisadas
+
+Status quo: mantém gargalos e retrabalho.
+
+IA pública sem contrato: riscos à segurança e LGPD (não recomendada).
+
+Microsoft Copilot + Azure OpenAI (recomendado): integra-se ao ambiente TJSP, com segurança e governança.
+
+Outras IASN corporativas: possível complemento.
+
+Justificativa: integração, governança e menor curva de adoção no ambiente já licenciado.
+
+
+
+7. Solução recomendada
+
+Microsoft 365 Copilot integrado ao Office.
+
+Agentes especializados (ETP, IPR, TR, Edital, Pesquisa de Preços) via Copilot Studio/Azure OpenAI.
+
+Repositório de conhecimento (SharePoint/OneDrive).
+
+Segurança e compliance corporativos.
+
+Ciclo de melhoria contínua (curadoria, treinamento, feedback).
+
+
+
+8. Estimativas (piloto)
+
+Usuários: 40–60 (SAAB, STI e RAJs piloto).
+
+Volume: 30–50 ETP/TR/IPR por mês; 10–20 editais; 100+ documentos resumidos.
+
+Infraestrutura: consumo sob demanda em Azure OpenAI/Copilot.
+
+
+
+9. Estimativa de custos
+
+Licenças Copilot.
+
+Consumo de Azure OpenAI.
+
+Serviços profissionais (implantação e treinamento).
+
+Comunicação e capacitação.
+
+Contingência 10–15%.
+
+
+
+10. Conformidade legal
+
+Lei nº 14.133/2021.
+
+LGPD (Lei nº 13.709/2018).
+
+Resolução CNJ nº 615/2025 (diretrizes de IA).
+
+IN SAAB nº 12/2025.
+
+Política de Segurança da Informação TJSP.
+
+
+
+11. Governança (RACI síntese)
+
+Patrocinador: Secretário(a) SAAB.
+
+Comitê de IA/Projeto: SAAB + STI + áreas envolvidas.
+
+Gestão do Produto: SAAB.
+
+Implantação Técnica: STI.
+
+Validação de Conteúdo: unidades demandantes + assessoria jurídica.
+
+Auditoria/Compliance: Controle interno e Ouvidoria.
+
+
+
+12. Plano de implantação (macro)
+
+Fase 0 – Preparação (2–4 semanas): mapeamento, governança e catálogo inicial.
+
+Fase 1 – POC (6–8 semanas): habilitação piloto, agentes ETP/TR, prompt packs.
+
+Fase 2 – Piloto ampliado (8–12 semanas): inclusão de IPR/Edital, dashboards, ajustes.
+
+Fase 3 – Escala (12–16 semanas): expansão, catálogo final e sustentação.
+
+
+
+13. Indicadores
+
+Eficiência: redução ≥ 40% no tempo de elaboração.
+
+Qualidade: redução de impugnações por desconformidade.
+
+Produtividade: aumento de documentos por servidor.
+
+Conformidade: 100% com revisão humana.
+
+Satisfação: NPS interno ≥ +40.
+
+
+
+14. Riscos e mitigação
+
+Alucinações: revisão humana, checklists, curadoria.
+
+Vazamento de dados: ambiente seguro, DLP (Data Loss Prevention), perfis de acesso.
+
+Dependência tecnológica: arquitetura modular, revisões periódicas.
+
+Adoção cultural: capacitação contínua e champions por unidade.
+
+Custos: monitoramento e otimização de consumo.
+
+
+
+15. Sustentabilidade e acessibilidade
+
+Digitalização de fluxos, menos impressões.
+
+Compatibilidade com leitores de tela, linguagem clara.
+
+
+
+16. Providências prévias
+
+Aprovação do ETP e Plano de Implantação.
+
+Validação jurídica.
+
+Definição de perfis de acesso.
+
+Plano de capacitação.
+
+
+
+17. Conclusão
+
+Recomenda-se a adoção controlada de IA (Copilot + agentes especializados), iniciando com POC e piloto em unidades da SAAB/STI, com governança, segurança e supervisão humana.
+
+A solução é viável técnica e economicamente, com alto potencial de redução de tempo, padronização e conformidade.
+
+
+
+
+
+
+
+1
+
+1

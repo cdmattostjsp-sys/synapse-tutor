@@ -1,0 +1,936 @@
+TERMO DE REFERÊNCIA
+
+(Lei nº 14.133/2021)
+
+Modelo STIC
+
+OBJETO  (Guia CNJ item 1 e  2 pag. 32)
+
+Descrever de forma sucinta o objeto da contratação.
+
+Ex: Aquisição de mobiliários a serem distribuídos para as unidades judiciais e administrativas do Tribunal de Justiça, por meio de Ata de Registro de Preços, conforme quadro quantitativo no Anexo A.
+
+Identificar o código(s) do Catálogo de Materiais	Identificar código(s) do Catálogo de Materiais - Catmat ou do Catálogo de Serviços - Catser relacionado(s) a cada item da contratação, disponíveis no Portal de Compras do Governo Federal;		
+
+	
+
+DEFINIÇÃO DO OBJETO (alínea “a”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Natureza do Objeto
+
+A natureza do objeto a ser contratado é o(a) [...], com características e padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.
+
+
+
+Exemplos de natureza de objeto:
+
+Aquisição de materiais de consumo;
+
+Aquisição de materiais permanentes;
+
+Assinatura de licença de software ou de periódicos;
+
+Fornecimento de materiais de consumo;
+
+Prestação de serviços de natureza continuada;
+
+Prestação de serviços por escopo;
+
+Prestação de serviços de natureza continuada com dedicação exclusiva de mão de obra;
+
+Locação de veículos;
+
+Locação de imóveis;
+
+Entre outras.
+
+Aquisição de itens de luxo (art. 20 da Lei nº 14.133/2021)
+
+Informar que o objeto desta contratação não se enquadra como sendo de bem de luxo.
+
+Atenção: excluir se não se tratar de aquisição de bens
+
+Quantitativo
+
+Informar o quantitativo a ser contratado agrupando os itens por lote, se o caso, indicando o código catalogado no ALX, a descrição do item, unidade de fornecimento, e a quantidade. Exemplo no quadro abaixo:
+
+Lote 1 – [descrição do lote 1]
+
+Item
+
+Código
+
+Descrição do Item
+
+Unidade de Fornecimento
+
+Qtde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lote 2 – [descrição do lote 2]
+
+Item
+
+Código
+
+Descrição do Item
+
+Unidade de Fornecimento
+
+Qtde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplicação da cota de até 25% para ME/EPP (inciso III, art. 48 da Lei Complementar nº 123/2006)
+
+Informar a quantidade para atender a cota para aquisição de bens de natureza divisível, de até 25% do objeto para contratação de ME/EPP. 
+
+Na impossibilidade de cumprimento, justificar.
+
+Atenção: Item aplicável somente para aquisição de bens, excluir se não for esta a natureza do objeto a ser contratado
+
+
+
+Prazo do Contrato
+
+Informar o prazo de vigência do contrato e ou da ata de registro de preços.
+
+Pode ser celebrado contratos com prazo de até 5 (cinco) anos na hipóteses de serviços e fornecimentos contínuos;
+
+Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada da vigência máxima decenal, desde que previsto em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes;
+
+O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.
+
+Vigência do Contrato (Parecer Jurídico 266/2024) “Após a assinatura do contrato pelo CONTRATANTE e pela CONTRATADA, a área gestora expedirá Ofício à CONTRATADA, formalizando a data de início da vigência contratual” 
+
+Exemplo 1 – Contratos de serviços e fornecimentos contínuos 
+
+O prazo de vigência contratual será de xx(xx) meses podendo ser prorrogado nos termos do art. 107 da Lei 14.133/2021.
+
+
+
+Art. 106. A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
+
+I - a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;
+
+II - a Administração deverá atestar, no início da contratação e de cada exercício, a existência de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;
+
+III - a Administração terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem.
+
+§ 1º A extinção mencionada no inciso III do caput deste artigo ocorrerá apenas na próxima data de aniversário do contrato e não poderá ocorrer em prazo inferior a 2 (dois) meses, contado da referida data.
+
+§ 2º Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de programas de informática.
+
+Art. 107. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes
+
+
+
+Exemplo 1 – Registro de preço 
+
+O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso;
+
+O início da vigência da ata de registro de preços será contado a partir da publicação no Portal Nacional de Contratações Públicas.
+
+Art. 84. O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.
+
+Parágrafo único. O contrato decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as disposições nela contidas. 
+
+
+
+
+
+FUNDAMENTAÇÃO DA CONTRATAÇÃO (alínea “b”, inc. XXIII, art. 6º da Lei 14.133/2021 e Guia CNJ, item 4 pag. 32)
+
+Fundamentar contratação dispondo, entre outros elementos pertinentes, sobre:
+
+a motivação da contratação;
+
+os objetivos a serem alcançados por meio da contratação;
+
+os benefícios diretos e indiretos resultantes da contratação;
+
+o alinhamento entre a contratação e o Planejamento Estratégico do órgão ou de Tecnologia da Informação e Comunicação e o Plano Anual de Contratações;
+
+a referência ao  Estudo Técnico Preliminar realizados, apontando para o documento ou processo administrativo de contratação que contém os referidos estudos;
+
+a relação entre a demanda prevista e a quantidade de bens e/ou serviços a serem contratados, acompanhada dos critérios de medição utilizados, e de documentos e outros meios probatórios;
+
+a análise de mercado de Tecnologia da Informação e Comunicação com o levantamento das soluções disponíveis e/ou contratadas por órgãos ou entidades da Administração Pública, seus respectivos valores, bem como a definição e a justificativa da escolha da solução;
+
+o parcelamento ou não dos itens que compõem a Solução de Tecnologia da Informação e Comunicação, desde que se mostre técnica e economicamente viável, com vistas a ampliar a competitividade sem perda de economia de escala, bem como a forma de adjudicação da contratação;
+
+ a permissão consórcio ou subcontratação da solução de TIC, justificando-se a decisão.
+
+Subcontratação
+
+Informar se será admitida a subcontratação deste objeto, se positivo informar quais os limites aplicados ao objeto.
+
+A Equipe de Planejamento da Contratação deve fazer constar no edital de licitação, ou nos seus documentos integrantes, as parcelas do contrato passíveis de serem subcontratadas, acompanhada da
+descrição acerca da capacidade técnica a ser exigida para cada parcela, observando-se as regras contidas no artigo 74, §4º e artigo 122 e seus parágrafos da Lei n. 14.133/2021. (art. 85)
+
+Nas contratações com fundamento no inciso III do caput deste artigo (74), é vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade.( § 4º)
+
+Excluir este item se não for aplicável ao objeto a ser contratado
+
+a forma e o critério de seleção do fornecedor com a indicação da modalidade e o tipo de licitação escolhidos, bem como os critérios de habilitação obrigatórios, os quais deverão ser estabelecidos, no mínimo, de acordo com os princípios da legalidade, razoabilidade e competitividade.
+
+O fornecedor será selecionado por meio da realização de procedimento de licitação, na modalidade pregão, sob a forma eletrônica, com adoção do critério de julgamento pelo XXX (menor preço ou maior desconto).
+
+a conformidade técnica e legal do objeto com a indicação das normas técnicas e legais, caso existam, as quais a Solução de Tecnologia da Informação e Comunicação deverá estar aderente;
+
+A fundamentação completa da contratação está descrita no Estudo Técnico Preliminar, que será publicado juntamente com o Edital de Licitação ou Aviso de Contratação Direta, no Portal Nacional de Contratações Públicas (PNCP) e no Portal da Transparência do Tribunal de Justiça do Estado de São Paulo. (redação obrigatória)
+
+ 
+
+Atenção!! Na ausência do Estudo Técnico Preliminar ou no caso de sigilo dos estudos, informar a necessidade da contratação e o extrato das partes que não contiverem informações sigilosas (se o caso). 
+
+
+
+ 
+
+DESCRIÇÃO DA SOLUÇÃO (alínea “c”, inc. XXIII, art. 6º da Lei 14.133/2021 e item 3 pag. 32 Do Guia CNJ)
+
+Informar detalhamento da especificação do objeto, a ser contratado descrevendo a solução de TIC de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para a sua composição., considerando todo o seu ciclo de vida.
+
+	
+
+REQUISITOS DA CONTRATAÇÃO (alínea “d”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Sustentabilidade /Impacto ambiental
+
+Informar os critérios e práticas de sustentabilidade a serem adotadas no objeto desta contratação e a análise / impacto ambiental decorrente da contratação.
+
+Se não for aplicável ao objeto deverá ser justificado
+
+Especificação da Garantia Complementar (inc. III, § 1º, art. 40, da Lei nº 14.133/2021)
+
+Especificar a garantia exigida e as condições de manutenção e assistência técnica, quando for o caso.
+
+Atenção: Esta garantia contratual é complementar à legal, ou seja, adicional àquela prevista em lei e conferida mediante termo escrito, nos termos do art. 50 do CDC e art. 40, § 1º, inc. III, da Lei nº 14.133/2021) Parcer Jurídico nº 541/2024 – Processo 2024/33757, págs 279 a307. 
+
+Obs: Não confundir este item com a prestação de garantia na contratação, prevista no  art. 98 da Lei nº 14.133/2021, pois trata-se de garantia da execução contratual.
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+Suporte técnico
+
+Infomar se haverá necessidade de suporte técnico no decorrer da execução contratual ou na garantia, com as devidas detalhamentos da prestação do serviço.
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+
+
+Amostra/exame de conformidade/prova de conceito
+
+Informar se será realizada análise e avaliação da conformidade da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de interesse do Tribunal de Justiça, de modo a comprovar sua aderência às especificações definidas no termo de referência. 
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+Vistoria Prévia (§§ 2º, 3º e 4º, art. 63 da Lei 14.133/2021)
+
+Informar se haverá necessidade de vistoria prévia, a fim de atestar conhecimento do local e as condições de realização da obra ou serviço, mencionando o endereço, telefone para contato, email e nome do responsável para agendamento.
+
+A vistoria prévia poderá ser substituída por declaração formal assinada pelo responsável técnico do licitante acerca do conhecimento pleno das condições e peculiaridades da contratação.
+
+As licitantes que optarem por realizar vistoria prévia, o responsável pelo agendamento deverá disponibilizar data e horário diferentes para os eventuais interessados.
+
+Excluir este item se não for aplicável ao objeto a ser contratado
+
+Subcontratação (§2º, art. 122 da Lei nº 14.133/2021)
+
+Informar se será admitida a subcontratação deste objeto, se positivo informar quais os limites aplicados ao objeto.
+
+CASOS DE MÃO DE OBRA RESIDENTE, OBSERVAR:
+
+ORIENTAÇÕES RECESSO FORENSE
+
+No caso de contratação de Mão de Obra alocada, verificar se o Termo de Referência contém estas orientações e também informações sobre como será feito o desconto caso sejam dias úteis não trabalhados (feriados do tribunal, emendas, recesso, etc)
+
+ORIENTAÇÕES FERIADOS
+
+Nos FERIADOS MUNICIPAIS (dia do início e término do ano do centenário de fundação do Município e feriados religiosos instituídos pela legislação local), ESTADUAIS E NACIONAIS, seguir-se-á a regra geral disposta na CLT que veda o trabalho, exceto em Plantões Judiciário. 
+
+Nos feriados do Tribunal de Justiça, emendas de Feriados (concedidos pelo de Justiça do Estado de São Paulo) os funcionários /funcionárias da empresa contratada trabalharão nos casos que a Administração solicite expressamente a prestação dos serviços de limpeza. 
+
+ORIENTAÇÕES PLANTÕES JUDICIÁRIOS
+
+O pagamento será feito pela quantidade de Plantões Judiciários efetivamente executados; 
+
+A quantidade de Plantões Judiciários realizados em cada mês, para efeito de emissão de Nota Fiscal, será informada pelo(a) Fiscal do Contrato com a discriminação do dia do mês e da semana em que foram realizados (ex.: 7/9/2022 – feriado; ou, 3 e 4/9/2022 – sábado e domingo)  
+
+Para tanto, o(a) Fiscal  do Contrato manterá controle de presença, com a assinatura do(s) prestador(es) /da(s) prestadora(s) de serviço nos dias de Plantão Judiciário. 
+
+
+
+A comunicação da quantidade de Plantões Judiciários efetivamente executados será feita pelo(a) Fiscal do Contrato à Contratada no 1º dia útil do mês subsequente à prestação dos serviços.
+
+DESCONTO DIA ÚTIL NÃO TRABALHADO
+
+As empresas Contratadas deverão efetuar o desconto em Nota Fiscal do mês da prestação dos serviços de limpeza predial, referente aos dias úteis não trabalhados, nos termos dos itens 15.2. e 15.3, com base no valor contido na Planilha de Composição de Custos – Relatório Custo Detalhado. 
+
+DESCRIÇÃO DA JORNADA DE TRABALHO e HORÁRIOS
+
+Nos casos de contratação de mão de obra, TR deverá informar qual a jornada de trabalho, horário de entrada e saída, informando se haverá tempo para descanso/intervalo e quanto tempo.
+
+UNIFORMES 
+
+Caso seja necessário uso de uniformes durante a prestação do serviço, TR deverá informar a descrição, especificação, qual a quantidade, quais peças (camisa, blazer, calça, sapato etc) e a periodicidade de troca.
+
+RECEBIMENTO DO OBJETO
+
+Locais de entrega
+
+Informar os locais de entrega dos produtos ou prestação dos serviços e as quantidades.
+
+PRAZO DE ÍNICIO DA PRESTAÇÃO DE SERVIÇOS/FORNECIMENTO
+
+Informar em qual momento se dará o início dos serviços. Ex. imediato após assinatura do contrato pela contratada, 10 dias corridos após assinatura do contrato pela contratada, imediato após ordem de serviço, etc.
+
+MODELO DE EXECUÇÃO DO OBJETO (alínea “e”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Definir como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento.
+
+ESTIMATIVA DO VALOR DA CONTRATAÇÃO (Item 8, pag. 33 do Guia 2022 de Contrações de TIC do Poder Judiciário, versão 4.0)
+
+A estimativa do valor da contratação será informada pela Diretoria de Licitações e Suprimentos, de acordo com o resultado da pesquisa de preços ou orçamento. 
+
+
+
+Será avaliada a possibilidade de declaração de sigilo do orçamento de acordo com o objeto a ser licitado e apuração do resultado da pesquisa. 
+
+ADEQUAÇÃO ORÇAMENTÁRIA (alínea “j”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A adequação orçamentária será apresentada pela SOF, e posteriormente inserida neste documento após a indicação de recurso.
+
+RESPONSABILIDADES (item 13, pag. 36 do GUIA CNJ)
+
+Definir responsabilidades da contratante, da contratada e do órgão gerenciador da Ata de Registro de Preços, quando aplicável, deverá observar:
+
+a definição das obrigações da contratante contendo, pelo menos, a obrigação de:
+
+nomear Gestor e Fiscais Técnico, Administrativo e Demandante do contrato para acompanhar e fiscalizar a execução dos contratos;
+
+encaminhar formalmente a demanda por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo com os critérios estabelecidos no Termo de Referência.
+
+ receber o objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, conforme inspeções realizadas;
+
+comunicar a empresa para que emita a Nota Fiscal ou Fatura com o valor exato dimensionado pela fiscalização com base na Avaliação de Resultado.
+
+ aplicar à contratada as sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão gerenciador da Ata de Registro de Preços, quando aplicável;
+
+liquidar o empenho e efetuar o pagamento à contratada, dentro dos prazos preestabelecidos em contrato;
+
+comunicar à contratada todas e quaisquer ocorrências relacionadas com o fornecimento da solução de Tecnologia da Informação e Comunicação (TIC);
+
+definir produtividade ou capacidade mínima de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC) por parte da contratada, com base em pesquisas de mercado, quando aplicável; e
+
+prever que os direitos de propriedade intelectual e direitos autorais da solução de Tecnologia da Informação e Comunicação (TIC) sobre os diversos artefatos e produtos produzidos em decorrência da relação contratual, incluindo a documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados, pertençam à Administração.
+
+a definição das obrigações da contratada contendo, pelo menos, a obrigação de:
+
+ indicar formalmente preposto apto a representá-lo junto à contratante, que deverá responder pela fiel execução do contrato;
+
+manter preposto aceito pela Administração no local da obra ou do serviço para representá-lo na execução do contrato.
+
+atender prontamente quaisquer orientações e exigências da Equipe de Fiscalização do Contrato, inerentes à execução do objeto contratual;
+
+reparar quaisquer danos diretamente causados à contratante ou a terceiros por culpa ou dolo de seus representantes legais, prepostos ou empregados, em decorrência da relação contratual, não excluindo ou reduzindo a responsabilidade da fiscalização ou o acompanhamento da execução dos serviços pela contratante;
+
+ propiciar todos os meios necessários à fiscalização do contrato pela contratante, cujo representante terá poderes para sustar o fornecimento, total ou parcial, em qualquer tempo, sempre que considerar a medida necessária;
+
+manter, durante toda a execução do contrato, as mesmas condições da habilitação;
+
+quando especificada, manter, durante a execução do contrato, equipe técnica composta por profissionais devidamente habilitados, treinados e qualificados para fornecimento da solução de Tecnologia da Informação e Comunicação (TIC);
+
+quando especificado, manter a produtividade ou a capacidade mínima de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC) durante a execução do contrato; e
+
+ceder os direitos de propriedade intelectual e direitos autorais da solução de Tecnologia da Informação e Comunicação (TIC) sobre os diversos artefatos e produtos produzidos em decorrência da relação contratual, incluindo a documentação, os modelos de dados e as bases de dados à Administração;
+
+A definição das obrigações do órgão gerenciador do registro de preços contendo, além do disposto no Decreto nº 7.892, de 2013, e atualizações, pelo menos a obrigação de:
+
+efetuar o registro do licitante fornecedor e firmar a correspondente Ata de Registro de Preços;
+
+conduzir os procedimentos relativos a eventuais renegociações de condições, produtos ou preços registrados;
+
+definir mecanismos de comunicação com os órgãos participantes e não participantes, contendo:
+
+as formas de comunicação entre os envolvidos, a exemplo de ofício, telefone, e-mail, ou sistema informatizado, quando disponível; e
+
+ definição dos eventos a serem reportados ao órgão gerenciador, com a indicação de prazo e responsável;
+
+definir mecanismos de controle de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC), observando, dentre outros:
+
+a definição da produtividade ou da capacidade mínima de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC);
+
+ as regras para gerenciamento da fila de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC) aos órgãos participantes e não participantes, contendo prazos e formas de negociação e redistribuição da demanda, quando esta ultrapassar a produtividade definida ou a capacidade mínima de fornecimento e for requerida pela contratada; e
+
+ as regras para a substituição da solução registrada na Ata de Registro de Preços em função de fatores supervenientes que tornem necessária e imperativa a substituição da solução tecnológica.
+
+
+
+MODELO DE GESTÃO DO CONTRATO (alínea “f”, inc. XXIII, art. 6º da Lei 14.133/2021 e Guia CNJ)
+
+Área administrativas e/ou técnicas e empresa
+
+ Áreas administrativas e técnicas (Art. 29,I,  Provimento CSM nº 2.724/2023)
+
+Informar as áreas administrativas e técnicas responsáveis pelo acompanhamento da execução contratual, bem como as respectivas atribuições de fiscalização e gestão.
+
+Empresa (item 14, pag. 39  - Guia CNJ)
+
+dos papéis a serem desempenhados pelos principais atores da empresa envolvidos na contratação;
+
+
+
+Protocolo de comunicação (provimento 2.724/2023 e item 14, pag. 40 do Guia CNJ)
+
+Informar o protocolo de comunicação entre o contratante e contratada, preferencialmente as Ordens de Serviço ou fornecimento de Bens, adotando-se preferencialmente meio eletrônico, observados os prazos estabelecidos no art. 130 deste Provimento.
+
+
+
+Metodologia e formas de avaliação ( item 14 da pag. 40 do Guia CNJ)
+
+Informar a metodologia, formas de avaliação da qualidade e adequação da solução de Tecnologia da Informação e Comunicação (TIC) às especificações funcionais e tecnológicas, observando:
+
+quantificação ou estimativa prévia do volume de serviços demandados ou quantidade de bens a serem fornecidos, para comparaçãoecontrole;
+
+definição de mecanismos de inspeção e avaliação da solução, a exemplo de inspeção por amostragem ou total do fornecimento de bens ou da prestação deserviços;
+
+adoção de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadoresestabelecidos;
+
+origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato;
+
+definição de listas de verificação e de roteiros de testes para subsidiar a ação dos Fiscais do contrato; e
+
+garantia de inspeções e diligências, quando aplicáveis, e suas formas de exercício;
+
+
+
+Recebimento Provisório (item 14, pag. 40 do GUIA CNJ)
+
+Informar os métodos e prazos para o recebimento provisório do produto, bem como de avaliação da qualidade dos bens e/ou serviços entregues, procedimentos de teste e inspeção, obra ou serviço, indicando qual documento que a empresa contratada deverá apresentar que comprove a entrega do bem, obra ou serviço, após verificação sumária da conformidade contratual.
+
+Recebimento Definitivo (item 14, pag. 40 do GUIA CNJ)
+
+Informar os métodos e os prazos para o recebimento definitivo do produto, bem como de avaliação da qualidade dos bens e/ou serviços entregues, procedimentos de teste e inspeção, obra ou serviço, subsidiado por documentos e nota fiscal/fatura, que comprove o cumprimento das exigências, prazos, valores, observando:
+
+a dinâmica de execução com a definição de etapas, logística de implantação, cronogramas, prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega, quando aplicáveis, entre outros pertinentes;
+
+
+Condições de pagamento  (item 14, pag. 40 do GUIA CNJ)
+
+Informar quais as condições de pagamento vinculado ao recebimento definitivo do objeto, observando :
+
+a forma de pagamento dos bens e/ou serviços que será efetuado em função dos resultados obtidos e/ou descontados os valores oriundos da aplicação de eventuais glosas ou sanções.; 
+
+Ex: O pagamento será efetuado 30 (trinta) dias contados da data do ateste da Nota Fiscal/Fatura pelo Fiscal do Contrato.
+
+Observação: caso o pagamento seja inferior, deverá contar com prévia anuência da SOF quando inferior a 30 (trinta) dias corridos contados do ateste definitivo da nota fiscal/fatura;
+
+Acordo de nível de serviço (item 14, pag. 39 do GUIA CNJ)
+
+Apresentar tabela de acordo de nível de serviço com os correspondentes indicadores e faixas de descontos, observando: 
+
+da forma de acompanhamento, das rotinas de execução, com a definição de processos e procedimentos de fornecimento da solução de Tecnologia da Informação e Comunicação (TIC) do atendimento aos prazos de garantia ou aos níveis mínimos de serviços exigidos;
+
+fixação dos critérios de aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis mínimos de serviços com os valores aceitáveis para os principais elementos que compõe a solução de Tecnologia da Informação e Comunicação (TIC);
+
+
+No caso de impossibilidade de adoção desta metodologia, deverá ser devidamente justificada.
+
+Ex.: Não se aplica, em razão do objeto a ser contratado não se tratar de serviço ou que o serviço será de execução imediata.
+
+Manutenção das condições de habilitação e qualificação durante a execução contratual (item 14 da pagina 42 do GUIA CNJ)
+
+O(a) Gestor(a) do Contrato deverá solicitar a documentação de habilitação e qualificação, constantes do edital de licitação, a fim de verificar se a Contratada mantém as condições exigidas na contratação inicial, a cada seis meses contados da assinatura do contrato.
+
+A contratada deverá manter durante toda a execução do contrato a compatibilidade com as obrigações assumidas, assim como todas as condições de habilitação, bem como da qualificação técnica ou formação dos profissionais envolvidos na execução do contrato, exigidas na licitação.
+
+Informar quais instrumentos formais de solicitação de fornecimento dos bens e/ou de prestação de serviços, documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude das informações, a exemplo de modelos de desenvolvimento de software, relatórios de execução de serviço e/ou fornecimento, controles por parte da contratada, ocorrências, entre outros.;
+
+Disponibilizar os recursos humanos necessários às atividades de gestão e fiscalização do contrato, inclusive quanto à qualificação técnica e disponibilidade de tempo para aplicação das listas de verificação e roteiros de testes;
+
+
+Atenção: este item é necessário para contratações com prazo de vigência superior a seis meses.
+
+Hipótese de glosa (item 14, pag. 40 do GUIA CNJ)
+
+Informar quais as hipóteses de glosa nos casos de descumprimento contratual.
+
+Informar a fixação dos valores e procedimentos para retenção ou glosa no pagamento, sem prejuízo das sanções cabíveis, que só deverá ocorrer quando a contratada:
+
+não atingir os valores mínimos aceitáveis fixados nos critérios de aceitação, não produzir os resultados ou deixar de executar as atividades contratadas; ou
+
+deixar de utilizar materiais e recursos humanos exigidos para fornecimento da solução de Tecnologia da Informação e Comunicação (TIC), ou utilizá-los com qualidade ou quantidade inferior à demandada;
+
+
+Sanção Administrativa (Multa) (item 14, pag. 41, GUIA CNJ)
+
+Informar quais os percentuais de multa a serem aplicadas na hipótese de descumprimento contratual, com a  definição clara e detalhada das sanções administrativas :
+
+vinculação aos termos contratuais;
+
+proporcionalidade das sanções previstas ao grau do prejuízo causado pelo descumprimento das respectivas obrigações;
+
+as situações em que advertências serão aplicadas;
+
+as situações em que as multas serão aplicadas, com seus percentuais correspondentes, que obedecerão a uma escala gradual para as sanções recorrentes;
+
+as situações em que o contrato será rescindido por parte da Administração devido ao não atendimento de termos contratuais, da recorrência de aplicação de multas ou outros motivos;
+
+as situações em que a contratada terá suspensa a participação em licitações e impedimento para contratar com a Administração; e
+
+as situações em que a contratada será declarada inidônea para licitar ou contratar com a Administração, conforme previsto em Lei;
+
+
+Atenção: Se não for o caso de aplicação de multa previamente estipulada neste termo de referência, será observado o artigo 115 do provimento 2.724/2023, em razão disso poderá ser excluído este item do documento.
+
+
+
+Modelos de documentos (item 14, pag. 41, Guia CNJ)
+
+Elaboração dos seguintes modelos de documentos, em se tratando de contratações de serviços de Tecnologia da Informação e Comunicação (TIC):
+
+Termo de Compromisso, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes no órgão ou entidade, a ser assinado pelo representante legal da contratada; 
+
+Termo de Ciência da declaração de manutenção de sigilo e das normas de segurança vigentes no órgão ou entidade, a ser assinado por todos os empregados da contratada diretamente envolvidos na contratação.
+
+
+Extinção do contrato (art. 137 da Lei nº 14.133/2021 e item 14, pag. 42 do GUIA CNJ)
+
+Informar quais as hipóteses de extinção do contrato, observando:
+
+da transferência de conhecimento de modo a minimizar a dependência técnica com a empresa contratada, incluindo os casos de interrupção, transição e encerramento do contrato;
+
+dos direitos de propriedade intelectual e autorais dos produtos gerados por ocasião da execução do contrato, quando aplicáveis;
+
+das situações que possam caracterizar descumprimento das obrigações contratuais estabelecidas, para fins de definição dos percentuais das multas a serem aplicadas, observados os princípios da legalidade, razoabilidade e proporcionalidade.
+
+
+
+PRESTAÇÃO DE GARANTIA NA CONTRATAÇÃO (arts. 96 da Lei nº 14.133/2021)
+
+Informar se haverá prestação de garantia na contratação, com vistas a garantir o fiel cumprimento das obrigações assumidas pelo contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento, com a indicação do percentual a ser aplicado de até 5% (cinco por cento) do valor inicial do contrato.
+
+A majoração desse percentual para até 10% (dez por cento), poderá ser aplicada desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+REQUISITOS DE HABILITAÇÃO E QUALIFICAÇÃO TÉCNICA (art. 67 da Lei nº 14.133/2021 / art. 30 do Provimento CSM nº 2.724/2023)
+
+Qualificação Técnico-Profissional (inc. I, art. 67 da Lei nº 14.133/2021)
+
+Informar a qualificação técnico-profissional exigida para fins de habilitação, restrita à apresentação de profissional, devidamente registrado no conselho profissional competente, quando for o caso, detentor de atestado de responsabilidade técnica por execução de obra ou serviço de características semelhantes, para fins de contratação.
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+Qualificação Técnico-Operacional (inc. II, art. 67 da Lei nº 14.133/2021)
+
+Informar quais certidões ou atestados, regularmente emitidos pelo conselho profissional competente, quando for o caso, que demonstrem capacidade operacional na execução de serviços similares de complexidade tecnológica e operacional equivalente ou superior.
+
+Atenção: Os documentos comprobatórios emitidos deverão demonstrar a atuação do contratado no cumprimento de obrigações assumidas será avaliada pelo contratante, que emitirá documento comprobatório da avaliação realizada, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, o que constará do registro cadastral em que a inscrição for realizada. (§ 3º, art. 88 da Lei nº 14.133/2021)
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+Indicação de pessoal técnico (inc. III, art. 67 da Lei nº 14.133/2021)
+
+Indicar o pessoal técnico, das instalações e do aparelhamento adequados e disponíveis para a realização do objeto da licitação, bem como da qualificação de cada membro da equipe técnica que se responsabilizará pelos trabalhos.
+
+Exigir o registro ou inscrição na entidade profissional competente, quando for o caso.
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+
+
+CRONOGRAMA FÍSICO-FINANCEIRO
+
+Apresentar cronograma físico-financeiro de acordo com os valores a serem desembolsados durante a execução contratual. Exemplo:
+
+Descrição
+
+Mês 1
+
+Mês 2
+
+Mês 3
+
+Mês 4
+
+Mês n...
+
+Valor Total por item
+
+Item 1
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Item 2
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Item 3
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total Geral
+
+0,00
+
+Excluir este item se não for aplicável ao objeto a ser contratado, por exemplo, na hipótese de contratação de serviços, bens ou fornecimento com execução ou entrega imediata.
+
+MATRIZ DE ALOCAÇÃO DE RISCO (arts. 22 e 103 da Lei nº 14.133/2021)
+
+Apresentar a matriz de alocação de riscos entre o Tribunal de Justiça e a empresa contratada, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com metodologia predefinida no Plano de Riscos, nos termos do art. 22 da Lei nº 14.133/2021;
+
+O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados art. 103 da Lei nº 14.133/2021;
+
+Apresentar justificativa se este for aplicável ao objeto a ser contratado.
+
+Atenção! Quando a contratação se referir a obras e serviços de grande vulto ou forem adotados os regimes de contratação integrada e semi-integrada, o edital obrigatoriamente contemplará matriz de alocação de riscos entre o contratante e o contratado. 
+
+obras, serviços e fornecimentos de grande vulto: aqueles cujo valor estimado supera R$ 228.833.309,04 (duzentos e vinte e oito milhões oitocentos e trinta e três mil trezentos e nove reais e quatro centavos); (Decreto 11.317/2023)
+
+Atenção: Se o objeto não se enquadrar nas regras acima, esclarecer a necessidade ou não, de inserção deste item.
+
+
+
+Parecer 141/2024, Processo 2023/114168, tópico VI.d, “...recomendamos o item 15 do TR seja reformulado, para esclarecer (i) a necessidade, ou não, de inserção de cláusula de matriz de riscos nos contratos decorrentes da ARP; e, em caso positivo, qual o conteúdo da cláusula proposta (art. 6º, XXVII, da NLLC)”.
+
+
+
+Obs: Não confundir este item com o Plano de Gestão de Riscos, art. 22 do Provimento nº 2724/2023, que versa sobre a identificação dos principais riscos que possam comprometer a contratação, desde a fase de planejamento até o termo final da vigência do contrato e na execução contratual.
+
+APRESENTAÇÃO DA PROPOSTA  (quando se tratar de mão de obra)
+
+17.1	A proposta deverá ser apresentada de acordo com a planilha de composição de custos disponibilizada no Portal Nacional de Contratações Públicas (PNCP) e no Portal da Transparência do Tribunal de Justiça. 
+
+17.2	Serão aceitas propostas que adotem, na planilha de custos e formação de preços, valor igual ou superior ao orçado pelo Tribunal de Justiça do Estado de São Paulo, que corresponderá à soma do salário (salário e adicionais) e benefícios (cesta básica ou auxílio-alimentação e do valor do vale-refeição).
+
+17.3	O auxílio-alimentação é um benefício concedido por empresas aos seus empregados, destinado à compra de gêneros alimentícios em mercados, supermercados e outros estabelecimentos comerciais, o qual visa garantir que o trabalhador possa adquirir e selecionar os produtos de sua preferência para a composição de suas refeições diárias.
+
+17.4	O vale-refeição é destinado ao pagamento de refeições prontas em estabelecimentos como restaurantes, lanchonetes e cafeterias nos dias úteis de trabalho. 
+
+17.5	A exigência do pagamento dos benefícios acima tem a finalidade de evitar a precarização da mão de obra terceirizada na prestação de serviços ao Tribunal de Justiça do Estado de São Paulo, garantindo benefícios mínimos aos funcionários terceirizados, além dos previstos na CLT e na convenção coletiva da categoria
+
+
+
+
+
+Observações Gerais
+
+A Fase Preparatória inicia-se com o pedido de licitação, via sistema eletrônico de compra, que deverá conter os requisitos contidos nos incisos I, II, III, VII, e X do artigo 18 da Lei nº 14.133/2021 e deverá ser efetuado pelo Gestor do Planejamento com antecedência de:
+
+I – cento e oitenta dias para contratação de prestação de serviço ou de fornecimento de bens comuns; e,
+
+II – duzentos e quarenta dias para a contratação de prestação de serviço ou de fornecimento de bem que demande complexidade ou análise técnica para a escolha do fornecedor.	
+
+GUARDA E ARMAZENAMENTO	IV – condições de guarda e armazenamento que não permitam a deterioração do material;
+
+AQUISIÇÃO E PAGAMENTO	– condições de aquisição e pagamento semelhantes às do setor privado;
+
+PADRONIZAÇÃO	a) da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;
+
+RESPONSABILIDADE FISCAL	c) da responsabilidade fiscal, mediante a comparação da despesa estimada com a prevista no orçamento.
+
+TERMO DE COMPROMISSO E DE CONFIDENCIALIDADE	VI – termo de compromisso e de confidencialidade, contendo declaração de manutenção de sigilo e ciência das informações quanto às normas de segurança que a contratante tenha acesso, devendo a ser assinada pela contratada e seus funcionários diretamente envolvidos na contratação;	
+
+LICENÇA PERPÉTUA	Licenças perpétuas são vitalícias e válidas enquanto o software é usado. Nestes casos, observar se o TR menciona que estarão contempladas todas as atualizações. Observar também se há menção da proteção de uso de propriedade intelectual do software.
+
+CATÁLOGOS E FOLDERS	Verificar no TR quando houver menção aos termos de fornecimento de catálogo ou folder. Não pode ser exigido o fornecimento de catálogos, prospectos e folders durante a fase de fornecimento de propostas. Somente no momento da aceitabilidade da proposta ou quando já houver uma licitante vencedora.
+
+FLEXÃO DE GÊNERO	Resolução CNJ nº 326-2021 - Documentos públicos deverão estar em concordãncia com a flexão de gênero.
+
+Casos de Mão de Obra, observar:
+
+ANTECEDENTES CRIMINAIS : Não poderá ser exigido antecedentes criminais para casos de mão de obra residente. 
+
+PAGAMENTO DE RESULTADOS	§1º O termo de referência deverá definir o modelo de execução que contemple pagamento de resultados, de forma que o contratado seja remunerado pela entrega de produtos e serviços e não pela alocação de postos de trabalho;		
+
+PAGAMENTO POR HORA TRABALHADA OU POSTO (justificar)	§2º Excepcionalmente, será admitido o pagamento por hora trabalhada ou por posto de serviço, quando as características do objeto não o permitirem ou as condições forem mais vantajosas para a Administração, hipótese em que deve estar prévia e adequadamente justificada nos respectivos processos.	
+
+OBJETIVIDADE	§3º No termo de referência deverá constar, objetivamente, os parâmetros para a avaliação da conformidade e a mensuração dos produtos e serviços entregues.		
+
+MEDIÇÃO DE RESULTADOS	§4º Para os fins do disposto no caput deste artigo poderá ser contemplado mecanismo contratual de redução do pagamento por meio de Instrumento de Medição de Resultados - IMR quando, apesar da utilidade da solução entregue, não forem atingidas as metas ou índices de qualidade estabelecidos.		
+
+Mão de obra (resolução cnj 401)	nos casos de mão de obra deverá observar se haverá atendimento ao público se sim deverá constar curso de libras aos profissionais, colocar na planilha de custo
+
+
+
+REGISTRO DE PREÇOS : processamento por meio de sistema de registro de preços, quando pertinente
+
+SUBCONTRATAÇÃO
+
+LIMITE AUTORIZADO	Art. 122. Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela
+
+Administração.
+
+QUANDO NÃO HOUVER EMPRESAS PARA EXECUÇÃO INTEGRAL	§1º A subcontratação poderá ser feita quando se identifique que não é usual no mercado a existência de empresas que executem de forma integral o objeto pretendido pela Administração, ou quando for usual no mercado próprio a subcontratação de determinados serviços
+
+PARCELAS COMPLEMENTARES	§2º A subcontratação deve se cingir às parcelas tecnicamente complementares, sendo proibido a subcontratação das parcelas consideradas de maior relevância técnica ou de valor mais significativo do objeto.
+
+SUBCONTRATAÇÃO INTEGRAL	§3º É vedada a subcontratação integral.
+
+PERMISSAO DA SUBCONTRATAÇÃO	§4º A permissão da subcontratação, com a definição das parcelas aptas a serem subcontratadas e respectiva exigência de capacidade técnica de cada parcela do objeto, devem constar da minuta contratual e as justificativas técnicas da subcontratação devem ser elaboradas pela Equipe de Planjemento da Contratação na confecção do Estudo Técnico Preliminar e Termo de Referência
+
+DOCUMENTAÇÃO COMPROBATORIA	§5º Nas subcontratações a Administração deve exigir do contratado a documentação que comprove a capacidade técnica do subcontratado, relativamente à parte subcontratada do objeto, para que seja apreciada e aprovada a conformidade com as exigências editalícias pelo(a) Gestor(a) do Contrato, e juntada aos autos do processo correspondente
+
+Art. 122. Na execução do contrato e sem prejuízo das responsabilidades
+
+contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela
+
+Administração.
+
+Observações Manual de Contratações TI (CNJ)
+
+O Termo de Referência, a critério da Área Demandante da solução ou da Área de TIC, poderá ser disponibilizado em consulta ou audiência pública, a fim de avaliar a completude e a coerência da especificação dos requisitos, a adequação e a exequibilidade dos critérios de aceitação.
+
+A área administrativa, quando acionada, verificará a conformidade do Termo de Referência produzido durante a fase de planejamento com os aspectos administrativos aplicáveis, os quais fundamentarão as decisões das demais áreas do órgão envolvidas no processo de contratação.
+
+A área administrativa deverá informar aos integrantes das áreas demandantes e técnica quando não constarem nos documentos as devidas informações.
+
+A instrução normativa 73, de 5 de agosto de 2020 servirá como orientação para realizar o procedimento administrativo de pesquisa de preços para contratação de bens e serviços de TIC.
+
+Reembolsar despesas com transporte, viagens, hospedagem e outros custos operacionais, que deverão ser de exclusiva responsabilidade da empresa contratada, exceto quando indicadas no Termo de Referência (TR), é compreendido como uma vedação nas contratações.
+
+À luz dos Acórdãos nº 1508/2020 e 1541/2022, ambos do Plenário do TCU e seus respectivos relatórios de auditoria, recomenda-se a observância dos seguintes elementos, no Termo de Referência, condicionantes das novas celebrações de contratos:
+
+a) não utilizar métrica cuja medição não seja passível de verificação, pois afronta o disposto na Súmula TCU 269;
+
+b) evitar o uso da métrica UST para a contratação de serviços de suporte contínuo de infraestrutura de TI, pois esse serviço não gera resultados ou produtos aferíveis pelo contratante e, portanto, não se coaduna com o disposto na Súmula TCU 269;
+
+c) avaliar, durante o planejamento da contratação, alternativas à métrica UST, bem como documentar as justificativas da escolha;
+
+d) na pesquisa de preços para contratação de serviços medidos por UST, para além da simples comparação de valores, avaliar as características das contratações para fins de se averiguar a similaridade dos serviços e a composição dos custos unitários.
+
+e) especificar no Catálogo apenas serviços diretamente vinculados aos resultados esperados da contratação, não se permitindo o pagamento individualizado por serviços intermediários;
+
+f) constar no Catálogo de Serviços apenas itens relacionados ao objeto da contratação;
+
+g) prever divulgação ampla do Catálogo de Serviços, incluído o valor contratado de cada serviço, e mantê-lo acessível e disponível a seus usuários;
+
+h) estabelecer no Termo de Referência as regras e procedimentos para eventuais alterações no Catálogo de Serviços, a ser formalizadas por meio de aditivo contratual e serem compatíveis com o núcleo do objeto da contratação, respeitado em todo caso o limite máximo de 25% do volume total de unidades de serviço previsto no contrato;
+
+i) apresentar no Catálogo de Serviço o respectivo valor monetário estimado de cada serviço, independentemente da métrica ou unidade utilizada;
+
+j) constar no Termo de Referência e no Catálogo de Serviços, para a suficiente caracterização do serviço a ser licitado, no mínimo, os seguintes elementos:
+
+i. nome do serviço;
+
+ii. descrição detalhada do serviço, dos respectivos entregáveis e atividades;
+
+iii. qualificação dos profissionais necessários;
+
+iv. esforço necessário à execução dos serviços;
+
+v. prazo e quantitativo estimado;
+
+k) elaborar e divulgar memória de cálculo que justifique, de maneira a estimular a competitividade do respectivo certame licitatório, para cada serviço previsto:
+
+i. o quantitativo de esforço;
+
+ii. o quantitativo de unidades de serviço estimado; e
+
+iii. o fator de ponderação utilizado.
+
+l) exigir o fornecimento à Administração da planilha de custo e formação de preço pelo vencedor da licitação, juntamente com a proposta de preços, de maneira a minimizar o risco de sobrepreço
+
+m) elaborar planilha de custo e formação de preço, na fase de planejamento da contratação, com o objetivo de calcular o valor estimado da contratação, que, se for o caso, constará no Termo de Referência;
+
+n) avaliar a economicidade dos preços estimados e contratados, com vistas a mitigar a assimetria de informações e o risco de sobrepreço e de superfaturamento, realizando:
+
+i. análise crítica da composição de preços unitários e do custo total estimado da contratação;
+
+ii. análise da planilha de composição de custos e formação de preços dos serviços;
+
+análise do fator-k.
+
+
+
+Art. 9o É vedado nas contratações: 
+
+I – estabelecer vínculo de subordinação com funcionários da empresa  contratada; 
+
+II – fixar em edital a remuneração dos funcionários da contratada, salvo  nas hipóteses prevista nos incisos VIII e IX;
+
+III – indicar pessoas para compor o quadro funcional da empresa  contratada;
+
+IV – demandar a execução de serviços ou tarefas estranhas ao objeto da  contratação, mesmo que haja anuência do preposto ou da própria contratada;
+
+V – prever exigências em edital que constituam intervenção indevida da  Administração na gestão interna dos fornecedores;
+
+VI – prever exigências em edital para que os fornecedores apresentem em  seus quadros a documentação de funcionários previamente à assinatura do contrato, com  o objetivo de aferir a qualificação técnica ou a formação da equipe que prestará os 
+
+serviços contratados;
+
+VII – prever em edital exigência para que os fornecedores apresentem em  seus quadros funcionários capacitados ou certificados para o fornecimento da solução  antes da contratação;
+
+VIII – adotar a métrica homem-hora ou equivalente para aferição de  esforço, salvo mediante justificativa e sempre vinculada à entrega de produtos de acordo  com prazos e qualidade previamente definidos;
+
+IX – contratar por postos de trabalho alocados, salvo os casos justificados  mediante a comprovação obrigatória de resultados compatíveis com o posto previamente 
+
+definido;
+
+X – fazer referências, em edital ou em contrato, a regras externas de  fabricantes, fornecedores ou prestadores de serviços que possam acarretar alteração 
+
+unilateral do contrato por parte da contratada.
+
+Parágrafo único. No caso dos incisos VIII e IX deste artigo,  excepcionalmente, a remuneração em edital deverá ser fundamentada por meio de estudo  que demonstre objetivamente e diante da realidade de mercado que tal exigência seja 
+
+representada condição indispensável para viabilizar a alocação dos profissionais com 
+
+qualificação compatível com o perfil e os níveis de serviço exigidos para a execução do 
+
+contrato.
+
+Art. 10.  É obrigatória a execução da fase de planejamento da contratação 
+
+de STIC, independentemente do tipo de contratação, inclusive nos casos de: 
+
+I – inexigibilidade;		
+
+II – dispensa de licitação ou licitação dispensada;		
+
+III – criação ou adesão à ata de registro de preços de outro órgão ou 
+
+entidade;		
+
+IV – contratações com uso de recursos financeiros de organismos 
+
+internacionais; 		
+
+V – contratação de empresas públicas de TIC; 		
+
+VI – termos de cooperação, convênios e documentos afins com uso de  recursos financeiros de instituições nacionais.		
+
+
+
+	15
+
+	Atualizar Mapa de Gerenciamento de Riscos
+
+	Atualizar Mapa de Gerenciamento de Riscos com riscos identificados.
+
+	Equipe de Planejamento da Contratação
+
+	ARTEFATO II – MAPA DE GERENCIAMENTO DE RISCOS
+
+	16
+
+	Aprovar e assinar Termo de Referência.
+
+	Aprovar e assinar Termo de Referência.
+
+	Equipe de Planejamento da Contratação
+
+	
+
+	17
+
+	Aprovar e assinar Termo de Referência
+
+	Aprovar e assinar Termo de Referência.
+
+	Autoridade Máxima da Área de TIC
+
+	
+
+	18
+
+	Aprovar e assinar Termo de Referência
+
+	Aprovar e assinar Termo de Referência.
+
+	Autoridade competente
+
+	
+
+
+
+
+
+2
+
+2Versão 1.1 – 18/01/2024
+
+
+
+|

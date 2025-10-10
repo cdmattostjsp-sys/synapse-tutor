@@ -1,0 +1,2418 @@
+ 
+ 
+Página 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL DE ADIANTAMENTO  
+Exercício  | 2025 | 
+ 
+ 
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Orçamento e Finanças  
+ 
+SOF  
+ 
+ 
+Página 2 
+SUMÁRIO  
+1. ASPECTOS GERAIS, CONTÁBEIS E ORÇAMENTÁRIOS  ................................ ................................ ...............................  4 
+1.1. Definições  ................................ ................................ ................................ ................................ ................................ ... 4 
+1.2. Siglas  ................................ ................................ ................................ ................................ ................................ ...........  5 
+1.3. Legislação  ................................ ................................ ................................ ................................ ................................ ... 5 
+1.4. Adiantamentos Mensais  ................................ ................................ ................................ ................................ ............  6 
+1.5. Fonte dos Recursos  ................................ ................................ ................................ ................................ ....................  7 
+1.6. Tipos de Despesas  ................................ ................................ ................................ ................................ ......................  7 
+1.7. Limites de Valores  ................................ ................................ ................................ ................................ ......................  7 
+2. ABERTURA, ALTERAÇÃO E ENCERRAMENTO DA CONTA DE ADIANTAMENTO  ................................ ......................  8 
+2.1. Abertura de conta de adiantamento  ................................ ................................ ................................ ........................  8 
+2.2. Alteração de cossignatário (s) para emissão de cheque  ................................ ................................ .........................  8 
+2.3. Encerramento de conta de adiantamento  ................................ ................................ ................................ ...............  8 
+2.4. Alteração de titularidade  ................................ ................................ ................................ ................................ ...........  8 
+2.5. Cadastro do protocolo digital ................................ ................................ ................................ ................................ .... 9 
+2.6. Documentos a serem anexados  ................................ ................................ ................................ .............................. 10 
+2.7. Envio do protocolo digital.  ................................ ................................ ................................ ................................ ......11 
+3. DESPESAS  ................................ ................................ ................................ ................................ ................................ .12 
+3.1. Gêneros Alimentícios  ................................ ................................ ................................ ................................ ............... 12 
+3.2. Peças, Acessórios e Componentes de Informática  ................................ ................................ ................................ 13 
+3.3. Materiais de Consumo  ................................ ................................ ................................ ................................ ............ 13 
+3.4. Serviços de Limpeza  ................................ ................................ ................................ ................................ ................. 13 
+3.5. Dedetização, Desinsetização e Desratização ................................ ................................ ................................ .......... 14 
+3.6. Alimentação e/ou Hospedagem  ................................ ................................ ................................ ............................. 14 
+3.7. Conservação e Manutenção de Bens Imóveis ................................ ................................ ................................ ........ 15 
+3.8. Conservação e Manutenção de Bens Móveis e Equipamentos:  ................................ ................................ ........... 16 
+3.9. Outros Serviços e Encargos  ................................ ................................ ................................ ................................ .....17 
+3.10.  Despesas Vedadas  ................................ ................................ ................................ ................................ ................... 18 
+4. RETENÇÕES NA FONTE  ................................ ................................ ................................ ................................ ............ 21 
+4.1. ISSQN  ................................ ................................ ................................ ................................ ................................ ........ 21 
+4.2. INSS  ................................ ................................ ................................ ................................ ................................ ........... 22 
+4.3. IRRF  ................................ ................................ ................................ ................................ ................................ ........... 23 
+4.4. CSLL, COFINS, PIS/PASEP  ................................ ................................ ................................ ................................ ......... 23 
+4.5. MEI ................................ ................................ ................................ ................................ ................................ ............ 23 
+4.6. Escrituração das Notas Fiscais ................................ ................................ ................................ ................................ .23 
+5. FORMALIZAÇÃO DO PROCESSO DE PRESTAÇÃO DE CONTAS  ................................ ................................ ............... 26 
+5.1. Autuação  ................................ ................................ ................................ ................................ ................................ ..26 
+5.2. Tarefas  ................................ ................................ ................................ ................................ ................................ ......26 
+5.3. Disposição/Ordem dos Documentos  ................................ ................................ ................................ ...................... 27 
+5.4. Digitalização dos Documentos  ................................ ................................ ................................ ................................ 28 
+ 
+ 
+Página 3 
+5.5. Balancete de Prestação de Contas  ................................ ................................ ................................ ......................... 29 
+5.6. Despesas Documentadas (no Balancete)  ................................ ................................ ................................ ............... 30 
+5.7. Orçamentos  ................................ ................................ ................................ ................................ .............................. 31 
+5.8. Consulta Cadastral  ................................ ................................ ................................ ................................ ................... 32 
+5.9. Resultado da Pesquisa de Preço  ................................ ................................ ................................ ............................. 34 
+5.10.  Documentos Fiscais  ................................ ................................ ................................ ................................ ................. 35 
+5.11.  Consulta de Autenticidade dos Documentos Fiscais Eletrônicos  ................................ ................................ .......... 36 
+5.12.  Ateste  ................................ ................................ ................................ ................................ ................................ .......38 
+5.13.  Pagamento (com cheque)  ................................ ................................ ................................ ................................ .......39 
+5.14.  Quitação (de pagamento com cheque)  ................................ ................................ ................................ .................. 40 
+5.15.  Extrato Bancário (concessão na modalidade crédito em conta)  ................................ ................................ .......... 40 
+5.16.  Conciliação Bancária (concessão na modalidade crédito em conta)  ................................ ................................ ....40 
+5.17.  Depósito do Recolhimento do Saldo não Utilizado (concessão na modalidade crédito em conta)  ................... 41 
+5.18.  Cheque do Recolhimento do Saldo (concessão na modalidade crédito em conta)  ................................ ............ 42 
+5.19.  Reversão de valores recolhidos incorretamente  ................................ ................................ ................................ ...42 
+6. REQUISIÇÃO DE ADIANTAMENTO ESPORÁDICO  ................................ ................................ ................................ ....44 
+6.1. Cadastro do protocolo digital ................................ ................................ ................................ ................................ ..44 
+6.2. Documentos a serem anexados  ................................ ................................ ................................ .............................. 46 
+6.3. Envio do protocolo digital  ................................ ................................ ................................ ................................ .......47 
+6.4. Envio dos recursos financeiros  ................................ ................................ ................................ ................................ 48 
+7. FORMULÁRIOS E MODELOS  ................................ ................................ ................................ ................................ ....49 
+7.1. Requisição de Adiantamento  ................................ ................................ ................................ ................................ ..50 
+7.2. Balancete de Prestação de Contas  ................................ ................................ ................................ ......................... 51 
+7.3. Resultado da Pesquisa de Preços  ................................ ................................ ................................ ............................ 52 
+7.4. Conciliação Bancária  ................................ ................................ ................................ ................................ ................ 53 
+7.5. Comprovante de Recolhimento do Saldo – Tesouro  ................................ ................................ ............................. 54 
+7.6. Comprovante de Recolhimento do Saldo – FED ................................ ................................ ................................ ....55 
+7.7. Memorando de Reversão  ................................ ................................ ................................ ................................ ........ 56 
+7.8. Relatório de Viagem  ................................ ................................ ................................ ................................ ................ 57 
+7.9. Recibo de Condução  ................................ ................................ ................................ ................................ ................ 58 
+7.10.  Solicitação de Orçamento  ................................ ................................ ................................ ................................ .......59 
+7.11.  Ofício para abertura de conta de adiantamento  ................................ ................................ ................................ ...60 
+7.12.  Ofício para encerramento de conta de adiantamento  ................................ ................................ .......................... 61 
+7.13.  Ofício para alteração de cossignatário  ................................ ................................ ................................ ................... 62 
+7.14.  Declaração 3,5% – INSS  ................................ ................................ ................................ ................................ ........... 63 
+7.15.  Declaração Isento – INSS  ................................ ................................ ................................ ................................ ......... 64 
+7.16.  Recibo de Quitação  ................................ ................................ ................................ ................................ .................. 65 
+ 
+  
+ 
+ 
+Página 4 
+1. ASPECTOS GERAIS , CONTÁBEIS E ORÇAMENTÁRIOS  
+O presente manual tem por finalidade orientar os responsáveis pelos adiantamentos e os administradores quanto 
+ao uso dos recursos disponibilizados, ao cumprimento da legislação vigente, ao atendimento aos órgãos 
+fiscalizadores e às demais determinações da E. Presidência do Tribunal de Justiça do Estado de São Paulo.  
+No âmbito do Tribunal de Justiça do Estado de São Paulo, o regime de adiantamento é regulamentado pela Portaria 
+n.º 10.411/2024 e disciplinado pelas Instruções SOF n.º 02/2024. Esse regime consiste na entrega de recursos 
+financeiros a magistrado ou servido r, com o objetivo de cobrir despesas com materiais ou serviços que não possam 
+ser realizadas pelo regime normal de despesa (licitação ou compra/contratação por dispensa de licitação).  
+As determinações da E. Presidência, as normas e demais orientações estão disponíveis na Intranet, no endereço:  
+Adiantamento (sharepoint.com) . 
+Os responsáveis pelos adiantamentos deverão verificar a finalidade do adiantamento concedido, observando se as 
+despesas se enquadram nas descritas neste manual.  
+ O uso do regime  de adiantamento  não exclui  nem  se sobrepõe  ao cumprimento  de quaisquer  outras  
+normas  vigentes  no âmbito  do Tribunal  de Justiça  do Estado  de São Paulo  ou da legislação  aplicável.  
+1.1. Definições  
+Seguem algumas das definições mais relevantes, utilizadas neste manual . 
+▪ Empenho: Autorização do ordenador de despesa, cuja contabilização e formalização ocorre por meio da  
+emissão do documento Nota de Empenho.  
+▪ Nota de Empenho: Documento contábil utilizado para registrar operações que envolvem o primeiro 
+procedimento de execução de despesas orçamentárias.  
+▪ Ordem Bancária: Documento destinado ao pagamento e à liberação de recursos em contas bancárias.  
+▪ Ordenador de despesa: A utoridade responsável por autorizar gastos dentro de uma entidade 
+governamental . 
+▪ Prazo para utilização:  É o período previsto para a realização das despesas.  
+▪ Prestação de contas: Comprovação e demonstração da regularidade das despesas  realizadas.  
+▪ Processo digital: Sucessão de atos registrados e disponibilizados em meio eletrônico, integrado por 
+documentos nato -digitais ou digitalizados.  
+▪ Processo normal de aplicação: Licitação ou contratação/compra por dispensa ou inexigibilidade de 
+licitação, conforme legislação vigente.  
+▪ Protocolo digital: Serviço de protocolização eletrônica que possibilita a entrega de documentos, sem a 
+necessidade de se deslocar fisicamente até uma unidade de protocolo ou enviar correspondência postal.  
+▪ Responsável pelo adiantamento: Credor da Nota de Empenho , designado pelo ordenador de despesas  (não 
+se estendendo aos cossignatários da conta bancária) . 
+▪ Servidor em alcance: É aquele que não apresentou a prestação de contas no prazo estabelecido ou não 
+atendeu notificação para regularização visando a aprovação das despesas verificadas na prestação de 
+contas.  
+▪ Signatário: Que assina ou escreve o próprio nome em um documento. Cossignatário, é a quele que “assina 
+junto”.  
+
+ 
+ 
+Página 5 
+▪ Serviços de manutenção  predial : “Serviços que são direcionados à conservação e a recuperação do 
+desempenho de sistemas e elementos da edificação e não tem como finalidade a execução de reformas 
+e/ou alteração dos mesmos .” (definição da Portaria n.º 9.817/2019)  
+1.2. Siglas  
+Relação de siglas utilizadas neste manual . 
+▪ BEC/SP: Bolsa Eletrônica de Compras / SP  
+▪ CADESP: Cadastro de Contribuinte de ICMS do Estado de São Paulo  
+▪ CC-e: Carta de Correção Eletrônica  
+▪ CGE: Cont adoria  Geral do Estado  
+▪ DANFE: Documento Auxiliar da Nota Fiscal Eletrônica  
+▪ NE: Nota de Empenho  
+▪ NF: Nota Fiscal  
+▪ NFC-e: Nota Fiscal de Consumidor Eletrônica  
+▪ NF-e: Nota Fiscal Eletrônica.  
+▪ NFS-e: Nota Fiscal de Serviço Eletrônica.  
+▪ NFVC -Online: Nota Fiscal de Venda a Consumidor Online  
+▪ PDF: Portable Document Format  
+▪ SIAFEM: Sistema Integrado de Administração Financeira de Estados e Municípios  
+▪ SINTEGRA: Sistema Integrado de Informações sobre Operações Interestaduais com Mercadorias e Serviços  
+▪ TJSP: Tribunal de Justiça do Estado de São Paulo  
+▪ UG: Unidade Gestora  
+1.3. Legislação  
+De acordo com o artigo 68 da Lei Federal n.º 4.320/1964 , o adiantamento : 
+▪ “É aplicável  aos casos de despesas expressamente definidos em lei ”. No âmbito do Estado de São Paulo, a 
+legislação que regulamenta o regime de adiantamento, é a Lei Estadual n.º 10.320/1968 e o Decreto  
+Estadual n.º 53.980/2009 . 
+▪ “Consiste na entrega de numerário a servidor ”, ou seja, refere -se ao ato de entregar recursos financeiros . 
+No âmbito do Tribunal de Justiça do Estado de São Paulo, a entrega dos recursos financeiros  ocorre no 
+momento do crédito na conta bancária destinada ao recebimento de adiantamento sob a titularidade do 
+servidor . 
+▪ “Sempre precedida de empenho na dotação própria ”. O empenho é a autorização do ordenador de 
+despesa, cuja contabilização e formalização ocorre por meio  da emissão do documento Nota de Empenho . 
+▪ “Para o fim de realizar despesas, que não possam subordinar -se ao processo normal de aplicação ”. O 
+processo normal de aplicação é o processo licitatório ou a contratação/compra por dispensa  ou 
+inexigibilidade  de licitação , conforme legislação vigente.  
+Os artigos  38 e 41 da Lei Estadual n.º 10.320/1968 , o artigo 8º do Decreto  Estadual n.º 53.980/2009, e o art. 69 
+da Lei Federal n.º 4.320/1964, impõe m as seguintes restrições , que podem ou não serem cumulativas : 
+ 
+ 
+Página 6 
+▪ “Não se fará adiantamento para despesa já realizada ”. Ou seja, nenhum valor será enviado para 
+pagamento de quaisquer aquisições  ou serviços já realizados.  O empenho e o crédito do recurso têm  que 
+vir sempre antes da realização da despesa . 
+▪ “Nem se permitirá que se efetuem despesas maiores do que as quantias já adiantadas ”. Não existe previsão 
+de suplementação de valores já enviados.  
+▪ “Não se fará novo adiantamento a quem do anterior não haja prestado contas, no prazo legal ”. Apesar do 
+disposto no art. 44 da Lei Estadual n.º 10 .320/1968, as Instruções SOF n.º 02/2024 preveem que a 
+prestação de contas seja entregue no prazo máximo de 10 (dez) dias corridos  a partir do encerramento do 
+prazo para utilização  do adiantamento.  
+▪ “Não se fará novo adiantamento a quem, dentro de 30 (trinta) dias, deixar de atender a notificação para 
+regularizar prestação de contas” .  
+▪ “Não se fará adiantamento a servidor em alcance ”, ou seja, cuja prestação de contas não foi entregue ou 
+não atendeu notificação para regularização dentro do s prazo s estabelecido s. 
+▪ “Nem (se fará adiantamento) a responsável por dois adiantamento s”. O SIAFEM ( Sistema Integrado de 
+Administração Financeira de Estados e Municípios ) somente processará novo adiantamento após a baixa 
+da responsabilidade pelo s adiantamento s em aberto.  
+O art igo 5º do Decreto Estadual n.º 53.980/2009 determina que  a “concessão do adiantamento será 
+formalizada por meio de requisição de adiantamento e corresponderá a um só empenho ”. 
+Requisição   Nota de Empenho   Adiantamento  
+O § 3º do art igo 17 do Decreto Estadual n.º 53.980/2009, determina que  “o saldo do adiantamento não utilizado 
+deverá ser recolhido em 5 (cinco) dias corridos após o encerramento do prazo para utilização” . Caso o 5º dia 
+corrido não seja dia útil, o recolhimento deve ser antecipado.  
+    
+1.4. Adiantamento s Mensa is 
+As requisições dos adiantamentos concedidos mensalmente serão formalizadas mediante consulta enviada 
+pela SOF, cujo link para acesso ao formulário será encaminhado por e -mail. Após o término do prazo para 
+preenchimento do formulário, caso haja necessidade, as requisições poderão ser enviadas por e -mail para o 
+endereço sof4.1@tjsp.jus.br, utilizando o modelo do item 7.1 deste manual.  
+Os valores dos adiantamentos respeitarão o cronograma de desembolso e corresponderão ao valor mensal 
+previamente autorizado pelo ordenador de despesa.  
+No âmbito do Tribunal de Justiça do Estado de São Paulo, o prazo para utilização dos adiantamentos concedidos 
+mensalmente é fixado na nota de empenho e é improrrogável (§ 1º do art. 42 da Lei Estadual n.º 10.320/1968). 
+Esse prazo se inicia com o recebiment o do recurso e se encerra no último dia do mês para o qual o 
+adiantamento foi concedido.  
+
+ 
+ 
+Página 7 
+ Exemplo : Adiantamento mensal para o mês de janeiro, com data de crédito em 
+20/01/202 5. A partir da data do crédito, o último dia do prazo para utilização , será 
+dia 31/01 /202 5. 
+1.5. Fonte dos Recursos  
+Deve ser observada a fonte de recursos informada na Nota de Empenho , que pode ser:  
+▪ Tesouro  (UG 030101 ) 
+▪ Fundo Especial de Despesas – FED (UG 030030 ) 
+1.6. Tipos de  Despesas  
+No âmbito do Tribunal de Justiça do Estado de São Paulo, os tipos de despesas que podem correr pelo regime 
+de adiantamento  são: 
+▪ Despesas de pequeno vulto , desde que  especifica da e fundamenta da a necessidade de cada despesa 
+realizada , conforme art. § 1º do art. 2º da Portaria n.º 10.411/2024 . O somatório das despesas de pequeno 
+vulto não poderá ultrapassar o valor  de R$ 6.272,55 , para a mesma nota de empenh o, sendo vedado o 
+fracionamento de despesa.  
+▪ Despesa s extraordinária s, quando caracterizada urgência/emergência de atendimento de situação que 
+possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, 
+obras, serviços, equipamentos e outros bens, públicos ou particulares.  Esse tipo de despesa não poderá 
+ultrapassar o valor de R$ 12.545,11 , sendo vedado o fracionamento de despesa . 
+Para a realização das diversas despesas, deve ser observado  o item 3 deste manual , com atenção especial  às 
+situações em que exista algum  tipo de  vedação . 
+ Por determinação da E. Presidência,  os materiais de manutenção predial listados  pela SAAB (fl. 
+415/463  do Processo n.º 2021/130805 ) somente poderão ser adquiridos na forma de despesa 
+extraordinária , conforme art. 3º, inciso II, da Portaria n.º 10.411/2024.  
+Em caso de dúvidas, contatar a SOF  através do e -mail sof4.1@tjsp.jus.br .  
+1.7. Limites de Valores  
+Os limites em vigor  para o exercício de 2025, conforme o art. 3º da Portaria n.º 10.411/2024 , são : 
+▪ R$ 6.272,55  para despesas de pequeno vulto . Lembrando que o  somatório das despesas de pequeno vulto 
+não poderá ultrapassar esse valor, para a mesma nota de empenho .  
+▪ R$ 12.545,11  para despesa extraordinária, quando caracterizada urgência /emergência  de atendimento de 
+situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a 
+segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares , por despesa . 
+▪ R$ 62.725,59  para dispensa de licitação.  O somatório das despesas com serviços, bens ou materiais de 
+mesma natureza não poderá ultrapassar o limite de dispensa de licitação, para cada unidade 
+administrativa, ao longo do mesmo exercício financeiro . 
+  
+
+ 
+ 
+Página 8 
+2. ABERTURA, ALTERAÇÃO E ENCERRAMENTO DA CONTA DE ADIANTAMENTO  
+Para as solicitações de abertura, alteração e encerramento de conta bancária de adiantamento, o responsável pelo 
+adiantamento deverá realizar o cadastro de protocolo digital , com a inserção do ofício , preferencialmente assinados 
+digitalmente.  Deve ser autuado um protocolo digital para cada ofício . 
+Os ofícios devem seguir os modelos constantes neste manual  e estarão disponíveis para download na intranet e 
+dever ão ser assinado s pelo superior hierárquico ( GADE e prédios administrativos da Capital ) ou magistrado ( Fóruns  
+Distritais e Regionais ). 
+Os protocolo s deve m ser encaminhado s para a SOF 4.1 – Coordenadoria de Tomada de Contas, Normas e 
+Fiscalização.  
+2.1. Abertura de conta de adiantamento  
+Para a abertura da conta de adiantamento, na qual os recursos financeiros serão depositados, é necessária a 
+indicação de um servidor que será o titular da conta e responsável pelo adiantamento, além de dois outros 
+servidores como signatários autorizados para emissão de cheques e movi mentação da conta, conforme o art. 
+2º da Instrução SF -CGE n.º 4, de 15/07/2011.  
+O envio dos recursos financeiros somente será possível após a conclusão da abertura e habilitação da conta de 
+adiantamento. A realização das despesas é permitida apenas após o envio dos recursos financeiros.  
+2.2. Alteração de cossignatário (s) para emissão de cheque  
+Visto que os cheques para movimentação da conta devem sempre conter duas assinaturas, conforme o art. 13 
+do Decreto 53.980/2009 e o art. 6º da Instrução CGE n.º 04/2011, a substituição dos cossignatários  deve ser 
+solicitada por meio de Ofício, contendo os dados referentes à substituição.  
+Importante: Os cossignatários não são responsáveis pelo adiantamento e não substituem o titular da Nota de 
+Empenho, conforme o art. 9º da Instrução CGE n.º 04/2011. Suas funções e responsabilidades restringem -se à 
+assinatura dos cheques para movimentação da conta, cuja substituição não  implica em abertura ou 
+encerramento de conta.  
+2.3. Encerramento de conta de adiantamento  
+O encerramento da conta dependerá da entrega da prestação de contas de qualquer adiantamento concedido 
+em aberto , bem como do atendimento de eventuais pedidos de regularização.  
+Tanto a entrega da prestação de contas e regularização de eventuais pendências, quanto a solicitação de 
+encerramento da conta de adiantamento, devem ser realizadas  antes  do desligamento  (nos casos de 
+aposentadoria ou exoneração  do quadro de servidores do TJSP ) ou afastamento  (licenças ou férias por períodos 
+prolongados ) do (a) servidor (a).  
+Após o encerramento da conta, não será possível o envio de qualquer recurso financeiro.  
+2.4. Alteração de titularidade  
+A alteração de titularidade será realizada, em conformidade com o art. 12 da Instrução CGE n.º 04/2011, por 
+meio das solicitações de abertura da conta de adiantamento para o novo responsável e de encerramento da 
+conta de adiantamento do responsável anterior.  
+Abertura  da conta do  
+novo responsável  + Encerramento  da conta  do 
+antigo responsável  = Alteração  
+ de titularidade  
+O envio do s recursos financeiros  será possível  somente  após  a conclusão da abertura e habilitação da conta de 
+adiantamento do novo titular . A realização das despesas será permitida apenas após a disponibilização dos 
+recursos financeiros.  
+ 
+ 
+Página 9 
+2.5. Cadastro do protocolo digital  
+▪ Entrar no SAJADM, Módulo CPA, Clicar em “Cadastro de protocolo” (atenção, não clicar em “Cadastro de 
+processo”)  
+ 
+▪ “Definição de dados”  
+→ Setor responsável: Selecionar a opção   
+→ Assunto principal: 299 – Adiantamento  
+ 
+▪ “Dados do Protocolo”  
+→ Setor de origem: Selecionar a opção   
+→ Tipo de processo: Administrativo  
+→ Detalhamento do assunto:  
+➢ Para abertura de conta: Solicitação de abertura de conta de adiantamento.  
+➢ Para encerramento de conta: Solicitação de encerramento de conta de adiantamento.  
+➢ Para alteração de cossignatário (s): Solicitação de alteração de cossignatário (s) autorizado (s) para 
+emissão de cheque.  
+→ Palavra -chave: deixar em branco  
+→ Tarjas: deixar em branco  
+→ Município: Preenchimento automático pelo sistema  
+
+ 
+ 
+Página 10 
+ 
+▪ “Dados de identificação”  
+→ Interessado: Responsável pelo adiantamento. Nos casos de abertura de conta para alteração de 
+titularidade, cadastrar o (a) servidor (a) que será o novo responsável pelo adiantamento.  
+→ Envolvimento: Interessado  
+ 
+▪  “Controle de acesso”  
+→ Tipo de sigilo: Público  
+ 
+▪ Concluir o cadastro clicando no botão   
+2.6. Documentos a serem anexados  
+▪ Para abertura de conta:  
+✓ Ofício conforme o modelo do item 7.11 deste manual .  
+▪ Para encerramento de conta:  
+✓ Ofício conforme o modelo do item 7.12 deste manual .  
+✓ Extrato da conta com saldo zerado.  
+▪ Para alteração de cossignatário (s ) para emissão de cheque : 
+✓ Ofício conforme o modelo do item 7.13 deste manual . 
+
+ 
+ 
+Página 11 
+2.7. Envio do protocolo digital.  
+Os protocolos digitais deverão ser encaminhados para a SOF 4.1 – Coordenadoria de Tomada de Contas, 
+Normas e Fiscalização por meio de tramitação no módulo CPA do SAJADM.  
+▪ “Dados do Encaminhamento”  
+→ Motivo tramitação: 7 – Para providências  
+→ Tipo encaminhamento: 37 – Ofício  
+→ Encaminhamento:  
+➢ Para abertura de conta: Solicitação de abertura de conta de adiantamento.  
+➢ Para encerramento de conta: Solicitação de encerramento de conta de adiantamento.  
+➢ Para alteração de cossignatário (s): Solicitação de alteração de cossignatário (s) autorizado (s) para 
+emissão de cheque.  
+ 
+▪ “Próxima Tarefa”  
+→ Prazo (dias): deixar em branco  
+→ Término do prazo: deixar em branco  
+→ Tarefa: Encaminha para outro setor  
+→ Setor: SOF 4.1 – Coordenadoria de Tomada de Contas, Normas e Fiscalização  
+→ Usuário: deixar em branco  
+→ Clicar no botão   
+ 
+  
+
+ 
+ 
+Página 12 
+3. DESPESAS  
+O uso do regime  de adiantamento abrange as despesas relacionadas a seguir, independentemente do tipo de 
+documento fiscal emitido, se nota fiscal de serviço ou de venda, pois será considerada a  essência ao invés da forma, 
+na realização das despesas (§ 1º, do art. 6º, da Portaria 9.201/2015 ). 
+Os adiantamentos concedidos para itens de despesas específic os, devem obedecer às condições autorizadas.  
+Antes de realizar as despesas, o s serviços de Administração, deverão:  
+▪ Verificar as vedações alistadas no item 3 das Instruções SOF n.º 02/2024 . 
+▪ Planejar, reunindo as necessidades de materiais por período , diminuindo o número de compras de mesma 
+natureza  em um mesmo período,  sempre que possível, racionalizando as aquisições e os atestes de 
+recebimento.  
+▪ Manter registro de controle do estoque, não efetuando compras sem antes fazer um planejamento eficaz , pois 
+os materiais comprados pelo regime de adiantamento  não se destinam a formação de estoque . 
+▪ Reunir todos os serviços e materiais necessários para atender uma mesma demanda, evidenciando o valor total 
+da despesa e evitando o fracionamento de despesa . 
+▪ Verificar se existem outros meios para atendimento  da referida demanda, tais como: Almoxarifado Central, Rede 
+de Suprimentos, atas de registro de preços, contratos vigentes e eventual apólice de seguro do tipo risco 
+nomeado para cobertura de sinistro relacionado.  
+→ Almoxarifado Central: Almoxarifado Central (sharepoint.com)  
+→ Atas de Registro de Preços e Contratos: esaj.tjsp.jus.br/ctoPtl/abrirConsultaContratos.do  
+→ Rede de Suprimentos: Rede de Suprimentos (sharepoint.com)  
+Ao realizar a despesa, d everá ser obedecida a sequência cronológica dos eventos , cumprindo todos os  passo s: 
+Passo 1:  Verificar todos os materiais e serviços necessários, inclusive as quantidades necessárias.  
+Passo 2:  Fazer a pesquisa de preços, conforme item 5.7 . 
+Passo 3:  Fazer as consultas cadastrais das empresas, conforme item 5.8.  
+Passo 4:  Elaborar o Resultado da Pesquisa de Preços, conforme item 5.9.  
+Passo 5:  Entrega dos materiais ou execução  dos serviços, acompanhada da respectiva nota fiscal.  
+Passo 6:  Verificar se os materiais ou serviços descritos na nota fiscal conferem com os materiais entregues ou com 
+os serviços executados, se correspondem ao s materiais ou serviços solicitados  e se foram fornecidos ou 
+executados  à contento , conforme item 5.10 . 
+Passo 7:  Fazer a consulta de autenticidade da nota fiscal, conforme item 5.11.  
+Passo 8:  Fornecer os atestes nas notas fiscais, conforme item 5.12 . 
+Passo 9:  Emitir o cheque e fazer o pagamento, conforme item 5.13.  
+Passo 10:  Quitação  por parte da empresa , conforme item 5.14.  
+3.1. Gêneros Alimentícios  
+Podem ser comprados  produtos alimentícios que tenham relação com a atividade jurisdicional prestada pela 
+Unidade,  enquanto não cobert os por contrato  e não relacionadas na Rede de Suprimentos ( Catálogo de 
+Gêneros Alimentícios (sharepoint.com) ). 
+ 
+ 
+Página 13 
+Para aquisições de água mineral em galões  para servidores e magistrados, os responsáveis deverão primeiro 
+verificar a existência de contrato vigente para este fim  (esaj.tjsp.jus.br/ctoPtl/abrirConsultaContratos.do ). Caso 
+exista, a despesa não poderá correr pelo regime de adiantamento.  
+As despesas com alimentação/refeição em sessões de júri  devem seguir em conformidade com o item 3.6. 
+3.2. Peças, Acessórios e Componentes de Informática  
+O regime  de adiantamento não prevê gastos com reparos e/ou reposição de peças de informática , uma vez que 
+esses gastos estão previstos nos contratos de  manutenção dos equipamentos de informática e de locação das 
+impressoras.  
+Para aquisição de materiais  classificados no SIAFÍSICO ou BEC /SP como de informática, primeiro  devem ser 
+direcionados para o correio eletrônico institucional da Unidade STI Responsável pelo imóvel 
+(https://www.tjsp.jus.br/APP/ConsultaContatosApoioUsuario ), os pedidos de manifestação técnica da real 
+necessidade dos materiais . Caso não seja consta da a real necessidade ou exista alguma recomendação técnica 
+contrária, os materiais não devem ser adquiridos com o adiantamento.  
+Não devem ser realizadas  aquisiç ões pelo  regime de adiantamento : 
+▪ De materiais de natureza permanente que sofram controle ou incorporação patrimonial, ainda que a STI 
+tenha ratificado a real necessidade dos materiais . 
+▪ De equipamentos utilizados nas gravações de audiência como webcam, HD externo, gravador de CD/DVD, 
+microfone e caixa de som.  
+Os pontos de rede não podem ser alterados sem a devida autorização, conforme Comunicado da Egrégia 
+Presidência n.º 14/2009, publicado no DJE em 02/03/2009 . 
+3.3. Materiais de Consumo  
+Podem ser comprados materiais tais como:  óleo diesel para geradores, GLP envasado , peças de reposição e 
+acessórios, ferramentas avulsas não acionadas por força motriz, materiais de construção, e outros materiais não 
+cobertos por contratos  (esaj.tjsp.jus.br/ctoPtl/abrirConsultaContratos.do ), não relacionados na Rede de 
+Suprimentos (Rede de Suprimentos (sharepoint.com) ) ou não fornecidos pelo Almoxarifado Central  
+(Almoxarifado Central (sharepoint.com) ). 
+Para afixação  de placas de relativas à denominação do imóvel, homenagens, inaugurações ou indicativos de 
+qualquer fato ou acontecimento, é necessária  a autorização expressa do Conselho Superior da Magistratura, 
+conforme art. 4º da Resolução n.º 003/1981.  
+Todo material de consumo, deve ser lançado no Sistema ALX - Almoxarifado, de acordo com o Comunicado SOF 
+n.º 003/2023, publicados no DJE em 20/03/2023, da seguinte forma:  
+▪ Entrada 15 - Adiantamento . 
+▪ Visualizar os lançamentos de entrada no seguinte caminho: Relatórios  Por Almoxarifado  Lançamentos 
+de Entrada - Sintético. Preencher os campos: Almoxarifado, Período (De), Período (Até), Transação 15 - 
+Entrada Adiantamento. Clicar em OK. Abrir e conferir todas as entradas com as notas fiscais  originais ou 
+documentos auxiliares (transação, procedência, número do documento e valor total), corrigindo eventuais 
+divergências. Esse relatório deverá ser anexado na prestação de contas do adiantamento  onerad o. 
+Quaisquer dúvidas relativas à utilização do Sistema ALX podem ser dirimidas  na página ALX - Almoxarifado 
+(sharepoint.com) . 
+3.4. Serviços de Limpeza  
+ 
+ 
+Página 14 
+Podem ser contratados serviços que envolv am mão de obra especializada, como limpeza de caixa d'água, 
+limpeza de calhas, limpeza de fachada de prédio etc.  
+As despesas deverão conter a data da realização do último serviço dessa natureza.  
+Não deve ser contratado MEI (Microempreendedor Individual ) para esse tipo de serviço , por trata -se de 
+atividade não permitida, com base  na Resolução CGSN n.º 140, de 2018 (arts. 100, inciso I e 101, § 1º, inciso I, § 
+2º). 
+3.5. Dedetização, Desinsetização e Desratização  
+Esses serviços podem ser contratados apenas em casos de infestação  de qualquer espécie ou imposição legal , 
+devendo ser observadas as orientações contidas no Comunicado SAAB n.º 06/2020 , publicado no DJE em 
+20/10/2020 . 
+As despesas deverão conter a data da realização do último serviço dessa natureza.  
+Não devem ser comprados  inseticidas, raticidas, formicidas e similares, bem como artigos de uso pessoal como 
+repelentes e similares . 
+3.6. Alimentação e/ou Hospedagem  
+Essas despesas podem ser realizadas  desde que tenham relação com a atividade jurisdicional prestada pela 
+Unidade.  
+▪ Despesas com alimentação  e hospedagem em sessões do júri : 
+As despesas com alimentação em sessões do júri estão cobertas por contrato  e não devem ser realizadas 
+pelo regime de adiantamento .  
+No caso de inexistência de contrato ou de interrompimento dos serviços contratados, o fornecimento de 
+alimentação:  
+→ Deve ser realizado somente quando existe a necessidade de pausa para alimentação durante os 
+trabalhos em função da delonga desses, ou seja, quando haverá a continuidade dos trabalhos após o 
+horário da alimentação . 
+→ Está restrito aos 07 jurados, testemunhas não liberadas até o horário da alimentação e/ou réus presos 
+nos casos em que a Secretaria de Administração Penitenciária não enviar a alimentação ou a 
+alimentação enviada for insuficiente.  
+→ É vedado para juízes e servidores , inclusive em sessões de júri, conforme inciso II do art. 125 do 
+Regulamento Interno dos Servidores do TJSP . 
+Lembrando que, incumbe à Secretaria de Estado da Administração Penitenciária (SAP) a despesa com 
+alimentação dos réus conduzidos aos Fóruns para audiências e sessões de júri, devendo ser acionada aquela 
+Pasta mediante ofício às Unidades Prisionais, em tempo hábil , para que encaminhem os lanches e/ou 
+refeições, cabendo ao Fórum  programar com a devida brevidade junto ao Tribunal do Júri , a solicitação das 
+refeições.  
+Deve -se optar, preferencialmente, por refeições prontas do tipo lanche pronto, “marmitex” etc., e por 
+bebidas em embalagens individuais , do tipo refrigerante/suco em lata/caixinha etc., em quantidade precisa 
+e correspondente ao número de participantes em cada refeição , constando os valores “per capita”.  
+Deve -se evitar adquiri r produtos para elaboração de refeições com mobilização de funcionários (preparação 
+de tortas, bolos, sucos etc.), por ensejar despesas acessórias e fugir da atividade fim.  
+A fim de evitar aquisições desnecessárias : 
+ 
+ 
+Página 15 
+→ Os orçamentos , consultas cadastrais e o Resultado da Pesquisa de Preços, devem ser realizad os e 
+elaborad os com antecedência , ou seja, antes do dia da sessão do júri .  
+→ As aquisições devem ser concretizadas somente após a confirmação de necessidade de pausa durante 
+os trabalhos e o número de participantes  de cada alimentação . Caso a sessão seja cancelada, 
+reagendada ou se encerre antes do horário de pausa para alimentação , as aquisições não devem ser 
+feitas . 
+As despesas com hospedagem em sessões do júri são restritas aos 07 jurados, testemunhas não liberadas e 
+oficiais de justiça  que acompanharem os intimados.  
+As despesas limitam -se tão somente à hospedagem e não preveem o pagamento de despesas com consumo 
+de itens do frigobar . Caso seja necessário, poderão ser disponibilizadas garrafas ou copos de água mineral 
+fornecidas pela Rede de Suprimento ( Rede de Suprimentos (sharepoint.com) ) para consumo durante a 
+hospedagem.  
+Para o deslocamento até o local da hospedagem  e retorno, v erificar a possibilidade de utilização do 
+aplicativo “Táxi TJSP” ( Táxi TJSP (sharepoint.com)  observada a Portaria n.º 9 .683/2018  e/ou da (s) viatura 
+(s) oficiais, observada a Portaria n.º 10.170/2022 . 
+▪ Despesas com alimentação e hospedagem em viagens : 
+Podem ser realizadas despesas efetuadas em viagens  nos casos em que o adiantamento for autorizado para 
+essa finalidade . Nesses casos, dev e ser feito o saque antecipado da conta  do responsável,  para  que as 
+despesas possam ser sejam pagas.  
+São vedadas as despesas com  itens  de frigobar relativos  a guloseimas, taxa de serviços e/ou gorjetas, taxa  
+de turismo  ou room  tax, serviços de lavanderia, internet, cofre, telefonemas e outras despesas de natureza 
+pessoal e/ou particular . 
+Despesas em viagem ininterrupta, iniciada no final de um mês e concluída no início do mês seguinte, devem 
+ser lançadas na prestação de contas do mês de origem da viagem , não podendo um mesmo documento 
+integrar mais de uma prestação de contas, sempre buscando obediência ao prazo para utilização.  
+Nas despesas com táxi, deve ser mencionado o trajeto e a placa  do veículo.  
+Somente o uso da viatura oficial pode gerar despesas com combustível , devendo ser mencionada a placa, 
+chapa patrimonial e quilometragem.  
+As despesa s deve m ser acompanhada s do Relatório de Viagem , conforme o  item  7.9 deste manual . 
+3.7. Conservação e Manutenção de Bens Imóveis  
+Podem ser realizadas despesas com conservação e manutenção predial, desde que rigorosamente observadas 
+as orientações contidas na Portaria n.º 9 .817/2019, publicada no DJE em 19/12/2019  e na Instrução Normativa 
+n.º 002/2022 . 
+Despesas com serviços que não estejam relacionados nos artigos 5º e 12  da Portaria  acima mencionada , deve m 
+vir instruída s com prévia análise técnica da SAAB 1 - Diretoria de Gestão dos Locais de Trabalho e a autorização 
+para a execução dos serviços, independente da urgência e/ou emergência . 
+Sempre que necessária a vistoria das instalações do prédio, os pedidos deverão ser encaminhados pelo Fórum 
+à respectiva RAJ, para atendimento pela empresa de prestação de serviços de Apoio Técnico, conforme art. 2º  
+da Portaria n.º 9.817/2019 , para obtenção de parecer com recomendação técnica apropriada , a fim de evitar 
+que medidas “paliativas” sem o devido acompanhamento de profissional habilitado, coloque em risco os 
+equipamentos, instalações e/ou usuários, gerando danos ao erário.  
+ 
+ 
+Página 16 
+Antes de efetuar a despesa, consultar o Portal da Administração e verificar se existe m contratos e/ou atas 
+vigente s (https://tjsp.sharepoint.com/sites/AdmRegioesAdministrativas/SitePages/Contratos.aspx ). 
+Existindo  Ata de Registro de Preços para reparos, adequações pontuais e pequenos serviços de engenharia, as 
+demandas , mesmo as emergenciais , devem ser primeiramente  direcionad as para a RAJ respectiva, obedecendo 
+aos critérios estabelecidos pela Instrução Normativa n.º 001/2018, publicada no DJE em 19/12/2018 . Na 
+hipótese de : 
+▪ O serviço específico não constar  no Boletim Referencial de Custo , poderá ser utilizad o o regime de 
+adiantamento , declarando expressamente a inexistência do item na Ata de Registro de Preços, nos termos 
+do Artigo 9º da Instrução Normativa n.º 001/2018 . 
+▪ O serviço específico constar  no Boletim Referencial de Custo, mas não for possível aguardar  o atendimento 
+pela Ata de Registro de Preços, poderá ser utilizad o o regime de adiantamento, declarando os motivos que 
+impediram de aguardar esse atendimento.  
+Nos casos de manutenções em prédios cedidos ou locados:  
+▪ Verificar se a manutenção/conserto é de responsabilidade do proprietário/cedente , conforme estabelecido 
+em contrato ou termo  (Ordem de Serviço SAAB n.º 01/2019 ). 
+▪ Verificar se existe cobertura contratual para serviços securitários, do tipo risco nomeado . 
+3.8. Conservação e Manutenção de Bens Móveis e Equipamentos : 
+Podem ser realizadas despesas com conservação e manutenção corretiva  (ou seja, para recolocar o 
+equipamento/bem  em operação /utilização)  de máquinas, motores , equipamentos e mobiliário em geral , desde 
+que rigorosamente observadas as orientações contidas na Portaria n.º 9.924/2020, publicada no DJE em 
+11/01/2021 , Instrução Normativa n.º 002/2022  e Instrução Normativa n.º 005/2023 . 
+Independentemente  do tipo de despesa, se serviço ou aquisição, deve ser informado:  
+▪ O número de patrimônio ou número de controle  patrimonial.  
+▪ As datas dos últimos consertos ou manutenções realizad as no equipamento.  
+▪ Se o menor valor do orçamento ultrapassa 60% do valor de um equipamento novo ou similar, anexando as 
+pesquisas de preços de referência  (mínimo de 3 valores de referência ). 
+Em cumprimento ao Decreto Estadual n.º 67.888 /2023, as pesquisas de valor estimado  para fins de apuração 
+do percentual de 60% , podem ser realizadas da seguinte forma:  
+▪ Com base nas aquisições similares feitas pelo TJSP, em execução ou concluídas nos 180 (cento e oitenta) 
+dias anteriores à data da pesquisa.  
+▪ Diretamente com os fornecedores mediante orçamentos formais, desde que as datas dos orçamentos não 
+ultrapassem 180 (cento e oitenta) dias  desde a sua emissão.  
+▪ Através do Banco Eletrônico de Preços – Preços SP, disponível no endereço eletrônico 
+http://www.bec.sp.gov.br  (BEC/SP).  
+▪ Sítios eletrônicos especializados ou de domínio amplo, desde que:  
+✓ Realizada perante empresas legalmente estabelecidas.  
+✓ O item cotado esteja disponível para venda no momento da pesquisa.  
+✓ Não se referiam a itens com preços promocionais, saldo ou queima de estoque.  
+✓ Não se referiam a itens usados, avariados, remanufaturados ou provenientes de mostruários.  
+ 
+ 
+Página 17 
+✓ A página eletrônica acessada deverá ser copiada e disponibilizada em formato “PDF”, contendo:  
+→ Identificação do fornecedor.  
+→ Endereço eletrônico.  
+→ Data e hora do acesso.  
+→ Especificação do item.  
+→ Preço e quantidade.  
+✓ Não serão admitidas pesquisas:  
+→ De itens com especificações ou caraterísticas diferentes.  
+→ Provenientes de sítios de leilão.  
+Em se tratando de bem móvel recebido por empréstimo/cessão de uso, em caráter temporário ou 
+indeterminado, o bem deverá possuir registro no Setor de Patrimônio Central do Tribunal de Justiça , conforme  
+artigos 28 a 38 da Portaria n.º 9.924/2020 , cujo número de controle deve ser informado na prestação de contas. 
+Caso o bem esteja em situação patrimonial irregular, deverá ser providenciada a devida regularização antes da 
+execução da despesa . 
+3.9. Outros Serviços e Encargos  
+Podem ser realizadas d espesas tais como : serviços de chaveiro,  confecção de carimbos, encadernações, 
+condução, assessoria e/ou emissão de laudos , instalações diversas  etc. 
+Para afixação  de placas de relativas à denominação do imóvel, homenagens, inaugurações ou indicativos de 
+qualquer fato ou acontecimento, é necessária  a autorização expressa do Conselho Superior da Magistratura, 
+conforme art. 4º da Resolução n.º 003/1981.  
+▪ Despesas com carimbo:  
+As despesas com confecção de carimbos poderão ser realizadas com o adiantamento somente quando não 
+for viável o atendimento pela gráfica do TJSP.  
+Os pedidos direcionados à Gráfica devem ser feitos por meio protocolo digital:  
+→ Assunto: 678 – Confecção de Carimbos;  
+→ Anexar os modelos de carimbos.  
+→ Encaminhar para SAAB 5.3.3 – Seção de Gráfica  
+Caso a despesa corra pelo regime de adiantamento , deve ser informado no campo “ 06 – Outras 
+justificativa s adicionais ” do Resultado da Pesquisa de Preços, o número do protocolo que contêm a 
+informação de impedimento do atendimento pela gráfica do TJSP.  
+▪ Despesas com encadernação  
+As despesas com encadernação devem restringir -se às relacionadas como obrigatórias pelas Normas de 
+Serviço da Corregedoria e somente quando não for viável o atendimento pela gráfica do TJSP, devendo, 
+tais serviços, ser realizados durante o exercício corren te, de modo a evitar acúmulo . 
+Caso não exista um padrão obrigatório determinado pelo TJSP, não poderão ser realizadas despesas sob a 
+justificativa de que as encadernações feitas pela gráfica do TJSP são diferentes das anteriores realizadas.  
+Os pedidos direcionados à Gráfica devem ser feitos por meio protocolo digital:  
+→ Assunto: 681 – Encadernação de Livros;  
+ 
+ 
+Página 18 
+→ Assunto: 682 – Reencadernarão/Restauração de Livros.  
+→ Encaminhar para SAAB 5.3.3 – Seção de Gráfica  
+Caso o valor do adiantamento  mensal seja insuficiente, os pedidos de adiantamento esporádico para essa 
+finalidade devem indicar o período a que se referem as encadernações que ensejaram a solicitação.  
+Caso a despesa corra pelo regime de adiantamento , deve ser informado no Resultado da Pesquisa de 
+Preços, o número do protocolo que contêm a informação de impedimento do atendimento pela gráfica do 
+TJSP.  
+▪ Despesas com condução (ônibus, metrô, trem, balsa, táxi)  
+As despesas com deslocamento a serviço determinado por magistrado, quando for realizado o saque para 
+pagamento em espécie, devem ser acompanhadas do Recibo de Condução , conforme modelo no item  7.9. 
+3.10. Despesas Vedadas  
+Independem  da necessidade ou urgência de atendimento, são vedadas as despesas alistadas no item 3 das 
+Instruções SOF n.º 02/2024 . 
+▪ É vedado o fracionamento da despesa , que ocorre quando ocorre quando já se sabe que o valor total da 
+despesa ultrapassa o limite estabelecido, mas é realizada em “etapas” ou “partes”, a fim de 
+intencionalmente “dividir” em valores inferiores, despesas que poderiam ou deveriam ocorrer 
+conjuntamente ou unitariamente . Considera -se o valor total da despesa, a somatória de todos os materiais 
+e serviços necessários e/ou envolvidos .  
+Para que seja evitado o fracionamento irregular da despesa, devem ser observados os seguintes aspectos : 
+→ Objeto da despesa . Pode ser um bem móvel ou imóvel. Exemplo: várias intervenções em um mesmo 
+ambiente podem caracterizar uma reforma/adequação, cujas despesas (material e serviços) devem 
+ser somadas.  
+→ Periodicidade de envio dos recursos financeiros . Geralmente a periodicidade do envio é mensal 
+(adiantamento enviado mensalmente ), podendo ocorrer envios esporádicos (adiantamento 
+esporádico).  
+→ Somatória de notas fiscais do mesmo material ou mesmo serviço . Despesas com o mesmo material ou 
+o mesmo serviço, de forma sistemática ou não, que poderiam extrapolar tanto o limite de despesa por 
+adiantamento quanto o limite de dispensa de licitação.  
+→ Somatória de notas fiscais de materiais e serviços de uma mesma empresa . Tendo em vista que por 
+vezes uma mesma empresa atende vários ramos do mercado, deve haver a somatória dos 
+comprovantes de despesa dessa empresa.  
+→ Somatória de notas fiscais de materiais e serviços de mesma natureza . Entendendo -se por mesma 
+natureza o material e/ou serviço relativos a contratações no mesmo ramo de atividade, observado o 
+segmento de atuação da empresa, que pode ser indústria, comércio ou serviços.  
+▪ Nenhuma despesa poderá ser realizada antes da emissão da Nota de Empenho e envio dos recursos 
+financeiros  (artigos 61 e 68 da Lei Federal n.º 4.320/1964 e artigos 8º e 38 da Lei Estadual n.º 10.320/1968).  
+Ou seja, a entrega de qualquer material o u a execução de qualquer serviço deve aguardar a emissão da 
+Nota de Empenho e o crédito na conta de adiantamento.  
+▪ Não serão aceitas despesas fora do prazo de aplicação  autorizado na Nota de Empenho. Ou seja, o 
+pagamento de despesas com a aquisição de materiais fornecidos ou com serviços  cuja execução se iniciou  
+antes ou após o período para utilização  autorizado  na Nota de Empenho.  
+ 
+ 
+Página 19 
+▪ São vedadas as despesas que excedam o valor autorizado  na Nota de Empenho . A soma das despesas não 
+pode ser maior que o valor creditado na conta . Caso os recursos financeiros enviados não sejam suficientes 
+para cobrir todas as despesas necessárias, será necessário aguardar o adiantamento do próximo mês ou 
+solicitar um adiantamento esporádico , dependendo do caso concreto. Recomendamos consultar a SOF em 
+caso de dúvidas.  
+▪ Não são aceitas despesas comprovadas por meio de documentos  fiscais que não estejam no CNPJ do TJSP : 
+51.174.001/0001 -93, conforme item 5.10 deste manual . 
+▪ Não são aceitos documentos que não possuam  valor fiscal  ou que não permitam a correta identificação da 
+despesa  realizada , conforme o item 5.10 deste manual . 
+▪ É vedada a contratação e prestação de serviços executados por  Pessoas Físicas , Cooperativas  e 
+Microempreendedor Individual – MEI.  
+A contratação de Microempreendedor Individual é vedada somente nos casos de serviços de hidráulica, 
+elétrica, pintura, alvenaria, carpintaria, manutenção ou reparo de veículos e serviços de limpeza , conforme 
+item 4.5 deste manual . Não existem vedações ou restrições para despesas com aquisição de materiais 
+fornecidos por MEI.  
+▪ É vedada a contratação de serviços ou a compra  de materiais que sejam objeto de contrato ou Ata de 
+Registro de Preços vigente , inclusive os fornecidos pelo Almoxarifado Central e Rede de Suprimentos . 
+Quando for interrompida a prestação de serviços ou o fornecimento do material , as despesas poderão 
+correr pelo regime de adiantamento, desde que a interrupção seja confirmada pelo (a) gestor (a) do 
+contrato  ou ata de Registro de Preços , por um período de até 15 (quinze) dias a partir da confirmação. 
+Após esse período, será necessário nova confirmação do (a) gestor (a) do contrato  ou Ata de Registro de 
+Preços.  
+Podem ser adquiridos pelo regime de adiantamento , materiais cujas especificações técnicas 
+sejam  incompatíveis  com os fornecidos pelo TJSP, como por exemplo , bateria e pilha, que apesar de terem 
+a mesma finalidade  não podem ser substituídas uma pela outra.  Inexistindo  qualquer  incompatibilidade 
+que impeça o uso dos materiais fornecidos  pelo TJSP , as aquisições  desses itens  pelo regime de 
+adiantamento são vedadas.  
+▪ São vedadas despesas facultativas  (opcionais)  ou sem contraprestação de serviços ou produtos , tais como 
+taxa de serviços (gorjeta); taxa de visita para orçamento; “no show” referente ao não comparecimento do 
+hóspede que tinha reserva confirmada e não efetuou o cancelamento em tempo hábil; etc. 
+▪ São vedadas despesas com juros  e multas de qualquer natureza, pois o responsável só pode comprar ou 
+contratar serviços após o recebimento do s recursos financeiros e com pagamento à vista . 
+▪ É vedada a aquisição ou confecção de bens permanentes que necessite m de controle ou incorporação 
+patrimonial  no âmbito do TJSP , mesmo que seja emitida uma nota fiscal de serviços. O aceite desse tipo 
+de despesa  dependerá da aprovação do ordenador de despesa.  
+Inexistindo registro anterior, antes da compra ou confecção do material, poderá ser feita consulta junto à 
+SOF para avaliação do material pelo Comitê Setorial de Inventário, no âmbito do TJSP.  
+▪ São vedadas d espesas com alimentação , exceto em sessões de júri ou nos casos em que houver autorização 
+prévia expressa do ordenador de despesa . As despesas com alimentação em sessões de júri devem 
+obedecer ao item 3.1 deste manual . 
+▪ São vedadas d espesas c om alimentação de magistrados  e servidores , inclusive em sessões de júri, para não 
+incorrer em acúmulo de benefício de mesma natureza com o auxílio -alimentação . Executam -se as despesas 
+ 
+ 
+Página 20 
+ocorridas em viagens devidamente autorizadas nos casos em que o adiantamento fo i concedido com essa 
+finalidade, devendo ser descontado o auxílio -alimentação do período . 
+▪ São vedadas despesas com bebidas alcóolicas . 
+▪ São vedadas despesas de qualquer natureza  com o  Tribunal Regional Eleitoral, Ministério Público, OAB, 
+Defensoria Pública e quaisquer outros órgãos, entidades, instituições e estabelecimentos , mesmo que 
+ocup em as dependências cedidas nos prédios dos fóruns , com recursos provenientes do Tribunal de 
+Justiça , exceto quando firmadas em termo de cessão de uso, convênio ou instrumentos similares.  
+▪ São vedadas d espesas que não estejam diretamente relacionadas à prestação do serviço jurisdicional , 
+como ornamentações, convites, condolências, exceto nos casos em que houver autorização prévia 
+expressa do ordenador de despesa.  
+▪ São vedadas despesas com dispêndios de natureza pessoal ou com parentes, acompanhantes e outras 
+pessoas que não sejam abrangidas pelo adiantamento autorizado . 
+ 
+ 
+  
+ 
+ 
+Página 21 
+4. RETENÇÕES NA FONTE  
+Alguns serviços possuem  a necessidade legal de retenção de impostos na fonte e o seu recolhimento na rede bancária  
+por meio de guia apropriada.  O responsável pelo adiantamento deverá verificar sobre quais serviços  incide a 
+necessidade legal de retenção e recolhimento de impostos pelo Tribunal de Justiça do Estado de São Paulo, qual 
+tomador dos serviços prestados, conforme legislação vigente . 
+Reter na Fonte significa descontar determinado valor de um pagamento a ser realizado para uma empresa e recolher 
+esse valor ao seu titular (Prefeitura, Instituto Nacional do Seguro Social ou Secretaria da Receita Federal do Brasil), 
+por meio de guia apropr iada.  
+A atividade de recolher os impostos retidos na rede bancária jamais pode ser delegada ao prestador do serviço, pois 
+se isso ocorrer, não haverá retenção de impostos na fonte pagadora, uma vez que nenhum valor será descontado 
+do pagamento à empresa e o pres tador dos serviços preencherá as guias de recolhimento com códigos diferentes 
+daqueles que devem ser utilizados quando retidos na fonte pagadora.  
+Caso o responsável pelo s recurso s financeiro s não faça a retenção dos impostos e os recolhimentos na forma 
+prescrita em lei, estará sujeito à autuação pelo órgão fiscalizador e notificado a recolher o valor do principal acrescido 
+de multa, juros e atualização monetária, quando as legislações que tratam do assunto atribuírem ao tomador do 
+serviço a responsabilidade tributária pela retenção e recolhimento dos impostos.  
+ Assim que que a nota fiscal for entregue, deve -se verificar as informações de retenção de impostos. Caso 
+a informação esteja incorreta, deve -se solicitar o cancelamento da nota fiscal e solicitar sua emissão com 
+a informação correta.  
+ A nota fiscal e a guia de recolhimento devem ser pagas com o mesmo adiantamento. Não se separa a nota 
+fiscal da respectiva guia de pagamento de impostos retidos.  
+4.1. ISSQN 
+Considerando que o Imposto sobre serviços é devido no local onde é executado  o serviço , os responsáveis devem 
+proceder à pesquisa junto à prefeitura do Município onde o serviço foi executado , verificando os tipos de serviços  e 
+alíquotas  em que o Tribunal  de Justiça , como tomador dos serviços, é obrigado a reter  e recolh er o imposto . 
+Exemplo  1: O Fórum de Barueri contratou uma empresa para recarga de extintores e a empresa levou os 
+equipamentos e executou os serviços em sua sede, na cidade de São Bernardo. Nesse caso o ISS é devido para a 
+Prefeitura de São Bernardo.  
+Exemplo 2 : A Comarca de C ampinas  contratou um serviço de elétrica executado em um dos prédios da Cidade 
+Judiciária , em Campinas . Nesse caso, o ISS é devido para a Prefeitura de C ampinas . 
+▪ Serviços executados  fora do Município de São Paulo  
+→ Notas Fiscais emitidas pela Prefeitura de São Paulo :  
+✓ Verificar se o campo com indicação do local da prestação de serviços está preenchido corretamente. 
+Caso esteja incorreto, solicitar o cancelamento da NF e a emissão de outra com a informação correta.  
+✓ Verificar a legislação do município onde o serviço foi prestado e seguir os passos do item abaixo.  
+→ Notas Fiscais emitidas por outras Prefeituras : 
+Se a legislação municipal  previr  a retenção e recolhimento do ISS para o serviço realizado , o responsável  
+deve : 
+✓ Verificar a alíquota e a forma de emissão e preenchimento da guia junto à Prefeitura , e efetuar o 
+pagamento da guia.  
+
+ 
+ 
+Página 22 
+✓ Pagar ao prestador do serviço , o valor líquido  da nota fiscal, ou seja, descontando o valor do ISS.  
+✓ Entregar uma cópia da guia e uma cópia d o comprovante de pagamento ao prestador do serviço.  
+✓ Anexar no processo de prestação de contas: a guia , o comprovante de pagamento e o cheque de 
+pagamento . 
+Se a legislação municipal  não previr  a retenção na fonte e recolhimento de ISS para o serviço realizado, o 
+responsável  deve : 
+✓ Pagar ao prestador do serviço, o valor sem qualquer dedução do ISS.  
+✓ Anexar no processo de prestação de contas , certidão  informando que não está prevista a retenção : 
+“Certifico  para os devidos fins, que consultei a legislação municipal d e (citar município), local onde os 
+serviço s foram executados , e que constatei que o Tribunal de Justiça do Estado de São Paulo, qual 
+tomador dos serviço s descritos na nota fiscal , não está obrigado a reter na fonte pagadora e recolher o 
+Imposto sobre Serviços de Qualquer Natureza.”  
+Importante : Caso conste na nota fiscal a retenção do ISS, mas essa não seja devida, deve -se solicitar o seu 
+cancelamento e a emissão de nova nota fiscal sem a retenção.  
+▪ Serviços executados  dentro  do Município de São Paulo  
+→ Notas Fiscais emitidas pela Prefeitura  de São Paulo : enviar por e -mail para o endereço sof4.1@tjsp.jus.br  
+apenas as notas fiscais que contenham  retenção de ISSQN  e seguir as orientações contidas na resposta . 
+→ Notas Fiscais emitidas por outr as Prefeituras : enviar as notas fiscais por e -mail para o endereço 
+sof4.1@tjsp.jus.br  e seguir as orientações contidas na resposta.  As notas fiscais devem estar 
+acompanhadas das consultas cadastrais do item 5.8 deste manual . 
+4.2. INSS  
+Nos casos em que houver  retenção da contribuição para  a Seguridade  Social  - INSS, deve -se seguir o passo a passo 
+descrito  no Material de Apoio Cadastro de Nota Fiscal  com  retenção de INSS , disponível na página de Adiantamento .  
+▪ Haverá  retenção para  a Seguridade Social  em notas fiscais de serviços de pessoas jurídicas , nas seguintes 
+situações:  
+→ Limpeza,  conservação  ou zeladoria que são os serviços de varrição, lavagem, desinfecção, higienização, 
+desentupimento, dedetização, desinsetização e outros serviços destinados a manter  a higiene,  o asseio  ou 
+a conservação  de jardins,  edificações,  instalações, dependências  ou áreas  de uso comum, aplica -se a 
+retenção de 11%;  
+→ Atividades  da construção  civil que envolvam  demolição,  reforma  de edificações ou qualquer benfeitoria ou 
+obras que se integrem a esse conjunto (instalação, manutenção e reparação hidráulica, elétrica, sanitária e 
+pequenos reparos), aplica -se a retenção de 11%;  
+→ Empresas de construção civil introduzidas na desoneração da folha de pagamento (Lei 12.546/11, art.7º), 
+aplica -se a retenção de 3,5%, devendo a despesa vir instruída com a Declaração  conforme  modelo do item 
+7.14. 
+▪ Fica dispensada  a retenção  para  a Seguridade  Social  - INSS  quando:  
+→ A contratada não possuir empregados, o serviço for prestado pessoalmente pelo titular ou sócio e o seu 
+faturamento do mês anterior for igual ou inferior a 2 (duas) vezes o limite máximo do salário de 
+contribuição, cumulativamente, devendo a despesa vir instruída com declaração,  conforme  modelo do item 
+7.16  (IN da RFB n.º 2110/2022, art.115);  
+ 
+ 
+Página 23 
+→ O valor correspondente ao percentual aplicado for inferior a R$ 10,00 (dez reais);  
+→ O serviço  foi realizado  nas dependências  da empresa  contratada;  
+→ Os serviços de pintura predial, instalação, manutenção e reparação hidráulica, elétrica, sanitária, de gás, de 
+sistemas contra incêndio, de elevadores, de escadas e esteiras rolantes , quando forem prestados por 
+Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional, uma vez que esses são 
+tributados pelo Anexo III da Lei Complementar n.º 123/2006, e não estão sujeitos à retenção da contribuição 
+previdenciária prevista no art. 31 da Lei n.º 8.212/1991, conforme art. 1º do ADI da RFB n.º 08/2013.  
+4.3. IRRF  
+Fica dispensada a retenção do Imposto de Renda nos casos de despesas pagas  pelo regime de adiantamento , 
+conforme a Instrução Normativa da Receita Federal n.º 1.234/2012  e Manual de IRRF da  SEFAZ de SP . Caso a 
+Nota Fiscal contenha a retenção desse imposto, deve -se solicitar o seu cancelamento e a emissão de nova nota 
+fiscal sem essa retenção.  
+4.4. CSLL, COFINS, PIS/PASEP  
+O Tribunal de Justiça  do Estado de São Paulo , na condição de órgão público estadual, não está obrigado a reter 
+na fonte o PIS, COFINS e CSLL, uma vez que não possui convênio firmado com a União nos moldes do disposto 
+no artigo 1º da Instrução Normativa SRF n.º 475/2004.   
+4.5. MEI 
+Não há retenção de impostos na fonte quando ocorrer a contratação de Microempreendedor Individual, 
+devendo ser pago o valor total da Nota Fiscal ao prestador do serviço, porém fica vedada a contratação de MEI 
+para os serviços de hidráulica, elétrica, pintura, alvenaria e carpintaria e manutenção ou reparo de veículos , 
+por gerar obrigações acessórias , tais como o recolhimento da contribuição patronal  (20% do valor total do 
+serviço) e outras inviáveis de cumprimento em tempo hábil  quando contratadas pelo regim e de adiantamento.  
+Além das vedações , existem alguns tipos de  serviços que não são permitid os ao MEI , com base na Resolução 
+CGSN n.º 140, de 2018 (arts. 100, inciso I e 101, § 1º, inciso I, § 2º) , tais como serviços de limpeza  (calhas, caixas 
+d´água, dentre outros ). As atividades  permitidas ao MEI, podem ser verificadas através do link 
+https://www.gov.br/empresas -e-negocios/pt -br/empreendedor/quero -ser-mei/atividades -permitidas . Caso o 
+serviço não esteja nessa lista, não se deve contratar MEI . 
+ Recomendamos que antes  da execução de qualquer serviço de manutenção e conservação de bens 
+imóveis  (manutenção predial  / limpeza) , verificar se existem quaisquer impedimentos.   
+Em caso de dúvidas , contatar a SOF através do e -mail sof4.1@tjsp.jus.br . 
+4.6. Escrituração das Notas Fiscais  
+Com o advento do SPED REINF, cuja escrituração é unificada, todas  as notas fiscais em que haja incidência de 
+retenção da contribuição ao INSS , emitidas para o CNPJ 51.174.001/0001 -93 (TJSP) e pagas pelo regime de 
+adiantamento deverão ser escrituradas para envio da informação para a Receita Federal.  
+Os responsáveis que utilizarem o regime de adiantamento para o pagamento de despesas com serviços  em que 
+haja retenção na fonte pagadora da contribuição ao  INSS , deverão seguir o seguinte roteiro, para fins de 
+lançamento em tempo hábil :  
+1 º Até 24  horas  após  a emissão  da nota  fiscal, o responsável deve providenciar a escrituração no Módulo 
+SGF – Financeiro e Orçamentário do SAJADM  (SAJADM  SGF  Despesas  Adiantamentos/Outros -
+REINF ), conforme manual de utilização do Sistema.  
+
+ 
+ 
+Página 24 
+ 
+2 º Ao final da escrituração, será gerado um protocolo digital automaticamente , onde o responsável deverá 
+anexar a Nota Fiscal (acompanhadas das declarações, quando for o caso) no protocolo digital gerado 
+automaticamente  e encaminhar  para  a SOF 2.2.4 . 
+3 º A SOF 2.2.4  gerará o DARF (INSS) e devolverá o protocolo para a origem . 
+4 º O responsável  pelo adiantamento deve providenciar o pagamento imediato do DARF (INSS) . 
+5 º Após o pagamento, anexar ao mesmo protocolo o comprovante de pagamento do DARF (INSS) e devolver 
+à SOF 2.2.4  para ciência e controle no prazo de até 03 dias úteis . 
+6 º Após ciência e controle efetuados pela SOF 2.2.4 , o protocolo será devolvido para a origem realizar o seu 
+arquivamento . 
+7 º A Nota Fiscal,  o DARF (INSS),  a cópia  do cheque  do pagamento e o comprovante  do pagamento, devem ser 
+anexados na respectiva prestação de contas.  
+ 
+▪ A incidência de penalidades/multa por atraso e/ou falta de envio de informações recairão sobre o (a) 
+servidor (a) que deu causa, nos termos da legislação vigente.  
+▪ Será gerado um protocolo digital por Nota Fiscal. Para encaminhamento/recebimento do protocolo digital, 
+consultar a página do SAJADM, Módulo CPA : CPA - Gestão de Processos Administrativos (sharepoint.com) . 
+1º Passo: O r esponsável 
+escritura e anexa a NF no 
+SGF -Financeiro e 
+Orçamentário
+2º Passo: O r esponsável 
+encaminha o protocolo 
+para a SOF 2.2.4
+3º Passo: A SOF 2.2.4
+gera a(s) guia (s) e 
+devolve o protocolo para 
+a Unidade
+4º Passo: O responsável 
+realiza o pagamento da(s) 
+guia(s).
+5º Passo: O responsável 
+devolve o protocolo para 
+a SOF 2.2.4 com o(s) 
+comprovante(s) de 
+pagamento da(s) guia(s)
+6º Passo: A SOF 2.2.4
+realiza os controles dos 
+pagamentos e devolve o 
+protocolo para a origem 
+que o arquivará
+7º Passo: Os documentos 
+relacionados a este 
+procedimento são 
+anexados na Prestação de 
+Contas, que segue seu 
+rito próprio
+ 
+ 
+Página 25 
+▪ Sobre os procedimentos de escrituração das notas fiscais, retenções tributárias, envio e recebimento do 
+protocolo digital e documentação anexada: analisetributaria@tjsp.jus.br  
+ 
+  
+ 
+ 
+Página 26 
+5. FORMALIZAÇÃO DO PROCESSO DE PRESTAÇÃO DE CONTAS  
+5.1. Autuação  
+Para cada adiantamento concedido, a SOF autuará um processo digital, vinculado ao processo digital principal 
+da Unidade.  
+Toda a documentação prévia ao crédito na conta bancária, inclusive a contábil, será anexada pela SOF no 
+respectivo processo digital. Portanto, não é necessário anexar os seguintes documentos:  
+✓ Autorização, nos casos de adiantamentos esporádicos/eventuais.  
+✓ Nota de Empenho.  
+✓ Ordem Bancária.  
+5.2. Tarefas  
+O processo de prestação de contas não será tramitado para a fila de trabalho da Unidade , permanecendo na fila 
+da SOF . Serão criadas tarefas para que os responsáveis consigam ter acesso ao processo sem que haja a sua 
+tramitação , por meio da funcionalidade de tarefas no Módulo CPA – Gestão de Processos Administrativos no 
+SAJADM, em consonância com o art. 2º da Portaria n.º 9 .769/2019 . 
+Para anexar a documentação da prestação de contas, o (a) usuário (a) deverá:  
+1 º Na aba “ Tarefas ”, clicar em “ Aceitar ” na tarefa “ Anexar documento ”. 
+ 
+2 º Na Aba “ Documentos ”, Clicar em “ Inserir/Gerar Documentos ”. 
+ 
+3 º Após anexar toda a documentação, na Aba “ Tarefas ”, clicar em “ Anexar documento ”. 
+ 
+4 º Na aba “ Dados de finalização ”, preencher o campo “ Descrição da finalização da tarefa* ”, selecionar  a opção 
+“Gerar peça ” e clicar em “ Finalizar tarefa ”. Devido ao uso do sigilo SOF, os processos somente poderão ser 
+acessados por um único servidor de cada vez, de modo que sempre que um servidor terminar de manejar 
+os autos, deverá clicar em "desalocar" para que o próximo servidor ou magistrado consiga acei tar a tarefa 
+também.  
+
+ 
+ 
+Página 27 
+ 
+Caso seja necessário juntar alguma documentação para regularização da prestação de contas, após a Tomada 
+de Contas, a SOF criará outra tarefa “ Anexar documentos ” para que a documentação complementar possa ser 
+anexada.  
+IMPORTANTE : Enquanto a tarefa “ Anexar documento ” não for finalizada , não será possível dar prosseguimento 
+ao processo. A prestação de contas será considerada pendente de apresentação e as eventuais regularizações 
+pendentes de atendimento . 
+As tarefas serão criadas para o (a) responsável pelo adiantamento, titulares da Nota de Empenho e/ou Setor. 
+Caso, seja necessário, o (a) responsável, após aceitar a tarefa criada pela SOF 4.1, poderá criar uma outra tarefa 
+para um terceiro. Ambas as tarefas precisaram ser finalizadas . 
+5.3. Disposição/Ordem dos Documentos  
+Os arquivos deverão possuir as seguintes nomenclaturas : 
+▪ Balancete de Prestação de Contas  
+Esse arquivo deve conter somente o Balancete de Prestação de Contas , observando o modelo no item  7.2 
+deste manual , conforme o caso.  
+▪ Nota Fiscal n.º ...  
+Cada nota fiscal deverá corresponder a um arquivo próprio, acompanhada dos seguintes documentos e na 
+respectiva ordem:  
+✓ Documento Fiscal (frente)  
+✓ Documento Fiscal (verso, quando for o caso)  
+✓ Consulta de autenticidade da nota fiscal  
+✓ Nota Fiscal de Tomador de Serviços (quando for o caso)  
+✓ Manifestações, justificativas, autorizações etc.  
+✓ Resultado da Pesquisa de Preços  
+✓ Orçamentos  
+✓ Consultas cadastrais  
+✓ Comprovante/Recibo de quitação  
+
+ 
+ 
+Página 28 
+✓ Cópia do cheque de pagamento  
+✓ Guia de recolhimento de impostos (quando for o caso)  
+✓ Comprovante de pagamento de impostos (quando for o caso)  
+✓ Cópia do cheque de pagamento de impostos (quando for o caso)  
+▪ Extrato Bancário  
+Esse arquivo deve conter todas as folhas do extrato bancário e somente as folhas do extrato bancári o. 
+▪ Conciliação Bancária  
+Este arquivo deve conter somente a conciliação bancária e a conciliação bancária anterior, se for o caso, 
+observando o modelo do item 7.4 deste manual . 
+▪ Depósito referente ao recolhimento do saldo  
+Esse arquivo deve conter somente o (s) comprovante (s) de depósito e guia de recolhimento do saldo não 
+utilizado, observando os Anexos  7.5 ou 7.6 deste manual , conforme o caso.  
+▪ Cópia do Cheque referente ao recolhimento do saldo  
+Esse arquivo deve conter somente a cópia eletrônica (documento digitalizado) do cheque referente ao 
+recolhimento do saldo.  
+▪ Relatório de Lançamentos de Entrada – Sintético , do Sistema ALX – Almoxarifado.  
+Relacionar em um único relatório  com  todas as entradas dos materiais comprados durante o  prazo para  
+utilização d o adiantament o. 
+Nas prestações de contas dos adiantamentos esporádicos, não será necessária a juntada dos documentos 
+previamente apresentados  junto com a requisição  (Resultado da Pesquisa de Preços , orçamentos, consultas 
+cadastrais etc.). A ordem dos demais documentos  (Balancete, nota fiscal etc.) seguirá à acima . 
+5.4. Digitalização dos Documentos  
+Todos os documentos deverão estar no formato “PDF” ( Portable Document Format ), layout retrato ou 
+paisagem para leitura (sem necessidade de utilização do recurso “girar visualização”) e em tamanho A4.  
+Os documentos físicos devem ser digitalizados de forma que fiquem legíveis, sem faltar partes ou com partes 
+do documento “cortadas” na digitalização.   
+Todas os documentos digitalizados devem ser assinados com certificado digital  no Módulo  CPA – Gestão de 
+Processos Administrativos  do SAJADM , como garantia de seu conteúdo e autenticidade (equiparação com o 
+carimbo de “ confere com o original ”), em conformidade com as  Instruç ões n.º 01/202 4 do TCESP  e legislação 
+vigente.  
+▪ Notas Fiscais e documentos acompanhantes  
+▪ Extrato Bancário  
+▪ Depósito referente ao recolhimento do saldo  
+▪ Cheque referente ao recolhimento do saldo  
+Os documentos físicos originais que forem digitalizados e compuseram os processos de prestação de contas, 
+deverão ser conservados até cinco anos após o julgamento das contas do exercício pelo Tribunal de Contas do 
+Estado de São Paulo.  
+ 
+ 
+Página 29 
+Os seguintes formulários da prestação de contas, podem ser elaborados e salvos no formato “PDF” , ou seja, 
+não precisam ser impressos para posterior digitalização , e devem ser assinados com certificado digital no 
+Módulo CPA – Gestão de Processos Administrativos do SAJADM:  
+▪ Balancete de Prestação de Contas  
+▪ Conciliação Bancária  
+Importante : não esquecer de v erificar se todos os documentos da prestação de contas foram  assinados com 
+certificado digital no Módulo CPA – Gestão de Processos Administrativos do SAJADM.  
+5.5. Balancete de Prestação de Contas  
+Deve ser elaborado seguindo o  padrão do modelo no item 7.2 deste manual , devidamente preenchido com 
+todas as informações.  
+▪ Responsável: O responsável é o (a) servidor (a) ou magistrado (a) que consta no campo “Credor” na Nota 
+de Empenho . 
+ 
+▪ CPF do Responsável: É o CPF do responsável consta na no campo “CNPJ/CPF/UG” da Nota de Empenho.  
+ 
+▪ Nota de Empenho: Deve ser informada o número da Nota de Empenho anexada ao processo.  
+ 
+▪ Fonte de Recursos: Deve ser a  mesma indicada  na Nota de Empenho  (se UG 030101 – Tesouro  ou se UG 
+030030 - FED). 
+ 
+ 
+▪ Gestão: 0001 - Administração Direta  
+▪ Natureza Despesa: Deve ser informado o código do campo “Natureza Despesa” na Nota de Empenho.  
+ 
+ 
+▪ Valor Empenhado (R$): Deve ser informado o valor do campo “Valor” na Nota de Empenho, que deve 
+corresponder ao valor do crédito na conta, conforme Extrato Bancário.  
+  
+▪ Data do Crédito: Deve ser informada a data do crédito na conta bancária do adiantamento, conforme o 
+extrato bancário.  
+
+ 
+ 
+Página 30 
+ 
+▪ Prazo para utilização:   
+→ O prazo para utilização  para o adiantamento enviado  mensal mente , será o mês para o qual foi enviad o 
+o adiantamento  (exemplo: JANEIRO/202 4).  
+→ O prazo para utilização  para o adiantamento esporádico , será o indicado na Nota de Empenho 
+(geralmente 30 dias corridos).  
+ 
+ 
+▪ Valor Recolhido (R$): Deve ser informado o valor do recolhimento, conforme o comprovante de 
+recolhimento do saldo não utilizado. Devem ser informados tantos recolhimentos quantos tenham 
+ocorrido.  
+ 
+▪ Data do Recolhimento: Deve ser informada a data do recolhimento, conforme o comprovante de 
+recolhimento do saldo não utilizado. Devem ser informados tantos recolhimentos quantos tenham 
+ocorrido.  
+ 
+▪ Responsável pelo Adiantamento: Espaço reservado para a assinatura  do (a) mesmo (a) servidor (a) ou 
+magistrado (a) que consta no campo “Credor” na Nota de Empenho, único (a) autorizado (a) a realizar 
+despesas.  
+A assinatur a pode rá ser manuscrita, caso o documento seja elaborado de forma física.  Preferencialmente, 
+a assinatura poder á ser digit al, apostas dentro do Módulo CPA do SAJADM (não assinar pelo Adobe). Nesse 
+caso, deverá constar a identificação (nome e cargo/função) e a expressão “ documento assinado 
+digitalmente nos termos da legislação vigente ”. 
+5.6. Despesas Documentadas  (no Balancete)  
+Devem estar devidamente preenchidas com todas as informações, seguindo o padrão do  modelo do ite m 7.2 
+deste manual . 
+▪ N.º de Ordem: Seguir a sequência numérica, conforme quantidade de documentos (1, 2, 3, 4, ...). Cada 
+documento deve ser lançado em uma única linha, em ordem cronológica (por data) de emissão . Não devem 
+ser “pulados (as)” linhas ou números de ordem de documentos.  
+▪ Tipo e Número de Documento: Os tipos de documentos podem ser “DANFE”, “NF -e” ou “NFS -e”. O número 
+dos documentos serão os números das Notas Fiscais.  Quando forem relacionadas guias de recolhimento 
+de impostos retidos na fonte, devem ser lançadas como “Guia de ISSQN”, “GPS, “DARF”, etc.  
+
+ 
+ 
+Página 31 
+▪ Data de Emissão: Deve ser informada a data de emissão da Nota Fiscal  e das guias de recolhimento de 
+impostos  retidos , quando for o caso.  
+▪ Emitente do Documento de Despesa: Deve ser informada a Razão Social da empresa emitente da Nota 
+Fiscal  ou o Órgão emissor da guia de recolhimento de impostos retidos, quando for o caso.  
+▪ N.º do Cheque de Pagto: Deve ser informado o (s) número (s) do (s) cheque (s) utilizado (s) para pagamento, 
+vinculado (s) a nota fiscal ou guia de recolhimento de impostos retidos.  Caso seja utilizado mais de um 
+cheque para pagamento de uma única nota fiscal, os números devem ser informados em um único campo 
+(não lançar a mesma nota em duas linhas).  
+▪ Valor (R$): Deve ser informado o valor total da nota fiscal, ou o valor líquido pago à empresa nos casos em 
+que ocorrerem a retenção de impostos na fonte.  
+▪ Total: Deve ser informado o total (a somatória) de todas as notas fiscais e guias lançadas.  
+5.7. Orçamentos  
+Mesmo nas situações de urgência e/ou emergência, a realização da pesquisa de preços não é dispensada. 
+Portanto, a pesquisa de preços é um procedimento obrigatório, salvo nos casos de impossibilidade 
+devidamente justificada, nos termos do art. 5º da Portari a n.º 10.411/2024 . 
+O objeto da pesquisa de preço, isto é , o material ou o serviço é que deve ser cotado em no mínimo três 
+empresas , ou seja, podem ser selecionadas mais de três empresas para cotação , se necessário . Caso uma das 
+empresas não atenda as condições legais exigidas, não se interesse ou não tenha condições de fornecer o 
+material ou prestar o serviço, deve -se extrapolar o âmbito da região de pesquisa e procurar um outro 
+fornecedor ou prestador de serviço.  
+Sempre que possível, solicitar às empresas que informem o prazo de validade da proposta , a fim de evitar a 
+necessidade de novas cotações para períodos muito próximos, e utilizar esses orçamentos  quantas vezes forem 
+necessárias, dentro do prazo de validade.   
+Os orçamentos formais fornecidos pelas empresas, que não possuírem prazo de validade da proposta, poderão 
+ser utilizados até 180 (cento e oitenta) dias corridos  a partir de sua data de emissão  até a data da compra ou 
+execução dos serviços  (esse procedimento não se aplica às cotações obtidas por telefone, balcão, internet ou 
+aplicativos ). 
+Para fins de comparação de preços, os itens de materiais e serviços:  
+▪ Devem ser d iscriminados de forma detalhada  e individual , contendo as quantidades e valores por item, 
+evitando informar  somente os valores totais.  
+▪ Devem ser os mesmos em todos os orçamentos, ou seja, os mesmos produtos e serviços devem constar 
+em todos os orçamentos apresentados  (mesma especificação técnica ). 
+Os valores apresentados nos orçamentos devem corresponder aos valores do quadro comparativo de preços 
+no Resultado da Pesquisa de Preços e aos valores constantes nas notas fiscais.  
+Caso:  
+▪ Fique con statado que , caso as despesas com deslocamento superem a eventual diferença ou economia de 
+preço, pode -se optar pela empresa que apresentar o menor valor total.  
+▪ Não seja possível distribuir os serviços a serem prestados entre mais de um prestador, pode -se optar pela 
+empresa que apresentar o menor valor total.  
+▪ Não seja possível encontrar o material (cada item individualmente) que se pretende adquirir em, no 
+mínimo, três fornecedores, ou três empresas que prestem o serviço que se pretende contratar, deve -se 
+ 
+ 
+Página 32 
+formular uma ampla justificativa para que a despesa, após análise e desde que não haja qualquer prejuízo, 
+seja excepcionalmente aceita.  
+5.7.1.  E-mail  
+Deve -se priori zar a obtenção de orçamentos  por meio eletrônico, preferencialmente via  e-mail, evitando 
+o uso de viaturas oficiais para a coleta  de cotações, conforme Comun icado SOF n.º 04/2021 , publicado no 
+DJE em 08/04/2021.  
+Quando os orçamentos não estão no corpo do e -mail, mas em arquivos anexos, é necessário juntar 
+também o e -mail com as informações de endereçamento eletrônico, data etc.  
+5.7.2.  Balcão e Telefone  
+Deve -se evitar o uso excessivo de cotações por telefone e balcão, que deverão ser utilizadas de forma 
+restrita, somente quando  não foi possível obter o orçamento formal . 
+Orçamentos fornecidos por meio  de aplicativos de mensagens para smart phones , tais como  o 
+“WhatsApp ”, são considerados como orçamentos obtidos por telefone.  
+Deve constar no campo “ 06 - Outras justificativas adicionais ” do Resultado da Pesquisa de Preços a 
+identificação do (a) servidor (a) que efetivamente realizou as pesquisas de preços.  
+5.7.3.  Internet e aplicativos  de vendas  
+Podem  ser utilizado s somente em situações em que não foi possível obter 03 orçamentos  (isto é , quando 
+não foi possível obter nem por e-mail , nem diret o no balcão e nem  por telefone ), servindo apenas como  
+referência  de valor  de mercado , uma vez que é vedada qualquer aquisição com pagamento anter ior ao 
+recebimento do material e seu respectivo ateste . 
+Devem constar no campo “ 06 - Outras justificativas adicionais ” do Resultado da Pesquisa de Preços , as 
+devidas justificativas quanto ao uso desse tipo de cotação . 
+As cotações feitas  pela internet , devem atender a os seguintes critérios , conforme Decreto Estadual n.º 
+67.888/2023 : 
+✓ Devem ser r ealizada s perante empresas legalmente estabelecidas.  
+✓ O item cotado deve estar  disponível para venda no momento da pesquisa.  
+✓ Não se referiam a itens com preços promocionais, saldo ou queima de estoque.  
+✓ Não se referiam a itens usados, avariados, remanufaturados ou provenientes de mostruários.  
+✓ A página eletrônica acessada deverá ser copiada e disponibilizada em formato “PDF”, contendo:  
+→ Identificação do fornecedor.  
+→ Endereço eletrônico.  
+→ Data e hora do acesso.  
+→ Especificação do item.  
+→ Preço e quantidade.  
+✓ Não serão admitidas pesquisas:  
+→ De itens com especificações ou caraterísticas diferentes.  
+→ Provenientes de sítios de leilão.  
+5.8. Consulta Cadastral  
+ 
+ 
+Página 33 
+O objetivo da consulta cadastral é verificar a regularidade das empresas. Portanto, a s consultas cadastrais 
+prévias  são obrigatórias  e devem ser realizadas antes da elaboração do Resultado da Pesquisa de Preços. As 
+consultas quanto à regularidade devem ser realizadas nos sites governamentais oficiais:  
+▪ Secretaria da Receita Federal do Brasil ( CNPJ ), tanto para aquisições de materiais, quanto para prestação 
+de serviços : Emissão de Comprovante de Inscrição e de Situação Cadastral (fazenda.gov.br) . 
+ 
+▪ Secretaria da Receita Federal do Brasil ( SIMEI ), para prestação de serviços : Simples Nacional 
+(fazenda.gov.br) . 
+ 
+▪ Secretaria da Fazenda ( SINTEGRA ), para aquisições de materiais : SINTEGRA   Selecionar o Estado   
+Identificação do Estabelecimento: Selecionar a opção CNPJ . 
+ 
+
+ 
+ 
+Página 34 
+Caso a empresa que apresentou o menor valor tenha a  situação cadastral de “inapta” ou “não habilitada”, deve -
+se optar pelo 2º menor preço e assim sucessivamente.   
+Apenas as consultas cadastrais da vencedora devem ser anexada s ao processo de  prestação de contas.  
+5.9. Resultado da Pesquisa de Preço  
+Deve ser elaborado conforme o formulário padronizado no modelo no item  7.3 deste manual . 
+Os valores no quadro comparativo de preços devem corresponder aos valores apresentados nos orçamentos e 
+aos valores constantes nas notas fiscais.  
+A elaboração não deve  ser posterior às consultas cadastrais , pois no documento consta a informação do status 
+da empresa vencedora. Logo, se a consulta foi feita em data posterior à data da elaboração, essas informações 
+perdem a sua idoneidade.  
+▪ No campo “ 01 – Justificativa quanto a necessidade ” deve ser informada a  justificativa quanto à necessidade 
+de atendimento da demanda , ou seja, o motivo de ela ser necessária . Devem ser evitadas informações 
+generalizadas, tais como “para manutenção do Fórum”. Devem con star, sempre que possível:  
+→ Os bens móveis ou equipamentos a que se destinam e respectivos números de chapa ou controle 
+patrimonial, quando for o caso.  
+→ Os fatos geradores, i.e., se quebra/reparo/substituição, instalação etc.  
+→ Quais unidades  ou setores  dentro do Fórum  serão  atendid os. 
+→ Etc. 
+▪ No campo “02 - ...” deve ser indicado o tipo de despesa (se de pequeno vulto ou extraordinária), bem como 
+os dados das empresas.  
+→ Razão Social  
+→ CNPJ  
+→ Regime de Apuração  
+→ Indicação do meio de obtenção dos orçamentos.  
+▪ No quadro comparativo do campo “ 03 – Quadro comparativo. ”, independente da opção (menor valor por 
+item ou menor valor total), devem ser indicados, nos respectivos campos próprios:  
+→ Cada serviço/material deve ser lançado como item individualmente.  
+→ As quantidades, quer sejam de materiais, quer sejam de serviços.  
+→ Os preços totais de cada item (quantidade × preço unitário).  
+→ A empresa vencedora de cada item.  
+→ Os totais apresentados por cada empresa.  
+→ O total por itens mais vantajosos de cada empresa.  
+▪ No campo “ 04 – Opção ”, deve m ser informada s as indicaç ões de opção por menor valor por item ou menor 
+valor total, quando for o caso.  
+▪ Deve ser informada no campo “ 05 – Situação Cadastral da (s) empresa (s) vencedora (s) ” o status 
+apresentado nas consultas cadastrais  (ativa e habilitada ). 
+▪ O campo “ 06 – Outras j ustificativa s adicionais ” deve ser utilizado apenas quando for o caso, tais como : 
+ 
+ 
+Página 35 
+→ Nos casos de despesa extraordinária, como  está caracterizada urgência de atendimento , Ou seja, como 
+ocasionar á prejuízo ou comprometer á a continuidade dos serviços públicos ou a segurança de pessoas, 
+obras, serviços, equipamentos e outros bens, públicos ou particulares.  
+→ Justificativa para cotações obtidas por telefone  e/ou  consulta no balcão etc . 
+→ Critério de desempate.  
+→ Motivos da opção pelo menor valor total.  
+→ Razões para opção pelo segundo menor valor apresentado.  
+→ Justificativas para as quantidades adquiridas.  
+→ As datas dos últimos consertos nos equipamentos, quando for o caso.  
+→ A informação de garantia nas manutenções e/ou fornecimento de peças.  
+→ Nos casos de conserto de bens móveis e equipamentos, informar s e o valor do conserto  supera ou não 
+60% do valor de um bem novo ou similar , considerando que a Instrução Normativa n.º 005/2023 , veda 
+o conserto nos casos em que o conserto supera os 60% do valor de mercado do bem . 
+→ Etc.  
+▪ A declaração final é parte integrante do documento e não deve ser alterada ou excluída.  
+▪ Identificação e cargo/função: Nome e cargo/função do servidor que elaborou o documento, seja quem for. 
+Não existem restrições ou orientações específicas que proíbam ou indiquem que o (a) próprio (a) 
+responsável pelo adiantamento elabore o Resultado da Pesquisa de Preços . O documento deve ser 
+assinado, cuja assinatura pode ser aposta de forma manuscrita ou com certificado digital , antes da 
+realização da despesa.  
+5.10. Documentos  Fiscais  
+Todas as despesas devem ser devidamente documentadas mediante documentos fiscais válidos ou recibo nos 
+casos previstos legalmente.  
+▪ São documentos fiscais válidos:  
+→ CF-e (Cupom Fiscal Eletrônico);  
+→ CT-e (Conhecimento de Transporte Eletrônico);  
+→ NFC-e (Nota Fiscal ao Consumidor Eletrônica);  
+→ NF-e (Nota Fiscal Eletrônica de Produtos ou Mercadorias);  
+ DANFE (Documento Auxiliar da NF -e) 
+→ NFS-e (Nota Fiscal Eletrônica de Serviços);  
+ DANFSe (Documento Auxiliar da NFS -e) quando for o caso  
+→ NFVC -Online (Nota Fiscal de Venda a Consumidor Online).  
+▪ São documentos fiscais inválidos:  
+→ Notas Fiscais Modelos 1 e 1 –A, abolidas nas operações com Órgãos Públicos;  
+→ Os chamados romaneios, comandas, controles, orçamentos, recibos e similares, excetuadas os casos 
+em que a legislação municipal dispensa a emissão de NFS -e, devendo nesses casos, ser anexado o 
+recibo.  
+ 
+ 
+Página 36 
+→ Com caligrafias ilegíveis, apagados, rasgados, com alterações, rasuras, emendas, entrelinhas, 
+preenchidos com caligrafia e/ou canetas diferentes e outras características que comprometam a 
+legitimidade e clareza da despesa.  
+Devem ser aceit os apenas documentos  fiscais que atendam aos seguintes critérios:  
+▪ Estar na titularidade e CNPJ do Tribunal de Justiça do Estado de São Paulo . Antes de efetuar qualquer 
+pagamento é preciso verificar se os dados cadastrais do TJSP estão corretos, e caso não estejam, é 
+necessário solicitar o seu cancelamento/substituição por outro com os dados corretos.  
+→ CNPJ: 51.174.001/0001 -93 
+→ Razão Social: SÃO PAULO TRIBUNAL DE JUSTIÇA  
+▪ Estar dentro do prazo para utilização para o qual foi concedido o adiantamento. Situações excepcionais, 
+em que a despesa ocorreu dentro do prazo para utilização  com emissão d o documento  fiscal posterior ao 
+fim do prazo para utilização,  devem estar acompanhadas das devidas justificativas . 
+▪ Os materiais e serviços descritos n os documentos  fiscais devem corresponder aos materiais entregues e 
+aos serviços prestados.  
+▪ Os valores constantes nos documentos fiscais devem corresponder aos valores apresentados nos 
+orçamentos e aos valores do quadro comparativo de preços no Resultado da Pesquisa de Preços.  
+▪ A consulta de autenticidade tenha sido devidamente verificada e confirmada, conforme item 5.11.  
+Em função do cronograma executado pela Secretaria da Fazenda do Estado de São Paulo, todas as empresas 
+no Estado possuem obrigatoriedade total ou parcial de emissão da Nota Fiscal Eletrônica (NF -e) para venda de 
+mercadorias.  
+No caso das aquisições, a cada fornecimento deve ser emitida a NF -e e respectivo DANFE, pois:  
+▪ A data da emissão do documento fiscal deve corresponder à data efetiva da compra.  
+▪ O DANFE deve acompanhar as mercadorias, conforme legislação vigente. Situações excepcionais, tais como 
+alimentação em sessões de júri, com notas fiscais emitidas no dia posterior, devem vir acompanhadas de 
+justificativas (campo “ 05-Justificaitvas ” do Resultado da Pesquisa de Preços).  
+▪ As despesas são de pronto pagamento,  ou seja, não existe previsão para o fornecimento parcelado com 
+emissão de cupons fiscais e emissão de uma única nota fiscal ao final do mês para pagamento do valor 
+consolidado dos cupons fiscais . Essa prática caracteriza cobertura contratual.  
+5.11. Consulta de Autenticidade d os Documentos  Fiscais  Eletrônicos  
+A consulta de autenticidade de documento fiscal eletrônico é o procedimento pelo qual se valida a autoria do 
+emitente e integridade do documento entregue pela empres a, desde que reconhecido e equivale nte ao registro 
+eletrônico nos sistemas da fazenda estadual e/ou municipal.  
+Todos os documentos fiscais eletrônicos, deve m ter sua autenticidade  verificada e confirmada , antes dos 
+procedimentos de ateste e pagamento . Se na consulta, a autenticidade do documento não for confirmada, 
+deve -se solicitar o seu cancelamento e emissão de nov o documento  fiscal que também deverá ter sua 
+autenticidade verificada e confirmada . 
+A consulta de autenticidade d eve ser anexada logo após à respectiva nota fiscal.  
+No caso das NF -e, deve possuir a situação “autorizada” no campo “ Situação Atual ”. A NF-e só pode ser corrigida 
+através de CC-e. A consulta de autenticidade da NF -e deve apresentar a informação da CC -e vinculada.  Deve 
+ser salva a consulta resumida.  
+ 
+ 
+Página 37 
+Links para consulta de autenticidade de alguns tipos de documentos fiscais de venda : 
+▪ NF-e: Portal da Nota Fiscal Eletrônica (fazenda.gov.br)  
+ 
+▪ NFC-e: Consulta NFC -e - Secretaria da Fazenda - Governo do Estado de São Paulo  
+ 
+▪ NFVC -Online : Nota Fiscal Paulista (fazenda.sp.gov.br)  > Selecionar Nota Fiscal  
+
+ 
+ 
+Página 38 
+ 
+▪ CF-e: Nota Fiscal Paulista (fazenda.sp.gov.br)  > Selecionar Cupom Fiscal  
+ 
+No caso das NFS-e, as consultas devem ser feitas através do link indicado na própria nota fiscal (geralmente, na 
+página da Prefeitura da sede da empresa emitente).  
+Caso a consulta resulte numa reprodução integral da NFS -e, essa reprodução deve ser anexada. Não existe 
+previsão para o uso de carimbo indicando que a consulta de autenticidade foi feita, é necessário anexar o 
+resultado da consulta, independente do document o gerado.  
+5.12. Ateste  
+Antes de atestar , é preciso verificar : 
+▪ Se o material ou serviço descrito na nota fiscal, corresponde aos materiais ou serviços efetivamente 
+entregues ou prestados ; 
+▪ Se conferem com a descrição dos materiais e serviços informados nos orçamentos ; 
+▪ Se foram entregues ou executados satisfatoriamente, ou seja, a contento . 
+Pode ser fornecido:  
+▪ Pelo (a) responsável pelo adiantamento, ou seja, o (a) servidor que constar no campo “Credor” na Nota de 
+Empenho.  
+▪ Por qualquer servidor (a) designado (a), que tenha recebido e conferido que o material entregue ou que o 
+serviço prestado está  a contento . 
+
+ 
+ 
+Página 39 
+▪ Quando um material ou serviço é adquirido ou prestado por requisição específica de alguma Unidade, um 
+(a) servidor (a) d a própria Unidades que solicitou pode rá atestar , desde que conferido se o material 
+entregue ou se o serviço prestado está a contento . 
+Na declaração  de “atest o”, que pode ser em forma de carimbo , deve constar : 
+▪ A expressão “ a contento ”. 
+▪ A identificação do (a) servidor (a), contendo : 
+→ O nome legível  
+→ A denominação do seu cargo/função  
+→ Unidade onde se encontra lotado (a)  
+A declaração ou carimbo de “atesto” pode ser aposto no verso da Nota Fiscal, para não comprometer as 
+informações no corpo documento.   
+Modelo de carimbo/declaração de “atesto”:  MODELO   
+Atesto o recebimento a contento dos 
+materiais constantes deste documento.  
+MODELO   
+Atesto que os serviços constantes deste 
+documento foram executados a contento.  
+Em, __/__/____.  Em, __/__/____.  
+_________________________  _________________________  
+(espaço reservado para identificação, 
+cargo/função e lotação  do servidor ) 
+ (espaço reservado para identificação, 
+cargo/função e lotação  do servidor ) 
+ 
+5.13. Pagamento  (com cheque)  
+Para que não haja distorção do seu destino, que é a empresa fornecedora ou prestadora de serviço emitente 
+da nota fiscal, os cheques de pagamento devem estar:  
+▪ “Cruzado s em preto” com a expressão “ para crédito exclusivo na conta do favorecido ”. 
+▪ Nomina is a empresa fornecedora ou prestadora do serviço.  
+No caso de pagamento de impostos retidos, o cheque poderá ser emitido nominal à titularidade da conta 
+bancária para saque, de modo que a despesa possa ser paga em espécie.  
+Caso a empresa não possua conta bancária, o pagamento poderá ser realizado por meio de Ordem de 
+Pagamento. Nesse caso:  
+▪ O responsável deve ir até o Posto Bancário ou à Agência e fazer a solicitação junto ao caixa, informando o 
+CNPJ da empresa, o valor e o número da conta.  
+▪ O caixa lança a solicitação no sistema (não pede cartão nem senha) e devolve um comprovante no qual 
+consta o Número da Ordem de Pagamento.  
+▪ O proprietário da empresa poderá receber junto ao caixa de qualquer agência do Banco do Brasil, desde 
+que munido de Contrato Social, documento de identidade e número da Ordem de Pagamento.  
+Excepcionalmente  e exclusivamente nos casos de pagamento ao Microempreendedor Individual - MEI que não 
+possu ir conta bancária de Pessoa Jurídica (CNPJ), o cheque poderá ser emitido:  
+▪ “Cruzados em preto” com a expressão “ para crédito exclusivo na conta do favorecido ”. 
+▪ Nomin al à Pessoa Física  (CPF)  titular do  MEI. Nunca emitir cheque ao portador ou nominal a terceiros . 
+ 
+ 
+Página 40 
+5.14. Quitação  (de pagamento com cheque)  
+Os documentos fiscais não têm valor como recibo de quitação da transação comercial. Portanto, a  empresa 
+emitente da nota fiscal deve considerá -la quitada , cuja providência pode ser feita por meio de:  
+▪ Depósito na conta do credor.  
+▪ Autenticação mecânica ou comprovante de p agamento de boleto.  
+▪ Recibo/declaração do fornecedor ou prestador de serviço. Por se r um documento cuja emissão compete 
+à empresa, não deverá ser confeccionado em formulário com identificação do Tribunal de Justiça de São 
+Paulo. Pode ser confeccionado em papel timbrado ou constar o carimbo do CNPJ da empresa , conforme 
+modelo no item 7. 16 deste manual.  
+▪ Excepcionalmente, pela manifestação de “ recebi (emos) ” no corpo do documento fiscal. Nesse caso, deve 
+constar:  
+→ O nome legível do representante da empresa.  
+→ O carimbo da empresa.  
+5.15. Extrato Bancário  (concessão na modalidade crédito em conta)  
+Deve abranger desde a data do crédito na conta bancária até o último dia do prazo para utilização,  mesmo que 
+não tenham despesas realizadas no período . 
+▪ Nos caso s dos adiantamento s enviado s mensalmente , o último dia do mês será o último dia do prazo para 
+utilização  (não confundir com último dia útil).  
+▪ Nos casos dos adiantamentos esporádicos/eventuais, o último dia do prazo para utilização  será o que 
+constar na Nota de Empenho, ressalvadas as situações em que:  
+→ A despesa for concluída, com recolhimento e prestação de contas antecipados.  
+→ O prazo para utilização for prorrogado, mediante autorização prévia.  
+5.16. Conciliação Bancária  (concessão na modalidade crédito em conta)  
+Deve ser elaborada de acordo padrão do modelo do item 7.4 deste manual , preenchida com as devidas 
+informações.  
+▪ Conta corrente n.º: Informar o número da conta do adiantamento.  
+▪ Agência: Informar o número da agência bancária da conta do adiantamento.  
+▪ Empenho n.º: Informar o número da Nota de Empenho do adiantamento que se está prestando contas.  
+▪ Saldo em conta corrente (último dia do prazo para utilização ) 
+→ No campo “ Data ” será a data do último dia do prazo para utilização.  No caso d os adiantamento s 
+enviado s mensalmente , o último dia do mês será o último dia do prazo para utilização  (não confundir 
+com último dia útil).  
+→ O “Valor (R$) ” será o valor do saldo no extrato bancário na data indicada no campo “ Data ”. 
+▪ Cheques não compensados no período: Nesse campo, deve ser informado o valor total dos cheques não 
+compensados, quando for o caso.  
+▪ Depósito referente a outro adiantamento: Nesse campo, deve (m) ser informado o (s) valor (es) 
+depositados referentes a outro (s) adiantamento (s), quando for o caso.  
+ 
+ 
+Página 41 
+▪ Cheques compensados de outro adiantamento: Informar o valor total de cheque (s) de outro (s) 
+adiantamento (s) compensado (s) no prazo para utilização,  quando for o caso.  
+▪ Outros Créditos / Débitos: Informar outros débitos ou créditos diversos, quando for o caso. No caso de 
+dúvidas, consultar a SOF para orientações.  
+▪ Saldo Recolhido: Informar o valor do saldo não utilizado e recolhido à conta do Tesouro ou FED, conforme 
+for o caso.  
+▪ Cheques não compensados : Devem ser relacionados todos os cheques que não foram compensados até o 
+último dia do prazo para utilização . 
+→ No campo “ N.º” deve constar o número do cheque emitido.  
+→ No campo “ Data de Emissão ” deve constar a data de emissão do cheque.  
+→ No campo “ Beneficiário ” deve constar o nome da empresa para a qual foi emitida o cheque, ou órgão 
+nos casos de recolhimento de impostos retidos.  
+→ No campo “ NF N.º” de constar o número do documento fiscal , quando for o caso . 
+→ No campo “ Valor (R$) ” deve constar o valor do cheque emitido.  
+→ No campo “Soma dos cheques não compensado (R$)”  deve conter o total de todos os cheques não 
+compensados.  
+▪ Identificação e cargo/função : Nome  e cargo/função do servidor que elaborou o documento , seja quem for. 
+Não existem restrições ou orientações específicas que proíbam ou indiquem que o (a) próprio (a) 
+responsável pelo adiantamento elabore a Conciliação Bancária.  
+A assinatura poderá ser manuscrita, caso o documento seja elaborado de forma física.  Preferencialmente, 
+a assinatura poderá ser digital, aposta dentro do Módulo CPA do SAJADM (não assinar pelo Adobe). Nesse 
+caso, deverá constar a identificação (nome e cargo/função) e a expressão “ documento assinado 
+digitalmente nos termos da legislação vigente ”. 
+5.17. Depósito do Recolhimento do Saldo não Utilizado  (concessão na modalidade crédito em conta)  
+O saldo não utilizado deve ser recolhido para a conta da respectiva fonte de recursos, não sendo possível a sua 
+utilização após o término do prazo para utilização . 
+Antes de recolher, o bservar se o valor está correto e a UG / Fonte de Recursos informada na Nota de Empenho.  
+5.17.1.  Tesouro (UG 030101 ): Agência 5905 -6, C/C 100906 –0  
+O comprovante deve estar em conformidade com o modelo no item  7.5 deste manual , e: 
+▪ Legível.  
+▪ Colado em papel sulfite A4, em folha separada do cheque de recolhimento.  
+▪ Com as informações dos indicadores e históricos indicados.  
+→ IDENTIFICADOR 1 : CPF DO (A) RESPONSÁVEL PELO ADIANTAMENTO INFORMADO NO CAMPO 
+“CNPJ/CPF/UG ” DA NOTA DE EMPENHO  
+→ IDENTIFICADOR 2 : ANO E N.º DA NOTA DE EMPENHO (SEM “NE”)  
+→ IDENTIFICADOR 3 : NOME DO (A) RESPONSÁVEL PELO ADIANTAMENTO INFORMADO NO CAMPO 
+“CREDOR ” DA NOTA DE EMPENHO  
+→ IDENTIFICADOR 4 : DEV. REF. SALDO DE ADIANTAMENTO, PRAZO PARA UTIL IZAÇÃO  __/____, 
+ELEMENTO 3390____  
+ 
+ 
+Página 42 
+5.17.2.  FED (UG 030030 ): Agência 5905 -6, C/C 139461 -4 
+O recolhimento é feito por meio de Guia de Recolhimento do Banco do Brasil, gerada através do link 
+https://www45.bb.com.br/fmc/frm/fw0707314_1.jsp , conform e modelo no item  7.6 deste manual . 
+▪ Nome: Digitar o nome do (a) responsável informado no campo “C redor ” da Nota de Empenho.  
+▪ RG: Digitar o número do documento de identidade do (a) responsável informado no campo “C redor ” da 
+Nota de Empenho.  
+▪ CPF: Digitar número do CPF do (a) responsável informado no campo “C redor ” da Nota de Empenho.  
+▪ CNPJ: Não preencher.  
+▪ N.º do processo: Informar o número do processo de prestação de contas do adiantamento.  
+▪ Unidade: Informar a Comarca nos casos das Unidades do Interior ou o a Unidade de Trabalho nos casos 
+das Unidades da Capital.  
+▪ CEP: Não preencher.  
+▪ Endereço: Informar o endereço da Comarca nos casos das Unidades do Interior ou o endereço da Unidade 
+de Trabalho nos casos das Unidades da Capital.  
+▪ Código: 216-0 – Saldo de Adiantamento . 
+▪ Histórico: DEV. REF. SALDO DE ADIANTAMENTO, PRAZO PARA UTIL IZAÇÃO  __/____, ELEMENTO 3390____, 
+EMPENHO ____NE_____.  
+▪ Valor: Informar o valor (R$) do recolhimento.  
+▪ Total: Repetir o valor (R$) do recolhimento.  
+5.18. Cheque do Recolhimento do Saldo  (concessão na modalidade crédito em conta)  
+Deve estar : 
+▪ Legível ; 
+▪ Digitalizado a partir do original;  
+▪ Preferencialmente digitalizado no formato “retrato”, de forma que não seja necessária a utilização do 
+recurso “girar” página para visualização . 
+5.19. Reversão de valores recolhidos incorretamente  
+Deve -se solicitar a reversão do valor recolhido  através de Memorando a ser enviado por e -mail para a 
+sof4.1@tjsp.jus.br , utilizando o modelo do item 7.7 deste manual , acompanhado do comprovante de 
+recolhimento , caso:  
+▪ O recolhimento do saldo não utilizado não tenha sido feito para conta correta, ou seja, para a conta 
+correspondente à UG/Fonte informada na Nota de Empenho. Nesse caso, a reversão será no valor total  
+para a conta correta.  Exemplo : 
+CONTA  VALOR  
+DEPOSITADO  DATA DO  
+DEPÓSITO  VALOR  
+CORRETO  ACERTO A  
+SER EFETUADO  
+CONTA  DO... 
+R$ 1.000,00  XX/XX/20XX R$ 1.000,00  (-) R$ 1.000,00  AG XXXX -X 
+Nº XXX.XXX -X 
+CONTA DO...  ADIANTAMEN .    (+) R$  1.000,00  AG XXXX - 
+ 
+ 
+Página 43 
+Nº XXX.XXX -X 
+▪ O valor recolhido tenha sido maior do que o saldo não utilizado. Nesse caso, solicitar a reversão parcial, 
+apenas do valor excedente  para a conta d e adiantamento.  Exemplo : 
+CONTA  VALOR  
+DEPOSITADO  DATA DO  
+DEPÓSITO  VALOR  
+CORRETO  ACERTO A  
+SER EFETUADO  
+CONTA  DO... 
+R$ 1.000,00  XX/XX/20XX  R$ 0.750,00  (-) R$ 0.250,00  AG XXXX -X 
+Nº XXX.XXX -X 
+CONTA DE ADIANTAMENTO  
+   (+) R$  250,00 AG XXXX -X 
+Nº XXX.XXX -X 
+Em caso de dúvidas, contatar o (a) contador (a) que analisa a prestação de contas da Unidade.  
+  
+ 
+ 
+Página 44 
+6. REQUISIÇÃO DE ADIANTAMENTO ESPORÁDICO  
+No âmbito do Tribunal de Justiça do Estado de São Paulo,  o adiantamento esporádico pode ser requisitado nas 
+seguintes situações, vedado o fracionamento de despesa:  
+▪ Quando o valor total da despesa for maior que o valor do adiantamento mensal.  
+▪ No caso de despesa extraordinária, quando não houver saldo suficiente no adiantamento mensal. No caso de 
+despesa de pequeno vulto, recomendasse aguardar o adiantamento do mês seguinte.  
+▪ O prazo para conclusão da despesa for superior ao prazo para utilização do adiantamento mensal.  
+▪ Para aquisição de material permanente que necessite de controle ou incorporação patrimonial, cuja aprovação 
+será previamente (ou seja, antes da aquisição ) submetida ao ordenador de despesa, com posterior 
+procedimento de incorporação patrimonial.  
+▪ Nos casos em que a única opção de prestador for um MEI - Microempreendedor Individual para despesas 
+vedadas , conforme item 4.5. 
+As requisições de adiantamento esporádico serão enviadas através de protocolo  digital (não cadastrar  processo) .  
+A concessão de adiantamento esporádico dependerá de análise do pedido, disposição orçamentária e autorização 
+do ordenador de despesa, desde que o servidor não possua dois adiantamentos em aberto . 
+O prazo para utilização do adiantamento esporádico se inicia com o recebimento dos recursos financeiros e se esgota 
+30 (trinta), 60 (sessenta) ou 90 (noventa) dias contados a partir da data do recebimento do recurso, conforme prazo 
+fixado na Nota de Empenho . 
+O prazo para utilização é fixado na nota de empenho, mas pode ser prorrogado mediante justificativa adequada (§ 
+2º, do art. 42, da Lei 10.320/1968).  
+ Exemplo : Adiantamento esporádico com data de crédito em 
+16/02/2024, com prazo para utilização de 30 dias. O último dia do prazo 
+para utilização será 16/03/2024.  
+O adiantamento esporádico não é  um “complemento” ou  uma  “suplementação ” do adiantamento mensal e não 
+deve ser requisitado com essa finalidade. Da mesma forma , não devem ser enviadas  requisições de adiantamento 
+esporádico para despesas cujo valor e prazo para utilização do adiantamento mensal seja m suficiente s para atendê -
+las. 
+6.1. Cadastro do protocolo digital  
+▪ Entrar no SAJADM, Módulo CPA, Clicar em “Cadastro de protocolo” (atenção, não clicar em “Cadastro de 
+processo”)  
+
+ 
+ 
+Página 45 
+ 
+▪ “Definição de dados”  
+→ Setor responsável: Selecionar a  opção   
+→ Assunto principal: 299 – Adiantamento  
+ 
+▪ “Dados do Protocolo”  
+→ Setor de origem: Selecionar a  opção   
+→ Tipo de processo: Administrativo  
+→ Detalhamento do assunto: Requisição de adiantamento esporádico para a realização de despesas... 
+(breve descrição das despesas que serão realizadas)  
+→ Palavra -chave : deixar em branco  
+→ Tarjas: deixar em branco  
+→ Município: Preenchimento automático pelo sistema  
+ 
+▪ “Dados de identificação”  
+
+ 
+ 
+Página 46 
+→ Interessado: Responsável pelo adiantamento (atenção, não preencher com o nome do setor ou 
+Comarca)  
+→ Envolvimento: Interessado  
+ 
+▪  “Controle de acesso”  
+→ Tipo de sigilo: Público  
+ 
+▪ Concluir o cadastro clicando no botão   
+6.2. Documentos a serem anexados  
+Para análise do pedido, é necessária a apresentação dos documentos que servirão de base para a realização da 
+despesa.   
+Toda a documentação deve ser assinada digitalmente, em cumprimento ao § 2º do art. 47 das Instruções n.º 
+01/2024 do Tribunal de Contas do Estado de São Paulo.  
+Os arquivos contendo os documentos devem ser anexados ao protocolo digital, na seguinte ordem e 
+nomenclaturas:  
+1 º Requisição de Adiantamento  
+A requisição deverá ser devidamente preenchida e assinada digitalmente, conforme padrão do modelo do 
+item 7.1 deste manual . 
+▪ Nome:  Nome do titular responsável pelo adiantamento.  
+▪ CPF:  CPF do titular responsável pelo adiantamento.  
+▪ Cargo/Função:  Informar o cargo ou função do titular responsável pelo adiantamento.  
+▪ Valor:  Informar o valor do adiantamento.  
+▪ Meio de concessão:   
+(X) Crédito em conta :  
+Agência:  Número da agência bancária da conta de adiantamento  - C/C n.º: Número da conta bancária do 
+adiantamento sob titularidade do responsável pelo adiantamento.   
+(_) Cartão de Pagamento : para uso exclusivo das Unidades autorizadas a participar do projeto piloto . 
+
+ 
+ 
+Página 47 
+▪ Para atender despesas com:   
+(X) Despesas miúdas e de pronto pagamento: com exceção das Unidades que possuem autorização para 
+receber adiantamento para outros tipos de despesa, assinalar essa opção . 
+(_) Outros : para uso exclusivo das Unidades autorizadas a realizar outros tipos de despesa, tais como 
+despesas com Verba de Representação (Gabinete da E. Presidência), dentre outros . 
+▪ Prazo para utilização:   
+(_) Mensal: as requisições d os adiantamento s enviados mensalmente , serão processadas conforme item  
+1.5 deste manual . 
+(_) Esporádico:  informar o número de dias  com base na previsão de conclusão da (s) despesa (s). Exemplo: 
+30 (trinta) dias ou 45 (quarenta e cinco) dias etc. Em caso de dúvidas, consultar a SOF 4.1.  
+▪ Justificativa quanto à necessidade imediata, nos termos da Lei Federal n.º 4.320/1964 e da Lei Estadual n.º 
+10.320/1968 : Justificativa quanto à necessidade de atendimento imediato  da demanda, que requer a 
+compra  do (s) material (ais) e/ou execução do (s) serviço (s) , com o  detalhamento das despesas que serão 
+realizadas.  Deve -se evitar justificativas generalizadas e/ou vagas . 
+2 º Manifestações, justificativas, autorizações etc.  
+Caso existam manifestações, justificativas, autorização ou qualquer outro documento adicional necessário 
+para a instrução da despesa, estes devem ser anexados ao protocolo digital.  
+3 º Resultado da Pesquisa de Preços, elaborado conforme o modelo do item 7.3 deste manual . 
+4 º Orçamentos, obtidos em conformidade com o item 5.7 deste manual . 
+5 º Consultas Cadastrais, realizadas conforme  o item 5.8 deste manual . 
+6.3. Envio do protocolo digital  
+Os protocolos digitais com as requisições de adiantamento esporádico deverão ser encaminhados para a SOF 
+4.1 – Coordenadoria de Tomada de Contas, Normas e Fiscalização por meio de tramitação no módulo CPA do 
+SAJADM.  
+▪ “Dados do Encaminhamento”  
+→ Motivo tramitação: 15 - Para Prosseguimento  
+→ Tipo encaminhamento: 60 – Requisição  
+→ Encaminhamento: Requisição de adiantamento esporádico.  
+ 
+ 
+Página 48 
+ 
+▪ “Próxima Tarefa”  
+→ Prazo (dias): deixar em branco  
+→ Término do prazo: deixar em branco  
+→ Tarefa: Encaminha para outro setor  
+→ Setor: SOF 4.1 – Coordenadoria de Tomada de Contas, Normas e Fiscalização  
+→ Usuário: deixar em branco  
+→ Clicar no botão   
+ 
+6.4. Envio do s recursos financeiros  
+Os recursos financeiro s serão enviado s após análise e aprovação do pedido, verificação de disponibilidade 
+orçamentária, autorização do ordenador de despesa e contabilização (artigos 61 e 68 da Lei Federal n.º 
+4.320/1964 e art. 8º da Lei Estadual n.º 10.320/1968).  
+ 
+  
+
+ 
+ 
+Página 49 
+7. FORMULÁRIOS  E MODELOS  
+Os formulários e modelos utilizados para uso e prestação de contas do regime de adiantamento serão padronizados 
+e estarão disponíveis para download na intranet  na página do Regime de Adiantamento : Adiantamento 
+(sharepoint.com) . 
+Não devem ser feitas quaisquer alterações na ordem e disposição  dos campos  nos formulários padronizados. Caso 
+seja necessária alguma adaptação, em função de situação excepcionalíssima, contatar previamente à SOF para 
+orientações de como proceder.  
+As orientações para elaboração e preenchimento dos formulários padronizados, estão contidas no item 5 deste 
+manual . 
+  
+ 
+ 
+Página 50 
+7.1. Requisição de Adiantamento  
+ Requisição de Adiantamento  
+ 
+NOME:  
+CPF:  
+CARGO/FUNÇÃO:  
+VALOR: R$  
+ 
+MEIO DE CONCESSÃO:  
+☐ Crédito em conta  
+☐ Cartão de Pagamento   
+ 
+PARA ATENDER DESPESAS COM:  
+☐ 33903992 - Despesas Miúdas e de Pronto Pagamento  
+☐ Outros: ________ - ____________________ ________  
+ 
+PRAZO PARA UTILIZAÇÃO:  
+☐ Mensal - ________/____  
+☐ Esporádico - ___ dias a partir do crédito  
+ 
+Justificativa quanto à necessidade, nos termos da Lei Federal n.º 4.320/1964 e da Lei Estadual n.º 10.320/1968 , 
+e/ou urgência :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Declaro estar ciente da responsabilidade pelo cumprimento da Portaria n.º 10.411/2024  e das Instruções SOF n.º 
+02/2024 , bem como do conteúdo do Manual de Adiantamento (versão atual) . 
+ 
+IDENTIFICAÇÃO  
+CARGO/FUNÇÃO  
+ 
+  
+
+ 
+ 
+Página 51 
+7.2. Balancete de Prestação de Contas  
+ Balancete de Prestação de Contas  
+ 
+RESPONSÁVEL:   
+CPF DO RESPONSÁVEL:   
+ 
+NOTA DE EMPENHO:   
+FONTE DE RECURSOS:   
+GESTÃO:  00001 - Administração Direta  
+NATUREZA DESPESA:   
+VALOR EMPENHADO (R$):   
+ 
+DATA DO CRÉDITO:   
+PRAZO PARA UTILIZAÇÃO:   
+  
+DESPESAS DOCUMENTADAS  
+N.º DE 
+ORDEM  TIPO E  DATA DE 
+EMISSÃO  EMITENTE DO DOCUMENTO DE DESPESA  N.º DO 
+VALOR (R$)  N.º DO CHEQUE OU  
+DOCUMENTO  CARTÃO  
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+TOTAL DAS DESPESA (R$):    
+ 
+VALOR RECOLHIDO (R$):   
+DATA DO RECOLHIMENTO:   
+  
+Declaro estar ciente de que as despesas apresentadas na presente prestação de contas devem estar de acordo 
+com a Portaria n.º 10.411/2024 e Instruções SOF n.º 02/2024.  
+ 
+RESPONSÁVEL PELO ADIANTAMENTO   
+CARGO/FUNÇÃO    
+ 
+  
+
+ 
+ 
+Página 52 
+7.3. Resultado da Pesquisa de Preços  
+ Resultado da Pesquisa de Preços  
+01 - Justificativa quanto a necessidade:  
+02 - Dando cumprimento ao Decreto Estadual n.º 67.888/2023, artigo 10, § 4º, realizei (amos) a pesquisa de 
+preços junto às empresas abaixo mencionadas visando a realização de despesa ☐ de pequeno vulto / ☐ 
+extraordinária, nos termos do art. 3º da Portaria n.º 10.411/2024.  
+Empresa A:  CNPJ:  
+Regime: ☐ MEI - ☐ Simples Nacional - ☐ Outros, informar:  
+Cotação obtida por meio de: ☐ E-mail - ☐ Outros, informar : 
+Empresa B:  CNPJ:  
+Regime: ☐ MEI - ☐ Simples Nacional - ☐ Outros, informar:  
+Cotação obtida por meio de: ☐ E-mail - ☐ Outros, informar : 
+Empresa C:  CNPJ:  
+Regime: ☐ MEI - ☐ Simples Nacional - ☐ Outros, informar:  
+Cotação obtida por meio de: ☐ E-mail - ☐ Outros, informar : 
+03 - Quadro comparativo  
+Item  Quant.  Descrição detalhada dos produtos ou serviços   PREÇOS (R$)  Empresa 
+vencedora 
+por item  Empresa A  Empresa B  Empresa C  
+            
+            
+            
+            
+         
+         
+         
+       
+         
+       
+TOTAIS (R$)      
+TOTAL P/ ITENS MAIS VANTAJOSOS (R$)      
+04 - Opção:  
+05 - Situação Cadastral da (s) empresa (s) vencedora (s): Ativa (s) / Habilitada (s).  
+06 - Outras justificativas adicionais:  
+Declaro que verifiquei não haver outros meios que possam ser utilizados para atendimento da referida 
+demanda, tais como: Almoxarifado Central, Rede de Suprimentos, Atas de Registro de Preços, contratos 
+vigentes e eventual apólice de seguro do tipo risco nomeado para cobertura de sinistro relacionado . 
+ 
+IDENTIFICAÇÃO  
+CARGO/FUNÇÃO  
+ 
+ 
+  
+
+ 
+ 
+Página 53 
+7.4. Conciliação Bancária  
+ Conciliação Bancária  
+CONTA CORRENTE N.º: 
+AGÊNCIA:  
+EMPENHO N.º: 
+ 
+DESCRIÇÃO  DATA  VALOR (R$)  
+(=) SALDO EM CONTA CORRENTE:      
+(-) CHEQUES NÃO COMPENSADOS NO PERÍODO:   
+(-) DEPÓSITOS REFERENTES A OUTRO ADIANTAMENTO: (____NE_____)    
+(+) CHEQUES COMPENSADOS DE OUTRO ADIANTAMENTO: (____NE_____)    
+(+) OUTROS CRÉDITOS:    
+(-) OUTROS DÉBITOS:    
+(=) SALDO RECOLHIDO:   
+ 
+CHEQUES NÃO COMPENSADOS  
+CHEQUE N.º DATA DE EMISSÃO  BENEFÍCIÁRIO  NF N.º VALOR (R$)  
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+SOMA DOS CHEQUES NÃO COMPENSADOS (R$)   
+ 
+IDENTIFICAÇÃO  
+CARGO/FUNÇÃO  
+ 
+  
+
+ 
+ 
+Página 54 
+7.5. Modelo de Comprovante de Recolhimento do Saldo – Tesouro  
+ Comprovante de recolhimento de saldo – Tesouro  
+BANCO DO BRASIL S/A.  
+CLIENTE : TRIBUNAL DE JUSTIÇA  
+AGÊNCIA N.º: 5905 -6  
+C/C N.º: 100906 – 0 (FONTE TESOURO – UG 030101)  
+IDENTIFICADOR 1 : CPF DO (A) RESPONSÁVEL PELO ADIANTAMENTO  
+IDENTIFICADOR 2 : ANO E N.º DA NOTA DE EMPENHO (_________)  
+IDENTIFICADOR 3 : NOME DO (A) RESPONSÁVEL PELO ADIANTAMENTO  
+IDENTIFICADOR 4 : DEV. REF. SALDO DE ADIANTAMENTO, PRAZO PARA UTIL . __/____, ELEMENTO 3390____  
+ 
+COLE AQUI O COMPROVANTE DO DEPÓSITO  
+↓ 
+ 
+ 
+ 
+ 
+MODELO 
+ 
+DD/MM/20XX    –   BANCO DO BRASIL  –    HH:MM:SS 
+XXXXXXXXX                                   XXXX  
+COMPROVANTE DE DEPOSITO EM CONTA CORRENTE  
+EM DINHEIRO  
+ 
+CLIENTE: TRIBUNAL DE JUSTICA                   . 
+AGENCIA: 5905 -6          CONTA:        100.906 -0 
+================================================  
+DATA:                                 DD/MM/20XX  
+VALOR CHEQUE BB LIQUID.                     0,00  
+VALOR TOTAL                                 0,00  
+------------------------------------------------  
+IDENTIFICADOR 1:              51.174.001/0001 93  
+IDENTIFICADOR 2:                           2.0XX  
+IDENTIFICADOR 3:       COMARCA DE ...  
+IDENTIFICADOR 4:       DADOS GRAVADOS NO SISTEMA  
+IDENTIFICADOR 4:                               . 
+DEV.REF. SALDO DE ADIANTAMENTO, PRAZO PARA UTIL. 
+XX/XXXX, ELEMENTO 3390XXX                                    
+. 
+================================================  
+NR.AUTENTICACAO            X.XXX.XXX.XXX.XXX.XXX  
+LEIA NO VERSO COMO CONSERVAR ESTE DOCUMENTO,   . 
+ENTRE OUTRAS INFORMAÇÕES.                        . 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 55 
+7.6. Modelo de Comprovante de Recolhimento do Saldo – FED 
+ Comprovante de recolhimento de saldo – FED 
+NOME: NOME DO (A) RESPONSÁVEL PELO ADIANTAMENTO  
+RG: NÚMERO DO DOCUMENTO DE IDENTIDADE DO (A) RESPONSÁVEL PELO ADIANTAMENTO  
+CPF:  NÚMERO DO CPF DO (A) RESPONSÁVEL PELO ADIANTAMENTO  
+CNPJ:  NÃO PREENCHER  
+N.º DO PROCESSO:  NÚMERO DO PROCESSO DE PRESTAÇÃO DE CONTAS DO ADIANTAMENTO  
+UNIDADE:  IDENTIFICAÇÃO DA COMARCA/FÓRUM OU UNIDADES DE TRABALHO  
+CEP:  NÃO PREENCHER.  
+ENDEREÇO:  ENDEREÇO DA COMARCA/FÓRUM OU UNIDADE DE TRABALHO  
+CÓDIGO:  216-0 – SALDO DE ADIANTAMENTO . 
+HISTÓRICO: DEV. REF. SALDO DE ADIANTAMENTO, PRAZO PARA UTIL.  __/____, ELEMENTO 3390____, EMPENHO 
+____NE_____  
+VALOR: VALOR DO RECOLHIMENTO  
+TOTAL:  REPETIR O VALOR DO RECOLHIMENTO  
+ 
+COLE AQUI A GUIA DE RECOLHIMENTO E O COMPROVANTE DO DEPÓSITO  
+↓ 
+ 
+ 
+ 
+MODELO 
+ 
+DD/MM/AAAA    –   BANCO DO BRASIL  –    HH:MM:SS 
+XXXXXXXXX                                   XXXX  
+COMPROVANTE DE PAGAMENTO COM COD.BARRA  
+ 
+================================================  
+Convênio TJSP – CUSTAS FEDTJ  
+Código de Barras  XXXXXXXXXXX -X   XXXXXXXXXXX -X 
+                  XXXXXXXXXXX -X   XXXXXXXXXXX -X 
+Data do pagamento                    DD/MM/AAAA  
+Valor Total                           XX.XXX,XX  
+------------------------------------------------  
+NOME DO DEPOSITANTE                              
+================================================  
+NR.AUTENTICACAO            X.XXX.XXX.XXX.XXX.XXX  
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 56 
+7.7. Memorando de Reversão  
+ PODER JUDICIÁRIO  
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  
+ 
+Memorando n.º  
+ 
+De : 
+Para: SOF 4.1 – Coordenadoria de Tomada de Contas, Normas e Fiscalização   
+ 
+Local, data.  
+ 
+Para fins de regularização do recolhimento do saldo remanescente do 
+adiantamento concedido através do Processo n.º ____/________, solicitamos a Vossa Senhoria a reversão do 
+valor de R$ ________, depositado conforme quadro abaixo:  
+ 
+CONTA  VALOR  
+DEPOSITADO  DATA DO  
+DEPÓSITO  VALOR  
+CORRETO  ACERTO A  
+SER EFETUADO  
+CONTA  
+R$  __/__/____  R$  (-) R$ N.º  
+AG 
+CONTA  
+   (+) R$  N.º  
+AG  
+ 
+Atenciosamente,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IDENTIFICAÇÃO  
+CARGO/FUNÇÃO  
+ 
+  
+
+ 
+ 
+Página 57 
+7.8. Relatório de Viagem  
+ Relatório de Viagem  
+DESTINO E MOTIVO DA VIAGEM:  
+ 
+DURAÇÃO DA VIAGEM: das __:__ horas do dia __/__/____ até as __:__ horas do dia __/__/____.  
+ 
+NOME DOS PARTICIPANTES DA VIAGEM  SE FUNCIONÁRIO 
+DO TRIBUNAL, 
+COLOCAR N.º DA 
+MATRÍCULA  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+DESPESAS GERADAS  
+DATA  VALOR (R$)  DISCRIMINAÇÃO  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+Local, data.  
+ 
+Identificação  
+Cargo/função  
+ 
+De acordo.  
+ 
+JUIZ (A) DE DIREITO DIRETOR (A)  
+ 
+  
+
+ 
+ 
+Página 58 
+7.9. Recibo de Condução  
+ Recibo de Condução  
+ 
+ 
+ 
+Declaro para os devidos fins, que recebi do Tribunal de Justiça do Estado de São Paulo, CNPJ 
+51.174.001/0001 -93, a quantia de R$ ___________ (_______________________________________________), 
+referente à (s) condução (ões) do (s) dia (s) ______________________________________ __________________, 
+em que me dirigi para ________________________________________________________________________ , 
+com a finalidade de __________________________________________________________________________.  
+ 
+ IDA (R$)  VOLTA (R$)  TOTAL (R$)  
+ÔNIBUS     
+METRÔ     
+OUTROS     
+    
+TOTAL GASTO (R$)   
+ 
+Nome :  
+Cargo :  
+Matrícula:  
+Lotação :  
+ 
+Local, data.  
+ 
+ 
+ 
+IDENTIFICAÇÃO  
+CARGO/FUNÇÃO  
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 59 
+7.10. Modelo de Solicitação de Orçamento  
+Solicitação de Orçamento  
+Prezado (a) Senhor (a),  
+Vimos respeitosamente nos dirigir a esta r. Empresa para solicitar orçamento dos materiais/serviços abaixo 
+especificados.  
+Forma de pagamento: à vista, após a entrega da mercadoria / execução dos serviços.  
+Dados a serem fornecidos pela empresa:  
+✓ Razão Social  
+✓ CNPJ  
+✓ Regime Tributário :    ☐ MEI   -   ☐ Simples Nacional    -   ☐ Lucro Presumido    -   ☐ Lucro Real  
+✓ Endereço físico e eletrônico  
+✓ Telefone e e -mail de contato  
+✓ Validade da proposta  
+✓ Prazo de entrega, quando for o caso  
+✓ Data de emissão do orçamento  
+Materiais / serviços a serem cotados:  
+Item  Discriminação detalhada dos materiais e/ou serviços  Unidade1 Quant.  Valor Unit.  Valor Total  
+           
+           
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+           
+      
+      
+Total Geral:   
+1 Metro (m), litro (l), quilograma (kg), rolo, fardo, pacote, unidade etc.  
+ 
+  
+ 
+ 
+Página 60 
+7.11. Ofício para abertura de conta de adiantamento  
+ PODER JUDICIÁRIO  
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  
+ 
+ 
+Ofício n.º  
+ 
+ 
+ 
+Senhor (a) Diretor (a) da SOF 4  
+ 
+ 
+ 
+Solicito providências de Vossa Senhoria no sentido de que seja aberta 
+conta bancária em regime de ADIANTAMENTO na agência n.º XXXX -X, em nome dos responsáveis a seguir : 
+ 
+NOME , CPF n.º XXX.XXX.XXX -XX, RG n.º XX.XXX.XXX -X - titular  
+NOME , CPF n.º XXX.XXX.XXX -XX, RG n.º XX .XXX.XXX -X  
+NOME , CPF n.º XXX.XXX.XXX -XX, RG n.º XX .XXX.XXX -X  
+ 
+ 
+ 
+Apresento a Vossa Senhoria os protestos de elevada estima e 
+consideração.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 61 
+7.12. Ofício para encerramento de conta de adiantamento  
+ PODER JUDICIÁRIO  
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  
+ 
+ 
+Ofício n.º  
+ 
+ 
+ 
+Senhor (a) Diretor (a) da SOF 4  
+ 
+ 
+ 
+Solicito providências de Vossa Senhoria no sentido de que seja encerrada 
+a conta de adiantamento do Banco do Brasil S/A , conta n.º XXX.XXX -X, agência n.º XXXX -X, sob a titularidade 
+do Sr. (a) NOME  , CPF n.º XXX.XXX.XXX -XX. 
+ 
+ 
+ 
+Apresento a Vossa Senhoria os protestos de elevada estima e 
+consideração.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 62 
+7.13. Ofício para alteração de cossignatário  
+ PODER JUDICIÁRIO  
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  
+ 
+ 
+Ofício n.º  
+ 
+ 
+ 
+Senhor (a) Diretor (a) da SOF 4  
+ 
+ 
+ 
+Solicito providências de Vossa Senhoria no sentido de que seja incluído 
+na conta de adiantamento n.º XXX.XXX-X do Banco do Brasil S/A, agência n.º XXXX -X, o Sr.(a) NOME  , CPF n.º 
+XXX.XXX.XXX -XX e RG n.º XX.XXX.XXX -X, bem como seja excluído o Sr.(a) XXXXX, o Sr.(a) NOME  , CPF n.º 
+XXX.XXX.XXX -XX, cuja titularidade pertence ao Sr.(a) NOME , CPF n.º XXX.XXX.XXX -XX. 
+ 
+ 
+ 
+Apresento a Vossa Senhoria os protestos de elevada estima e 
+consideração.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Página 63 
+7.14. Modelo de Declaração 3,5 % – INSS  
+DECLARAÇÃO DE OPÇÃO DA SISTEMÁTICA DE RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS  
+(§ 6º do art. 10 da IN RFB n.º 2053/2021)  
+ 
+CNPJ : 
+NOME EMPRESARIAL : 
+ 
+Declaro, sob as penas da Lei, para fins do disposto (§ 6º do art. 10 da IN RFB n.º 
+2053/2021, que a empresa acima identificada recolhe a contribuição previdenciária incidente sobre o valor 
+da receita bruta, em substituição às contribuições previdenciárias incidentes sobre a folha de pagamento, 
+previstas no s incisos I e III do caput do art. 22 da Lei n.º 8.212, de 24 de julho de 1991, na forma do caput 
+do art. 7º (ou 8º), da Lei n.º 12.546, de 14 de dezembro de 2011.  
+Declaro também ter conhecimento de que a opção tem caráter irretratável.  
+ 
+ ,  de  de  . 
+Local         
+ 
+Representante legal  
+ 
+ Nome:  
+ Qualificação:  
+ CPF:  
+ Assinatura:  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Página 64 
+7.15. Modelo de Declaração Isento – INSS  
+ 
+ 
+ 
+D E C L A R A Ç Ã O 
+ 
+ 
+ 
+Declaramos para os devidos fins, que a empresa ( nome da 
+empresa ) não possui empregados, o serviço foi prestado pessoalmente pelo titular ou sócio ( informar) e o 
+faturamento do mês anterior foi igual  ou inferior a 2 (duas) vezes o limite máximo do salário de contribuição.  
+Local e data , 
+ 
+ 
+ 
+________________________  
+assinatura  
+(proprietário)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Página 65 
+7.16. Modelo de Recibo de Quitação  
+ 
+R E C I B O   D E   Q U I T A Ç Ã O  
+ 
+Eu _________________________________, portador (a) do RG n.º __.___.___ -_ e CPF n.º ___.___.___ -__, 
+representante legal da empresa __________________________________ de CNPJ n.º __.___.___/____ -__, 
+com sede em ____________________________, declaro que recebi do Tribunal de Justiça do Estado de São 
+Paulo a importância de R$ __.___,__ (_____________________________), por meio do cheque n.º ___.___, 
+referente ao pagamento da (s) Nota  (s) Fiscal (ais):  
+Tipo  Razão Social da empresa emitente  N.º  Data de Emissão  Valor (R$)  
+     
+ 
+Local e data , 
+ 
+ 
+ 
+________________________  
+(assinatura)  
+ 
+ 
+(carimbo do CNPJ da empresa)  
+ 
+ 
+  
+
+ 
+ 
+Página 66 
+INFORMAÇÕES  
+ 
+Correio Eletrônico: sof41@tjsp.jus.br  
+Página Eletrônica: Adiantamento (sharepoint.com)  

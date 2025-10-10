@@ -1,0 +1,517 @@
+TERMO DE REFERÊNCIA
+
+(Lei 14.133/2021)
+
+Registro de Preços
+
+OBJETO
+
+Descrever de forma sucinta o objeto da contratação.
+
+Ex: Aquisição de mobiliários a serem distribuídos para as unidades judiciais e administrativas do Tribunal de Justiça, por meio de Ata de Registro de Preços, conforme quadro quantitativo no Anexo A. 
+
+
+
+ÓRGÃOS PARTICIPANTES
+
+CNPJ
+
+ÓRGÃO
+
+
+
+
+
+
+
+
+
+
+
+
+
+Excluir se não houver outros órgãos participantes e informar o descrito abaixo: 
+
+2.1	Não haverá órgãos participantes, tendo em vista que a demanda não é passível de compra compartilhada com outros órgãos da Administração Pública.
+
+DEFINIÇÃO DO OBJETO (alínea “a”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Natureza do Objeto
+
+A natureza do objeto a ser contratado é o(a) [...], com características e padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.
+
+Exemplos de natureza de objeto:
+
+Aquisição de materiais permanentes;
+
+Fornecimento de materiais de consumo;
+
+Prestação de serviços eventuais;
+
+Locação de veículos;
+
+Entre outras.
+
+
+
+
+
+Aquisição de itens de luxo (art. 20 da Lei nº 14.133/2021)
+
+Informar que o objeto desta contratação não se enquadra como sendo de bem de luxo.
+
+Atenção: excluir se não se tratar de aquisição de bens
+
+Quantitativo
+
+Informar a quantidade máxima de cada item que poderá ser adquirida;
+
+Informar a quantidade mínima a ser cotada de unidades de bens ou, no caso de serviços, de unidade de medida.
+
+Agrupar os itens por lote, se o caso, indicando o código catalogado no ALX, a descrição do item, unidade de fornecimento, e a quantidade. Exemplo no quadro abaixo:
+
+Lote 1 – [descrição do lote 1]
+
+Item
+
+Código
+
+Descrição do Item
+
+Unidade de Fornecimento
+
+Qtde Máxima
+
+Qtde Mínima
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lote 2 – [descrição do lote 2]
+
+Item
+
+Código
+
+Descrição do Item
+
+Unidade de Fornecimento
+
+Qtde Máxima
+
+Qtde Mínima
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O quadro acima poderá ser anexo ao Termo de Referência.
+
+
+
+Aplicação da cota de até 25% para ME/EPP (inciso III, art. 48 da Lei Complementar nº 123/2006)
+
+Informar a quantidade para atender a cota para aquisição de bens de natureza divisível, de até 25% do objeto para contratação de ME/EPP. 
+
+Na impossibilidade de cumprimento, justificar.
+
+Atenção: Item aplicável somente para aquisição de bens, excluir se não for esta a natureza do objeto a ser contratado
+
+
+
+Dos preços (inc III, art. 82 da Lei nº 14133/2021)
+
+Definir a possibilidade de prever preços diferentes:
+
+quando o objeto for realizado ou entregue em locais diferentes;
+
+em razão da forma e do local de acondicionamento;
+
+quando admitida cotação variável em razão do tamanho do lote;
+
+por outros motivos justificados no processo;
+
+Definir a possibilidade de o licitante oferecer ou não proposta em quantitativo inferior ao máximo previsto no edital, obrigando-se nos limites dela.
+
+Definir as condições para alteração de preços registrados.
+
+Prazo do Contrato
+
+Informar o prazo de vigência do contrato e ou da ata de registro de preços.
+
+Pode ser celebrado contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos;
+
+Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que previsto em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes;
+
+O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.
+
+O prazo de vigência contratual será de xx(xx) meses podendo ser prorrogado nos termos do art. 107 da Lei 14.133/2021.
+
+Art. 106. A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
+
+I - a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;
+
+II - a Administração deverá atestar, no início da contratação e de cada exercício, a existência de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;
+
+III - a Administração terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem.
+
+§ 1º A extinção mencionada no inciso III do caput deste artigo ocorrerá apenas na próxima data de aniversário do contrato e não poderá ocorrer em prazo inferior a 2 (dois) meses, contado da referida data.
+
+§ 2º Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de programas de informática.
+
+Art. 107. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes
+
+
+
+Exemplo 1 – Registro de preço 
+
+O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso;
+
+O início da vigência da ata de registro de preços será contado a partir da publicação no Portal Nacional de Contratações Públicas.
+
+Art. 84. O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.
+
+Parágrafo único. O contrato decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as disposições nela contidas.
+
+FUNDAMENTAÇÃO DA CONTRATAÇÃO (alínea “b”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A fundamentação completa da contratação está descrita no Estudo Técnico Preliminar, que será publicado juntamente com o Edital de Licitação ou Aviso de Contratação Direta, no Portal Nacional de Contratações Públicas (PNCP) e no Portal da Transparência do Tribunal de Justiça do Estado de São Paulo.
+
+
+
+Atenção!! Na ausência do Estudo Técnico Preliminar ou no caso de sigilo dos estudos, informar a necessidade da contratação e o extrato das partes que não contiverem informações sigilosas (se o caso). 
+
+DESCRIÇÃO DA SOLUÇÃO (alínea “c”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Informar detalhadamente da especificação do objeto a ser contratado, considerando todo o seu ciclo de vida.
+
+REQUISITOS DA CONTRATAÇÃO (alínea “d”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Sustentabilidade
+
+Informar os critérios e práticas de sustentabilidade a serem adotas no objeto desta contratação. 
+
+Se não for aplicável ao objeto deverá ser justificado
+
+Especificação da Garantia Complementar (inc. III, § 1º, art. 40, da Lei nº 14.133/2021)
+
+Especificar a garantia exigida e as condições de manutenção e assistência técnica, quando for o caso.
+
+Atenção: Esta garantia contratual é complementar à legal, ou seja, adicional àquela prevista em lei e conferida mediante termo escrito, nos termos do art. 50 do CDC e art. 40, § 1º, inc. III, da Lei nº 14.133/2021) Parcer Jurídico nº 541/2024 – Processo 2024/33757, págs 279 a307.
+
+Obs: Não confundir este item com a prestação de garantia na contratação, prevista no art. 96 da Lei nº 14.133/2021, pois trata-se de garantia da execução contratual.
+
+Excluir este item se não for aplicável ao objeto a ser contratado
+
+Suporte técnico
+
+Informar se haverá necessidade de suporte técnico no decorrer da execução contratual ou na garantia, com os devidos detalhamentos da prestação do serviço.
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+Subcontratação
+
+Informar se será admitida a subcontratação deste objeto, se positivo informar quais os limites aplicados ao objeto.
+
+
+
+Amostra/exame de conformidade/prova de conceito
+
+Informar se será realizada análise e avaliação da conformidade da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de interesse do Tribunal de Justiça, de modo a comprovar sua aderência às especificações definidas no termo de referência. 
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+Vistoria Prévia (§§ 2º, 3º e 4º, art. 63 da Lei 14.133/2021)
+
+Informar se haverá necessidade de vistoria prévia, a fim de atestar conhecimento do local e as condições de realização da obra ou serviço, mencionando o endereço, telefone para contato, email e nome do responsável para agendamento.
+
+A vistoria prévia poderá ser substituída por declaração formal assinada pelo responsável técnico do licitante acerca do conhecimento pleno das condições e peculiaridades da contratação.
+
+As licitantes que optarem por realizar vistoria prévia, o responsável pelo agendamento deverá disponibilizar data e horário diferentes para os eventuais interessados.
+
+Excluir este item se não for aplicável ao objeto a ser contratado
+
+LOCAIS DE ENTREGA/PRESTAÇÃO DE SERVIÇO
+
+Locais de entrega/Prestação de Serviço
+
+Informar os locais de entrega dos produtos ou prestação dos serviços e as quantidades.
+
+MODELO DE EXECUÇÃO DO OBJETO (alínea “e”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Definir como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento.
+
+MODELO DE GESTÃO DO CONTRATO (alínea “f”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+Área administrativas e/ou técnicas
+
+Informar as áreas administrativas e técnicas responsáveis pelo acompanhamento da execução contratual, bem como as respectivas atribuições de fiscalização e gestão.
+
+Protocolo de comunicação
+
+Informar o protocolo de comunicação entre o contratante e contratada, adotando-se preferencialmente meio eletrônico, observados os prazos estabelecidos no art. 130, Provimento nº 2.724/2023.
+
+Recebimento Provisório 
+
+Informar os métodos e prazos para o recebimento provisório do produto, obra ou serviço, indicando qual documento que a empresa contratada deverá apresentar que comprove a entrega do bem, obra ou serviço, após verificação sumária da conformidade contratual.
+
+Recebimento Definitivo 
+
+Informar os métodos e os prazos para o recebimento definitivo do produto, obra ou serviço, subsidiado por documentos e nota fiscal/fatura, que comprove o cumprimento das exigências, prazos, valores.
+
+Condições de pagamento 
+
+Informar quais as condições de pagamento vinculado ao recebimento definitivo do objeto.
+
+Ex: O pagamento será efetuado 30 (trinta) dias contados da data do ateste da Nota Fiscal/Fatura pelo Fiscal do Contrato.
+
+Observação: caso o pagamento seja inferior, deverá contar com prévia anuência da SOF quando inferior a 30 (trinta) dias corridos contados do ateste definitivo da nota fiscal/fatura;
+
+Acordo de nível de serviço
+
+Apresentar tabela de acordo de nível de serviço com os correspondentes indicadores e faixas de descontos. 
+
+No caso de impossibilidade de adoção desta metodologia, deverá ser devidamente justificada.
+
+Ex.: Não se aplica, em razão do objeto a ser contratado não se tratar de serviço ou que o serviço será de execução imediata.
+
+Condições de habilitação e qualificação
+
+Descrever os procedimentos para verificação do cumprimento da obrigação da contratada de manter todas as condições exigidas para a habilitação e qualificação na contratação inicial em periodicidade não superior a seis meses.
+
+Hipótese de glosa
+
+Informar quais as hipóteses de glosa nos casos de descumprimento contratual.
+
+Sanções Administrativas (Multa)
+
+Informar quais os percentuais de multa a serem aplicadas na hipótese de descumprimento contratual. 
+
+Atenção: Se não for o caso de aplicação de multa previamente estipulada neste termo de referência, será observado o artigo 115 do provimento 2.724/2023, em razão disso poderá ser excluído este item do documento.
+
+Extinção do contrato (art. 137 da Lei nº 14.133/2021)
+
+Informar quais as hipóteses de extinção do contrato.
+
+FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR (alínea “h”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+O fornecedor será selecionado por meio da realização de procedimento de licitação, na modalidade pregão, sob a forma eletrônica, com adoção do critério de julgamento pelo XXX (menor preço ou maior desconto).
+
+ESTIMATIVA DO VALOR DA CONTRATAÇÃO (alínea “i”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A estimativa do valor da contratação será informada pela Diretoria de Licitações e Suprimentos, de acordo com o resultado da pesquisa de preços ou orçamento.
+
+Será avaliada a possibilidade de declaração de sigilo do orçamento de acordo com o objeto a ser licitado e apuração do resultado da pesquisa.
+
+ADEQUAÇÃO ORÇAMENTÁRIA (alínea “j”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+A adequação orçamentária será apresentada pela SOF, e posteriormente inserida neste documento após a indicação de recurso.
+
+PRESTAÇÃO DE GARANTIA NA CONTRATAÇÃO (arts. 96 da Lei nº 14.133/2021)
+
+Informar se haverá prestação de garantia na contratação, com vistas a garantir o fiel cumprimento das obrigações assumidas pelo contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento, com a indicação do percentual a ser aplicado de até 5% (cinco por cento) do valor inicial do contrato.
+
+A majoração desse percentual para até 10% (dez por cento), poderá ser aplicada desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+
+
+Exemplo de justiticativa:
+
+Não se aplica, em razão do objeto a ser contratado é de baixa complexidade, baixo valor e de baixo risco, assim a exigência de prestação de garantia com obrigação de apresentação de: a) caução, dinheiro ou títulos da dívida pública b) seguro-garantia ou c) fiança bancária, é desarrazoada para contratação do presente objeto, gerando despesas adicionais desnecessárias
+
+Basicamente a exigência da prestação de garantia na contratação serve para cobrir os prejuízos advindos do não cumprimento do objeto do contrato, decorrentes de culpa ou dolo durante a execução do contrato, multas moratórias e punitivas aplicadas pelo Tribunal de Justiça ao contratado e as obrigações trabalhistas e previdenciárias de qualquer natureza.
+
+
+
+REQUISITOS DE HABILITAÇÃO E QUALIFICAÇÃO TÉCNICA (art. 67 da Lei nº 14.133/2021)
+
+Qualificação Técnico-Profissional (inc. I, art. 67 da Lei nº 14.133/2021)
+
+Informar a qualificações técnico-profissional exigida para fins de habilitação, restrita à apresentação de profissional, devidamente registrado no conselho profissional competente, quando for o caso, detentor de atestado de responsabilidade técnica por execução de obra ou serviço de características semelhantes, para fins de contratação.
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+
+
+Qualificação Técnico-Operacional (inc. II, art. 67 da Lei nº 14.133/2021)
+
+Informar quais certidões ou atestados, regularmente emitidos pelo conselho profissional competente, quando for o caso, que demonstrem capacidade operacional na execução de serviços similares de complexidade tecnológica e operacional equivalente ou superior.
+
+Atenção: Os documentos comprobatórios emitidos deverão demonstrar a atuação do contratado no cumprimento de obrigações assumidas será avaliada pelo contratante, que emitirá documento comprobatório da avaliação realizada, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, o que constará do registro cadastral em que a inscrição for realizada. (§ 3º, art. 88 da Lei nº 14.133/2021)
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+
+
+Indicação de pessoal técnico (inc. III, art. 67 da Lei nº 14.133/2021)
+
+Indicar o pessoal técnico, das instalações e do aparelhamento adequados e disponíveis para a realização do objeto da licitação, bem como da qualificação de cada membro da equipe técnica que se responsabilizará pelos trabalhos.
+
+Exigir o registro ou inscrição na entidade profissional competente, quando for o caso.
+
+Atenção: se este item não for aplicável ao objeto a ser contratado, justificar.
+
+Parecer Jurídico nº 117/2024, processo 2024/8709 ...”caso determinado requisito não seja aplicado no caso concreto, deverá constar do DFD ou TR a referida inaplicabilidade, acompanhada da respectiva justificativa.”
+
+
+
+Habilitação Econômico-Financeira (art. 69 da Lei nº 14.133/2021)
+
+Indicar as regras para a habilitação econômico-financeira que visa a demonstrar a aptidão econômica do licitante para cumprir as obrigações decorrentes do futuro contrato, devendo ser comprovada de forma objetiva, por coeficientes e índices econômicos previstos, nos termos do art. 69 da Lei nº 14.133/2021).
+
+A habilitação ecônomico financeira deverá ser justificada no Estudo Técnico Preliminar.
+
+Excluir este item se não for aplicável ao objeto a ser contratado.
+
+CRONOGRAMA FÍSICO-FINANCEIRO
+
+Apresentar cronograma físico-financeiro de acordo com os valores a serem desembolsados durante a execução contratual. Exemplo:
+
+Descrição
+
+Mês 1
+
+Mês 2
+
+Mês 3
+
+Mês 4
+
+Mês n...
+
+Valor Total por item
+
+Item 1
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Item 2
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Item 3
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total Geral
+
+0,00
+
+Excluir este item se não for aplicável ao objeto a ser contratado, por exemplo, na hipótese de contratação de serviços, bens ou fornecimento com execução ou entrega imediata.
+
+OBRIGAÇÕES DA DETETORA/CONTRATADA
+
+Deverá informar as obrigações da Detentora/Contratada referente ao objeto a ser contratado direcionando seu fornecimento/prestação de serviço, bem como os itens que Detentora/Contratada deverão cumprir ao longo da execução do contrato/Ata.
+
+MATRIZ DE ALOCAÇÃO DE RISCO (arts. 22 e 103 da Lei nº 14.133/2021)
+
+Apresentar a matriz de alocação de riscos entre o Tribunal de Justiça e a empresa contratada, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com metodologia predefinida no Plano de Riscos, nos termos do art. 22 da Lei nº 14.133/2021;
+
+O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados art. 103 da Lei nº 14.133/2021;
+
+Apresentar justificativa se este for aplicável ao objeto a ser contratado.
+
+Atenção! Quando a contratação se referir a obras e serviços de grande vulto ou forem adotados os regimes de contratação integrada e semi-integrada, o edital obrigatoriamente contemplará matriz de alocação de riscos entre o contratante e o contratado.
+
+Atenção: Excluir este item se o objeto não se enquadrar nas regras acima.
+
+Atenção: Se o objeto não se enquadrar nas regras acima, esclarecer a necessidade ou não, de inserção deste item.
+
+
+
+Parecer 141/2024, Processo 2023/114168, tópico VI.d, “...recomendamos o item 15 do TR seja reformulado, para esclarecer (i) a necessidade, ou não, de inserção de cláusula de matriz de riscos nos contratos decorrentes da ARP; e, em caso positivo, qual o conteúdo da cláusula proposta (art. 6º, XXVII, da NLLC)”.
+
+
+
+Obs: Não confundir este item com o Plano de Gestão de Riscos, art. 22 do Provimento nº 2724/2023, que versa sobre a identificação dos principais riscos que possam comprometer a contratação, desde a fase de planejamento até o termo final da vigência do contrato e na execução contratual.
+
+
+
+2
+
+2Versão 1.2 – 17/06/2024
+
+
+
+|

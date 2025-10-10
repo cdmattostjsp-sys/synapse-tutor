@@ -1,0 +1,2988 @@
+ 
+ 
+Manual  de 
+Contratos  
+TRIBUNAL  DE JUSTIÇA  DE SÃO  PAULO  
+1.1.1.1.1.1.1   Secretaria  de Administração  e Abastecimento  | Saab   
+ 
+  
+ 
+  
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+1   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL  DE CONTRATOS  
+Edição - 2025   
+2 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+SECRETÁRIO DE ADMINISTRAÇÃO E ABASTECIMENTO  
+Fábio Makoto Tagliaferro Yokoyama  
+ 
+EQUIPE DE TRABALHO  
+Andrea Miyuki Noel  
+Bruna Marcela de Barros Cunha  
+Diego Aparecido Gabriel  
+Diogo Takehiro Sayama  
+Eduardo Kanashiro Oyafuso  
+Karina Yamaguishi Ide  
+Lilian Yamazato  
+Luciana Borges Toledo  
+Maria Aparecida Lúcio  
+Maurício Marcos Abambres  
+Murilo Mendes Santos  
+Silvana Mendes de Godoy  
+ 
+ 
+COLABORADORES  
+Alian Labate Salas  
+Flávia Cavalcante Lima  
+Rogério Denis Roque Bianchi  
+ 
+ 
+ 
+ 
+ 
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+3   
+ 
+ 
+  
+Sumário  
+Manual  de Contratos   
+1.  DISPOSIÇÕES  GERAIS  ................................ ................................ ................................ .....................  9 
+1.1 A NOVA LEI DE LICITAÇÕES E CONTRATOS (LEI Nº 14.133/2021)  ................  10 
+2. CONTRATO  ................................ ................................ ................................ ................................ ..........  11 
+2.1 DISPOSIÇÕES GERAIS ................................ ................................ ................................ ..........................  12 
+2.2 FORMALIZAÇÃO  DOS CONTRATOS  ................................ ................................ ......................  12 
+2.3 VIGÊNCIA  ................................ ................................ ................................ ................................ ........................ 14 
+3.  GESTORES, GESTORAS  E FISCAIS  ................................ ................................ .....................  16 
+3.1 DESIGNAÇÃO  ................................ ................................ ................................ ................................ ..............  17 
+3.2 PERFIS  ................................ ................................ ................................ ................................ ..............................  18 
+3.3 VEDAÇÕES E IMPEDIMENTOS  ................................ ................................ ................................ .... 19 
+3.4 ATRIBUIÇÕES GERAIS  ................................ ................................ ................................ ......................  20 
+4.  ETAPAS DA GESTÃO E FISCALIZAÇÃO  ................................ ................................ ........ 21 
+4.1 ATRIBUIÇÕES  ................................ ................................ ................................ ................................ .............  22 
+4.1.1 GESTOR E GESTORA DO CONTRATO  ................................ ................................ .................  22 
+4.1.2 FISCAL DO CONTRATO  ................................ ................................ ................................ ..................  23 
+4.1.3 FISCAL ADMINISTRATIVO  ................................ ................................ ................................ ...........  24 
+4.1.4 RESPONSÁVEIS TÉCNICOS  ................................ ................................ ................................ ........ 25 
+4.2 EXECUÇÃO DOS CONTRATOS  ................................ ................................ ................................ ... 26 
+4.2.1 FISCALIZAÇÃO DOS CONTRATOS COM DEDICAÇÃO EXCLUSIVA DE 
+MÃO DE OBRA  ................................ ................................ ................................ ................................ ..................  27 
+4.2.1.1    RETENÇÃO E LIBERAÇÃO DAS VERBAS CONTINGENCIADAS  .............  29 
+4.2.1.1.1  LIBERAÇÃO DAS VERBAS DURANTE  O CONTRATO  ................................ .... 30 
+4 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 4.2.1.1.2  LIBERAÇÃO DO SALDO REMANESCENTE APÓS O ENCERRAMENTO  
+DO CONTRATO  ................................ ................................ ................................ ................................ .................  35 
+4.2.1.1.3  RESOLUÇÃO DE CASOS OMISSOS  ................................ ................................ ..............  40 
+4.2.2  FISCALIZAÇÃO DOS SERVIÇOS E OBRAS DE ENGENHARIA  ........................ 41 
+4.2.3  FISCALIZAÇÃO DOS CONTRATOS DE STIC  ................................ ................................ ..41 
+4.3 RECEBIMENTO  ................................ ................................ ................................ ................................ ....... 42 
+4.3.1 RECEBIMENTO PROVISÓRIO  ................................ ................................ ................................ .. 43 
+4.3.2  RECEBIMENTO DEFINITIVO  ................................ ................................ ................................ .... 44 
+4.3.3  ROTEIRO PARA RECEBIMENTO DE BENS  ................................ ................................ .. 45 
+4.3.4  ROTEIRO PARA RECEBIMENTO  DE SERVIÇOS  ................................ ....................  46 
+4.4 IRREGULARIDADES NA EXECUÇÃO CONTRATUAL  ................................ ...............  47 
+5. CONTRATOS SUI GENERIS  ................................ ................................ ................................ ..... 49 
+5.1 CONTRATOS DE FORNECIMENTO DE ENERGIA ELÉTRICA  .............................  50 
+5.1.1 FLUXO ATUALIZADO PARA FORMALIZAÇÃO DOS CONTRATOS  DE 
+ENERGIA ELÉTRICA  ................................ ................................ ................................ ................................ ....... 51 
+5.1.2 ALTERAÇÃO DA DEMANDA  ................................ ................................ ................................ ... 53 
+6. ATESTADO E PROTOCOLO DO DOCUMENTO FISCAL  ..........................  54 
+6.1 DO CADASTRO  NO SISTEMA SGF  ................................ ................................ ...........................  55 
+6.2 PRAZO DE RECEBIMENTO E ENVIO DA DOCUMENTAÇÃO À SOF  ...........  55 
+6.3 CADASTRAMENTO DO DOCUMENTO FISCAL  ................................ ..............................  56 
+6.3.1 1ª ETAPA: INFORMAÇÃO DOS DADOS CADASTRAIS E IMPOSTOS 
+APLICADOS AO DOCUMENTO  ................................ ................................ ................................ ...........  57 
+6.3.1.1  RETENÇÕES TRIBUTÁRIAS (ISS, INSS E IRRF)  ................................ .........................  59 
+6.3.1.1.1  RETENÇÃO ISS  ................................ ................................ ................................ ................................  60 
+6.3.1.1.2  RETENÇÃO INSS  ................................ ................................ ................................ .............................  61 
+6.3.1.1.3  RETENÇÃO IRRF (IMPOSTO DE RENDA RETIDO NA FONTE)  ................  62 
+6.3.2  2ª ETAPA: FORNECIMENTO DAS INFORMAÇÕES ACERCA DA 
+EXECUÇÃO DO CONTRATO  ................................ ................................ ................................ ..................  63 
+6.3.3  3ª ETAPA: PROTOCOLO  ................................ ................................ ................................ .............  65 
+6.4 CANCELAMENTO DE PROTOCOLOS DE DOCUMENTOS FISCAIS  ............  66 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+5   
+ 
+ 
+ 7. GESTÃO DE RISCOS  ................................ ................................ ................................ ....................  68 
+7.1 ATUALIZAÇÃO DO PLANO  DE RISCOS  ................................ ................................ ..............  70 
+8. MODIFICAÇÕES CONTRATUAIS  ................................ ................................ .......................  72 
+8.1 FORMALIZAÇÃO DAS ALTERAÇÕES CONTRATUAIS  ................................ ...............  73 
+8.1.1 ACRÉSCIMOS E SUPRESSÕES  ................................ ................................ ................................ .. 73 
+8.1.2 PRORROGAÇÕES DE VIGÊNCIA  ................................ ................................ ...........................  74 
+8.1.2.1  ATA DE REGISTRO DE PREÇOS  ................................ ................................ ..........................  77 
+8.1.3 MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO -FINANCEIRO  ....................  78 
+8.1.3.1  REAJUSTAMENTO EM SENTIDO ESTRITO  E REPACTUAÇÃO .................. 79 
+8.1.3.2  REEQUILÍBRIO ECONÔMICO -FINANCEIRO  ................................ ...........................  80 
+9.  EXTINÇÃO DOS CONTRATOS  ................................ ................................ .............................  82 
+9.1 EXTINÇÃO UNILATERAL  ................................ ................................ ................................ ....................  83 
+9.2 EXTINÇÃO PLEITEADA  PELA CONTRATADA  ................................ ...............................  84 
+10. RELATÓRIO FINAL  ................................ ................................ ................................ .................  86 
+10.1 RELATÓRIO FINAL SOBRE A CONSECUÇÃO DOS OBJETIVOS  ...................  87 
+11.  ANEXOS  ................................ ................................ ................................ ................................ ..............  88 
+11.1 ANEXO I – CHECKLIST PARA NOVA CONTRATAÇÃO DE ENERGIA 
+ELÉTRICA (CUSD E CCER)  ................................ ................................ ................................ ......................  89 
+11.2 ANEXO II - CHECKLIST PARA ALTERAÇÃO DA DEMANDA  DE ENERGIA 
+ELÉTRICA  ................................ ................................ ................................ ................................ ..............................  90 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUÇÃO  
+ 
+ 
+ 
+Desde a última edição deste manual, publicada em 2018, 
+ocorreram mudanças substanciais nas normas relacionadas  à gestão e 
+fiscalização de contratos , sobretudo com a publicação da Lei nº 
+14.133/2021, denominada Nova Lei de Licitações e Contratos, que 
+estabelece as regras gerais de licitações e contratos administrativos 
+para as Administrações Públicas diretas, autárquicas e fundacionais da 
+União, dos Estados, do Distrito Federal e dos Municípios.  
+Dessa maneira, em conformidade ao Provimento CSM nº 
+2.724/2023  e à luz da Lei nº 14.133/2021 , foi elaborado o presente Manual 
+de Gestão e Fiscalização de Contratos , cujo objetivo é reunir 
+informações e orientações indispensáveis, organizando -as de forma 
+sistematizada e precisa, a fim de direcionar a atuação dos servidores 
+deste Tribunal de Justiça envolvidos na gestão e fiscalização de 
+contratos administrativos . 
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+9   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  
+DISPOSIÇÕES  
+GERAIS  
+  
+10 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+1.1   A NOVA LEI DE LICITAÇÕES  E 
+CONTRATOS  (LEI Nº 14.133/2021 ) 
+ 
+A Nova Lei de Licitações  e Contratos  (lei nº 14.133, de 1º de abril de 2021 ), 
+estabelece normas gerais de licitação e contratação para as Administrações 
+Públicas diretas, autárquicas e fundacionais da União, do Distrito Federal , dos 
+Estados  e dos Municípios , e substituiu a Lei nº 8.666/1993 , até então utilizada.  
+Com o advento da Nova Lei , houve maior incorporação da forma eletrônica 
+nos procedimentos adotados, inclusive na celebração de contratos e seus termos 
+aditivos , bem como trouxe outras alterações.  
+No entanto, durante o período de transição da Nova Lei, estendid o até o dia 
+30/12/2023, era permitida a utilização de ambas as legislações , ficando a critério 
+da Administração dispor daquela  que melhor atendesse seus objetivos. Tal 
+opção vincu la os demais atos processuais conseguintes . 
+Dessa forma, todos os processos licitatórios e de contratação direta tramitados 
+sob o regime antigo (Lei nº 8.666/1993) serão por ele regidos, desde que a 
+publicação do edital ou do ato autorizativo da contratação direta tenha ocorrido 
+até o dia 29/12/2023.  Nesse caso, deve -se consultar os procedimentos previs tos 
+no antigo Manual de Licitações e Contratos  do TJSP (disponível em  Manual de 
+Licitações  e Contratos  - 1ª Edição ). 
+Para os demais casos , deve -se observar exclusivamente o texto da Lei nº 
+14.133/2021.  
+A integralidade da Nova Lei de Licitações e Contratos pode ser consultada em 
+Lei nº 14.133/2021 . 
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+11   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  
+CONTRATO  
+  
+12 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+2.1 DISPOSIÇÕES GERAIS  
+Contrato administrativo é um instrumento formal, regido pelas normas do 
+direito público  e suplementado pelas normas do direito privado  no que couber , 
+celebrado entre a Administração Pública e um terceiro  (pessoa física ou jurídica , 
+de direito público ou privado ) para o fornecimento de bens , a realização de obras  
+ou a prestação  de serviços. Trata -se de um acordo recíproco de vontades, em que 
+ambas as partes celebram  um negócio com o fim de se atender ao interesse 
+público.  
+Todo contrato deve mencionar os nomes das partes e de seus 
+represent antes, a finalidade, o ato que autorizou sua lavratura , assim como  o 
+número do processo de licitação ou de contratação direta . 
+Além disso, os  contratos devem possuir cláusulas claras e precisas, com as 
+condições necessária s para sua execução,  bem como os direitos, obrigações e 
+responsabilidades das partes.  
+ 
+2.2 FORMALIZAÇÃO DOS CONTRATOS  
+ 
+No TJSP, atuarão na fase de formalização do contrato:  
+• Presidente do TJ SP; 
+• Diretoria de Contratos da Secretaria de Administração e Abastecimento 
+– Saab  6; 
+• Gestor  ou Gestora  do Contrato;  
+• Secretaria de Orçamento e Finanças - SOF  
+A formalização dos contratos administrativos segue o seguinte trâmite:  
+1. Concluída a fase de julgamento e habilitação, os autos são 
+encaminhados à Diretoria de Contratos da Secretaria de Administração 
+e Abastecimento – Saab  6 para a lavratura do instrumento contratual ; 
+ 
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+13   
+ 
+ 
+ 2. Elaborado o contrato, o processo segue para a E. Presidência visando 
+à homologação, adjudicação, autorização da despesa e  assinatura do 
+termo contratual ; 
+ 
+3. Com o retorno da Alta Administração, a Saab  6.1 notificará a  
+Contratada para assinatura do contrato , dentro do prazo e nas 
+condições previstas no edital de licitação ou autorização de contratação 
+direta, sob pena de decadência do seu direito à contratação, sem 
+prejuízo às penalidades previstas no edital e  no contrato;  
+ 
+4. O prazo de convocação  poderá ser prorrogado uma vez por igual 
+período , mediante solicitação justificada da Contrata da, desde que o 
+motivo apresentado seja aceito pela Administração;  
+ 
+5. No âmbito do Tribunal de Justiça de São Paulo, essas assinaturas são 
+coletadas, preferencialmente,  na forma eletrônica , mediante 
+assinatura da Contratada no Portal Eletrônico de Assinaturas do TJSP;  
+ 
+6. Na impossibilidade do contrato, do Termo de Confidencialidade e 
+Proteção de Dados e do Termo de Ciência e Notificação (TCE) serem 
+assinados eletronicamente, por falha do sistema ou por motivo 
+superveniente do Tribunal de Justiça, a Contratada será convocad a 
+para assiná -los fisicamente ; 
+ 
+7. Formalizado o  contrato, se rá encaminhado , ao gestor  ou à gestora  
+e ao suplente de gestor, o despacho da E. Presidência com as 
+respectivas nomeações , bem como cópia do contrato ou link de 
+acesso do referido ajuste no Portal da Transparência do TJSP ; 
+ 
+8. A Saab  6 providenciará o cadastro do contrato  no Sistema de 
+Gerenciamento Financeiro e Orçamentário (SGF)  e sua publicação no 
+DEJESP (Diário Eletrônico da Justiça de São Paulo ) e no PNCP (Portal 
+Nacional de Contratações Públicas).  
+ 
+9. Na sequência, serão  abertas tarefas  no sistema à Secretaria de 
+Orçamento e Finanças – SOF para as providências internas (empenho, 
+abertura de processos contábeis, de contingenciamento, registro de 
+garantia  etc.), bem como o encaminhamento do processo à Diretoria 
+de Licitações e Suprimentos – Saab  5, para envio AUDESP da Licitação ; 
+ 
+10. Por fim , a Saab  6.1 realiza rá o envio AUDESP dos Contratos.  
+14 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+2.3 VIGÊNCIA  
+ 
+O prazo de  vigência  dos contratos  deve ser previst o em edital  e no contrato , 
+observando -se, no ato da contratação e a cada exercício financeiro, a 
+disponibilidade orçamentária , assim como a previsão no plano plurianual, caso 
+ultrapasse 1 (um) exercício financeiro.  
+Em regra, os contratos  para serviços e fornecimentos contínuos  podem 
+possuir  prazo de  até 5 (cinco) anos , podendo ser prorrogado s, sucessivamente , 
+até o limite máximo de 10 (dez) anos , desde que:  
+• Haja previsão em edital;  
+• A autoridade competente ateste que as condições e os preços 
+permanecem vantajosos para a Administração.  
+Ainda, de acordo com o art. 111 da Lei nº 14.133/2021, na contratação que 
+previr a conclusão de escopo predefinido, o prazo de vigência será 
+automaticamente prorrogado quando seu objeto não for concluído no período 
+firmado no contrato.  
+Ademais, a Administração poderá estabelecer a vigência por prazo 
+indeterminado  nos contratos em que seja usuária de serviço público oferecido 
+em regime de monopólio , desde que comprovada, a cada exercício financeiro, 
+a existência de créditos orçamentários vinculados à contratação  (Art. 109 da Lei 
+nº 14.133/2021) . 
+Para os contratos com vigência plurianual, a Administração deve observar 
+as seguintes diretrizes:  
+• A autoridade competente deve atestar  a maior vantagem 
+econômica em razão da contratação plurianual;  
+• A Administração deverá atestar, no início da contratação e a cada 
+exercício, a existência de créditos orçamentários  vinculados à 
+contratação e a vantagem em sua manutenção;  
+• A Administração terá a opção de extinguir o contrato, sem ônus, 
+quando não dispuser de créditos orçamentários para sua 
+continuidade  ou quando entender  que o contrato não seja mais 
+vant ajoso.  
+A fim de que não ocorram vencimentos de contrato sem a devida 
+prorrogação, o Gestor  ou a Gestora  do Contrato deverá adotar as providências 
+nos seguintes prazos:  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+15   
+ 
+ 
+ Tipos de contratos  Início das providências / 
+verificações pelo  Gestor 
+ou pela Gestora  Formalização do pedido de 
+prorrogação perante a 
+Diretoria de Contratos da 
+Saab  
+Prestação de serviços de 
+natureza continuada  240 dias antes do 
+vencimento  180 dias antes do 
+vencimento  
+Serviços de alta 
+complexidade ou que 
+necessitem de análise 
+técnica  300 dias antes do 
+vencimento  240 dias antes do 
+vencimento  
+ 
+Os procedimentos e providências a serem adotadas pelo  Gestor ou pela 
+Gestora  do Contrato para a prorrogação contratual estão demonstradas no item 
+“8.1.2 – Prorrogações de Vigência ” deste Manual.  
+  
+16 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  
+GESTORES , 
+GESTORAS   
+E FISCA IS 
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+17   
+ 
+ 
+ Inicialmente, cumpre -nos definir brevemente os atores que atuam nos 
+contratos administrativos , de acordo com o Provimento CSM nº 2724/2023 : 
+• Equipe de Gestão do Contrato : equipe formada pelo  Gestor ou pela 
+Gestora  do Contrato  e sup lente , pelos Fiscais Administrativos  e 
+suplentes , pelos Fi scais do Contrato  e suplentes,  e pelos 
+Responsáveis Técnicos, se o caso,  para acompanhamento, gestão e 
+fiscalização da execução contratual;  
+ 
+• Fiscal Administrativo : servidor  ou servidora  designad os para 
+auxiliar o  Gestor ou a Gestora  do Contrato na fiscalização dos 
+aspectos administrativos da execução contratual;  
+ 
+• Fiscal do Contrato : servidor ou servidora designados para auxiliar o  
+Gestor ou a Gestora  do Contrato na fiscalização dos aspectos 
+operacionais da execução contratual;  
+ 
+• Gestor  ou Gestora  do Contrato : servidor , servidora, magistrado ou 
+magistrada  designado s pela Presidência  do Tribunal de Justiça para 
+coordenar a gestão e fiscalização da execução contratual.  
+ 
+3.1  DESIGNAÇÃO  
+ 
+Os gest ores , as gestoras  e seus respectivos suplentes  serão  designados pela 
+Presidência  do TJSP , ao passo que os fiscais  e seus suplentes  serão  designados 
+pelo  Gestor ou  pela Gestora . 
+Na designação serão considerados:  
+• A compatibilidade com as atribuições do cargo;  
+• A complexidade da fiscalização;  
+• O quantitativo de contratos por servidor;  
+• A capacidade para o desempenho das atividades . 
+O Gestor ou a Gestora , o Fisca l Administrativo e o Fiscal do Contrato  são 
+indicados na fase de planejamento da contratação  e constarão  no Termo de 
+Referência (TR) , sendo designados de forma individualizada, incluídos seus 
+substitutos.  
+O Gestor ou a Gestora  do Contrato deve ser notificado  de sua designação e 
+de suas atribuições  previstas no art. 73  do Provimento nº 2.724/2023 , em até 5  
+(cinco)  dias  após a assinatura do contrato. Em sua ausência, seu suplente 
+assumirá as funções.  
+18 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Após designado, o  Gestor ou a Gestora  do Contrato designará o  Fiscal 
+Administrativo, o Fiscal do Contrato e seus suplentes , no módulo SGF do sistema 
+SAJADM  (SGF > Contrato > Gestão Contratual ). 
+      Em caso de impossibilidade de exercício das funções em razão de 
+relotação, exoneração de função comissionada ou afastamento definitivo , o 
+gestor  ou a gestora, os fiscais  e as fiscais deverão solicitar a cessação de sua 
+designação, no prazo de até 48 horas,  conforme segue:  
+Função  Solicita para  Providências  Referências 
+Provimento  
+Gestor  ou Gestora  
+do Contrato  Secretário  ou 
+Secretária  da 
+área gestora  Em até 48 horas , o Secretário ou 
+a Secretária da área gestora deve 
+encaminhar expediente 
+eletrônico à Diretoria de 
+Contratos da Saab  – Saab  6, com 
+indicação do novo  Gestor ou  da 
+nova  Gestora  e suplente, se o 
+caso, para que seja submetido à 
+deliberação e designação pela E. 
+Presidência.  Art. 72, §3º e 
+§4º 
+Fiscais 
+Administrativo e 
+do Contrato e 
+respectivos 
+suplentes  Gestor  ou 
+Gestora  do 
+Contrato  Gestor  ou Gestora designa novo 
+fiscal e/ou suplente , notificando -
+os de sua designação e 
+atribuições, bem como 
+providencia a devida alteração 
+no módulo 
+SAJADM/SGF/Contratos/Gestão 
+Contratual  Art. 75, §2º e 
+§3º; 
+Atribuições do 
+Fiscal do 
+Contrato: Art. 
+76; Atribuições 
+do Fiscal 
+Administrativo: 
+Art. 77  
+ 
+ 
+ 
+3.2  PERFIS  
+ 
+De acordo com o s artigos 6º e 7º do  Provimento CSM nº  2.724/2023, a  
+Presidência do Tribunal de Justiça de São Paulo  deverá promover  a gestão por 
+competências, zelar pela segregação de funções, assegurar que a estrutura dos 
+servidores seja suficiente para o desempenho de suas respectivas funções e 
+designar servi dores para o desempenho da s funções de gestão e fiscalização de 
+contratos , que preencham os seguintes requisitos : 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+19   
+ 
+ 
+ • Sejam, preferencialmente, servidor e fetivo ou empregado público dos 
+quadros permanentes da Administração Pública;  
+• Tenham atribuições relacionadas a licitações e contratos ou possuam 
+formação compatível ou qualificação atestada  por certificação profissional 
+emitida por escola de governo criada e mantida pelo poder público ; 
+De modo geral, o  Gestor ou a Gestora  e os Fiscais  possuem as seguintes 
+características:  
+ 
+ 
+ 
+3.3 VEDAÇÕES E IMPEDIMENTOS  
+ 
+O Gestor ou  a Gestora , o Fiscal Administrativo e o Fiscal do Contrato  não 
+deve m: 
+• Ser cônjuge ou companheiro , bem como possuir vínculo de 
+parentesco, colateral ou por afinidade, até o terceiro grau , com  
+licitantes ou contratados da Administração ; 
+• Possuir relação comercial, econômica, civil, financeira ou trabalhista 
+com licitantes ou contratados  da Administração . 
+ 
+
+20 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Ao Gestor , à Gestora, ao Fiscal Administrativo e ao Fiscal do Contrato é 
+vedada a prática de atos de ingerência  na administração da Contratad a, 
+como, por exemplo:  
+• Exer cer relação de subordinação  com os empregados da Contratada, 
+devendo sempre reportar -se aos prepostos por ela indicados;  
+• Direcionar a contratação de pessoas para trabalhar nas empresas da 
+Contratada;  
+• Promover ou aceitar o desvio de funções dos empregados da 
+Contatada;  
+• Promover atos que alterem a jornada de trabalho dos empregados 
+da Contatada , quando não previstas contratualmente ; 
+ 
+3.4  ATRIBUIÇÕES GERAIS  
+ 
+Competem ao Gestor , à Gestora  e aos Fiscais  atuarem nas etapas de 
+formalização, execução e encerramento  do contrato . De modo geral, possuem 
+as atribuições de:  
+• Gerenciar os contratos  sob sua responsabilidade, a fim de obter os 
+melhores resultados, com a propositura de alterações necessárias;  
+• Monitorar e avaliar o desempenho dos fornecedores e prestadores 
+de serviços;  
+• Conhecer as tarefas relativas ao contrato, de modo a se pre parar com 
+antecedência a elas;  
+• Realizar a Gestão dos Riscos contratuais.  
+As demais atribuições e responsabilidades serão abordadas e 
+detalhadas nos próximos tópicos.  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+21   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  
+ETAPAS DA 
+GESTÃO E 
+FISCALIZAÇÃO  
+  
+22 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+4.1   ATRIBUIÇÕES  
+4.1.1  GESTOR  E GESTORA  DO CONTRATO  
+ 
+De acordo com o art. 73 do Provimento CSM nº 2.724/2023, compete ao 
+Gestor  e à Gestora  do Contrato:  
+• Designar o Fiscal Administrativo e seu suplente, o Fiscal do Contrato 
+e seu suplente, notificando -os de suas designações e atribuições;  
+• Realizar o cadastro dos Fiscais e suplentes no sistema SAJADM ( SGF 
+> Contrato > Gestão Contratual ); 
+• Convocar e coordenar reunião inicial para leitura do instrumento 
+contratual;  
+• Providenciar a abertura de processo administrativo eletrônico 
+específico, vinculado ao processo de contratação;  
+• Acompanhar o desenvolvimento da execução contratual, por meio 
+dos relatórios elaborad os pelos Fiscais;  
+• Quando previsto no contrato, atestar definitivamente a nota 
+fiscal/fatura e encaminhá -la à SOF, em até 3 (três) dias úteis  após 
+sua emissão;  
+• Excepcionalmente, cumular as funções de Fiscal Administrativo e/ou 
+Fiscal do Contrato, quando estes não forem designados;  
+• Analisar ou formular pedidos de reequilíbrio econômico -financeiro, 
+apresenta ndo relatório conclusivo;  
+• Analisar pedidos de alterações contratuais;  
+• Manifestar -se quanto ao interesse da Administração nas 
+prorrogações de vigência dos contratos de execução continuada, 
+sugerindo o aditamento contratual ou a abertura de nova licitação;  
+• Manifestar -se quanto aos pedidos de suspensão ou prorrogação do 
+prazo de execução de obras, serviços ou entrega de bens;  
+• Instaurar Processo Administrativo Apuratório quando verificado 
+eventual descumprimento pela Contratada das obrigações 
+contratuais;  
+• Propor à Equipe de Planejamento da Contratação, em caso de 
+planejamento de novo contrato, a atualização e aperfeiçoamento do 
+ETP, do Plano de Riscos, do TR, do Projeto Básico ou Executivo, 
+conforme as intercorrências verificadas na execução contratual;  
+• Acompanhar o andamento das contratações que substituirão os 
+contratos vigentes;  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+23   
+ 
+ 
+ • Informar à SOF as obrigações financeiras não liquidadas no exercício, 
+para efeito de inscrição de saldos de empenho à conta de restos a 
+pagar ou de cancelamento de recursos;  
+• Elaborar relatório final, com as informações relativas à execução 
+contratual, especialmente sobre a efetiva consecução dos objetivos 
+que justificaram a contratação e com a relação dos Processos 
+Administrativos A puratórios, suas causas e impactos. Por fim, deve 
+propor  eventuais melhorias a serem refletidas no ETP, no TR e no 
+Plano de Riscos da futura contratação;  
+• Desempenhar outras atividades previstas no contrato.  
+ 
+4.1.2    FISCAL DO CONTRATO  
+ 
+De acordo com o art. 76 do Provimento CSM nº 2.724/2023, compete ao 
+Fiscal do Contrato:  
+• Participar da reunião inicial;  
+• Providenciar a abertura de processo administrativo eletrônico 
+específico destinado a registrar os atos de fiscalização e ocorrências 
+da execução contratual;  
+• Fiscalizar a execução contratual de acordo com o estabelecido no 
+contrato;  
+• Elaborar relatório de acompanhamento da execução contratual e 
+encaminhá -lo ao Fiscal Administrativo;  
+• Anotar em registro próprio todas as ocorrências relacionadas à 
+execução do contrato, determinando o que for necessário para a 
+regularização das faltas ou dos defeitos observados;  
+• Em situações  que demande m decisão ou providência que ultrapasse 
+sua competência, caberá ao  Fiscal reportar, em tempo hábil (em 
+regra, 5 (cinco)  dias úteis ; em casos emergenciais, 24 horas ), ao 
+Gestor  ou à Gestora  do Contrato, para que adote as medidas cabíveis;  
+• Quando previsto no contrato, atestar definitivamente a nota 
+fiscal/fatura e encaminhá -la à SOF, em até 3 (três) dias úteis  após 
+sua emissão;  
+• Preencher e encaminhar mensalmente  ao Fiscal Administrativo 
+relatório de avaliação de desempenho da Contratada;  
+• Nos contratos de locação, encaminhar à SOF o ateste mensal da 
+ocupação de imóvel locado pelo Tribunal de Justiça;  
+• Propor alterações contratuais a o Fiscal Administrativo;  
+• Controlar o prazo de execução e vigência do contrato;  
+• Receber o objeto, provisória e/ou definitivamente;  
+24 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ • Notificar a Contratada para a regularização de possível 
+descumprimento contratual, preferencialmente de forma eletrônica, 
+estabelecendo prazo compatível para atendimento (em regra, 5 
+(cinco) dias úteis ; em casos emergenciais, 24 horas ); 
+• Elaborar relatório conclusivo quanto à notificação de eventual 
+descumprimento contratual e encaminhá -lo ao Fiscal 
+Administrativo, com proposta de instauração de Processo 
+Administrativo Apuratório, se o caso;  
+• Desempenhar outras atividades previstas no contrato.  
+ 
+4.1.3    FISCAL ADMINISTRATIVO  
+ 
+De acordo com o art. 77 do Provimento CSM nº 2.724/2023, compete ao 
+Fiscal Administrativo:  
+• Participar da reunião inicial;  
+• Consolidar os relatórios de acompanhamento da execução 
+contratual emitidos pelo Fiscal do Contrato;  
+• Quando previsto no contrato, atestar definitivamente a nota 
+fiscal/fatura e encaminhá -la à SOF, em até 3 (três) dias úteis  após 
+sua emissão;  
+• Consolidar mensalmente  os relatórios de avaliação de desempenho 
+da Contratada elaborados pelo Fiscal do Contrato;  
+• Emitir, caso solicitado, atestado de capacidade técnica;  
+• Verificar semestralmente  a manutenção das condições de 
+habilitação da Contratada, solicitando os documentos 
+comprobatórios . O GPAC (Grupo de Pregoeiros e Agentes de 
+Contratação)  auxiliará na conferência da documentação, mediante 
+solicitação ; 
+✓ Semestralmente, deve -se solicitar declaração da Contratada  acerca 
+do atendimento à reserva de vagas  para pessoas em condição de 
+vulnerabilidade, prevista na  Resolução CNJ nº 497/202 3. 
+• Controlar e informar ao  Gestor ou à Gestora  do Contrato as 
+obrigações financeiras não liquidadas no exercício, para efeito de 
+inscrição de saldos de empenho à conta de restos a pagar ou de 
+cancelamento de recursos;  
+• Propor ao Gestor  ou à Gestora  do Contrato a instauração de Processo 
+Administrativo Apuratório;  
+• Desempenhar outras atividades previstas no contrato.  
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+25   
+ 
+ 
+ 4.1.4  RESPONS ÁVEIS TÉCNICOS  
+ 
+Compete ao Responsável Técnico, que poderá ser servidor ou terceiro 
+contratado:  
+• Prestar apoio técnico ao Gestor  ou à Gestora  do Contrato e  aos 
+Fiscais, apresentando as informações pertinentes às suas 
+competências, quando solicitado;  
+• Observar as normas técnicas e legais, especificações e métodos de 
+execução dos serviços exigíveis para a perfeita execução do objeto;  
+• Emitir parecer técnico nos pedidos de alterações contratuais, 
+quando solicitado;  
+• Verificar a correta aplicação dos materiais;  
+• Requerer testes, exames e ensaios, quando previstos no edital e/ou 
+contrato, para controle de qualidade da execução das obras, serviços 
+ou bens a serem adquiridos;  
+• Desempenhar outras atividades previstas no contrato.  
+  
+26 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 4.2   EXECUÇÃO DOS CONTRATOS   
+ 
+ 
+Após a assinatura do instrumento contratual, o  Gestor ou a Gestora  do 
+Contrato  convocará e coordenará reunião para leitura do contrato , com a 
+participação do  Fisca l Administrativo , do Fiscal  do Contrato e do preposto da 
+Contratada, para esclarecimentos das obrigações contratuais e definição do 
+plano de trabalho.  
+É fundamental que, antes do início da reunião, os membros d a equipe 
+tenha m lido previamente todo o contrato e estejam cientes de suas atribuições 
+e atividades.  
+Vale frisar que t odas as reun iões realizadas entre a Equipe de Gestão  e 
+Fiscalização  do Contrato e a Contratada deverão  ser lavradas em ata e 
+registradas no processo digital , para acompanhamento da execução 
+contratual.  
+Entre outras atribuições  previstas contratualmente , a Equipe de Gestão e 
+Fiscalização do Contrato  deve  elaborar relatórios de acompanhamento da 
+execução contratual, controlar o prazo de execução e vigência do contrato, 
+preencher o relatório de avaliação de desempenho, notificar a Contratada para a 
+regularização de eventual descumprimento e receber o objeto.  
+É de suma importância o acompanhamento e o registro d as atividades 
+ocorridas durante a execução contratual, a fim de que o objeto contratado seja 
+recebido de acordo com as especificações e quantidades exigidas  em contrato , 
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+27   
+ 
+ 
+ zelando, dessa forma, pela responsabilidade e transparência na aplicação dos 
+recursos públicos.  
+ 
+4.2.1    FISCALIZAÇÃO DOS CONTRATOS COM 
+DEDICAÇÃO EXCLUSIVA DE MÃO  DE OBRA  
+ 
+A gestão e fiscalização dos contratos com dedicação exclusiva de mão  de 
+obra observará a Resolução CNJ nº 169/2013 , Resolução CNJ nº 497/2023  (e suas 
+alterações)  e outra s legislações aplicáveis.  
+Nos contratos com  dedicação exclusiva de mão  de obra, compete ao  Fiscal 
+do Contrato : 
+I. Solicitar à Contratada relação por local de trabalho dos empregados 
+alocados, contendo, no mínimo:  
+• Dados de identificação da Contratada;  
+• Número do contrato administrativo;  
+• Nome completo;  
+• Cargo ou função;  
+• Data de admissão na Contratada;  
+• Data de alocação do posto;  
+• Horário do posto de trabalho;  
+• Números do CPF e da CTPS.  
+ 
+II. Diariamente : 
+• Fiscalizar e registrar a efetiva execução dos serviços;  
+• Manter controle indireto do comparecimento dos empregados 
+alocados no contrato.  
+ 
+III. Mensalmente : 
+• Exigir que o preposto da Contratada apresente cópias das folhas 
+de ponto dos empregados por registro eletrônico ou outro meio que 
+não seja padronizado;  
+• Consolida r em planilha de controle os dias efetivamente 
+trabalhados e a reposição de empregados em decorrência de férias, 
+licenças, faltas e ocorrências;  
+• Glosar as faturas em caso de faltas ou horas trabalhadas a 
+menor;  
+• Exigir da Contratada os comprovantes de pagamento dos 
+salários, vale -transporte e demais benefícios previstos no contrato 
+administrativo;  
+28 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ • Preencher relação nominal, a ser assinada pelos empregados, 
+para confirmação de pagamento tempestivo de salários, horas 
+extras, férias, décimo terceiro salário e demais benefícios 
+trabalhistas previstos no contrato administrativo . 
+ 
+IV. Compete , ainda, ao Fiscal do Contrato  a conferência dos seguintes  
+documentos  referentes ao mês anterior ao faturamento : 
+• Certificado de Regularidade do FGTS – CRF, comprovando 
+regularidade com o FGTS;  
+• Certidão Conjunta Negativa de Débitos Relativos a Tributos 
+Federais e à Dívida Ativa da União;  
+• Certidão Negativa de Débitos Trabalhistas (CNDT);  
+• Relação nominal por posto de trabalho dos empregados 
+alocados, acompanhada de cópia da folha de pagamento do mês 
+anterior à execução do serviço;  
+• Planilha de cálculo do valor a ser deduzido na nota fiscal, 
+decorrente de eventual não ocupação dos postos de trabalho nos 
+termos do contrato.  
+Nos contratos com dedicação exclusiva de mão -de-obra , o relatório final 
+deverá conter as informações necessárias para a liberação , se o caso, do saldo de 
+conta depósito -vinculada de que trata a Resolução CNJ nº 169/2016 (e suas 
+alterações).  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+29   
+ 
+ 
+ 4.2.1.1   RETENÇÃO  E LIBERAÇÃO  DAS VERBAS 
+CONTINGENCIADAS  
+ 
+O contingenciamento das verbas trabalhistas e previdenciárias é um 
+mecanismo adotado pelo Tribunal de Justiça de São Paulo (TJSP) com o objetivo 
+de assegurar que as empresas contratadas para prestar serviços com mão de 
+obra residente cumpram corretamente suas obrigações trabalhistas e 
+previdenciárias.  
+Esse procedimento segue disposições da Resolução CNJ nº 169/2013  e 
+alterações subsequentes que determina a retenção de valores que serão 
+utilizados para pagamento das seguintes rubricas:  
+I – Férias;  
+II – 1/3 constitucional;  
+III – 13º salário;  
+IV – Multa do FGTS por dispensa sem justa causa;  
+V – Incidência dos encargos previdenciários e FGTS sobre férias, 1/3 
+constitucional e 13º salário.  
+ 
+É importante ressaltar que o TJSP, mensalmente, desconta das notas fiscais 
+da Contratada os valores como garantia para o pagamento das respectivas 
+rubricas. Esses valores são depositados na conta -depósito vinculada (conta de 
+contingenciamento) e podem ser resgatados pelas Empresas nas seguintes 
+situações:  
+▪ Após o pagamento e mediante apresentação dos documentos 
+comprobatórios de que efetivamente pagou , a cada empregado 
+alocado no contrato , as rubricas indicadas no art. 4º da referida 
+Resolução.  
+▪ Ao término do contrato, caso haja saldo remanescente na conta 
+vinculada, este poderá ser resgatado pela empresa após a devida 
+comprovação da quitação de todas as obrigações trabalhistas e 
+previdenciárias referentes ao serviço contratado.  Decorridos 5 
+(cinco ) anos do encerramento contratual, o resgate dos recursos 
+poderá ser feito sem a necessidade de tal comprovação.  
+ 
+ 
+30 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 4.2.1.1.1   LIBERAÇÃO DAS VERBAS DURANTE  
+O CONTRATO  
+ 
+Para liberação dos valores  contingenciados  durante a execução contratual, 
+devem ser atendidas as seguintes etapas:  
+ 
+1ª ETAPA: APRESENTAÇÃO DE DOCUMENTAÇÃO E ATESTE PELO 
+FISCAL  
+A Contratada deverá preencher a planilha de resgate, referente à verba 
+objeto da solicitação de levantamento, de acordo com o contrato e por 
+localidade da prestação dos serviços, caso o contrato abranja mais de uma 
+localidade.  
+ 
+ 
+ATENÇÃO:  O modelo da planilha pode 
+ser solicitado pela Contratada à SOF 
+2.2.3, através do e -mail 
+sof2.2.3@tjsp.jus.br, ou ao Gestor, à 
+Gestora ou ao Fiscal do Contrato que 
+poderá acessá -la em  Modelos - SOF . 
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+31   
+ 
+ 
+ As planilhas estão parametrizadas de acordo com cada tipo de verba, razão 
+pela qual devem ser editados apenas os campos que não possuem bloqueio . 
+Após o preenchimento, as planilhas devem ser encaminhadas, por e -mail,  
+ao Fiscal do Contrato , acompanhadas dos documentos comprobatórios.  
+A documentação deve conter o resumo , conforme modelo abaixo  
+(disponível em Modelos - SOF ), com a relação dos valores que serão 
+reembolsados por localidade e apresentação do montante total por verbas, bem 
+como o total geral que será requisitado.  
+RESUMO  
+Contrato N º  
+Localidades  Férias  13º sal ário Rescisões trabalhistas  
+        
+        
+        
+Subtotal   R$                      -     R$           -                   R$                        -    
+Total   R$      -                        
+ 
+De acordo com a verba a ser reembolsada, alguns documentos 
+comprobatórios devem ser apresentados , conforme tabela abaixo:  
+  
+32 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ TIPO DE 
+SOLICITAÇÃO  DOCUMENTOS COMPROBATÓRIOS  
+Reembolso de Férias  ▪ Recibo/Aviso de férias;  
+▪ Comprovante de depósito bancário . 
+Reembolso de 13º 
+Salário  ▪ Demonstrativo de 13º salário;  
+▪ Comprovante de depósito bancário . 
+Rescisão trabalhista  ▪ Termo de Rescisão do Contato de Trabalho 
+(TRCT) assinado;  
+▪ Caso o contrato de trabalho seja superior a 1 
+(um) ano, o TRCT deve estar homologado;  
+▪ Comprovante de depósito bancário;  
+Nos casos de demissão sem justa causa , a 
+Contratada deverá apresentar adicionalmente:  
+▪ Guia Detalhada da multa do FGTS ou 
+Demonstrativo do Trabalhador de 
+Recolhimento do FGTS Rescisório;  
+▪ Guia e comprovante de recolhimento da Multa 
+de FGTS;  
+▪ Extrato de FGTS do funcionário, referente aos 
+últimos 6 (seis) meses.  
+ 
+Após, o Fiscal do Contrato  deverá conferir a planilha preenchida e a 
+documentação apresentada . Caso esteja tudo correto, deverá emitir o respectivo 
+ateste , mediante assinatura na planilha de resgate , preferencialmente, em 
+formato digital . 
+ 
+DICA:  Para assinar digitalmente um 
+documento em formato PDF, basta 
+seguir as orientações contantes em 
+Assinatura Digital . 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+33   
+ 
+ 
+ Em caso de desconformidade, a documentação deverá ser devolvida à 
+empresa para os devidos ajustes.  
+ 
+2ª ETAPA: SOLICITAÇÃO DA CONTRATADA  
+Após o ateste e a compilação dos documentos comprobatórios, a  
+Contratada deve rá solicitar o levantamento dos valores contingenciados , 
+mediante encaminhamento de solicitação formal , em formato PDF, para o 
+endereço sof2.2.3@tjsp.jus.br , que efetuará o protocolo do pedido.  
+Abaixo segue modelo sugerido  (disponível em Modelos - SOF )  para a 
+respectiva solicitação:  
+ 
+
+34 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Conforme se verifica, a Contratada deve indicar o responsável pelo envio da 
+documentação através do Portal de Serviços, contendo os seguintes dados : 
+nome completo, endereço de e -mail e nº do CPF . 
+A solicitação formal deverá conter:  
+▪ O objeto da solicitação (férias, 13º salário e/ou rescisões trabalhistas);  
+▪ Número do contrato;  
+▪ Valor a ser reembolsado;  
+▪ Dados da conta do Banco do Brasil para crédito e assinatura do 
+responsável legal da empresa.  
+ 
+3ª ETAPA: ACESSO AO PORTAL DE SERVIÇOS PELA 
+CONTRATADA  E JUNTADA DE DOCUMENTOS  
+A Equipe da SOF 2.2.3 abrirá a tarefa “COMUNIQUE -SE” no expediente de 
+contingenciamento do respectivo contrato.  
+Após, a Contratada receberá uma mensagem eletrônica no e -mail 
+informado em sua solicitação, com orientações para acesso ao “Portal de 
+Serviço” , bem como relação  dos documentos  a serem anexados, relacionados 
+ao pedido de levantamento dos valores contingenciados, exclusivamente em 
+formato PDF . 
+Para acessar o Portal de Serviços, é necessário que o usuário tenha um 
+cadastro válido no Gov.br , pois o login será realizado com o mesmo usuário e 
+senha utilizados nessa plataforma.  
+ 
+ATENÇÃO:  O sistema não aceita 
+arquivos compactados, como ZIP, RAR 
+ou semelhantes.  
+Limite de envio por tarefa: 10 arquivos 
+“pdf” por tarefa. Cada arquivo pode ter 
+até 19 MB.    
+ 
+4ª ETAPA: LIBERAÇÃO DOS VALORES  
+Após a análise da documentação comprobatória e estando em 
+conformidade, a SOF enviará ofício ao Banco do Brasil, solicitando a liberação de 
+valores contingenciados à Contratada. O reembolso ocorrerá n a conta bancária 
+indicada pela Contratada na solicitação formal.  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+35   
+ 
+ 
+ É importante ressaltar que a solicitação de reembolso poderá ser recusada, 
+caso a documentação enviada apresente os seguintes problemas:  
+▪ Desorganização dos arquivos;  
+▪ Documentos ilegíveis;  
+▪ Ausência de comprovantes de pagamentos;  
+▪ Planilhas preenchidas incorretamente;  
+▪ Falta de ateste do Fiscal  responsável.  
+Caso recusada, a solicitação será devolvida à empresa, via tarefa 
+“COMUNIQUE -SE”, acompanhada da respectiva justificativa, para correção e 
+novo envio do requerimento.  
+FLUXO PARA LIBERAÇÃO/REEMBOLSO DE VERBAS 
+CONTINGENCIADAS  
+ 
+ 
+4.2.1.1.2   LIBERAÇÃO DO SALDO  REMANESCENTE 
+APÓS O  ENCERRAMENTO DO CONTRATO  
+ 
+Após o encerramento do contrato com o TJSP, pode existir  saldo 
+remanescente na conta vinculada. A empresa poderá pleitear o levantamento 
+dos valores , desde que todas as obrigações trabalhistas e previdenciárias estejam 
+devidamente quitadas . 
+Se decorrido s 5 (cinco ) anos  após o término do contrato, a empresa poderá 
+solicitar o valor restante sem a necessidade de comprovar a quitação dessas 
+obrigações.  
+Seguem as etapas para solicitação da liberação:  
+
+36 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+1ª ETAPA: ENVIO DE SOLICITAÇÃO FORMAL PELA CONTRATADA  
+A Contratada deverá solicitar o resgate integral do saldo remanescente, 
+mediante encaminhamento de solicitação formal , para o e -mail  
+sof2.2.3@tjsp.jus.br , que prosseguirá com a abertura do protocolo do pedido.  
+ 
+2ª ETAPA: SOLICITAÇÃO DE ATESTES DOS FISCAIS DE CONTRATOS  
+A Contratada deverá solicitar o ateste do Fiscal do Contrato , ratificando que 
+houve a quitação dos encargos trabalhistas e previdenciários dos colaboradores 
+vinculados ao contrato . 
+ 
+Acesse o  modelo do documento acima em Modelos - SOF . 
+ 
+3ª ETAPA: ACESSO AO PORTAL DE SERVIÇOS PELA CONTRATADA  
+A equipe da SOF 2.2.3 criará a tarefa “COMUNIQUE -SE”, solicitando que a 
+empresa contratada envie a seguinte documentação (formato “pdf”) atualizada:  
+ 
+ 
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+37   
+ 
+ 
+ DOCUMENTAÇÃO EXIGIDA  
+ Até 2 anos  do 
+encerramento 
+do contrato  De 2 a 5 anos  do 
+encerramento do 
+contrato  Após 5 anos  do 
+encerramento do 
+contrato  
+Confirmação dos 
+Gestores /Gestoras /Fiscais de cada 
+localidade, ratificando que houve a 
+quitação dos encargos trabalhistas 
+e previdenciários, relativos aos 
+colaboradores  residentes que 
+prestaram serviços na unidade e 
+que tiveram seus contratos de 
+trabalho rescindidos durante a 
+vigência contratual  X X X 
+Contrato ou estatuto  
+social da empresa  X X X 
+Documento de identificação do 
+representante legal  
+ou do procurador  X X X 
+Procuração válida (caso a 
+assinatura dos documentos seja 
+feita por procurador)  X X X 
+Documentação de constituição do 
+sindicato e ata de posse da diretoria 
+vigente  X   
+Documento de identificação do 
+representante legal  
+do Sindicato  X   
+Certidões dos TRTs da 2º e 15ª 
+Região (comprovação de não 
+ajuizamento de ações trabalhistas 
+por colaboradores que atuaram no 
+contrato)  X X  
+Outros documentos necessários, 
+conforme o caso  X X X 
+ 
+ 
+ 
+38 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 4ª ETAPA: REUNIÃO COM O SINDICATO E ASSINATURA DA  
+CERTIDÃO  
+Após a análise da documentação e estando em conformidade, a SOF 
+agendará reunião em formato virtual para  deliberar sobre a liberação do saldo 
+remanescente da conta vinculada.  
+Participação obrigatória : 
+▪ Representante da empresa contratada;  
+▪ Representante do TJSP;  
+▪ Representante do Sindicato da Categoria.  
+Durante a reunião, será exigida a concordância de todos os presentes 
+quanto à liberação do saldo. Essa concordância se dará também por meio da 
+assinatura da certidão liberatória.  
+Caso o pedido de liberação do saldo remanescente seja realizado após 2 
+(dois) anos  do encerramento do contrato, não será necessário o cumprimento 
+dessa etapa, conforme deliberação do Conselho Nacional de Justiça (CNJ). Nessa 
+situação, a Contratada deverá apresentar:  
+▪ Certidões Trabalhistas emitidas pelos Tribunais Regionais (TRT  2 e 
+TRT 15) que comprovem o não ajuizamento de ações trabalhistas 
+pelos colaboradores vinculados ao contrato.  
+ 
+5ª ETAPA: MANIFESTAÇÃO DA SAAB  SOBRE EVENTUAIS 
+PENDÊNCIAS CONTRATUAIS  
+Conforme diretrizes da E. Presidência, a SOF 2.2.3 enviará expediente para 
+manifestação dos Gestores , das Gestoras e dos Fiscais do Contrato e da Saab  6 - 
+Diretoria de Contratos Administrativos, Convênios e Gestão Imobiliária , com 
+o objetivo de verificar a inexistência de pendências contratuais, incluindo 
+processos apuratórios.  
+Se não houver pendências, a SOF 2.2.3 dará prosseguimento à liberação do 
+saldo residual da conta vinculada.  
+ 
+ 
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+39   
+ 
+ 
+ ATENÇÃO:  caso existam pendências 
+financeiras  no mesmo contrato , a Saab 
+deverá solicitar autorização à 
+Contratada para eventual desconto do 
+valor no saldo remanescente em conta 
+contingenciada , certificar a resposta da 
+Contratada nos autos e devolver o 
+expediente à SOF 2.2, para 
+prosseguimento junto à E. Presidência.  
+ 
+ 
+ATENÇÃO:  caso existam pendências 
+financeiras em outros contratos com a 
+mesma empresa , a Saab prestará as 
+informações relativas às pendências, 
+submetendo à SOF 2.2, para a nálise e 
+deliberação sobre eventual 
+compensação de créditos/débitos, e 
+consulta ao i. GTAJ, se o caso.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+6ª ETAPA: LIBERAÇÃO D OS VALORES  
+Após a conclusão da 5ª etapa, o processo será remetido para  autorização da  
+E. Presidência . Com a autorização, o processo retornará à SOF que encaminhará 
+ofício ao  Banco do Brasil para liberação do saldo remanescente à Contratada . 
+FLUXO PARA LIBERAÇÃO DO SALDO APÓS 
+ENCERRAMENTO DO CONTRATO  
+ 
+4.2.1.1.3   RESOLUÇÃO DE CASOS OMISSOS  
+ 
+Como nem todas as situações relacionadas à liberação de verbas 
+contingenciadas podem ser previstas neste manual, eventuais casos omissos — 
+ou seja, situações não contempladas nos procedimentos descritos — deverão ser 
+encaminhados para análise da SOF 2.2.3 – Serviço de Gestão de Contas 
+Vinculadas, por meio do e -mail  sof2.2.3@tjsp.jus.br . 
+ 
+ 
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+41   
+ 
+ 
+ 4.2.2  FISCALIZAÇÃO DOS SERVIÇOS E OBRAS DE 
+ENGENHARIA  
+ 
+A gestão e fiscalização dos contratos de serviços e obras de engenharia 
+observará a Resolução CNJ º 114/2010 (e suas alterações) . 
+Nos contratos de obras e serviços de engenharia,  
+compete ao Fiscal do Contrato : 
+• Providenciar a instauração de processo administrativo eletrônico 
+específico destinado a registrar os atos de fiscalização e ocorrências 
+da execução contratual;  
+• Manter pasta atualizada com projeto básico e/ou executivo, alvarás, 
+Anotações de Responsabilidade Técnica (ART’s) do Conselho 
+Regional de Engenharia e Agronomia (CREA) e/ou Registros de 
+Responsabilidade Técnica (RRT’s) do Conselho de Arquitetura e 
+Urbanism o (CAU) referentes ao objeto contratual;  
+• Visitar o diário de obras, certificando -se de seu correto 
+preenchimento;  
+• Desempenhar outras atividades previstas no contrato.  
+ 
+Além disso, também compete ao Fiscal do Contrato promover as 
+medições , a fim de verificar a conformidade dos serviços executados com o 
+cronograma físico -financeiro da obra previsto no contrato, podendo ser auxiliado 
+por Responsável Técnico.   
+Dessa forma, é obrigatória a realização de medições dos serviços efetuados , 
+nas datas estabelecida s no cronograma,  antes d e seu efetivo ateste.  
+ 
+4.2.3  FISCALI ZAÇÃO DOS CONTRATOS DE STIC  
+ 
+A Resolução CNJ nº 468/2022 (e suas alterações)  disciplina  as contratações 
+de bens e serviços de Soluç ões de Tecnologia da Informação e Comunicação 
+(STIC) realizadas pelos órgãos submetidos ao controle administrativo e financeiro 
+do CNJ.  Disciplina ainda a fiscalização dos referidos cont ratos.  
+42 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ A equipe de gestão de contrato, no caso de serviços complexos e /ou 
+descentralizados, poderá indicar fiscais auxiliares de campo visando à efetividade 
+da fiscalização.  
+A administração deverá providenciar os meios necessários para que o 
+servidor desempenhe adequadamente as atribuições de Gestor e Fiscal, 
+conforme a natureza e a complexidade do objeto.  
+Durante a fase de gestão do contrato, a equipe de fiscalização, sob 
+coordenação do  Gestor ou da Gestora  do Contrato, deverá proceder à atualização 
+contínua do Mapa de Gerenciamento de Riscos.  
+ 
+ATENÇÃO:  Os contratos de STIC que 
+envolvam dedicação exclusiva de mão -
+de-obra observarão as regras contidas 
+no tópico 4.2.1 deste manual.  
+ 
+4.3   RECEBIMENTO  
+ 
+Nos contratos administrativos, o recebimento  do objeto  é um ato formal 
+dividido em duas etapas bem distintas: recebimento provisório e recebimento 
+definitivo . 
+Os prazos e métodos para a realização dos recebimentos provisório e 
+definitivo  serão definidos no Termo de Referência, Projeto Básico ou Projeto 
+Executivo , bem como constarão no instrumento contratual.  
+Importante mencionar que o recebimento provisório ou definitivo não 
+excluirá a responsabilidade civil pela solidez e pela segurança da obra ou serviço, 
+nem a respon sabilidade pel a perfeita execução contratual , nos limites 
+estabelecidos pela lei ou contrato.  
+Os documentos que comprovem o recebimento provisório e definitivo 
+serão juntado s no processo de acompanhamento da execução contratual.  
+O método de recebimento, bem como os responsáveis pelos recebimentos 
+provisório e definitivo constarão no Termo de Referência.  
+ 
+ATENÇÃO:  Caso esteja em desacordo 
+com o contrato, o objeto poderá ser 
+rejeitado, no todo ou em parte.  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+43   
+ 
+ 
+  
+ATENÇÃO:  Eventuais substituições de 
+marca ou modelo, em regra, não serão 
+admitidas. Entretanto, poderão ser 
+aceitas, desde que devidamente 
+justificadas, com a apresentação de 
+fatos impeditivos ao fornecimento nas 
+condições previstas originalmente, 
+devendo ser form alizadas mediante 
+aditivo contratual.  
+ 
+ 
+4.3.1    RECEBIMENTO PROVISÓRIO  
+ 
+O recebimento provisório  é a primeira etapa do recebimento de um bem 
+ou serviço contratado pela Administração Pública. Esse recebimento ocorre por 
+meio de prévia  verificação  da conformidade contratual.  
+É no recebimento provisório que ocorre a entrega dos bens ou a entrega do 
+resultado dos serviços  à Administração . Entretanto, há apenas a legitimação da 
+posse, a fim de que  a Administração verifique minuciosamente o objeto e 
+constate  a conformidade com o que foi contratado.  
+Dessa forma, o recebimento provisório não implica em aceitação do objeto  
+pela Administração , per manecendo a responsabilidade da Contratada por sua 
+integridade  e integralidade . 
+ 
+ATENÇÃO:  O recebimento provisório 
+poderá ser dispensado, quando assim 
+previsto no Termo de Referência.  
+ 
+Caso não exista outro prazo estipulado no contrato , o recebimento 
+provisório será realizado em até 10 (dez) dias úteis . 
+O recebimento provisório será  realizado , em regra,  pelo Fiscal do Contrato  
+ou por outro responsável  estabelecido no Termo de Referência d a respectiva 
+contratação.  
+ 
+44 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Recebimento Provisório  
+Obras e Serviços  Recebido , em regra,  pelo Fiscal do Contrato  ou por 
+outro responsável especificado  no Termo de 
+Referência , por meio de termo detalhado , se 
+verificado o cumprimento das exigências de caráter 
+técnico.  
+Compras  Recebido, de forma sumária , em regra, pelo Fiscal do 
+Contrato  ou por outro responsável especificado  no 
+Termo de Referência , com verificação posterior da 
+conformidade do material com as exigências 
+contratuais.  
+ 
+Os procedimentos a serem adotados no recebimento provisório constam no 
+Termo de Referência  do respectiv o processo de  contratação . 
+ 
+4.3.2   RECEBIMENTO DEFINITIVO  
+ 
+Recebimento definitivo é o ato formal, subsidiado por documentos e, se 
+houver, nota fiscal/fatura, que comprove o cumprimento das exigências, prazos, 
+valores e métodos previstos no contrato.  
+É no recebimento definitivo que são realizados  exame s, teste s e 
+averiguações que se fizerem necessárias , de modo a aferir a integral adequação 
+do objeto às exigências previstas contratualmente.   
+ 
+ATENÇÃO : Em se tratando de obra, o 
+recebimento definitivo pela 
+Administração não exime a Contratada, 
+pelo prazo mínimo de 5 (cinco) anos, 
+admitida a previsão de prazo de 
+garantia superior no edital ou no 
+contrato, da responsabilidade objetiva 
+pela solidez e pela segurança dos 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+45   
+ 
+ 
+ materiais entregues e serviços 
+executados. Em caso de vício, defeito 
+ou incorreção identificados, a 
+Contratada ficará responsável pela 
+reparação, pela correção, pela 
+reconstrução ou pela substituição 
+necessária.  
+ 
+Caso não exista outro prazo estipulado no contrato , o recebimento 
+definitivo será realizado em até 30 (trinta) dias úteis . 
+Recebimento Definitivo  
+Obras e Serviços  Recebido , em regra,  pelo Fiscal do 
+Contrato  ou por outro responsável 
+especificado  no Termo de Referência , 
+por meio de termo detalhado  que 
+comprove o atendimento das 
+exigências contratuais . 
+Compras  Recebido, em regra, pelo Fiscal do 
+Contrato  ou por outro responsável 
+especificado  no Termo de Referência,  
+por meio de termo detalhado  que 
+comprove o atendimento das 
+exigências contratuais . 
+ 
+O recebimento definitivo ocorrerá somente após a manifestação do Fiscal 
+do Contrato ou do responsável especificado no Termo de Referência , quanto 
+à regularidade do fornecimento ou dos serviços prestados em relação ao previsto 
+contratualmente.  
+ 
+4.3.3   ROTEIRO PARA RECEBIMENTO DE BENS   
+ 
+Os responsáveis definidos no Termo de Referência e no Contrato deverão 
+seguir o seguinte roteiro para o recebimento de bens : 
+1- Conferir  o objeto fornecido quanto à sua  quantidade,  especificação, 
+valor, prazos e demais condições previstas no contrato;  
+2- Receb er o objeto provisoriamente , para posterior verificação e, 
+após, definitivamente , em virtude da constatação da qualidade e 
+quantidade do material entregue;  
+46 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 3- Emitir o ateste  da nota fiscal/fatura , caso não haja outro prazo 
+previsto no contrato, em  3 (três) dias úteis  contados da emissão 
+do document o ou do recebimento definitivo , conforme 
+estabelecido no instrumento contratual,  desde que os requisitos 
+previstos estejam cumpridos , especialmente:  
+• Se foi emitida em nome do Tribunal de Justiça  de São Paulo ; 
+• Se foi emitida pelo CNPJ constante no respectivo contrato;  
+• Se o bem está especificado conforme as discriminações 
+contidas no Contrato ou no Ofício de Autorização;  
+• Se o valor está correto;  
+• Verificar a autenticidade da nota fiscal  eletrônica  no site da 
+Secretária da Fazenda;  
+• Se não há erros no documento fiscal.  
+4- Em caso de irregularidades, deve -se rejeitar a entrega no todo ou 
+em parte , determinando formalmente sua substituição, em prazo 
+estabelecido no contrato;  
+5- Em caso de pedido de prorrogação  do prazo de entrega , deve -se 
+encaminhar a questão ao Gestor  ou à Gestora do Contrato, para 
+avaliação e providências, se o caso;  
+6- Em caso de atraso na entrega ou outros descumprimentos 
+contratuais, deve -se encaminhar a questão  ao Gestor ou à Gestora 
+do Contrato , para avaliação e providências, se o caso;  
+7- O Gestor ou a Gestora  do Contrato  emitirá parecer fundamentado 
+sobre a ocorrência e decidirá pela instauração do Procedimento 
+Apuratório;  
+8- Caso a entrega e o ateste estejam em termos, deverão ser 
+encaminhados à Secretaria de Orçamento e Finanças – SOF, dentro 
+de 1 (um) dia útil , os documentos fiscais e demais documentos 
+exigidos no contrato, para pagamento . 
+ 
+4.3.4   ROTEIRO PARA RECEBIMENTO DE SERVIÇOS  
+ 
+O Fiscal do Contrato  deve seguir o seguinte roteiro no recebimento de 
+serviços : 
+1- Conferir a execução do objeto contratado e verificar a sua 
+conformidade com as especificações contidas no contrato ; 
+2- Em caso de irregularidades, deve -se recusar o serviço no todo ou em 
+parte, determinando formalmente sua regularização, em prazo 
+compatível para atendimento (em regra, 5  (cinco)  dias úteis ; em 
+casos emergenciais, 24 horas ); 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+47   
+ 
+ 
+ 3- Receber o objeto provisoriamente , para posterior verificação e, 
+após, definitivamente , em virtude da verificação da adequação do 
+objeto aos termos contratuais ; 
+4- Após a averiguação dos serviços prestados , dos documentos 
+apresentados  e da avaliação da qualidade dos serviços, a nota fiscal 
+poderá ser emitida para ateste;  
+5- O Fiscal do Contrato emitirá  o ateste da nota fiscal/fatura no prazo 
+de 3 (três)  dias úteis  da emissão do documento, desde que os 
+requisitos previstos em contrato estejam cumpridos, 
+especialmente:  
+• Se foi emitida em nome do Tribunal de Justiça  de São Paulo ; 
+• Se foi emitida pelo CNPJ constante no respectivo contrato;  
+• Se o serviço  está especificado conforme as discriminações 
+contidas no contrat o; 
+• Se o valor está correto , inclusive quanto a aditamentos, 
+reajustes, medições e glosas ; 
+• Se não há erros no documento fiscal.  
+6- Caso a entrega e o ateste estejam em termos, deverão ser 
+encaminhados à Secretaria de Orçamento e Finanças – SOF, dentro 
+de 1 (um) dia útil , os documentos fiscais e demais documentos 
+exigidos no contrato, para pagamento.  
+ 
+4.4   IRREGULARIDADES NA  
+EXECUÇÃO CONTRATUAL  
+ 
+Durante a execução contratual , os responsáveis  por seu acompanhamento 
+devem manter registro  das ocorrências , no respectivo expediente de 
+acompanhamento da fiscalização/ gestão contratual, instruindo -as com a 
+documentação comprobatória.  
+Sempre que identificada qualquer irregularidade  no cumprimento das 
+obrigações  contratuais  pela Contratada, deverão ser  adotadas  as seguintes 
+providências:  
+• Preliminarmente,  o Fiscal do Contrato  deve  autuar protocolo de 
+acompanhamento eletrônico e  notificar a  Contratada, para 
+regularização das pendências  ou apresentação de defesa 
+preliminar ; 
+• Com a regu larização, promoverá o arquivamento do protocolo;  
+• Persistindo a irregularidade ou em caso de atraso, com ou sem 
+defesa da Contratada, o Fiscal do Contrato  deve analisar e, se o 
+48 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ caso, emitir relatório  com informações detalhadas da 
+irregularidade , encaminhando o protocolo ao Fiscal Administrativo , 
+com proposta de autuação de processo apuratório;  
+• O Fiscal Administrativo  deve  elaborar relatório  conclusivo  com a  
+consolidação  das informações apresentada s, opinando , ao Gestor  
+ou à Gestora  do Contrato , pela sua instauração ou arquivamento;  
+• O Gestor ou a Gestora  do Contrato  elaborará relatório conclusivo 
+sobre o arquivamento ou instauração de processo apuratório, nos 
+termos do Art. 111 do Provimento CSM nº 2.724/2023.  
+O procedimento a ser adotado para a condução do processo apuratório está 
+discriminado no Manual de Apuratórios do Tribunal de Justiça de São Paulo.  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+49   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  
+CONTRATOS SUI 
+GENERIS  
+  
+50 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 5.1  CONTRATOS DE FORNECIMENTO 
+DE ENERGIA ELÉTRICA  
+ 
+Para que ocorra o abastecimento de energia elétrica nas diversas unidades 
+integrantes do Tribunal de Justiça de São Paulo, são formalizados, atualmente, 
+contratos de fornecimento com uma Concessionária de Energia Elétrica, no 
+Ambiente de Contra tação Regulada.  
+A Resolução Normativa da ANEEL nº 1000/2021 classifica os consumidores 
+de energia elétrica em dois grupos – Grupo A e Grupo B, de acordo com o nível 
+de tensão em que são atendidos.  
+• Grupo A: unidades consumidoras com conexão de tensão 
+maior ou igual a 2,3kV ou atendidas a partir de sistema 
+subterrâneo de distribuição de tensão menor que 2,3kV 
+(MÉDIA TENSÃO)  
+ 
+• Grupo B: unidades consumidoras com conexão de tensão 
+menor que 2,3kV. (BAIXA TENSÃO)  
+Para os consumidores do Grupo A  – Média Tensão , é necessária a 
+celebração de dois contratos  administrativos:  
+• CUSD – Contrato de Uso do Sistema de Distribuição: contrato 
+firmado pelo consumidor com a distribuidora, no qual são 
+estabelecidos os termos e condições para o uso do sistema de 
+distribuição e, conforme o caso, as condições para a conexão à 
+rede de distrib uição para o fornecimento de energia elétrica;  
+ 
+• CCER – Contrato de Compra de Energia Regulada: contrato 
+firmado pelo consumidor com a concessionária ou 
+permissionária, no qual são estabelecidos os termos e 
+condições para a compra e venda do montante de energia 
+elétrica no Ambiente de Contratação Regulad a (ACR) ou no 
+Ambiente de Contratação Livre (ACL).  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+51   
+ 
+ 
+ Ressalta -se que , atualmente,  os contratos relacionados ao CUSD , no 
+Ambiente de Contratação Regulada (AC R), são celebrados mediante 
+inexigibilidade , tendo em vista a inviabilidade de competição . 
+Com relação ao CCER, há recente previsão (Art. 160 da REN. ANEEL nº 
+1000 /2021 ), que garante ao  consumidor a opção  pela compra de energia elétrica 
+no Ambiente de Contratação Livre (ACL). Entretanto, até que o TJSP não migre 
+para o ACL, as contratações continuam sendo celebradas mediante 
+inexigibilidade.  
+Para os consumidores do Grupo B  – Baixa Tensão , basta a formalização do 
+fornecimento de energia elétrica por meio d e contrato de adesão . 
+ 
+ATENÇÃO : Com o advento da Lei nº 
+14.133/2021, a celebração de novos 
+contratos (CUSD e CCER) necessitam de 
+estudos prévios (DFD, ETP, TR e Plano 
+de Riscos) que evidenciem a solução 
+mais vantajosa para a Administração.  
+Dessa forma, deve -se observar o 
+Provimento CSM nº 2.724/2023 na 
+elaboração da documentação prévia, 
+bem como as orientações contidas no 
+Manual de Licitações do Tribunal de 
+Justiça de São Paulo.  
+ 
+5.1.1  FLUXO ATUALIZADO PARA FORMALIZAÇÃO 
+DOS CONTRATOS DE ENERGIA ELÉTRICA  
+ 
+Atualmente, a formalização dos contratos de energia no Ambiente de 
+Contratação Regulada (ACR) segue o fluxo abaixo.  
+52 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+Etapas a serem observadas:  
+1. O processo tem início com a instrução dos autos pela Administração 
+Predial, com a juntada das 12 últimas faturas e o preenchimento do 
+checklist específico  (Checklist - Análise Técnica ), para análise do 
+setor técnico.  
+2. O setor técnico verificará a demanda mais adequada a ser 
+contratada para aquela unidade predial;  
+3. A Administração Predial deverá solicitar à Concessionária a minuta 
+dos contratos (CUSD e CCER) ou do Aditivo, bem como declaração 
+em que conste a exclusividade de prestação de serviços e que os 
+valores praticados estão em conformidade com o estipulado pela  
+Agência Nacional de Energia Elétrica (ANEEL);  
+4. Complementarmente, a Administração Predial preencherá os 
+seguintes documentos : Documento de Formalização de Demanda 
+– DFD; Estudo Técnico Preliminar – ETP; Termo de Referência – TR e 
+checklist específico ( Anexo I  – para os casos de nova contratação ou 
+Anexo II  – para os casos de alteração da demanda) ; 
+5. Com a devida instrução dos autos pela Administração Predial, 
+compete à Saab  6.3.1.1 – Seção de Formalização de Convênios de 
+Obras e Contratos de Energia Elétrica , emitir as certidões 
+demonstrativas de regularidades da prestadora de serviços nas 
+áreas fiscal, social e trabalhista, bem c omo elaborar a informação 
+descritiva dos fatos e, nos casos de irregularidade da Concessionária, 
+disponibilizar ofícios a serem encaminhados à Agência Reguladora 
+e aos Órgãos Públicos credores , quanto ao estado da irregularida de; 
+6. Após, a SOF – Secretária de Orçamento e Finanças, realizará as 
+adequações orçamentarias;  
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+53   
+ 
+ 
+ 7. Posteriormente, o GTAJ – Grupo Técnico de Assessoria Jurídica , 
+realizará a análise  jurídica da documentação e emitirá parecer;  
+8. A Saab  6.3.1.1 realizará o cadastro dos contratos e/ou aditivo no 
+Sistema Financeiro e Orçamentário – SGF ; publicará o despacho do 
+MM. Juiz Direto r ou da MM. Juíza Diretora  do Fórum, bem como o 
+extrato do contrato de fornecimento d e energia e/ou aditivo, no 
+Diário Eletrônico da Justiça do Estado de São Paulo  (DEJESP ); 
+divulgará os contratos e aditivos no Portal da Transparência e no 
+Portal Nacional de Contratações Públicas (PNCP); e, caso necessário, 
+encaminhará os Ofícios à ANEEL e aos Órgãos Públicos Credores 
+acerca da situação de irregularidade da Concessionária;  
+9. Por fim, a Administração Predial realizará o acompanhamento do 
+consumo de energia da unidade predial.  
+ 
+5.1.2   ALTERAÇÃO DA DEMANDA  
+ 
+A demanda de consumo de energia elétrica pode sofrer alterações durante 
+o tempo por inúmeros fatores, podendo ser aumentada ou diminuída.  
+ 
+ATENÇÃO : Em determinados casos, faz -
+se necessária a realização de obras, pela 
+Concessionária, na rede elétrica externa 
+para adequações. Nesses casos, 
+também é necessária a instrução dos 
+autos com os documentos preliminares 
+(DFD, ETP, TR e Plano de Riscos – 
+modelo s específicos disponíveis em 
+Modelos de Documentos - Energia 
+Elétrica ). 
+ 
+Para as alterações de demanda, devem ser observadas as mesmas etapas  
+do item 5.1.1  deste Manual . 
+ 
+  
+54 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  
+ATEST ADO  E 
+PROTOCOLO DO 
+DOCUMENTO 
+FISCAL  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+55   
+ 
+ 
+ 6.1  DO CADASTRO NO SISTEMA SGF  
+ 
+Inicialmente, c ompete aos Gestores  e às Gestoras  de Contratos  
+cadastrarem  os Fiscais Administrativos,  os Fiscais de Contratos  e seus suplentes 
+no sistema  SAJADM, módulo  SGF, utilizando -se a tela denominada “GESTÃO 
+CONTRATUAL” , pelo caminho SGF > Contratos  > Gestão Contratual . 
+Em caso de dúvidas sobre a efetivação do cadastro de fiscais e seus 
+suplentes, deverá ser consultado o material explicativo sobre gestão contratual, 
+disponibilizado em http://www.tjsp.jus.br/ejus/avas,  seleciona ndo a opção 
+Sistema SAJ > SAJADM > SGF > Vídeos > Gestão Contratual.  
+ 
+6.2   PRAZO DE RECEBIMENTO E 
+ENVIO DA DOCUMENTAÇÃO À SOF  
+ 
+De acordo com o Comunicado SOF nº 13/2021, o  recebimento de bens e 
+serviços deve ser atestado no prazo de 48 horas  a contar da recepção do 
+documento fisca l, por meio de preenchimento do “Protocolo de Documento 
+Fiscal” , conforme instruções do tópico  6.3 deste Manual , assinado com 
+Certificado Digital na folha de ateste, observando -se sempre o prazo de 
+vencimento do ISS/INSS.  
+Os documentos fiscais cadastrados devem ser encaminhados, via sistema, 
+à SOF 3.1.1.1, dentro do prazo de 24 horas , a contar  da data do ateste.  
+O cumprimento dos prazos acima mencionados é de suma importância 
+para que seja cumprido o  fluxo de liquidação e pagamento da despesa , a fim de 
+que não haja atraso no pagamento ao s prestadores de serviços e fornecedores, 
+bem como para que não ocorra a incidência de despesas com encargos 
+moratórios de INSS e ISS.  
+ 
+ 
+ 
+ 
+ 
+56 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Notas Fiscais – Serviços NÃO MENSA IS 
+• Merece atenção especial os contratos que não requerem a 
+prestação de serviços mensalmente , como, por exemplo , 
+desinsetização (quadrimestral) e limpeza de caixa d’água 
+(semestral) , entre outros com periodicidade diferenciada.  
+• Para esses casos, é fundamental que os atestes sejam realizados 
+adequadamente,  de acordo com a data da prestação do serviço , 
+observando -se os prazos  de ateste e encaminhamento da nota 
+fiscal , a fim de que não ocorra a incidência de despesas com 
+encargos moratórios de INSS e ISS.  
+ 
+6.3   CADASTRAMENTO DO  
+DOCUMENTO FISCAL  
+ 
+Ressalta -se o fato de que, desde abril de 2022, os dados informados nos 
+protocolos de documentos fiscais realizados pelo TJSP são enviados para a 
+Receita Federal , por meio do EFD -REIN F (Escrituração Fiscal Digital de 
+Retenções e Outras Informações Fiscais) . 
+Dessa forma, o encaminhamento  à SOF  dos documentos fiscais,  via 
+protocolo do sistema SAJADM, deve  ser realizad o de forma precisa e em tempo 
+hábil, observando -se os prazos acima descritos, a fim de se evitar encargos 
+decorrentes de pagamentos de guia s em atraso e a transmissão de informações 
+ao EFD -REINF fora do prazo.  
+O processo  de cadastramento  inicia -se com o lançamento do documento 
+fiscal no sistema SAJADM , no módulo “SGF” > “Despesas” > “Protocolo de 
+Documento  Fiscal ”. 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+57   
+ 
+ 
+  
+ 
+ 
+ATENÇÃO: Ao atestar o documento 
+fiscal, deve -se indicar como mês de 
+competência o período em que o 
+serviço foi efetivamente prestado  
+(e não o mês de emissão da nota fiscal).  
+ 
+O cadastramento do documento fiscal é realizado em três etapas:  
+• 1ª Etapa : Informação dos dados cadastrais e impostos aplicados aos 
+documentos ; 
+• 2ª Etapa : Fornecimento das informações acerca da execução do 
+contrato;  
+• 3ª Etapa : Protocolo.  
+ 
+6.3.1     1ª ETAPA: INFORMAÇÃO DOS DADOS 
+CADASTRAIS E IMPOSTOS APLICADOS AO  
+DOCUMENTO   
+ 
+Nesta  etapa, o Responsável pelo ateste  deve realizar os seguintes 
+preenchimentos : 
+
+58 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ I. Dados Cadastrais  
+ 
+1. Clicar em “Novo”, na tela de acesso de “Protocolo de Documento 
+Fiscal” (módulo “SGF” à “Despesas”);  
+2. Selecionar o Contrato ou Despesa;  
+3. Selecionar o tipo de documento correspondente;  
+4. Preencher o “Número de Documento”;  
+5. Selecionar o estado de origem em que a nota fiscal foi emitida em 
+“Origem do documento fiscal – Estado”;  
+6. Preencher o “Número de série”. Caso o documento não apresente 
+número de série, deve -se alimentar o campo com o número “0”;  
+7. Preencher o campo “Data de emissão”, de acordo com as 
+informações contantes da data de emissão do documento fiscal.  
+ 
+II. Quadro de “Referência” e valor do documento fiscal  
+ 
+1. Informar o mês e ano  (MM/AAAA)  em que o serviço foi prestado . Em 
+regra, esta informação está descrita no documento fiscal ; 
+2. Lançar o valor total do documento fiscal em “Valor Bruto do 
+documento (R $)”; 
+3. Lançar  os descontos concedidos pelo credor e não constante do 
+documento fiscal em “Descontos/abatimentos fora do documento 
+(R$) ”; 
+4. O “Valor atestado (R $)” será automaticamente alimentado com o 
+preenchimento dos campos acima;  
+5. Caso o documento fiscal se refira a mais de um mês de referência , 
+o procedimento acima deve ser repetido, com a informação do valor 
+proporcional de cada mês de “Referência” . 
+6. Após, será possível o preenchimento do campo de livre digitação 
+“Observação” , no qual o responsável pelo ateste  poderá adicionar 
+complementações ao cadastro.  
+ 
+ATENÇÃO:  Em caso de reajuste 
+contratual, deverá ser informado o valor 
+proporcional do reajuste de cada mês, 
+calculado de acordo com os serviços 
+prestados nos respectivos meses de 
+referência e em conformidade aos 
+termos contratuais.  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+59   
+ 
+ 
+ ATENÇÃO:  O “Total” do valor bruto do 
+documento apresentado pelo sistema 
+deverá ser igual ao valor total do 
+documento fiscal.  
+ 
+ATENÇÃO:  Não será permitido cadastrar 
+nota fiscal com referência fora do 
+período de vigência do contrato.  
+ 
+III. Decisão judicial contrária a alguma retenção tributária  
+ 
+1. Após o lançamento da “Observação”, o responsável pelo ateste deve 
+selecionar a opção “SIM” ou “NÃO”, para o caso de o credor estar 
+amparado por decisão judicial contrária a alguma retenção 
+tributária (IR e INSS) para o documento fiscal.  
+O Responsável pelo ateste identificará a  decisão  
+sobre a  retenção da seguinte forma : 
+ 
+• Na Descrição do documento fiscal , quando houver 
+informação sobre o processo judicial que interfira na 
+retenção de IR e INSS;  
+• Por alerta do sistema , caso haja pré-cadastro no 
+sistema da decisão judicial contrária a alguma retenção 
+tributária em favor do credor , alertando o responsável 
+pelo ateste  a selecionar a opção “SIM”;  
+ 
+• Caso não conste a informação relativa ao processo 
+judicial no Documento Fiscal e o sistema não emita o 
+alerta acima, selecionará a opção “NÃO”.  
+ 
+ 
+ 
+6.3.1.1   RETENÇÕES  TRIBUTÁRIA S (ISS, INSS E IRRF)  
+ 
+O preenchimento das “Retenções” aplicáveis ao documento fiscal é 
+obrigatório quando houver retenções tributárias (ISS, INSS e IRRF) destacados no 
+documento fiscal e a obrigação de recolhimento for do TJSP.  
+
+60 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Para tanto, é essencial que ocorra sempre o acompanhamento e o 
+lançamento das retenções conforme as informações contantes no documento 
+fiscal.  
+Inicialmente, deve -se selecionar o imposto a ser cadastrado, entre: ISS, INSS 
+e IRRF.  
+ 
+ 
+8.1.1 RETENÇÃO ISS  
+ 
+Deve ser informada apenas se a obrigação do recolhimento for do TJSP.  
+Caso o serviço tenha sido prestado nas Comarcas do interior de São Paulo, 
+o Fiscal do Contrato deverá emitir a guia junto à Prefeitura Municipal de acordo 
+com a legislação local.  
+Por outro lado, as guias de ISS referentes aos serviços prestados nas 
+unidades da capital de São Paulo serão emitidas pela Secretaria de Orçamento 
+e Finanças (SOF).  
+ 
+ATENÇÃO:  Cabe ao responsável pelo 
+ateste verificar no próprio documento 
+fiscal a informação da base de cálculo, 
+devendo conferir se a alíquota está de 
+acordo com a legislação vigente.  
+ 
+Abaixo seguem as etapas  para o  lançamento  do ISS  no sistema:  
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+61   
+ 
+ 
+  
+1. Selecionar a opção de retenção do ISS, ao passo que serão exibidos 
+os campos a serem preenchidos ; 
+2. Informar se  o valor da base mensal de cálculo da retenção é o 
+mesmo valor bruto do documento fiscal. Caso seja, selecionar a 
+opção “SIM”, ao passo que o campo “Base de Cálculo” será 
+automaticamente preenchido. Caso  não, selecionar a opção “NÃO”, 
+devendo preencher manualmente o  seu valor ; 
+3. Preencher o “Município” em que o serviço foi prestado ; 
+4. Preencher a “Alíquota (%)”  correspondente . Automaticamente, o 
+sistema efetuará o cálculo do valor, devendo o responsável pelo 
+ateste  verificar, obrigatoriamente , se o campo “Valor” está 
+exatamente igual ao valor apresentado na guia  emitida junto à 
+Prefeitura para recolhimento do ISS. Em caso de divergência, o 
+campo de valor deve ser editado ; 
+5. Preencher a “Data de Vencimento”, conforme a data constante na 
+guia ou de acordo com a legislação municipal;  
+6. Informar , no campo “Encargos” se há incidência de encargos por 
+atraso e o motivo , seleciona ndo, se o caso, quem é o responsável 
+pelo atraso ; 
+7. Clicar em “Salvar”;  
+8. Caso  deseje adicionar mais impostos, basta clicar em “Adicionar” e 
+selecionar o respectivo imposto.  
+ 
+8.1.2   RETENÇÃO INSS  
+ 
+Caso haja retenção de INSS, as seguintes etapas devem ser seguidas para 
+seu lançamento no sistema:  
+
+62 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+1. Informar se o valor da base mensal de cálculo da retenção é o 
+mesmo valor bruto do documento fiscal. Caso seja, selecionar a 
+opção “SIM”, ao passo que o campo “Base de Cálculo” será 
+automaticamente preenchido. Caso não, selecionar a opção “NÃO”, 
+devendo preencher manualmente o seu valor;  
+2. Preencher a “Alíquota (%)” correspondente , entre 3,5% e 11% , 
+conforme o documento fiscal . Automaticamente, o sistema 
+efetuará o cálculo do  campo  “Valor” .  Em caso de divergência de 
+valores, o responsável pelo ateste  deve realizar a edição do “Valor” 
+para que conste aquele presente no documento fiscal ; 
+3. Caso o INSS esteja vencido,  constará uma mensagem de alerta, 
+devendo o responsável pelo ateste preencher os campos de 
+“Encargos” e “Justificativa ”, informando quem deu causa à 
+cobrança ; 
+4. Clicar em “Salvar”;  
+5. Caso deseje adicionar mais impostos, basta clicar em “Adicionar” e 
+selecionar o respectivo imposto.  
+ 
+8.1.3   RETENÇÃO IRRF (IMPOSTO DE RENDA RETIDO 
+NA FONTE)  
+ 
+Em caso de retenção de IRRF, as seguintes etapas devem ser seguidas para 
+seu lançamento no sistema:  
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+63   
+ 
+ 
+  
+1. Informar se o valor da base mensal de cálculo da retenção é o 
+mesmo valor bruto do documento fiscal. Caso seja, selecionar a 
+opção “SIM”, ao passo que o campo “Base de Cálculo” será 
+automaticamente preenchido. Caso não, selecionar a opção “NÃO”, 
+devendo pr eencher manualmente o seu valor;  
+2. Preencher a “Alíquota (%)” correspondente, entre 1% ou 1,5%, 
+conforme o documento fiscal. Automaticamente, o sistema 
+efetuará o cálculo do campo “Valor”.  Em caso de divergência de 
+valores, o responsável pelo ateste  deve realizar a edição do “Valor” 
+para que conste aquele presente no documento fiscal;  
+3. Clicar em “Salvar” . 
+ 
+6.3.2  2ª ETAPA: FORNECIMENTO DAS INFORMAÇÕES 
+ACERCA DA EXECUÇÃO DO CONTRATO  
+ 
+Nesta  etapa, o responsável pelo ateste deverá preencher vári as informações 
+sobre a execução do contrato, que serão parte dos dados encaminhados à 
+AUDESP , observando -se as seguin tes ações:  
+1. Selecionar a situação da execução do contrato em “Situação do 
+ajuste”;  
+ 
+
+64 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 2. Preencher a data da efetiva entrega do material ou início da 
+execução de serviço/obra em “Data de entrega do material ou 
+início da execução de serviço/obra”;  
+3. Preencher informações sobre o cronograma e inexecução do 
+contrato;  
+ 
+4. Preencher a “Data do ateste”, no campo “Ateste”, com a data 
+da realização do ateste/cadastro do protocolo ; 
+5. Selecionar o campo “Conferido pelo fiscal administrativo” ; 
+6. Realizar  a verificação da autenticidade do documento fiscal, 
+junto à Prefeitura Municipal ou Governo do Estado de São 
+Paulo, conforme a situação do documento fiscal ; 
+ 
+COMO FAZER?  Para o Governo do 
+Estado de São Paulo, será possível a 
+verificação da autenticidade das notas 
+fiscais junto ao endereço: 
+https://www.nfe.fazenda.gov.br/portal/p
+rincipal.aspx .  
+Para a Prefeitura Municipal de São 
+Paulo, será possível a verificação junto 
+ao endereço: 
+https://nfe.prefeitura.sp.gov.br/publico/
+verificacao.aspx . 
+Para as demais prefeituras, o 
+responsável pelo ateste utilizará as 
+ferramentas existentes, conforme 
+informações constantes no documento 
+fiscal ou legislação municipal sobre a 
+emissão de documentos fiscais.  
+ 
+7. Conferida a autenticidade, selecionar a opção “Verificada a 
+autenticidade da Nota Fiscal Eletrônica”  e, após, “Salvar e 
+próximo”.  
+
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+65   
+ 
+ 
+  
+ 
+6.3.3  3ª ETAPA: PROTOCOLO  
+ 
+Nesta  etapa, são apresentados o número do protocolo gerado no CPA, os 
+principais dados informados no cadastro e os dados do responsável pelo 
+cadastro do documento fiscal.  
+Em regra, o módulo SGF indica o responsável pela liquidação da despesa , 
+direcionando o protocolo gerado com o ateste do documento fiscal 
+compulsoriamente para o setor competente  (SOF 2.1.2) . 
+No entanto, há situações em que o responsável pelo ateste deve 
+encaminhar o protocolo para a SOF 3.1.1.1, para realização da triagem.  São elas:  
+• Quando o protocolo de documento fiscal tramitar por mais de 01 
+(um) setor para fins de ateste/conferência dos serviços prestados;  
+• Quando mais de um setor for responsável pela liquidação de 
+despesas de um determinado contrato (Exemplo: facilities ); 
+• Quando o setor responsável ainda não estiver cadastrado na 
+funcionalidade “Dados para liquidação”;  
+• Quando não for possível sua identificação por meio da regra dos 
+agregadores de contratos/despesas.  
+Após , deve -se seguir o seguinte procedimento : 
+1. Acionar o botão “Anexar documentos e encaminhar protocolo”;  
+2. Clicar em “Salvar” para que os dados do encaminhamento já 
+alimentado s automaticamente no sistema fiquem salvos;  
+3. Clicar na aba “Documentos”  e assinar o documento de Ateste ; 
+4. Após a assinatura, o Fiscal do Contrato deverá inserir os documentos 
+fiscais e outros documentos relativos ao ateste de nota fiscal , 
+obedecidas a seguinte ordem:  
+• 1º - Nota Fiscal/Fatura, devendo o arquivo ser renomeado como “NF 
+XXXXX – empresa XXXXX” ; 
+• 2º - Guia de Recolhimento do ISS (se houver), devendo o arquivo ser 
+renomeado como “GUIA DO ISS”;  
+• 3º - Carta de desconto (se houver), devendo ser renomeado como 
+“CARTA DE DESCONTO”;  
+
+66 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ • 4º - Conjunto de evidência comprovando que foi a Contratada que 
+deu causa à eventual atraso no recolhimento dos tributos (ISS e 
+INSS);  
+5. Com a inserção dos documentos necessários, encaminhar à SOF, 
+clicando na aba “Encaminhamento” ; 
+ 
+ATENÇÃO:  Nas hipóteses de exceção ao 
+encaminhamento automatizado (SOF 
+2.1.2), deverá ser inserido o setor SOF 
+3.1.1.1 para a realização da triagem.  
+ 
+6. Preenchido o setor correto, clicar em “Encaminhar”.  
+ 
+ATENÇÃO:  Todos os documentos fiscais, 
+após devidamente autorizados e 
+atestados, deverão ser encaminhados à 
+SOF, exclusivamente, por meio do 
+sistema eletrônico SGF.  
+ATENÇÃO:  Conforme o Provimento CSM 
+nº 2.724/2023, a nota fiscal/fatura deve 
+ser atestada definitivamente (ateste 
+eletrônico) e enviada à SOF em até 3 
+dias úteis após a emissão, respeitando 
+os prazos para recolhimento de tributos 
+e cumprimento das obrigações 
+acessó rias. 
+ 
+6.4  CANCELAMENTO DE  
+PROTOCOLOS DE DOCUMENTOS  
+FISCAIS  
+ 
+Caso necessário, é possível a realização do cancelamento de protocolos de 
+documentos fiscais, exclusivamente, por meio do sistema  SAJADM, módulo  SGF, 
+observando -se os seguintes passos:  
+1. Acessar  o módulo  SGF à Despesas à Protocolo de documento fiscal;  
+2. Consultar o documento fiscal, por meio de pesquisa nos filtros;  
+3. Editar o documento fiscal, clicando no ícone de “Editar”;  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+67   
+ 
+ 
+ 4. Adicionar o botão “Excluir”.  
+ 
+ATENÇÃO:  Com este procedimento, será 
+estornado/arquivado automaticamente 
+o protocolo gerado anteriormente no 
+CPA.  
+Caso seja necessário cadastrar 
+novamente o documento fiscal para fins 
+de ateste, deverá ser gerado um novo 
+protocolo de documento fiscal.  
+ 
+ATENÇÃO:  Caso restem dúvidas acerca 
+dos procedimentos a serem adotados 
+na fase de ateste e cadastramento dos 
+documentos fiscais, consulte o 
+Comunicado SOF nº 13/2021 e acesse o 
+curso "Sistemas Administrativos - SGF - 
+REINF".   
+68 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.  
+GESTÃO  
+DE RISCOS  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+69   
+ 
+ 
+  
+Segundo o Provimento CSM nº  2.724/2023, Gestão de Riscos é o 
+procedimento de gerenciamento dos riscos que possam comprometer a 
+contratação, desde a fase de planejamento até o termo final da vigência do 
+contrato.  
+ 
+Sinteticamente, abaixo seguem as etapas da Gestão de Riscos:  
+ 
+Conforme  visto  acima, uma das etapas da Gestão de Riscos é a elaboração 
+do Plano de Riscos , que é o documento integrante do Estudo Técnico Preliminar 
+(ETP), elaborado pela Equipe de Planejamento da Contratação, com a descrição, 
+a análise e  o tratamento dos riscos que possam comprometer a contratação, 
+desde a fase de planejamento até o fim da vigência contratual.  
+ 
+O Plano de  Riscos deve ser preenchido e revisto , sem pre que necessário , 
+por um Analista de Riscos . 
+ 
+Quem atua como Analista de Riscos?  
+• Equipe de Planejamento da Contratação;   
+• Agente de Contratação ou Comissão de Contratação;   
+• Gestor  ou Gestora  do Contrato ;  
+• Responsável técnico, se o caso.   
+ 
+
+70 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ Este tópico em questão possui como foco a quinta etapa da gestão de 
+riscos: “ Monitoramento e revisão do Plano de Riscos (até o fim da vigência do 
+contrato) ”. Assim, segue abaixo  o procedimento a ser adotado.  
+ 
+7.1  ATUALIZAÇÃO  DO PLANO   
+DE RISCOS  
+ 
+Durante a gestão e fiscalização da execução contr atual,  compete ao Gestor  
+ou à Gestora  do Contrato , com o auxílio dos Fiscais,  revisar o Plano de Riscos . 
+ 
+Nesse sentido, caso novos riscos ou fatos relevantes sejam identificados  
+no curso da execução con tratual , deverão ser direcionados ao Gestor ou à 
+Gestora  do Contrato para verificação , eventual tratamento e posterior 
+atualização do Plano de Riscos.  
+ 
+Abaixo segue o passo  a passo  para atualização do Plano de Riscos:  
+ 
+1. Consultar o expediente do Plano de Riscos  
+O CPA de análise de riscos será único, mantendo -se o histórico em 
+um único expediente para todas as contratações do mesmo obje to. 
+Dessa forma, o responsável por sua atualização , deve acessar o 
+processo correspondente.  
+ 
+2. Acessar o aplicativo   
+O responsável  deve utilizar o aplicativo - "Gestão de Riscos" , 
+solicitando o seu cadastro no próprio aplicativo caso não esteja 
+cadastrado como gestor ou analista.   
+No aplicativo , deve -se selecionar a respectiva análise de risco  a ser 
+atualizada . 
+Ademais, no próprio  aplicativo há instruções para o seu correto 
+preenchimento e utilização.   
+ 
+3. Atualizar  o Plano de Riscos   
+A atualização  do Plano de Riscos observará o Manual de Gestão de 
+Riscos em Contratações Públicas, homologado pela Presidência do 
+TJSP (disponível em Gestão de Riscos em Aquisições ).  
+Ainda , há um roteiro desenvolvido para auxiliar na realização da 
+análise de riscos, disponível em Roteiro para Análise de Riscos .  
+Em suma, as seguintes etapas devem ser observadas:   
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+71   
+ 
+ 
+ a. Realizar a análise dos riscos relacionados ao serviço ou bem 
+demandado , inserindo os novos riscos identificados ;  
+b. Avaliar  os riscos  inseridos  com sua probabilidade e impacto;   
+c. Realizar o t ratamento dos riscos avaliados, com as respostas e 
+planos de ação esperados;   
+d. Gerar novo relatório ao final da análise;   
+e. Inserir relatório em PDF no CPA criado, assinando -o;  
+  
+Após a atualização dos riscos, caso a equipe de planejamento da 
+contratação seja distinta da equipe de gestão contratual, recomenda -se que 
+se encaminhe a análise de riscos atualizada para conhecimento.  
+  
+72 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.  
+MODIFICAÇÕES 
+CONTRATUAIS  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+73   
+ 
+ 
+ Os contratos poderão ser alterados, com as devidas justificativas, nas 
+hipóteses previstas na Lei nº  14.133/2021, desde que haja interesse da 
+Administração e para atender ao interesse público.  
+Segundo o Provimento CSM nº 2.724/2023, atuarão na fase de alteração 
+contratual:  
+• Fiscal do Contrato;  
+• Fiscal Administrativo;  
+• Gestor  ou Gestora  do Contrato;  
+• Responsável Técnico, se necessário;  
+• Saab ; 
+• SOF;  
+• Assessoria Jurídica;  
+• Presidência do Tribunal de Justiça . 
+ 
+8.1  FORMALIZAÇÃO DAS 
+ALTERAÇÕES CONTRATUAIS  
+ 
+8.1.4   ACRÉSCIMOS E SUPRESSÕES  
+ 
+Segundo a Lei nº 14.133/2021, há situações em que os contratos podem ser 
+alterados unilateralmente  pela Administração , ou seja, hipóteses em que o 
+contratado será obrigado a aceitar tais modificações.   
+Uma dessas previsões  (art. 124 , I, da Lei nº 14.133/2021) trata da modificação 
+do projeto ou das especificações, para melhor adequação técnica a seus 
+objetivos  (alínea “a”)  ou quando for necessária a modificação do valor contratual 
+em decorrência do acréscimo ou diminuição quantitativa de seu objeto  (alínea 
+“b”). 
+Neste s caso s, a legislação esta belece  os seguintes limites  para acréscimos 
+e supressões  unilaterais nos contratos : 
+ 
+Acréscimos e Supressões  Acréscimos  Supressões * 
+Bens e Serviços  25% 25% 
+Reformas de edifícios ou 
+equipamentos  50%  25% 
+74 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ *Em caso de supressões que extrapolem os limites previstos, a Contratada 
+poderá solicitar a extinção contratual.  
+Nos pedidos de aditamento  formulados, o  Gestor ou a Gestora  do Contrat o 
+deverá:  
+a) descr ever  as alterações que se pretende realizar por meio  do 
+aditamento , de forma clara e objetiva,  tais como : prazos, quantidades, 
+serviços, itens do contrato, prédios/localidades etc.;  
+b) avaliar o percentual já comprometido (art . 125 da Lei nº 14.133/2021) , 
+incluindo os aditamentos já concluídos ou em andamento, caso houver , e 
+efetuar o novo cálculo, informando os percentuais de aditamento ;  
+c) solicitar proposta da Contratada , quando não houver  preços definidos 
+para o item a ser aditado ; 
+d) descrever o fato superveniente ou de conhecimento superveniente, 
+suficiente para ensejar a modificação;  
+e) atestar  a manutenção do objeto inicialmente convencionado, não 
+podendo , em hipótese alguma, haver a transmutação ou desnaturação do 
+objeto;  
+f) atestar a manutenção do equilíbrio econômico -financeiro;  
+g) confirmar a manutenção do desconto linear obtido na licitação, para 
+aditamentos qualitativos em contratos de obras e serviços de engenharia;  
+h) inserir os respectivos anexos das alterações propostas, caso necessário;  
+i) autuar protocolo CPA  próprio  e encaminhar à Saab  6 – Diretoria de 
+Contratos Administrativos, Convênios e Gestão Imobiliária . 
+ 
+8.1.5   PRORROGAÇÕES DE VIGÊNCIA  
+ 
+O sistema emitirá notificação  ao Gestor ou à Gestora do Contrato , com 
+antecedência de 300 (trezentos) dias  do término da vigência contratual , 
+solicitando sua manifestação quanto à necessidade de prorrogação do ajuste , 
+devendo ser observados os prazos estipulados no Provimento CSM nº 2.724/2023.  
+ 
+ 
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+75   
+ 
+ 
+ ATENÇÂO:  Nos termos do art. 89 do 
+Provimento CSM nº 2.724/2023, as 
+providências para prorrogação 
+contratual devem ser iniciadas com 
+antecedência mínima de:  
+a)  240 ( duzentos e quarenta ) dias  
+contados do final da vigência contratual, 
+para prestação de serviços continuados 
+ou fornecimento contínuo de bens;  
+b)  300 ( trezentos ) dias  contados do 
+final da vigência contratual, para 
+contratações complexas que 
+demandem análise técnica.   
+ 
+Caso o  Gestor ou a Gestora  opte pela prorrogação, deverão ser preenchidos 
+os campos requisitados e gerado o protocolo (CPA) , observando -se as seguintes 
+etapas  preliminares : 
+ 
+1 - Verificar, na cláusula contratual, a possibilidade de prorrogação  e qual o 
+limite máximo de sua vigência;  
+2 - Verificar a preservação das condições de habilitação  (impedimento de 
+licitar e contratar com a Administração Pública Estadual ou declaração de 
+
+76 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ inidoneidade), bem como  a inexistência de pendências , por meios dos 
+seguintes links: CEIS , SANÇÕES , Apenados - TCE-SP, CADIN .  
+Caso identifique  algum impedimento que obste  o prosseguimento do 
+processo de prorrogação,  o Gestor ou a Gestora  deverá avaliar a necessidade 
+de nova contratação ou outra providência  cabível.  
+3 – Colher a concordância  formal da Contratada;  
+4 - Encaminhar o protocolo gerado para o setor responsável pela pesquisa 
+de preços  com a finalidade de aferir a vantajosidade econômica.  
+Caso a pesquisa realizada se mostre desfavorável, ou seja, os preços 
+apurados encontrem -se abaixo do valor contratado, a área gestora deverá 
+negociar junto à Contratada a redução dos preços, em conformidade com os 
+valores obtidos na pesquisa.  
+Caso a negociação reste frustrada caberá ao Gestor ou à Gestora avaliar 
+alternativa(s) para se evitar a solução de continuidade do serviço/bens.  
+Em caso de contratações por inexigibilidade ou dispensa de licitação, juntar 
+a comprovação de que os preços praticados no contrato são compatíveis com os 
+de mercado. Além disso, no caso de inexigibilidade, deverá ser apresentada a 
+certidão de exclusividade atualizada , se o caso.  
+5 - Justificar a necessidade  da continuidade dos serviços;  
+6 - Estando em termos, os pedidos de prorrogação deverão ser 
+encaminhados , com toda a documentação pertinente,  à Saab  6 – 
+Diretoria de Contratos Administrativos, Convênios e Gestão Imobiliária, com 
+antecedência mínima de:  
+a) 180 (cento e oitenta) dias  contados do final da vigência contratual, 
+para prestação de serviços continuados ou fornecimento contínuo de 
+bens;  
+b) 240 (duzentos e quarenta) dias  contados do final da vigência 
+contratual , para contratações complexas que demandem análise técnica .  
+ 
+ 
+ 
+ 
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+77   
+ 
+ 
+ ATENÇÂO:  A Administração poderá 
+estabelecer a vigência por prazo 
+indeterminado  nos contratos em que 
+seja usuária de serviço público oferecido 
+em regime de monopólio, desde que 
+comprovada, a cada exercício financeiro, 
+a existência de créditos orçamentários 
+vinculados à contratação.  
+São os casos dos contratos celebrados 
+com os Correios (serviço postal) e com 
+as concessionárias de energia elétrica 
+(para contratação do uso do sistema de 
+distribuição - CUSD).  
+ 
+8.1.5.1   ATA DE REGISTRO DE PREÇOS  
+ 
+O prazo de vigência da Ata de Registo de Preços (ARP) será de 1 (um)  ano , 
+podendo ser prorrogado por igual período, desde que haja interesse da 
+administração e seja comprovada a vantajosidade econômica.  
+O sistema encaminhará uma notificação à Unidade Gerenciadora,  com 
+antecedência de 300 (trezentos)  dias  do término da vigência da ARP , a fim de 
+alertá -la sobre a validade da ata .  
+Dessa forma, caso haja interesse na prorrogação da ARP, compete à 
+Unidade Gerenciadora  autuar expediente próprio de prorrogação, observando -
+se a antecedência prevista no tópico 8.1.2, instruindo -o com os documentos 
+pertinente s. 
+Em regra , a prorrogação de vigência da ARP segue o mesmo procedimento 
+das demais prorrogações  (conforme tópico 8.1.2) , destacando -se as seguintes 
+peculiaridades : 
+• A Unidade Gerenciadora deve rá colher a anuência dos fornecedores 
+para a prorrogação proposta, certificando -se, inclusive, da eventual 
+permanência daqueles incluídos no cadastro de reserva;  
+• A Unidade Gerenciadora deverá encaminhar o expediente de  
+prorrogação  à Diretoria de Contratos da Saab , com antecedência 
+mínima de 180 (cento e oitenta) dias , a contar do término da vigência 
+da ARP;  
+78 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ • A Unidade Gerenciadora dará ciência aos demais órgãos participantes, 
+se houver, quanto às tratativas para prorrogação da ARP em curso.  
+• A prorrogação será formalizada por Termo de Aditamento  e implicará 
+na renovação das quantidades iniciais para o novo período de vigência;  
+• A Diretoria de Contratos da Saab  encaminhará cópia do Termo de 
+Aditamento de prorrogação aos órgãos participantes, se houver.  
+ 
+8.1.6   MANUTENÇÃO DO EQUILÍBRIO  ECONÔMICO -
+FINANCEIRO  
+ 
+Segundo a Lei nº 14 .133/2021, são  três as formas de manutenção do equilíbrio 
+econômico -financeiro do contrato, conforme definições:  
+a) reajustamento em sentido estrito : forma de manutenção do equilíbrio 
+econômico -financeiro de contrato consistente na aplicação do índice de 
+correção monetária previsto no contrato, que deve retratar a variação efetiva do 
+custo de produção, admitida a adoção de índices específicos ou setor iais; 
+b) repactuação : forma de manutenção do equilíbrio econômico -financeiro de 
+contrato utilizada para serviços contínuos com regime de dedicação exclusiva 
+de mão de obra ou predominância de mão de obra . Efetuada  por meio da análise 
+da variação dos custos contratuais, devendo estar prevista no edital, sendo : 
+• Para os custos decorrentes do mercado , com data vinculada à 
+apresentação das propostas ;  
+• Para  os custos decorrentes da mão de obra , com data vinculada ao 
+acordo, à convenção coletiva ou ao dissídio coletivo ao qual o orçamento 
+esteja vinculado . 
+c) reequilíbrio econômico -financeiro : em caso de força maior, caso fortuito ou 
+fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de 
+consequências incalculáveis, que inviabilizem a execução do contrato tal como 
+pactuado, respeitada, em qualquer caso, a repartição objeti va de risco 
+estabelecida no contrato (alínea “d”, inciso II, artigo 124).  
+ 
+ 
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+79   
+ 
+ 
+ 8.1.6.1   REAJUSTAMENTO EM SENTIDO ESTRITO  
+E REPACTUAÇÃO  
+ 
+O reajustamento em sentido estrito  e a repactuação, para os custos 
+decorrentes de mercado , serão concedidos pela Administração, de ofício , 
+conforme previsto em contrato, utilizando -se os índices pactuados.  
+Para os contratos de obras e serviços de engenharia , o Gestor ou a Gestora  
+deverá encaminhar à Saab  6 – Diretoria de Contratos Administrativos, Convênios 
+e Gestão Imobiliária, expediente instruído com parecer da fiscalização técnica e 
+novo cronograma físico financeiro aprovado pela Contratada.  
+Os demais casos de  repactuação  (com exceção daquela por custos  
+decorrentes de mercado , que ocorre de ofício ) serão  precedida s de solicitação 
+da Contratad a e analisadas pelo  Gestor ou a Gestora  do Contrato , observando -
+se, em suma,  as seguintes etapas  (conforme artigos 98 e 99 do Provimento CSM 
+nº 2.724/2023) : 
+1. Recepcionar e autuar o pedido de repactuação em expediente 
+eletrônico vinculado ao processo de contratação ; 
+2. Elaborar  relatório conclusivo  sobre o requerimento ; 
+• O Gestor ou a Gestora  do Contrato poderá solicitar aos Fiscais 
+Administrativos e do Contrato ou ao Responsável Técnico, subsídios 
+para elaboração do relatório conclusivo, bem como realizar diligências 
+para conferência d os elementos da repactuação requerida ; 
+3. Caso conclua favoravelmente  à repactuação , encaminhar os autos à 
+Saab  6 – Diretoria de Contratos Administrativos, Convênios e Gestão 
+Imobiliária ; 
+4. Caso  conclua desfavoravelmente  à repactuação, o  Gestor ou a Gestora  
+do Contrato devolver á o pedido à Contratada , alertando -a que poderá  
+sanear eventual deficiência na instrução e formular novo pedido ou 
+formular  pedido de reanálise ; 
+5. Caso a deficiência seja sanada ou haja pedido de reanálise, os autos 
+serão remetidos à Saab  6 – Diretoria de Contratos Administrativos, 
+Convênios e Gestão Imobiliária, para análise.  
+As solicitações devem estar  acompanhada s de demonstração analítica da 
+variação dos custos, por meio de apresentação da planilha de custos e formação 
+de preços e do novo acordo, convenção ou sentença normativa que fundamenta 
+a repactuação (§ 6º, artigo 135 , da Lei nº 14 .133/2021).  
+80 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ As novas planilhas de custos e formação de preços, com os novos valores, 
+serão analisadas e referendadas pelo  Gestor ou pela  Gestora  do Contrato  antes 
+do encaminhamento à Saab  6 – Diretoria de Contratos Administrativos, 
+Convênios e Gestão Imobiliária.  
+Os reajustes em sentido estrito e as repactuações  serão  registrados por 
+apostila , dispensada a celebração de termo aditivo (inciso I, artigo 136 , da Lei nº 
+14133/2021).  
+ 
+8.1.6.2   REEQUILÍBRIO ECONÔMICO -FINANCEIRO  
+ 
+Para os pedidos de reequilíbrio econômico -financeiro  (alínea “d”, inciso II, 
+artigo 124 , da Lei nº 14.133/2021 ), o Gestor ou a Gestora  do Contrato  deverá:  
+a)  verificar a ocorrência de variação de custos que acarrete 
+desequilíbrio econômico -financeiro em favor da administração;  
+b)  receber pedido de reequilíbrio econômico -financeiro formulado 
+pela Contratada; e  
+c)  autuar, em expediente próprio vinculado ao processo da 
+contratação, pedido de reequilíbrio econômico -financeiro, em favor da 
+administração ou da Contratada  
+Os autos serão instruídos com, no mínimo, os seguintes documentos e 
+informações : 
+a) se o risco foi previsto no Plano de Riscos ou, quando houver, na 
+matriz de alocação de riscos;  
+b) cópia do instrumento contratual, respectivos anexos e aditivos;  
+c) planilha ou demonstrativo que evidencie a alteração da equação 
+econômico -financeira;  
+d) nexo de causalidade entre a alteração dos custos do contrato e o 
+evento que inviabilize a execução do contrato tal como inicialmente 
+pactuado.  
+Na hipótese de reequilíbrio em favor da administração , compete ao 
+Gestor ou à Gestora do Contrato encaminhar notificação à Contratada contendo 
+os documentos relacionados acima para manifestação no prazo de 10 (dez) dias 
+úteis . 
+Compete ao Gestor ou à Gestora  do Contrato elaborar relatório conclusivo  
+acerca da ocorrência ou não do desequilíbrio:  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+81   
+ 
+ 
+ a) no caso de reequilíbrio em favor da administração, após o decurso 
+do prazo (10 dias úteis) , com ou sem manifestação da Contratada;  
+b) no caso de reequilíbrio em favor da Contratada, após o 
+recebimento do pedido devidamente instruído com os documentos . 
+O Gestor ou a Gestora  do Contrato poderá solicitar aos Fiscais 
+Administrativos e do Contrato ou ao Responsável Técnico, subsídios para 
+elaboração do relatório conclusivo, bem como realizar diligências para 
+conferência do desequilíbrio apontado.  
+Após  a emissão do relatório conclusivo, os autos serão remetidos à  Saab  6 - 
+Diretoria de Contratos Administrativos, Convênios e Gestão Imobiliária , para 
+processamento e elaboração da minuta de aditivo contratual  e posterior 
+encaminhamento à SOF e à Assessoria Jurídica.  
+  
+82 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.  
+EXTINÇÃO DOS 
+CONTRATOS  
+ 
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+83   
+ 
+ 
+ Os contratos, em regra, são extintos quando atingem os objetivos para os 
+quais foram formalizados ou pelo decurso do prazo. No entanto, há situações em 
+que os contratos podem ser extintos antecipadamente.  
+Para que ocorra o encerramento prematur o de um contrato , o seu motivo 
+deve ser formalmente registrado nos autos do processo, sendo assegurados o 
+contraditório e a ampla defesa . 
+A extinção do contrato poderá ser : 
+I. Determinada por ato unilateral e escrito da Administração , exceto no 
+caso de descumprimento decorrente de sua própria conduta;  
+II. Consensual , por acordo entre as partes, por conciliação, por mediação 
+ou por comitê de resolução de disputas, desde que haja interesse da 
+Administração;  
+III. Determinada por decisão arbitral , em decorrência de cláusula 
+compromissória ou compromisso arbitral, ou por decisão judicial . 
+ 
+9.1 EXTINÇÃO  UNILATERAL  
+ 
+Segundo o artigo 137 da  Lei nº 14.133/2021 , são motivos para a extinção 
+unilateral  do contrato : 
+I. Não cumprimento ou cumprimento irregular de normas editalícias ou 
+de cláusulas contratuais, de especificações, de projetos ou de prazos;  
+II. Desatendimento das determinações regulares emitidas pela autoridade 
+designada para acompanhar e fiscalizar sua execução ou por autoridade 
+superior;  
+III. Alteração social ou modificação da finalidade ou da estrutura da 
+empresa que restrinja sua capacidade de concluir o contrato;  
+IV. Decretação de falência ou de insolvência civil, dissolução da sociedade 
+ou falecimento do contratado;  
+V. Caso fortuito ou força maior, regularmente comprovados, impeditivos da 
+execução do contrato;  
+VI. Atraso na obtenção da licença ambiental, ou impossibilidade de obtê -la, 
+ou alteração substancial do anteprojeto que dela resultar, ainda que 
+obtida no prazo previsto;  
+VII. Atraso na liberação das áreas sujeitas a desapropriação, a desocupação 
+ou a servidão administrativa, ou impossibilidade de liberação dessas 
+áreas;  
+VIII. Razões de interesse público, justificadas pela autoridade máxima do 
+órgão ou da entidade contratante;  
+84 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ IX. Não cumprimento das obrigações relativas à reserva de cargos prevista 
+em lei, bem como em outras normas específicas, para pessoa com 
+deficiência, para reabilitado da Previdência Social ou para aprendiz.  
+ 
+PROCEDIMENTO  A SER ADOTAD O: 
+No âmbito do TJSP, caso constatada alguma das hipóteses de extinção 
+unilateral contratual, compete ao Gestor ou à Gestora do Contrato :  
+1. Autuar expediente eletrônico vinculado ao processo de contratação ; 
+2. Notificar a Contratada, a fim de garantir o contraditório e a ampla defesa ; 
+3. Instruir os autos com, no mínimo:  
+• Documentação comprobatória que motivou o pedido de  extinção, de 
+acordo com as hipóteses previstas no art. 137 da Lei. nº 14.133/2021;  
+• Notificação da Contratada e comprovação de seu recebimento;  
+• Resposta da Contratada ou informação de decurso do prazo sem sua 
+manifestação;  
+• Manifestação da área gestora contendo, inclusive, informação acerca dos 
+processos apuratórios autuados;  
+4. Encaminhar o expediente  à Saab  6 - Diretoria de Contratos 
+Administrativos, Convênios e Gestão Imobiliária , para elaboração do 
+termo de extinção contratual , com posterior encaminhamento  à área 
+jurídica e deliberação da E. Presidência.  
+ 
+9.2  EXTINÇÃO PLEITEADA  
+PELA CONTRATADA  
+ 
+Por outro lado , a Contratada poderá pleitear a extinção  do ajuste  nas 
+seguintes situações:  
+I. Supressão, por parte da Administração, de obras, serviços ou compras 
+que acarrete modificação do valor inicial do contrato além do limite 
+permitido no art. 125 da Lei nº 14.133/2021;  
+II. Suspensão de execução do contrato, por ordem escrita da 
+Administração, por prazo superior a 3 (três) meses ; 
+III. Repetidas suspensões que totalizem 90 (noventa) dias úteis , 
+independentemente do pagamento obrigatório de indenização pelas 
+sucessivas e contratualmente imprevistas desmobilizações e 
+mobilizações e outras previstas;  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+85   
+ 
+ 
+ IV. Atraso superior a 2 (dois) meses , contado da emissão da nota fiscal, dos 
+pagamentos ou de parcelas de pagamentos devidos pela 
+Administração por despesas de obras, serviços ou fornecimentos;  
+V. Não liberação pela Administração, nos prazos contratuais, de área, local 
+ou objeto, para execução de obra, serviço ou fornecimento, e de fontes 
+de materiais naturais especificadas no projeto, inclusive devido a atraso 
+ou descumprimento das obrigações atrib uídas pelo contrato à 
+Administração relacionadas a desapropriação, a desocupação de áreas 
+públicas ou a licenciamento ambiental.  
+ 
+ATENÇÂO:  As extinções previstas nos 
+itens II, III e IV não serão admitidas em 
+caso de calamidade pública, de grave 
+perturbação da ordem interna ou 
+guerra, bem como quando decorrerem 
+de ato ou fato que a Contratada tenha 
+praticado, tenha participado ou 
+contribuído.  
+ 
+PROCEDIMENTO A SER ADOTADO:  
+No âmbito do TJSP, caso a Contratada pleiteie a extinção contratual, 
+compete ao Gestor ou à Gestora do Contrato:  
+1. Autuar expediente eletrônico vinculado ao processo de contratação;  
+2. Instruir os autos com, no mínimo:   
+• Documentação comprobatória que motivou o pedido de extinção, de 
+acordo com as hipóteses previstas no art. 137 da Lei. nº 14.133/2021;  
+• Manifestação da área gestora  acerca da aceitabilidade do pedido.  
+3. Encaminhar o expediente à Saab  6 – Diretoria de Contratos, para 
+elaboração do termo de extinção contratual, com posterior 
+encaminhamento à área jurídica e deliberação da E. Presidência ; 
+  
+86 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 . 
+RELATÓRIO 
+FINAL  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+87   
+ 
+ 
+ 10.1  RELATÓRIO  FINAL SOBRE A 
+CON SECUÇÃO DOS OBJETIVOS  
+ 
+O relatório final é elaborado ao fim da vigência contratual e deve conter 
+informações sobre a obtenção dos objetivos que tenham justificado a 
+contratação , bem como eventuais condutas a serem adotadas para o 
+aprimoramento das atividades da Administração.  
+Segundo o  artigo 106 do  Provimento  CSM nº 2.724/2023, que regulamenta 
+o tema no âmbito do TJSP , compete a o Gestor ou a Gestora  do Contrato, com 
+apoio do  Gestor ou da Gestora  de Planejamento da Contratação,  a elabo ração do  
+relatório final , em 60 (sessenta) dias corridos , contados do término da vigência 
+contratual, contendo, no mínimo , as seguintes informações:  
+• Efetiva consecução dos objetivos que tenham justificado a contratação;  
+• Existência de restos a pagar e/ou outras pendências financeiras do 
+contrato;  
+• Liberação da garantia contratual, se houver;  
+• Relação dos Processos Administrativos Apuratórios, de acordo com 
+certidão extraída do sistema de gestão contratual;  
+• Proposição de melhor ias a serem refletidas no ETP, no TR e no Plano de 
+Riscos das futuras contratações  para o mesmo objeto ; 
+• No caso de contratos  com dedicação exclusiva de mão -de-obra, constar 
+as informações necessárias para a liberação, se o caso, do saldo da conta 
+depósito -vinculada  de que trata a Resolução CNJ nº 169/2013  (retenção 
+de provisões de encargos trabalhistas, previdenciários e outros a serem 
+pagos às empresas contratadas para prestar serviços com mão de obra 
+residente nas dependências de unidades jurisdicionadas ao CNJ ). 
+O relatório final deverá ser juntado ao processo de acompanhamento da 
+execução contratual e  encaminhado ao respectivo  Secretário  ou à respectiva  
+Secretária  da unidade , para deliberação  em até 5 (cinco) dias úteis . Após 
+deliberação, o  Secretário  ou a Secretária  encaminhará  os autos : 
+a) Ao Gestor  ou à Gestora  do Contrato : para adequaç ões no relatório , se 
+o caso ; 
+b) À Diretoria de Contratos : caso  o relatório seja  aprovado, para 
+divulgação no PNCP e no Portal da Transparência do TJSP, no prazo de 
+5 (cinco) dias úteis ; 
+c) À Diretoria de Licitações : para os casos de contratação direta, que não 
+possuam instrumento contratual , para divulgação no PNCP e no Portal 
+da Transparência do TJSP, no prazo de 5 (cinco) dias úteis . 
+88 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 .  
+ANEXOS  
+  
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+89   
+ 
+ 
+ 11.1  ANEXO I – CHECKLIST PARA NOVA 
+CONTRATAÇÃO DE ENERGIA ELÉTRICA 
+(CUSD E CCER)  
+ANEXO I – CHECKLIST NOVA CONTRATAÇÃO CUSD E CCER  
+ITEM  CHECKLIST PARA NOVA CONTRATAÇÃO DE FORNECIMENTO DE ENERGIA ELÉTRICA – CUSD E CCER  
+ DESCRIÇÃO  SIM NÃO/  
+Justificativa  FLS.  
+1   Os autos se referem à formalização de contratos do Grupo A (CUSD e 
+CCER)?    
+Se sim, juntar e indicar as fls. dos contratos no processo.          
+2   Os contratos CUSD e CCER já foram celebrados pelo Juiz Diretor do 
+Fórum, tratando -se o expediente de convalidação dos instrumentos?    
+Se sim, juntar e indicar as fls. do documento assinado.         
+3  Em caso de resposta positiva no item 2 , houve delegação de poderes 
+pelo Exmo. Sr. Desembargador Presidente do TJSP ao MM. Juiz(a) de 
+Direito Diretor(a) do Fórum da Comarca para celebração dos 
+instrumentos contratuais de CUSD e CCER?  Em caso positivo, juntar 
+cópia do despacho proferido pela Autoridade Superior         
+4   Constam dos autos ETP, Termo de referência/projeto básico 
+demonstrando, de forma clara, precisa e suficiente as soluções existentes 
+no mercado para atendimento da necessidade do TJSP e a escolha da 
+melhor solução, nos termos do Provimento nº 2.138/2013, bem como análise 
+técnica da adequação da modalidade de contratação pretendida.           
+5   Foram apresentados:           
+   a) Laudo/parecer técnico demonstrando histórico ou estimativa de 
+consumo e a quantidade da demanda de energia que se pretende 
+contratar, de acordo com as condições e especificidades do Fórum da 
+Comarca interessada?          
+   b) Manifestação da área gestora informando se há necessidade de 
+realização de obras na rede elétrica, bem como as hipóteses de 
+ressarcimento de valores pelo TJSP à concessionária em caso de eventual 
+futura alteração de demanda?          
+6   No caso de serem necessárias obras na rede elétrica, houve 
+formalização de contrato específico?   
+- Se sim, juntar e indicar fls. do documento.   
+- Se não , há informação acerca da prévia autorização e delegação de 
+poderes para a formalização do respectivo contrato pelo MM. Juiz(a) 
+Diretor(a)? Em caso positivo, juntar cópia do despacho proferido pela 
+Autoridade Superior.             
+7   Foram colacionados aos autos as minutas contratuais que regerão a 
+relação entre as partes (CCER, CUSD), já adequadas aos termos da 
+Resolução Normativa nº 1.000/2021 da ANEEL?   
+Se sim, indicar fls. do documento no processo.            
+8  Houve indicação  dos servidores que atuarão como gestor e fiscal nos 
+contratos de fornecimento de energia elétrica a serem celebrados?    
+Se sim, indicar fls. de manifestação com novas indicações.            
+9   A escolha do fornecedor foi devidamente justificada, mediante a 
+comprovação da exclusividade da concessionária no âmbito do 
+município em que localizado o Fórum da Comarca contratante? 
+(declaração de exclusividade fornecida pela concessionária )  
+Se sim,  indicar as fls. do documento nos autos.           
+10   
+Há justificativa para o preço da contratação , embasada em declaração 
+fornecida pela concessionária acerca da regular e uniforme  aplicação das 
+tarifas homologadas pela ANEEL e acerca da inexistência de condições 
+mais vantajosas de contratação disponíveis  para a Administração ? 
+(declaração de preço )  
+Se sim,  indicar as fls. do documento nos autos.            
+90 M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+ 
+ 11.2 ANEXO II - CHECKLIST PARA 
+ALTERAÇÃO D A DEMANDA DE 
+ENERGIA ELÉTRICA  
+ANEXO II – CHECKLIST PARA ALTERAÇÃO DA DEMANDA  
+ITEM  CHECKLIST PARA ALTERAÇÃO DA DEMANDA DE ENERGIA ELÉTRICA  
+ DESCRIÇÃO  SIM NÃO/ 
+Justificativa  FLS.  
+1 Os autos se referem a aditamento de contratos do Grupo A (CUSD e CCER)?  
+Se sim, juntar e/ou indicar as fls. do termo de aditivo dos contratos no processo.        
+2 Os aditivos CUSD e/ou CCER já foram celebrados pelo Juiz Diretor do Fórum, 
+tratando -se o expediente de convalidação  dos instrumentos?    
+Se sim, juntar e indicar as fls. do documento assinado.        
+3 Em caso de resposta positiva no item 2 , houve delegação de poderes pelo Exmo. 
+Sr. Desembargador Presidente do TJSP ao MM. Juiz(a) de Direito Diretor(a) do 
+Fórum da Comarca para celebração dos contratos de CUSD E CCER e respectivos 
+aditivos contratuais para alteração da demanda de energia elétrica?  Em caso 
+positivo, juntar cópia do despacho proferido pela Autoridade Superior        
+4 Constam dos autos cópias dos contratos CUSD e CCER originalmente celebrados, 
+bem como de todos os aditivos já celebrados?  
+- Se sim, indicar as folhas de cada documento.  
+- Se não , promover a juntada e respectiva indicação de folhas.        
+5 Foram apresentados:           
+ Laudo/parecer técnico demonstrando a necessidade do aumento/redução da 
+demanda?    
+- Se sim, indicar as folhas de cada documento.  
+- Se não , promover a juntada e respectiva indicação de folhas.        
+ Manifestação da área gestora informando se há necessidade de realização de 
+obras na rede elétrica, bem como eventual ressarcimento de valores pelo TJSP à 
+concessionária?  
+- Se sim, indicar as folhas de cada documento.  
+- Se não , promover a juntada e respectiva indicação de folhas        
+6 No caso de serem necessárias obras na rede elétrica, houve formalização de 
+contrato específico?  
+- Se sim, juntar e indicar fls. do documento.  
+- Se não , há informação acerca da prévia autorização e delegação de poderes para a 
+formalização do respectivo contrato pelo MM. Juiz(a) Diretor(a)? Em caso positivo, 
+juntar cópia do despacho proferido pela Autoridade Superior.        
+7 No caso de ressarcimento, foram indicados os respectivos custos e melhor 
+alternativa para o atendimento do interesse público?  Se sim, indicar fls. da 
+manifestação no processo.        
+8 Foram colacionados aos autos as minutas dos aditivos contratuais de CUSD E 
+CCER que regerão a relação entre as partes, já adequadas aos termos da 
+Resolução Normativa nº 1.000/2021 da ANEEL ? 
+Se sim, indicar fls. do documento no processo  
+Se não, as minutas deverão ser solicitadas à concessionária para juntada ao 
+expediente        
+9 Houve indicação  dos servidores que atuarão como gestor, fiscal e suplentes nos 
+contratos de fornecimento de energia elétrica a serem celebrados?  Se sim, indicar 
+fls.  ou indicar a manifestação com as novas indicações.        
+10 A escolha do fornecedor foi devidamente justificada, mediante a comprovação da 
+exclusividade da concessionária no âmbito do município em que localizado o Fórum 
+da Comarca contratante? ( declaração de exclusividade fornecida pela 
+concessionária ) 
+Se sim, indicar as fls. do documento nos autos.        
+11 Há justificativa para o preço da contratação , embasada em declaração fornecida 
+pela concessionária acerca da regular e uniforme  aplicação das tarifas homologadas 
+pela ANEEL e acerca da inexistência de condições mais vantajosas de contratação 
+disponíveis  para a Administração ? (declaração de preço )  
+Se sim, indicar as fls. do documento nos autos.         
+ 
+M A N U A L D E C O N T R A T O S  | 2 0 2 5 
+Secretaria  de Administração  e Abas  tecimento  | Saab  
+91   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

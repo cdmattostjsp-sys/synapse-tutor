@@ -1,0 +1,62 @@
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+Secretaria de Administração e Abastecimento (SAAB)
+
+
+
+
+DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA (DFD)
+Prova de Conceito – Inteligência Artificial no Processo Licitatório do TJSP
+
+
+
+
+1. Unidade Demandante
+
+Secretaria de Administração e Abastecimento (SAAB).
+
+2. Título da Demanda
+
+Prova de Conceito (POC) – Implantação de Inteligência Artificial no Macrofluxo Licitatório do TJSP.
+
+3. Descrição da Necessidade
+
+Modernizar o processo licitatório por meio da aplicação de Inteligência Artificial, com foco inicial na RAJ 10.
+
+4. Escopo da POC
+
+Abranger etapas críticas do macrofluxo (DFD, ETP, TR e gestão contratual), restrito aos serviços de limpeza e vigilância.
+
+5. Justificativa
+
+Redução de retrabalho, padronização documental, maior segurança jurídica, eficiência administrativa e alinhamento ao Planejamento Estratégico TJSP 2025–2026.
+
+6. Base Normativa
+
+Lei nº 14.133/2021; Decreto Estadual nº 67.381/2022; Provimento CSM nº 2.724/2023; Resolução CNJ nº 615/2025; Manuais de Licitações e Contratos do TJSP.
+
+7. Responsáveis Institucionais
+
+- SAAB: Coordenação administrativa.
+- STI: Suporte tecnológico e integração ao Copilot Studio.
+- GTAJ: Validação jurídica.
+- GPL: Apoio operacional (pregões simulados).
+- SADF: Avaliação financeira e orçamentária.
+
+8. Entregáveis Previstos
+
+- Agente Orquestrador (LícIA).
+- Relatórios de desempenho da POC.
+- Plano de Avaliação e Escalonamento.
+
+9. Prazo Estimado
+
+03 meses (fase piloto).
+
+10. Observações
+
+Documento preliminar e restrito, sem formalização no SAJ até validação institucional.
+
+
+
+
+São Paulo, Setembro de 2025

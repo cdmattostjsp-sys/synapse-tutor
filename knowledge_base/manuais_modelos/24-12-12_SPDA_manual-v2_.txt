@@ -1,0 +1,73 @@
+1
+SPDA e Entrada de 
+Energia nas Comarcas
+ORIENTAÇÕES PARA COLETA DE DADOSSistema de Proteção contra Descargas Atmosféricas: direciona  
+e dissipa as descargas atmosféricas por um caminho seguro até a terra
+Secretaria de Administração e Abastecimento (Saab)
+Saab 1 - Diretoria de Gestão de Locais de Trabalho
+Sumário
+transformadores 3
+identificação da tensão de fornecimento 4
+dúvidas frequentes 5
+importante 6
+3transformadores
+Dispositivos utilizados para diminuir  
+ou aumentar a tensão elétrica
+TABELA COM AS POTÊNCIAS DE TRANSFORMADORES 
+COMERCIAIS E OS DISJUNTORES CORRESPONDENTES:
+Potência (kVA) Disjuntor de Proteção 
+(Amperes)
+30 80
+75 200
+112,5 300
+150 400
+225 600
+300 800
+500 1.300
+750 2.000
+1.000 2.600
+1.250 3.280
+1.500 4.000
+2.000 5.250
+2.500 6.600
+3.000 7.880
+ Para transformadores com potência superior a 500 kVA, a instalação deve ser feita 
+em cabine, com proteção ajustável.
+ATENÇÃO: A tabela acima visa referenciar os valores comerciais de potência dos 
+transformadores fabricados, com as correspondentes proteções elétricas, a fim de orientar 
+a identificação pela Administração predial local.
+4identificação da tensão 
+de fornecimento
+O fornecimento de energia nos prédios ocupados pelo TJSP é classificado em baixa 
+(127/220 V) ou média tensão (1.000/35.000V), podendo ser identificada na fatura de energia:
+baixa tensão
+ Para instalações em baixa tensão, não há contrato de demanda nem transformador 
+sob a responsabilidade do Fórum.
+ 
+média tensão 
+ Se a instalação for em média tensão (1.000 a 35.000 Volts), a fatura indicará a tensão, 
+no exemplo acima, 13.800 Volts (13,8 kV). Nesse caso, a manutenção do transformador 
+pode ser contratada.
+OBESERVAÇÃO: Caso o prédio seja atendido por transformador com potência de até 112,5 
+kVA, é facultado ao cliente a opção de o faturamento ocorrer em baixa tensão, ou seja, a fatura 
+não terá os campos de demanda informados (“Tensão Contratada” e “Demanda Contratada”).
+5dúvidas frequentes
+ 
+transformador fora do terreno
+Se o transformador está instalado em um poste fora dos limites do terreno (como 
+mostra a imagem abaix
+o), a responsabilidade pela manutenção é da Concessionária 
+de Energia, e não do Fórum. Nesse caso, a instalação é em baixa tensão e não cabe a 
+contratação de manutenção do equipamento.
+contratos
+É importante realizar pesquisa de todos os contratos de manutenção existentes, 
+infor-mando o número e a vigência de cada um, como mostra a figura abaixo :
+
+importante
+verificação de dados
+As informações sobre a entrada de energia não podem ser consideradas finalizadas 
+se houver lacunas a serem respondidas na planilha.
+contratos vigentes 
+A pesquisa dos contratos vigentes deve ser informada para a especificação técnica.
+saab1diretoria@tjsp.jus.brSecretaria de Administração e Abastecimento (Saab)
+Saab 1 - Diretoria de Gestão de Locais de Trabalho

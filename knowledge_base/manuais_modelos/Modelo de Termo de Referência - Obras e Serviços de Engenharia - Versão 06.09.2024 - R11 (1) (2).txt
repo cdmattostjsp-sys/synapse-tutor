@@ -1,0 +1,2394 @@
+TERMO DE REFERÊNCIA
+
+
+
+(Lei 14.133/2021)
+
+
+
+
+
+
+
+
+
+
+
+(Descrever de forma sucinta exemplo: REFORMA DA FACHADA, em negrito)
+
+
+
+
+
+FÓRUM (DA COMARCA, REGIONAL ..., em negrito)
+
+(Endereço, rua/avenida/praça, n.º, bairro, cidade/estado tudo em negrito)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUÇÕES DE PREENCHIMENTO DO TR:
+
+Os textos destacados em AMARELO, são alteráveis conforme necessidade e particularidades da contratação. 
+
+Os textos NÃO destacados em amarelo, são fixos. 
+
+Atentar para o cabeçalho: Preencher de acordo com a origem do documento.
+
+
+
+Versão: 06/09/2024
+
+R11
+
+Fonte: Modelo SAAB 5 - Diretoria de Licitações e Suprimentos (SharePoint – Modelos Lei 14.133/2021 – TR Termo de Referência – Modelo de Termo de Referência – Engenharia)
+
+OBJETO
+
+
+
+	Contratação de empresa especializada para a execução de reforma da fachada no edifício do Fórum Regional II – Santo Amaro - Adolfo Pinheiro, conforme projetos e documentação constantes nos Anexos e demais condições estabelecidas neste Termo de Referência.
+
+
+
+NOTA: Descrever de forma sucinta o objeto da contratação.
+
+
+
+DEFINIÇÃO DO OBJETO (alínea “a”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+	Natureza do Objeto:
+
+		
+
+Prestação de serviço por escopo, caracterizado como serviço comum de engenharia/ ou serviço de engenharia/serviço especial de engenharia/obra.
+
+		
+
+NOTA: 
+
+Serviços por escopo: serviços cuja necessidade de contratação se exaure com a consecução de um objeto especificamente definido e esgotável por si, não importando o elemento temporal como determinante de extinção, mas como parâmetro de eficiência e celeridade. Fonte: Portaria-TCU nº 444, de 28 de dezembro de 2018.
+
+Compatibilizar com anotações lançadas no ETP.
+
+Definições:
+
+Serviço de engenharia: toda atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou material, de interesse para a Administração e que, não enquadradas no conceito de obra a que se refere o inciso XII do caput do artigo 6.º da Lei n.º 14.133/2021, são estabelecidas, por força de lei, como privativas das profissões de arquiteto e engenheiro ou de técnicos especializados, que compreendem:
+
+a) serviço comum de engenharia: todo serviço de engenharia que tem por objeto ações, objetivamente padronizáveis em termos de desempenho e qualidade, de manutenção, de adequação e de adaptação de bens móveis e imóveis, com preservação das características originais dos bens;
+
+b) serviço especial de engenharia: aquele que, por sua alta heterogeneidade ou complexidade, não pode se enquadrar na definição constante da alínea “a” acima;
+
+Observação: obras e serviços comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos.
+
+
+
+Prazo do Contrato:
+
+		
+
+O prazo de execução dos serviços objeto desta contratação, será de XXX (por extenso) dias corridos, contados a partir da data de emissão da Ordem de Início dos Serviços pelo Gestor do CONTRATANTE.
+
+		
+
+O prazo para execução da manutenção preventiva e corretiva dos sistemas e equipamentos será de 12 (doze) meses, contados da data de emissão do Termo de Recebimento Definitivo. 
+
+		
+
+O Prazo de vigência do contrato será de XXXXXX (por extenso) dias corridos, a contar da assinatura do contrato pelo CONTRATANTE e pela CONTRATADA.
+
+		
+
+		
+
+NOTA: No prazo de vigência considerar:
+
+30 dias para as tratativas da emissão da Ordem de Início dos Serviços.
+
+“N” dias para o prazo de execução.
+
+“N” dias para obtenção de algum documento legal (AVCB por exemplo).
+
+15 dias para recebimento provisório.
+
+90 dias para recebimento definitivo.
+
+30 dias pagamento final.
+
+365 dias para a manutenção preventiva.
+
+30 dias pagamento última nota de manutenção.
+
+Contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da “obra” com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma do art. 107 da Lei nº 14.133/2021.
+
+Quando se se tratar de contratação visando, por exemplo, a realização de serviços de prevenção, proteção e combate a incêndio – PPCI, incluir no prazo da contratação não só as adequações físicas como também o prazo para obtenção da documentação necessária como por exemplo o AVCB.
+
+		
+
+		O prazo de execução e de vigência do contrato poderão ser prorrogados em caso de motivo justo, a critério do CONTRATANTE, nos termos da legislação em vigor, desde que a prorrogação seja solicitada por escrito, pela CONTRATADA, com antecedência mínima de 30 (trinta) dias corridos do final do prazo de execução dos serviços.
+
+		
+
+NOTA: Texto acima; quando se tratar de construção, ampliação e reforma geral (obra de vulto/maior monta), considerar o prazo de 60 (sessenta) dias corridos. Nas demais condições considerar 30 (trinta) dias corridos.
+
+		
+
+		O pedido de prorrogação deverá vir acompanhado de novo cronograma físico-financeiro, relação dos dias, justificativa da impossibilidade de execução dos serviços e comprovação dos motivos que o fundamentem e outros documentos relevantes e pertinentes ao assunto.
+
+
+
+	Local de execução:
+
+
+
+Fórum Regional II – Santo Amaro – Adolfo Pinheiro
+
+Área construída estimada: 12.145m²  
+
+Área de intervenção estimada: ...........m²
+
+Endereço: Avenida Adolfo Pinheiro, nº 1992 – Santo Amaro – São Paulo/SP
+
+Latitude:.................
+
+Longitude:..............
+
+
+
+NOTA: Inserir área construída estimada para todas as contratações. 
+
+Para reformas pontuais em que aparecer outra metragem na comprovação técnico operacional, indicar também área de intervenção estimada, baseada na área indicada na solicitação.
+
+
+
+NOTA: Quando se tratar de obra, informar a latitude e a longitude. Exigência TCESP - Sistema AUDESP – 2018 - Fase IV - Exigências de informações sobre latitude e longitude. No sistema, a latitude e longitude estão parametrizadas com o sinal negativo (pelo fato do Estado de São Paulo estar localizado no hemisfério sul). É necessário somente informar o número respectivo em cada um. 
+
+
+
+	Responsável pela Administração do Prédio:
+
+Telefone: (DDD) XXXX-XXXX
+
+Contato: .................................................... 
+
+E-mail:........................................................
+
+
+
+	Horário de execução dos serviços:
+
+			
+
+			Os serviços ora contratados deverão ser realizados de segunda à sexta-feira, das 6h30 às 19h00 horas sem, entretanto, causar interferências ou prejuízo ao expediente forense.
+
+			
+
+			Havendo necessidade, os serviços poderão ser realizados em horários alternativos (noturnos, feriados ou finais de semana) e também durante o recesso forense, sem acréscimo ao orçamento original, e desde que cumpram as exigências prescritas nas regulamentações do município local e Norma Brasileira (NBR) 10.151/2000 no que tange aos dias permitidos para trabalho, horários e níveis de ruídos. 
+
+			
+
+			Nesse caso, a CONTRATADA deverá comunicar à FISCALIZAÇÃO do CONTRATANTE e ao Serviço de Administração do Prédio, com antecedência mínima de 48 (quarenta e oito) horas, com as devidas justificativas e aplicabilidade diante da legislação e normativas, para efeito de autorização e cumprimento de normas administrativas internas do CONTRATANTE.
+
+
+
+FUNDAMENTAÇÃO DA CONTRATAÇÃO (alínea “b”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+A fundamentação completa da contratação está descrita no Estudo Técnico Preliminar, que será publicado juntamente com o Edital de Licitação, no Portal Nacional de Contratações Públicas (PNCP) e no portal da Transparência do Tribunal de Justiça do Estado de São Paulo. 
+
+
+
+NOTA: Atenção! Na ausência de Estudo Técnico Preliminar ou no caso de sigilo dos estudos, informar a necessidade da contratação e o extrato das partes que não contiverem informações sigilosas, se o caso.
+
+
+
+DESCRIÇÃO DA SOLUÇÃO (alínea “c”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+
+
+
+
+
+
+Serviços de Apoio 
+
+
+
+
+
+	Administração Local
+
+	Canteiro dos serviços
+
+
+
+Serviços Civis - Arquitetura
+
+
+
+
+
+
+
+
+
+
+
+	Demolições e retiradas
+
+	Execução de alvenaria
+
+
+
+Estrutura
+
+
+
+	Execução de limpeza com hidrojateamento
+
+	Remoção de revestimento 
+
+	
+
+Recuperação de Pilares e Vigas e Concreto Armado
+
+
+
+	Execução de tratamento de armadura com produto anticorrosivo
+
+	Execução de cura úmida
+
+
+
+Sistema de Proteção Contra Descarga Atmosférica
+
+
+
+	Fornecimento e Instalação de cabo de cobre
+
+	Fornecimento e Instalação de mastro e captor 
+
+	
+
+Limpeza Final
+
+
+
+	Remoção de entulho
+
+	Limpeza final
+
+	
+
+Documentação Final
+
+
+
+	Fornecimento As Built, manuais, laudos etc.
+
+
+
+NOTA: Nos itens acima relacionar detalhadamente os serviços a serem realizados conforme ordem da planilha de composição de preços, considerando todo o seu ciclo de vida.
+
+
+
+Os projetos executivos, os projetos legais devidamente aprovados (CONDEPHAAT/CONPRESP/Concessionária......etc.), os memoriais descritivos, as especificações e os demais documentos técnicos necessários ao perfeito entendimento e execução dos serviços estão relacionados no ANEXO 1 - Quadro de Documentos, deste Termo de Referência.
+
+
+
+NOTA: Relacionar, especificamente, os projetos e onde e/ou por quem foram aprovados.
+
+
+
+Quaisquer tramitações e providências eventualmente necessárias/obrigatórias, surgidas após a contratação dos serviços (exemplo: obtenção de autorizações, alvarás, licenças, aprovações, solução de exigências junto à Prefeitura do local dos serviços, Concessionárias e Órgãos de Preservação do Patrimônio Histórico, Corpo de Bombeiros e outros órgãos oficiais), serão de responsabilidade (financeira, administrativa e operacional), da CONTRATADA.
+
+
+
+	Antes do início efetivo dos serviços, é de responsabilidade da CONTRATADA, a obtenção do(s) “Alvará(s) de .................”.
+
+	
+
+	Os serviços deverão ser executados conforme projetos, memoriais descritivos, especificações, planilha(s) de composição de preços, cronograma(s) físico-financeiro e demais documentos constantes nos anexos deste Termo de Referência.
+
+	
+
+	Caberá à CONTRATADA, além do previsto nos projetos, memoriais descritivos, especificações técnicas e nas demais condições estabelecidas neste Termo de Referência, observar as seguintes exigências:
+
+	
+
+	A quantificação apresentada na Planilha de Composição de Preços – ANEXO 2 se baseia nos projetos, porém, considerando tratar-se de contratação a preço unitário, a quantidade efetiva deverá ser apurada e medida durante a execução dos serviços, sendo de responsabilidade da CONTRATADA seu controle;
+
+	
+
+	Havendo a necessidade de eventuais adequações contratuais, a CONTRATADA deverá comunicar preliminarmente o CONTRATANTE, instruindo tal comunicação de documentação e proposta devidamente justificada;
+
+	
+
+	Caso seja necessário, durante o desenvolvimento dos trabalhos, a execução de algum serviço não incluso neste Termo de Referência, a CONTRATADA deverá, preliminarmente, solicitar autorização para sua execução, apresentando proposta para a devida adequação contratual, bem como justificativa e planilha de composição de custos do referido serviço, adotando tabelas oficiais, preferencialmente, a composição de custo da SINAPI – Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil, observando que o preço desses serviços deve ser calculado considerando o custo de referência e subtraindo-se deste a diferença percentual entre o valor do orçamento-base e o valor global do contrato obtido na licitação, com vistas a garantir o equilíbrio econômico-financeiro da contratação e a manutenção do percentual de desconto obtido, ressalvados casos excepcionais devidamente justificados;
+
+Redação fundamentada no Decreto Federal n.º 7.983/2013, artigos 14 e 15 e Acordão TCU n.º 2699/2019, item 9.2.3.
+
+Ver Boletim Informativo n.º 09/2022.
+
+
+
+	A CONTRADADA deverá executar manutenção preventiva e corretiva nos equipamentos e sistemas prediais, pelo período de 12 (doze) meses a contar da data de recebimento/comissionamento de cada serviço, equipamento e/ou sistema.
+
+
+
+REQUISITOS DA CONTRATAÇÃO (alínea “d”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+ Sustentabilidade:
+
+			
+
+	Todos os materiais sucateados resultantes dos serviços executados pela CONTRATADA, SEM EXCEÇÃO, serão de sua propriedade e deverão ser removidos, de acordo com os prazos legais da prefeitura e de acordo com o desenvolvimento dos serviços, de forma a não criar obstáculo para a fruição normal dos trabalhos, ressalvados os casos em que a FISCALIZAÇÃO e/ou Administração do Prédio manifeste interesse.
+
+			
+
+	A carga e o transporte horizontal e vertical dos materiais sucateados e entulhos dos serviços deverão ser feitos de forma a não danificar as instalações existentes e em horário a ser determinado pelo Serviço de Administração do Prédio.
+
+	
+
+	Os descartes do material sucateado e do entulho dos serviços, deverão ser realizados pela CONTRATADA de acordo com as exigências da municipalidade local, normas e demais legislações afins, em especial às de proteções ambientais.
+
+	
+
+	Os resíduos sólidos gerados deverão ser descartados observando as disposições ambientais.
+
+	
+
+	Máquinas e equipamentos utilizados nos trabalhos deverão favorecer a redução do consumo de energia e de recursos naturais.
+
+	
+
+	No mais, atentar o que está estabelecido na Resolução n.º 400, de 16 de Junho de 2021 do Conselho Nacional de Justiça – CNJ.
+
+			
+
+NOTA: Se não for aplicável ao objeto deverá ser justificado. 
+
+
+
+ Especificação da Garantia: (inc. III, § 1º, art. 40, da Lei nº 14.133/2021)
+
+
+
+	O recebimento definitivo pela Administração não eximirá a CONTRATADA, pelo prazo mínimo de 5 (cinco) anos, da responsabilidade objetiva pela solidez e pela segurança dos materiais e dos serviços executados e pela sua funcionalidade e, em caso de vício, defeito ou incorreção identificados, a CONTRATADA ficará responsável pela reparação, pela correção, pela reconstrução ou pelas substituições necessárias.
+
+
+
+	Os equipamentos novos e/ou que foram objeto de intervenção nos serviços contratados deverão contar com garantia pelo prazo mínimo de 1 (um) ano, a contar da data de recebimento definitivo, ficando a CONTRATADA responsável, as suas expensas, pela reparação, correção, ou substituição necessárias. 
+
+		
+
+		O prazo de garantia por 1 (um) ano está embasado no disposto na norma: ABNT NBR 17170/2022 – Edificações – Garantias – Prazos recomendados e diretrizes; a qual estabelece diretrizes, condições e prazos de garantias, tecnicamente recomendados, bem como, serve para os agentes envolvidos terem conhecimento de suas incumbências perante as garantias.
+
+		
+
+NOTA: Esta garantia se refere, especificamente, aos bens duráveis (sistemas e equipamentos eletro/eletrônicos novos ou reutilizados), nos termos dos artigos 24 e 50, do Código de Defesa do Consumidor – CDC, combinado com o artigo 40, parágrafo 1.º, inciso III, diferindo da cobertura contratual prevista no item 5.2 do TR, que é específica para obras e/ou serviços de engenharia
+
+		
+
+	Demais condições de manutenção e assistência técnica, quando for o caso, consultar as exigências descritas em item específico deste Termo de Referência. 
+
+			
+
+NOTA: Não confundir este item com a prestação de garantia na contratação, prevista no artigo 98 da Lei n.º 14.133/20221, pois trata-se de garantia da execução contratual.
+
+Excluir esse item se não for aplicável. 
+
+
+
+Suporte técnico:
+
+			
+
+	A CONTRATADA deverá fornecer mão de obra especializada com profissionais qualificados(as) e treinados(as) para cada tipo de tarefa, sob a supervisão de engenheiro(a)(s) ou arquiteto(a)(s) habilitado(a)(s). 
+
+			
+
+NOTA: O texto diz respeito à mão de obra aplicada durante a execução dos trabalhos contratados, ou seja, que os profissionais que prestarão os serviços sejam habilitados, qualificados e treinados para as suas funções. O “suporte técnico” em questão e objeto de análise não está relacionado com a prestação de eventuais serviços em caráter de garantia (manutenções, revisões, regulagens, calibrações, reparos, consertos etc.). Portanto não guarda relação com o item 5.2 deste TR.
+
+			
+
+	Todos(as) devem estar uniformizados(as) e portar crachá de identificação contendo foto, nome completo e número de registro.
+
+
+
+	Caberá à CONTRATADA, retirar imediatamente dos serviços, a seu critério ou por solicitação do CONTRATANTE, qualquer empregado(a) que venha demonstrar conduta nociva ou incapacidade técnica, substituindo-o(a) no prazo máximo de 24 (vinte e quatro) horas ou a critério da FISCALIZAÇÃO do CONTRATANTE. 
+
+
+
+	Caberá à CONTRADADA elaborar, encaminhar e manter atualizada junto ao Serviço de Administração do Prédio, a relação de todos(as) os(as) funcionários(as) envolvidos(as) na execução dos serviços, inclusive engenheiros(as), arquitetos(as), contendo nome, RG e horário de trabalho.
+
+	
+
+	Caberá a CONTRATADA designar representantes nos termos previstos neste Termo de Referência.
+
+	
+
+Subcontratação (§2º, art. 122 da Lei nº 14.133/2021):
+
+
+
+	Não será admitida a subcontratação do objeto licitatório.
+
+			
+
+NOTA: Analisar a aplicabilidade. A subcontratação é permitida conforme artigo 122 da Lei 14.133/21.
+
+			
+
+	Será admitida a subcontratação dos serviços, se previamente aprovada pelo CONTRATANTE, e que não constituem o escopo principal do objeto, restrita, contudo, ao percentual máximo de 30% (trinta por cento) do valor total do contrato, devendo a empresa indicada pela CONTRATADA, antes do início da realização dos serviços, apresentar, ao CONTRATANTE, documentação que comprove sua habilitação jurídica e a qualificação técnica e legal necessárias, ficando vedada a subcontratação da totalidade do objeto.
+
+			
+
+	Em qualquer hipótese de subcontratação, permanece a responsabilidade integral da CONTRATADA pela perfeita execução contratual, cabendo-lhe: i) realizar a supervisão e coordenação das atividades da subcontratada, ii) responder perante o CONTRATANTE pelo rigoroso cumprimento das obrigações contratuais correspondentes ao objeto da subcontratação e iii) fornecer cópia e eventuais atualizações da Anotação de Responsabilidade Técnica (ART), da empresa subcontratada, nos termos da Resolução n.º 1.137/2023 do Conselho Federal de Engenharia e Agronomia – CONFEA e/ou Registro de Responsabilidade Técnica (RRT), nos termos da Resolução n.º 91/2014 do Conselho de Arquitetura e Urbanismo (CAU).
+
+
+
+	Será vedada a subcontratação de pessoa física ou jurídica, se aquela ou os dirigentes desta mantiverem vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro grau.
+
+	
+
+Vistoria Prévia: (§§ 2º, 3º e 4º, art. 63 da Lei 14.133/2021)
+
+
+
+	
+
+	Para efeito de elaboração da proposta é facultado à licitante a realização de vistoria no local de execução dos serviços, no(s) dia(s) e horário(s) definido(s) no Edital, devendo o agendamento ser efetuado previamente no Serviço de Administração do Prédio indicado no item 2 deste Termo de Referência.
+
+
+
+NOTA: Texto acima; exclusivamente para os casos em que a vistoria, por razões técnicas e operacionais, NÃO seja considerada obrigatória.
+
+
+
+	Para efeito de elaboração da proposta, a licitante deverá realizar vistoria no local de execução dos serviços, no(s) dia(s) e horário(s) definidos no edital, devendo o agendamento ser efetuado previamente no Serviço de Administração do Prédio indicado no item 2 deste Termo de Referência.
+
+
+
+NOTA: Texto acima; para os casos em que a vistoria, por razões técnicas e operacionais, SEJA considerada obrigatória. Deverá ser apresentada justificativa detalhada quando do envio do T.R., exemplo: “Para o correto dimensionamento da atuação da licitante na demanda em tela e elaboração de sua proposta, excepcionalmente, considerando tratar-se de uma obra de reforma geral de edificação de grande magnitude, com aproximadamente 13.500m², e de grande abrangência e complexidade por englobar diversas áreas de atuação (arquitetura, estrutura, hidráulica, elétrica, segurança contra incêndio, segurança patrimonial, elevador, bombas, climatização, etc.), sugerimos a realização de vistoria obrigatória por parte das licitantes participantes do procedimento licitatório.”
+
+
+
+	No momento da vistoria, o(a) licitante ou seu(sua) representante legal, deverá estar devidamente identificado(a), apresentando documento de identidade civil e documento expedido pela licitante representada comprovando sua habilitação para realização da vistoria. 
+
+	
+
+RECEBIMENTO DO OBJETO 
+
+
+
+Local de entrega: Fórum Regional II – Santo Amaro – Adolfo Pinheiro, Avenida Adolfo Pinheiro, nº 1992 – Santo Amaro – São Paulo/SP.
+
+
+
+Os quantitativos estão indicados na Planilha de Composição de Preços, disponibilizada para consulta no ANEXO 7 deste Termo de Referência. 
+
+
+
+PRAZO DE INÍCIO DA PRESTAÇÃO DE SERVIÇO/FORNECIMENTO
+
+
+
+7.1    A prestação dos trabalhos iniciará a partir da emissão da Ordem de Início do Serviços    – OIS.
+
+
+
+MODELO DE EXECUÇÃO DO OBJETO (alínea “e”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+Condições específicas de execução:
+
+
+
+			Os serviços contratados, naquilo que lhes forem aplicáveis, compreendem, resumidamente:
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		A instalação do canteiro dos serviços, de acordo com as normas gerais de construção, obedecendo rigorosamente às disposições relativas às condições e meio ambiente de trabalho, estabelecidas na Norma Regulamentadora n.º 18 (NR 18), legislação federal, estadual e/ou municipal, bem como outras estabelecidas em negociações coletivas de trabalho;
+
+
+
+		Utilização de andaime como equipamento de apoio obedecendo, tanto na montagem quanto no uso, o que está previsto nas Normas NR 18 e na Norma Técnica n.º 6494 da Associação Brasileira de Normas Técnicas (ABNT NBR 6494). A área de execução do serviço deverá ser delimitada e sinalizada com fita zebrada e cone, impedindo o acesso de pessoas;
+
+		
+
+		Os serviços técnicos profissionais que forem necessários para a obtenção do Auto de Vistoria do Corpo de Bombeiros – AVCB, junto ao Corpo de Bombeiros, incluindo a emissão de Laudo do teste de estanqueidade do sistema de hidrantes, conforme Norma NBR 13.714, e Anotação ou Registro de Responsabilidade Técnica correspondente; Laudo do teste de estanqueidade do sistema de gás GLP (se houver), conforme Norma NBR 15.526, e Anotação ou Registro de Responsabilidade Técnica correspondente; Laudo elétrico e Anotação ou Registro de Responsabilidade Técnica correspondente; Laudo de Controle de Materiais de Acabamento e Revestimento – CMAR (se houver) e Anotação ou Registro de Responsabilidade Técnica correspondente; Laudo de Sistema de Proteção Contra Descargas Atmosféricas – SPDA e Anotação ou Registro de Responsabilidade Técnica correspondente e Atestado de Brigada de Incêndio, bem como qualquer outro documento exigido pela Corporação. 
+
+		
+
+		Todas as tratativas necessárias, bem como todos os recolhimentos, às suas custas, de quaisquer taxas para aprovação do Formulário de Atendimento Técnico – FAT junto ao Corpo de Bombeiros, contendo as alterações realizadas.
+
+
+
+NOTA: No item acima inserir somente informações importantes/relevantes que estejam no Memorial e que mereçam destaque neste Termo de Referência e/ou em contratações que visam a instalação de sistema de prevenção e combate a incêndio.
+
+
+
+Prevenção e combate a incêndio:
+
+
+
+			Não poderão ser utilizados na execução de serviços, ferramentas ou sistemas de quaisquer tipos que exijam carga explosiva;
+
+	
+
+			Funcionários e funcionárias da CONTRATADA deverão ter conhecimento básico sobre prevenção e combate a incêndio.
+
+
+
+Prevenção de acidentes:
+
+
+
+			Durante a execução dos serviços e durante todo o período de vigência do contrato, a CONTRATADA deverá tomar as providências necessárias e ter ciência de que:
+
+			
+
+				Será responsável pela prevenção de acidentes e pela segurança de suas atividades e de seus funcionários e funcionárias na realização dos serviços, fazendo com que observem e cumpram rigorosamente os regulamentos e determinações de segurança, bem como tomando, ou fazendo com que sejam tomadas as medidas corretivas necessárias;
+
+			
+
+				Deverá fornecer aos seus empregados e empregadas todos os equipamentos de proteção individual (EPI) e coletiva (EPC) de acordo com a legislação vigente, os quais deverão estar em perfeito estado de conservação, de modo a garantir totalmente a segurança dos usuários e usuárias, bem como das pessoas ao redor;
+
+				
+
+				Deverá fornecer também equipamentos de proteção individual (EPI) aos funcionários e funcionárias do CONTRATANTE responsáveis pela FISCALIZAÇÃO dos serviços;
+
+				
+
+				Deverá prever, instalar e manter cercas, barreiras, tapumes ou outra forma de sinalização, indicando a terceiros(as) as condições perigosas resultantes dos trabalhos, a fim de prevenir danos pessoais ou materiais;
+
+
+
+				Deverá possuir profissional com especialização em segurança do trabalho, devidamente habilitado e registrado no Conselho Regional de Engenharia e Agronomia – CREA ou no Conselho de Arquitetura e Urbanismo – CAU, para orientação e acompanhamento dos serviços a serem realizados.
+
+				
+
+NOTA: O texto acima, deverá ser inserido no Termo de Referência somente nas seguintes condições: construção, ampliação, reforma geral, serviços de reforma/instalação de cabine primária/média tensão, fachadas e cobertura. 
+
+
+
+Desativação de instalações, materiais, equipamentos e sistemas existentes:
+
+
+
+				Conforme projeto, a CONTRATADA deverá efetuar, com cautelas técnicas devidas, a interrupção ou desativação, total ou parcial, mesmo que temporária, das instalações, materiais, equipamentos e sistemas existentes incluindo as infraestruturas não utilizadas;
+
+				
+
+				Para a execução desses serviços, a CONTRATADA deverá solicitar autorização à FISCALIZAÇÃO do CONTRATANTE e/ou ao Serviço de Administração do Prédio, com antecedência mínima de 48 (quarenta e oito) horas;
+
+	
+
+				Todas as instalações, materiais, equipamentos e sistemas removidos deverão ser acondicionados pela CONTRATADA em local a ser indicado e/ou disponibilizado pelo CONTRATANTE.
+
+			
+
+ Providências operacionais e administrativas:
+
+
+
+			Em até 10 (dez) dias úteis da data de assinatura do contrato pela CONTRATADA:
+
+
+
+			Designar o nome do(a) preposto(a) com poder para resolução de ocorrências durante a execução dos serviços.  O(a) preposto(a) deverá manter atualizados todos os meios de contato: endereço, telefone/celular/WhatsApp, e-mail;
+
+			
+
+			Realizar vistoria ao local dos serviços para verificar as condições da edificação, bem como agendar reunião com o Serviço de Administração do Prédio e a FISCALIZAÇÃO do CONTRATANTE, a fim de traçar o planejamento de execução dos serviços;
+
+				
+
+			Fornecer cópia da Anotação de Responsabilidade Técnica (ART), nos termos dos da Resolução n.º 1.137/2023 do Conselho Federal de Engenharia e Agronomia - CONFEA e/ou do Registro de Responsabilidade Técnica (RRT), nos termos da Resolução n.º 91/2014 do Conselho de Arquitetura e Urbanismo (CAU) e comprovante de recolhimento com base no valor total do contrato, dos(as) profissionais responsáveis pela execução dos serviços; 
+
+				
+
+			Estabelecer no local dos serviços o "Livro de Ordem", conforme a Resolução nº 1.094, de 31/10/2017 do Conselho Federal de Engenharia e Agronomia - CONFEA, no qual serão registradas todas as ocorrências relevantes, tais como: serviços realizados, entrada e saída de materiais e equipamentos, eventuais anormalidades, fatores climáticos, quantidades de funcionários(as) e respectivas qualificações, além de jogo completo de todos os documentos técnicos;
+
+			
+
+			Providenciar confecção e instalação da placa de identificação da contratação (placa dos serviços) que deverá ser executada de acordo com as exigências do Conselho Regional de Engenharia e Agronomia - CREA, da municipalidade e/ou estabelecidas no Memorial Descritivo;
+
+
+
+			Executar ligações provisórias necessárias ao atendimento do canteiro e quaisquer instalações de apoio: escritórios, refeitório, sanitários, depósito de materiais e equipamentos, conforme legislação vigente;
+
+
+
+NOTA: Texto acima geralmente aplicável para obras/serviços de maior monta; verificar, no momento da elaboração do TR, a sua aplicabilidade. 
+
+
+
+			 Indicar o engenheiro de planejamento para auxiliar no andamento dos trabalhos, nos documentos atinentes ao projeto e em eventuais revisões da planilha orçamentária e aditivos.
+
+
+
+			Em até 60 (sessenta) dias corridos da data de assinatura do contrato pela CONTRATADA:
+
+
+
+			Apresentar original ou cópia da Certidão de Registro da Pessoa Jurídica, devidamente registrada e/ou vistada no CREA de São Paulo, consoante Artigo 14 da Resolução nº 1.121 de 13 de dezembro de 2019 do Conselho Federal de Engenharia, Arquitetura e Agronomia – CONFEA; 
+
+Ver Boletim Informativo n.º 09/2022
+
+
+
+NOTA: Texto específico para o CREA e para o caso em que a Certidão de Pessoa Jurídica mencionada em item específico deste Termo de Referência não seja originária do CREA do Estado de São Paulo. No caso do CAU não há exigência de visto, consoante consulta realizada em 23/02/2023.
+
+
+
+			Para a emissão da Ordem de Início dos Serviços – OIS: 
+
+
+
+				Apresentar validação ou proposta de revisão do Planejamento Estratégico  dos Serviços, bem como do Projeto das Instalações do Canteiro – ANEXO 15, a partir das condições estabelecidas na documentação relacionada nos anexos deste Termo de Referência;
+
+
+
+NOTA: Texto acima, utilizar quando HOUVER Estratégia de Obra/Serviços. 
+
+
+
+8.5.3.1.   Apresentar proposta de Planejamento Estratégico dos Serviços, bem como apresentar Projeto das Instalações do Canteiro, a partir das condições estabelecidas na documentação relacionada nos anexos deste Termo de Referência;
+
+NOTA: Texto acima, utilizar quando NÃO HOUVER Estratégia de Obra/Serviços. 
+
+
+
+			Fornecer cópias das apólices de contratações dos seguros solicitadas em item específico deste Termo de Referência.
+
+
+
+			Fornecer o(s) Alvará(s) .......................
+
+
+
+			Ao longo dos serviços:
+
+	
+
+			Manter, durante a vigência contratual, as mesmas condições que propiciaram sua habilitação e qualificação no procedimento licitatório;
+
+
+
+			Estar ciente quanto as vedações impostas pelas Resoluções n.º 07/2005, n.º 09/2005, n.º 21/2006, n.º 181/2013 e n.º 229/2016, do Conselho Nacional de Justiça – CNJ, que disciplinam o exercício de cargos, empregos e funções por parentes, cônjuges e companheiros de magistrados e de servidores investidos em cargos de direção e assessoramento, no âmbito dos órgãos do Poder Judiciário;
+
+			
+
+			Responsabilizar-se pelo sigilo de todas as informações a que tiver acesso em decorrência da prestação dos serviços;
+
+			Durante os serviços, poderá o CONTRATANTE apresentar desenhos complementares, os quais serão também devidamente autenticados pela CONTRATADA;
+
+			
+
+			Executar os serviços, sempre obedecendo a melhor técnica, para que venha a preencher satisfatoriamente as condições de utilização, eficiência e durabilidade;
+
+			
+
+			Providenciar proteção adequada de mobiliário e equipamentos do CONTRATANTE, sempre que necessário, visando à preservação dos mesmos durante a execução dos serviços contratados;
+
+			
+
+			Executar quaisquer serviços complementares e/ou provisórios como drenagem, contenção de valas e escoramentos para garantir a segurança dos serviços e integridade física da edificação;
+
+			
+
+			Executar quaisquer serviços para garantir a proteção dos componentes elétricos e mecânicos contra os efeitos prejudiciais e perigosos de influências externas encontradas nas áreas de intervenção, por exemplo: queda de materiais ou corpos sólidos sobre esses componentes, entrada de água, bem como efeito de umidade, temperatura, corrosão, poluição atmosférica, radiação solar e ações da fauna e flora;
+
+			
+
+			Responder pela segurança dos serviços prestados e/ou materiais fornecidos, de seus(suas) próprios(as) funcionários(as) e terceiros(as), bem como, eventuais danos patrimoniais ou extrapatrimoniais causados, adotando cuidados para a prevenção de acidentes, com observação e cumprimento das normas, regulamento e determinações de segurança, adotando as medidas corretivas necessárias;
+
+			
+
+			Responsabilizar-se pelo controle, supervisão e desenvolvimento dos trabalhos em andamento, arcando com todos os custos necessários à completa execução dos serviços abrangidos, tais como: encargos sociais, previdenciários, trabalhistas, tributários, fiscais e comerciais e os benefícios obrigatórios e legais concedidos aos(às) profissionais;
+
+			
+
+			Refazer e/ou reparar qualquer trabalho inadequadamente executado, recusado pela FISCALIZAÇÃO, sem que isso represente custo adicional ao CONTRATANTE;
+
+			
+
+			Restaurar e/ou recuperar peças, estruturas, alvenarias, acabamentos, instalações e equipamentos que sejam afetados/danificados durante a execução dos serviços, conforme padrão existente;
+
+			
+
+			Restaurar os danos causados às vias ou logradouros públicos;
+
+			
+
+			Indenizar por quaisquer danos causados às instalações ou bens de propriedade do CONTRATANTE, bem como danos físicos ou morais, causados aos(às) seus(suas) funcionários(as) ou a terceiros(as);
+
+				
+
+			Responsabilizar-se pela entrega e pelo recebimento de todos os materiais e equipamentos necessários à execução dos serviços, no endereço informado no item 2 deste Termo de Referência;
+
+				
+
+			Utilizar materiais de qualidade, de fácil disponibilidade no mercado e que atendam às Normas Técnicas e recomendações dos fabricantes quanto às utilizações e instalações;
+
+			
+
+			Responsabilizar-se pela guarda e vigilância dos materiais e equipamentos necessários para execução dos serviços até o recebimento definitivo dos serviços;
+
+			
+
+			Estar ciente que as referências de marcas/fabricantes indicadas em projetos, memoriais descritivos e/ou especificações técnicas devem ser consideradas apenas como parâmetro para identificar o padrão do material desejado pelo CONTRATANTE, podendo ser empregados/fornecidos materiais similares que atendam às características técnicas solicitadas;
+
+Ver Boletim Informativo n.º 05/2022
+
+					
+
+			Fornecer todos e quaisquer instrumentos de medição, monitoramento, gerenciamento, ferramental, equipamentos e materiais, necessários à execução dos serviços objeto do contrato. Esses itens deverão atender às especificações exigidas por norma. Poderão ser novos e/ou usados, desde que em boas condições e com a manutenção em dia. Ainda, sobre essa disposição, o CONTRATANTE poderá, quando julgar necessário, exigir os certificados de qualidade desses itens, relação dos fabricantes, respectivos endereços, comprovantes de compra, assim como seus tipos e características;
+
+			
+
+			Efetuar um rigoroso controle tecnológico dos materiais de construção e métodos de execução, antes do emprego nos serviços, mantendo os resultados à disposição do CONTRATANTE;
+
+			
+
+			Estar ciente de que O CONTRATANTE poderá solicitar amostras e modelos de materiais e produtos a serem utilizados nos serviços, para prévio conhecimento e, se o caso, aprovação, que deverá ser realizada com prazo máximo de 07 (sete) dias corridos. Em caso de reprovação, amostras, materiais e/ou produtos deverão ser reapresentados para validação, no prazo de 02 (dois) dias corridos;
+
+			
+
+			Comunicar e justificar à FISCALIZAÇÃO do CONTRATANTE eventuais motivos de força maior que impeçam a realização dos trabalhos especificados;
+
+			
+
+			Comunicar durante o desenvolvimento dos serviços, caso haja alguma dificuldade que impossibilite tecnicamente a sua execução, apresentando solução alternativa, em até 03 (três) dias úteis, sem acréscimo ao valor contratado, a qual deverá ser previamente aprovada junto à FISCALIZAÇÃO do CONTRATANTE;
+
+			
+
+			Executar e/ou recompor quaisquer serviços de ordem civil, carpintaria, serralheria, divisórias, forro, isolação e pintura, SEM EXCEÇÃO, de acordo com os padrões da edificação, afetados pela realização dos serviços escopo desta contratação;
+
+			
+
+			Remanejar instalações existentes que se fizerem necessárias à execução dos serviços escopo desta contratação;
+
+			
+
+			Desenvolver e programar as tarefas de forma que não sejam criados obstáculos às atividades dos demais prestadores de serviço que estejam eventualmente trabalhando no prédio;
+
+			
+
+			Planejar a execução dos serviços a serem realizados nas dependências do prédio, de forma a não interferir ou prejudicar o expediente;
+
+			
+
+			Atentar para que eventuais movimentações de cargas e transportes horizontais e verticais de materiais diversos empregados nos serviços sejam realizadas de forma a não danificar as instalações existentes e de acordo com as normas de segurança;
+
+				
+
+				Atentar para que eventuais demolições e/ou retiradas de concreto, alvenaria, divisórias (incluindo divisórias em vidro), revestimentos de parede e piso (incluindo piso elevado), forro, bancadas, impermeabilização, instalações elétricas, instalações hidrossanitárias, equipamentos, sistemas, esquadrias, guarda-corpo, estrutura metálica, isolamento térmico e telhamento, executadas no decorrer dos serviços sejam realizadas de acordo com as normas de segurança, e de modo que não haja danos à estrutura da edificação; 
+
+				
+
+				Atualizar e fornecer cópia da Anotação de Responsabilidade Técnica (ART), nos termos da Resolução n.º 1.137/2023 do Conselho Federal de Engenharia e Agronomia – CONFEA e/ou Registro de Responsabilidade Técnica (RRT), nos termos da Resolução n.º 91/2014 do Conselho de Arquitetura e Urbanismo (CAU), caso haja, durante o desenvolvimento dos serviços, alguma motivação prevista nos artigos das Resoluções anteriormente mencionadas. 
+
+				
+
+Ao final dos serviços a CONTRATADA deverá atender e apresentar:
+
+
+
+		Remover toda a estrutura do canteiro, remover material sucateado e entulhos dos serviços, realizar a limpeza final do prédio, com remoção dos resíduos de material em pisos, luminárias, divisórias, painéis, portas, caixilhos, metais, ferragens, louças e limpeza das fachadas sem que haja danos às superfícies dos mesmos. Deverá haver cuidado especial com a limpeza dos vidros, sobretudo junto às esquadrias, removendo-se os resíduos e preservando-se a integridade dos perfis. Durante a limpeza deve-se ter o cuidado de vedar todos os ralos para que os detritos provenientes da limpeza não venham a obstruí-los posteriormente.
+
+
+
+NOTA: Texto acima aplicável para obras/serviços de maior monta; verificar, no momento da elaboração do TR, a sua aplicabilidade. 
+
+
+
+8.6.1. Remover toda a estrutura utilizada para a realização dos serviços, remover material sucateado e entulhos dos serviços, realizar a limpeza final das áreas que sofreram intervenções diretas ou indiretas em decorrência da realização dos trabalhos. Prever remoção dos resíduos de material em pisos, luminárias, divisórias, painéis, portas, caixilhos, metais, ferragens, louças e limpeza das fachadas sem que haja danos às superfícies dos mesmos. Deverá haver cuidado especial com a limpeza dos vidros, sobretudo junto às esquadrias, removendo-se os resíduos e preservando-se a integridade dos perfis. Durante a limpeza, deve-se ter o cuidado de vedar todos os ralos para que os detritos provenientes da limpeza não venham a obstruí-los posteriormente.
+
+
+
+NOTA: Texto acima aplicável para reformas pontuais.
+
+
+
+			Certificado de Conclusão (Habite-se), expedido pela Prefeitura local;
+
+			
+
+			Auto de Verificação de Segurança – AVS, expedido pela Prefeitura local, ou documento equivalente, se houver;
+
+			
+
+			Auto de Vistoria do Corpo de Bombeiros – AVCB, expedido pela Corporação de Bombeiros do Estado de São Paulo;
+
+			
+
+			Certificado de Acessibilidade expedido pela Prefeitura local ou documento equivalente, se houver;
+
+			
+
+			Original(is) ou cópia(s) de eventual(is) autorização(ões) necessária(s) para realização do que foi contratado como alvará(s) por exemplo.
+
+			
+
+			Eventuais aprovação(ões), pela(s) Concessionária(s) (energia, água, gás);
+
+			
+
+			Declaração do Serviço de Administração do Prédio, atestando a realização de treinamentos no local de execução dos serviços elencado no item 8.9 deste Termo de Referência;
+
+			
+
+			Projeto “As Built”, tendo como referência os Projetos de execução, em duas vias impressas e em mídia eletrônica em extensão DWG e PDF;
+
+			
+
+			Termos de garantia, laudos, manuais, memoriais, contratos de manutenção, especificações técnicas etc., fornecidos em papel (formato A4, na língua portuguesa, em duas vias impressas) e mídias eletrônicas;
+
+			
+
+			Documentação específica referente ao(s) equipamentos e sistema(s) relacionado(s) a seguir:
+
+
+
+				Elevador(es)
+
+				
+
+			Cadastro de Funcionamento de Aparelho de Transporte e/ou Alvarás de instalação e de funcionamento e/ou outro documento fornecido pela autoridade local;
+
+			Relatório de Inspeção Anual – RIA, assinado pelo engenheiro(a) responsável e acompanhado da Anotação de Responsabilidade Técnica – ART, com a respectiva taxa devidamente recolhida.
+
+			
+
+NOTA: Subitem “b” acima aplicável somente para os casos em que haja regulamentação/previsão e/ou fiscalização pelas autoridades locais.
+
+			Laudos de inspeção, ensaios e funcionamento 
+
+
+
+NOTA: Subitem “c” acima aplicável somente para os casos que não se enquadram nos subitens “a” e “b” acima, ou seja, quando não houver regulamentação/previsão ou fiscalização pelas autoridades locais.
+
+
+
+			Garantia técnica do equipamento;
+
+			Contrato de manutenção;
+
+			Cópia da ART da manutenção nos termos da Resolução n.º 1.137/2023 do CONFEA;
+
+			Nome, formação, número do CREA e endereço/telefone/e-mail comercial do(a) engenheiro(a) que será o(a) seu(sua) representante imediato(a) e responsável direto(a) pelos serviços e assuntos de ordem operacional;
+
+			Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+			Cálculos de tráfego;
+
+			Manuais de operação e manutenção.
+
+			
+
+				Grupo(s) Gerador(es)
+
+			Garantia técnica do equipamento;
+
+			Contrato de manutenção;
+
+			Cópia da ART da manutenção nos termos da Resolução n.º 1.137/2023 do CONFEA;
+
+			Nome, formação, número do CREA e endereço/telefone/fax comercial do(a) engenheiro(a) que será o(a) seu(sua) representante imediato(a) e responsável direto(a) pelos serviços e assuntos de ordem operacional;
+
+			Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+			Laudos de inspeção, ensaios e funcionamento;
+
+			Documentação de aprovação junto à Concessionária, composto de diagrama unifilar geral e projetos elétricos descritivos;
+
+			Laudo de abrangência;
+
+			Manuais de operação e manutenção.
+
+
+
+					Bomba(s) Hidráulica(s)
+
+					
+
+			Garantia técnica do equipamento;
+
+			Contrato de manutenção;
+
+			Cópia da ART da manutenção nos termos da Resolução n.º 1.137/2023 do CONFEA;
+
+			Nome, formação, número do CREA e endereço/telefone/fax comercial do(a) engenheiro(a) que será o(a) seu(sua) representante imediato(a) e responsável direto(a) pelos serviços e assuntos de ordem operacional;
+
+			Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos e especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+			Manuais de operação e manutenção.
+
+
+
+					Sistema(s) de Climatização, Ventilação e Exaustão
+
+			Garantia técnica dos equipamentos;
+
+			Contrato de manutenção do sistema;
+
+			Cópia da ART da manutenção nos termos da Resolução n.º 1.137/2023 do CONFEA;
+
+			Nome, formação, número do CREA e endereço/telefone/fax comercial do(a) engenheiro(a) que será o(a) seu(sua) representante imediato(a) e responsável direto(a) pelos serviços e assuntos de ordem operacional;
+
+			Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+			Manuais de operação e plano de manutenção.
+
+			
+
+					Sistema(s) de Prevenção e Combate a Incêndio – PCI (Detecção e Alarme de Incêndio, Hidrante, Porta Corta Fogo, Iluminação de Emergência, Bomba de Incêndio, Chuveiro Automático, Extintor etc.)
+
+			Garantia técnica dos equipamentos;
+
+			Contrato de manutenção;
+
+			Cópia da ART da manutenção nos termos da Resolução n.º 1.137/2023 do CONFEA;
+
+			Nome, formação, número do CREA e endereço/telefone/fax comercial do(a) engenheiro(a) que será o(a) seu(sua) representante imediato(a) e responsável direto(a) pelos serviços e assuntos de ordem operacional;
+
+			Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+			Laudo(s) com resultados do(s) teste(s) de todo(s) o(s) sistema(s) comprovando o(s) seu(s) perfeito(s) funcionamento(s);
+
+			Declaração informando as medições realizadas e atestando o nível mínimo exigido de iluminamento do sistema de iluminação de emergência;
+
+			Certificado de formação de brigada;
+
+			Manuais de operação e manutenção.
+
+
+
+					Sistema(s) de Proteção Contra Descargas Atmosféricas – SPDA
+
+Termo de Garantia;
+
+Laudo com resultados dos testes e medições demonstrando perfeito funcionamento do sistema;
+
+Manuais de manutenção; 
+
+Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas de aterramento).
+
+
+
+					Sistema(s) Elétrico(s)
+
+Termo de Garantia;
+
+Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas, diagramas elétricos totais e diagramas de aterramento);
+
+Certificação das instalações elétricas de acordo com item 7 da Norma ABNT NBR 5410;
+
+Manual de operação e manutenção.
+
+
+
+					Cabine de entrada de energia 
+
+	.......................................................;
+
+........................................................
+
+
+
+NOTA: Para o item acima (cabine), consultar a Supervisão da SAAB 1 responsável a fim de verificar qual seria a documentação necessária. 
+
+
+
+					Sistema(s) de Segurança Patrimonial (Circuito Fechado de Televisão – CFTV/Controle de Acesso/Alarme de Intrusão)
+
+		.......................................................;
+
+	........................................................
+
+
+
+NOTA: Para o item acima (segurança patrimonial), consultar a Diretoria responsável a fim de verificar qual seria a documentação necessária. 
+
+
+
+					Cabeamento Estruturado / Lógica
+
+	.......................................................;
+
+	........................................................
+
+NOTA: Para o item acima (cabeamento estruturado), consultar a Secretaria responsável a fim de verificar qual seria a documentação necessária. 
+
+
+
+				Sistema(s) de Gás Liquefeito de Petróleo – GLP ou Natural - GN
+
+		Garantia técnica dos equipamentos;
+
+		Dossiê técnico (As Built dos desenhos de montagem, memoriais descritivos, especificações técnicas);
+
+		Laudo(s) com resultados do(s) teste(s) de todo(s) o(s) sistema(s) comprovando o(s) seu(s) perfeito(s) funcionamento(s);
+
+		Manuais de operação e manutenção;
+
+		Cópia da ART nos termos da Resolução n.º 1.137/2023 do CONFEA.
+
+
+
+NOTA: O item acima (GLP/GN) combinado com o SPDA, sistema elétrico etc., são necessários para a obtenção do AVCB em contratações PPCI. 
+
+
+
+	Fornecer comprovante de baixa da Anotação de Responsabilidade Técnica (ART), nos termos da Resolução n.º 1.137/2023 do Conselho Federal de Engenharia e Agronomia – CONFEA e/ou Registro de Responsabilidade Técnica (RRT), nos termos da Resolução n.º 91/2014 do Conselho de Arquitetura e Urbanismo (CAU).
+
+
+
+Manutenção preventiva mensal e corretiva:
+
+
+
+	Imediatamente após a conclusão dos serviços, testes e recebimentos definitivos de cada um dos equipamentos e sistemas prediais instalados e/ou adequados/revisados, a CONTRATADA deverá iniciar a prestação de serviços de assistência técnica preventiva mensal e corretiva, pelo período de 12 (doze) meses, nos seguintes sistemas e equipamentos à saber: Elevadores; Grupo Gerador; Bombas Hidráulicas; Sistema de Climatização, Ventilação e Exaustão; Sistema de Segurança Patrimonial (Circuito Fechado de Televisão – CFTV, Controle de Acesso, Alarme de Intrusão); Sistema de Proteção e Combate e Incêndio – PCI (Detecção e Alarme de Incêndio, Hidrante, Porta Corta-Fogo, Iluminação de Emergência, Bomba de Incêndio, Chuveiro Automático, Extintor etc.).
+
+
+
+	Quanto aos elevadores, a empresa responsável pela manutenção deverá estar devidamente cadastrada na Prefeitura local – desde que assim exigido por força legal, para realização de serviços desta natureza.
+
+	
+
+	A CONTRATADA deverá executar manutenção preventiva e corretiva dos sistemas e equipamentos, de forma a mantê-los em perfeito estado de funcionamento e perfeita condição de segurança, seguindo, para tal, as rotinas estabelecidas nos Planos de Manutenção Preventiva – PMP´s, e/ou Planos de Manutenção Operação e Controle – PMOC´s, constantes do ANEXO 14, cujo original, após o preenchimento, deverá ser entregue ao Serviço de Administração do Prédio. No curso dos trabalhos de assistência técnica preventiva, os sistemas e equipamentos não deverão ficar inoperantes, em hipótese nenhuma, durante o horário normal de expediente (9:00 às 19:00 horas). 
+
+	
+
+	Os serviços relacionados nos Planos de Manutenção Preventiva – PMP´s, e/ou Planos de Manutenção Operação e Controle – PMOC´s, são referenciais e sugestivos pelo CONTRATANTE e deverão obrigatoriamente ser executados, não se tornando, entretanto, fator impeditivo ou restritivo para a realização de outros trabalhos, verificações, testes etc., necessários para propiciar a perfeita operação e segurança dos sistemas e equipamentos.
+
+
+
+NOTA: Para sistema de refrigeração/climatização que exija a operação/supervisão diária, como por exemplo o Fórum Barra Funda, GADE MMDC e o GADE 9 de Julho, consultar a Supervisão da SAAB 1 responsável a fim de verificar qual seria o modelo de check list de manutenção “PMOC” a ser inserido como anexo, assim como, neste item 23, de inserções especificas e relativas a operação do sistema. 
+
+
+
+	A CONTRATADA deverá realizar os serviços de assistência corretiva, por meio do envio de técnico(a) ao local da instalação, a pedido do CONTRATANTE, para eliminação de falhas e/ou outras providências, tantas vezes quantas forem necessárias, sem custo adicional.
+
+	
+
+	Na ocasião da realização da manutenção corretiva, a CONTRATADA deverá preencher o impresso próprio de atendimento, onde deverão constar os dados gerais - marca, modelo, n.º de patrimônio, local de instalação, defeito reclamado, serviço realizado, técnico(a) que prestou atendimento, data e horário, sendo que uma via do respectivo impresso deverá permanecer no Serviço de Administração do Prédio.
+
+	
+
+	A CONTRATADA deverá, no momento da manutenção preventiva ou corretiva, executar os devidos testes, lubrificações, regulagens, ajustes, limpezas e reparos necessários, incluindo a substituição de qualquer componente elétrico, eletrônico, mecânico, hidráulico ou de acabamento, SEM EXCEÇÃO. Essa substituição será realizada numa base de troca por outra parte nova e em perfeito estado de funcionamento, de forma a manter as características originais dos equipamentos e sistemas, tornando-se a parte substituída sua propriedade.
+
+	
+
+	Os serviços mencionados no subitem supra, acompanhados da aplicação de quaisquer materiais complementares necessários aos trabalhos, tais como, ferramentas, instrumentos de medição, lubrificantes, graxas, produtos de limpeza, gás refrigerante, isolantes, tintas, solventes, detergentes, biocidas, dispersantes, inibidores de incrustações etc., correrão às expensas da CONTRATADA.
+
+	
+
+	Atendimento da manutenção preventiva: deverá ser realizada em intervalos de 30 (trinta) dias corridos, com tolerância máxima de 3 (três) dias corridos, no período de segunda a sexta-feira, em horário a ser definido pelo Serviço de Administração do Prédio em que estão instalados os sistemas e equipamentos.
+
+	
+
+	Atendimento da manutenção corretiva: deverá ser realizada no período de segunda a sexta-feira, no horário das 9:00 às 19:00 horas, para normalização do funcionamento dos sistemas e equipamentos ou outras providências. Os chamados deverão ser atendidos em até 24 (vinte e quatro) horas, após a solicitação da assistência. Independente do defeito, a regularização da operação deverá ocorrer em até 48 (quarenta e oito) horas, contadas a partir da comunicação de inoperância.
+
+	
+
+	Caso haja a necessidade de reparo de alguma peça ou componente em laboratório ou bancada e não haja a possibilidade do cumprimento dos prazos estipulados acima, a CONTRATADA deverá substituir provisoriamente, o equipamento ou a parte defeituosa, por outra igual ou similar, até a definitiva solução de conserto da original, em prazo não superior a 48 (quarenta e oito) horas, contadas a partir do encerramento das 48 (quarenta e oito) horas iniciais.
+
+	
+
+	Os serviços de manutenção preventiva para os equipamentos e sistemas mencionados neste Termo de Referência serão custeados pelo CONTRATANTE, considerando e tendo como referência os respectivos valores lançados na Planilha de Composição de Preços.
+
+	
+
+	Os serviços de manutenção corretiva, eventualmente necessários para os equipamentos e sistemas listados neste Termo de Referência não devem onerar o CONTRATANTE, seja na aplicação de peças, insumos ou mão de obra, por se tratar de reparos em garantia. 
+
+	
+
+	Especificamente com relação aos elevadores, observar as exigências a seguir: 
+
+
+
+ Atendimento de plantão: deverá ser realizado no período de segunda a sexta-feira, das 19:01 às 8:59 horas e aos sábados, domingos e feriados em período integral, para normalização inadiável do funcionamento do equipamento. Os chamados deverão ser atendidos em até 24 (vinte e quatro) horas, após a solicitação da assistência. Independente do defeito, a regularização da operação deverá ocorrer em até 48 (quarenta e oito) horas, contadas a partir da comunicação de inoperância.
+
+
+
+Para os casos emergenciais, como a retirada de pessoa presa na cabina: deverá ser realizado no período de segunda a sexta-feira e aos sábados, domingos e feriados, em período integral. O chamado deverá ser atendido em até 1 (uma) hora.
+
+
+
+	Cabine de entrada de energia....
+
+
+
+NOTA: Se a contratação envolver cabine de entrada de energia, consultar Supervisão da SAAB 1 responsável pela matéria a fim de verificar o texto que será incluído neste Termo de Referência. 
+
+
+
+Medição dos serviços de manutenção preventiva:
+
+
+
+	Após o recebimento do equipamento ou sistema e respectivo início da manutenção, as verbas devidas serão mensais, com quitação no mês subsequente ao início dos serviços, até se completar o período de manutenção previsto de 12 (doze) meses. 
+
+
+
+	Para tanto, a CONTRATADA deverá emitir a respectiva nota fiscal pontual a cada equipamento e/ou sistema, conforme valor estabelecido na Planilha de Composição de Preços.
+
+		
+
+	O acompanhamento do trabalho relativo à manutenção preventiva e corretiva caberá ao serviço de Administração do Prédio, que terá a responsabilidade pelo ateste da correspondente nota fiscal.
+
+
+
+Treinamento:
+
+
+
+	Imediatamente após a conclusão dos trabalhos/instalações/testes e início de operação, a CONTRATADA deverá ministrar treinamento, no local de instalação do equipamento/sistema, para funcionários(as) indicados(as) pelo Serviço de Administração do Prédio. 
+
+
+
+	Esse treinamento deverá ser agendado com o Serviço de Administração do Prédio.
+
+
+
+	O treinamento deverá abordar os seguintes assuntos:
+
+
+
+Descrição geral do funcionamento do equipamento/sistema;
+
+Técnicas de operação do equipamento/sistema;
+
+Rotinas para verificação de defeitos;
+
+Rotinas para o acionamento da empresa mantenedora;
+
+Outras informações que a CONTRATADA julgue relevantes.
+
+
+
+MODELO DE GESTÃO DO CONTRATO (alínea “f”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+
+
+
+
+	
+
+	
+
+	Área administrativas e/ou técnicas:
+
+
+
+DESIGNAÇÃO
+
+COMPOSIÇÃO
+
+ATRIBUIÇÕES
+
+Equipe de Apoio
+
+Nome/Cargo
+
+(suplentes)
+
+Apoiar
+
+Gestor do Contrato
+
+Gestor de Contrato
+
+Nome/Cargo
+
+(suplentes)
+
+Gestão da Fiscalização
+
+Gestão da Execução Contratual
+
+Fiscal Administrativo
+
+Nome/Cargo
+
+(suplentes)
+
+Apoiar
+
+Gestor do Contrato na Fiscalização dos Aspectos Adm. da Execução Contratual
+
+Fiscal do Contrato
+
+Nome/Cargo
+
+(suplentes)
+
+Apoiar
+
+Gestor do Contrato na Fiscalização dos Aspectos Operacionais da Execução Contratual
+
+
+
+DESIGNAÇÃO
+
+COMPOSIÇÃO
+
+Equipe de Apoio
+
+Carolina Canescki – Serviço de Padronização, Priorização e Apoio Técnico – SAAB 1.5.1 – Apoio Técnico na Licitação e;
+
+Empresa Fiscalizadora
+
+Gestor de Contrato
+
+(NOME) Coordenador(a) de Administração da (X).ª Região Administrativa Judiciária – DARAJ (X) – (XXXXXXXXX)
+
+
+
+NOTA: QUANDO DE TRATAR DE CONSTRUÇÃO, AMPLIAÇÃO E REFORMA GERAL CONSULTAR A SAAB 1 PARA INDICAÇÃO DO GESTOR
+
+Fiscal Administrativo
+
+(NOME) Supervisor(a) de Serviço ou Chefe de Seção Judiciário – Supervisão/Seção de Administração Geral do Fórum de (XXXXXXX)
+
+
+
+NOTA: QUANDO DE TRATAR DE CONSTRUÇÃO, AMPLIAÇÃO E REFORMA GERAL CONSULTAR A SAAB 1 PARA INDICAÇÃO DO FISCAL ADM.
+
+Fiscal do Contrato
+
+(NOME) Servidor(a) da DARAJ local ou Serviço de Administração do Fórum interessado
+
+
+
+NOTA: QUANDO DE TRATAR DE CONSTRUÇÃO, AMPLIAÇÃO E REFORMA GERAL CONSULTAR SAAB 1 PARA INDICAÇÃO DO FISCAL DO CONTRATO
+
+NOTA: Quadro acima, exemplo de preenchimento
+
+Atribuições (art. 19 do Decreto Federal n.º 11.246/2022):
+
+Gestor de contrato: coordenação das atividades relacionadas à fiscalização técnica, administrativa e setorial e dos atos preparatórios à instrução processual e ao encaminhamento da documentação pertinente ao setor de contratos para a formalização dos procedimentos relativos à prorrogação, à alteração, ao reequilíbrio, ao pagamento, à eventual aplicação de sanções e à extinção dos contratos, entre outros.
+
+Fiscal administrativo: acompanhamento dos aspectos administrativos contratuais quanto às obrigações previdenciárias, fiscais e trabalhistas e quanto ao controle do contrato administrativo no que se refere a revisões, a reajustes, a repactuações e a providências tempestivas nas hipóteses de inadimplemento.
+
+Fiscal do Contrato: acompanhamento do contrato com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso, aferir se a quantidade, a qualidade, o tempo e o modo da prestação ou da execução do objeto estão compatíveis com os indicadores estabelecidos no edital, para fins de pagamento, conforme o resultado pretendido pela administração, com o eventual auxílio da fiscalização administrativa.
+
+
+
+Protocolo de comunicação:
+
+
+
+	Todas as comunicações entre CONTRATADA e CONTRATANTE deverão ser, preferencialmente e desde que possível, de forma escrita e por meio eletrônico.
+
+
+
+	Quando as comunicações envolverem o cumprimento de eventuais prazos observar as diretrizes estabelecidas no artigo 130 do Provimento CSM n.º 2.724/2023, do Conselho Superior de Magistratura.
+
+
+
+Recebimento Provisório: 
+
+
+
+	Para o recebimento do objeto dessa contratação, será realizada vistoria por profissional indicado pelo CONTRATANTE, após a comunicação de encerramento dos serviços encaminhada pela CONTRATADA - ANEXO 6, informando que todos os serviços contratados foram concluídos, acompanhado de toda documentação exigida e listada no respectivo anexo.
+
+	
+
+	Recebida a referida comunicação, o CONTRATANTE providenciará, em até 15 (quinze) dias corridos, conferência da documentação entregue, vistoria e emissão do Termo de Recebimento Provisório que indicará as falhas e irregularidades observadas para o saneamento integral destas, caso não tenham sido atendidas todas as condições contratuais e técnicas previstas, bem como definirá o prazo para o recebimento definitivo do objeto, o qual não poderá ser superior a 90 (noventa) dias.
+
+
+
+Recebimento Definitivo:
+
+
+
+	Saneadas todas as pendências apontadas, a CONTRATADA deverá encaminhar nova comunicação de encerramento dos serviços ao CONTRATANTE que providenciará, se o caso, a emissão do Termo de Recebimento Definitivo.
+
+
+
+Condições de pagamento:
+
+
+
+	O pagamento pela execução dos serviços objeto desta contratação será feito por crédito em conta bancária, no prazo de 30 (trinta) dias corridos, contados a partir da data do recebimento definitivo de cada etapa de medição e ateste da respectiva Nota Fiscal/Fatura pela FISCALIZAÇÃO do CONTRATANTE.
+
+	
+
+	Para o último pagamento, referente aos serviços executados no mês em que o percentual físico realizado acumule 100% (cem por cento), o Termo de Recebimento Definitivo deverá ter sido emitido pelo CONTRATANTE.
+
+
+
+	Para o certame objeto deste Termo de Referência o(s) código(s) da Classificação Nacional de Atividade Econômica (CNAE), definido(s) pelo Instituto Brasileiro de Geografia e Estatística – IBGE, recomendado(s), e que não é(são) limitante(s) à contratação, mas apenas adotado para fins fiscais, será(ão) o(s) seguinte(s):
+
+	
+
+Código
+
+Atividade
+
+xxx
+
+xxxxx
+
+xxx
+
+xxxxx
+
+		
+
+Acordo de nível de serviço:
+
+
+
+	Não aplicável por se tratar de pagamento por medição atravéz de Planilha Orçamentária, conforme ANEXO 7.
+
+
+
+Condições de habilitação e qualificação (manutenção das condições de habilitação e qualificação durante a execução contratual):
+
+
+
+		O(a) Gestor(a) do Contrato deverá solicitar a documentação de habilitação e qualificação, constantes do edital de licitação, a fim de verificar se a Contratada mantém as condições exigidas na contratação inicial, a cada seis meses contados da assinatura do contrato.
+
+		
+
+		A contratada deverá manter durante toda a execução do contrato a compatibilidade com as obrigações assumidas, assim como todas as condições de habilitação e qualificação exigidas na licitação.
+
+
+
+NOTA: Necessário para contratações com prazo de vigência superior a seis (6) meses. 
+
+
+
+Hipótese de glosa:
+
+
+
+	Não aplicável por se tratar de pagamento por medição atravéz de Planilha Orçamentária, conforme ANEXO 7.
+
+	
+
+Sansão Administrativa (multa):
+
+
+
+Será observado o artigo 115 do Provimento CSM n.º 2.724/2023 (Conselho Superior da Magistratura do Tribunal de Justiça do Estado de São Paulo).
+
+
+
+Extinção do Contrato (art. 137 da Lei 14.133/2021):
+
+
+
+Constituirão motivos para extinção do contrato, as situações previstas nos incisos I a IX do artigo 137 da Lei n.º 14/133/2021. 
+
+	
+
+Obrigações do Contratante:
+
+	
+
+Acompanhar e fiscalizar a execução do contrato, não eximindo a CONTRATADA das responsabilidades contratuais e legais.
+
+	
+
+	Oferecer condições para que o pessoal credenciado pela CONTRATADA tenha livre acesso às instalações, inclusive em dias não úteis e fora do horário de trabalho, nestes casos com solicitação prévia ao CONTRATANTE, nos termos já abordados neste Termo de Referência.
+
+	
+
+	Disponibilizar os espaços físicos à CONTRATADA, conforme etapas definidas na estratégia para execução dos serviços.
+
+	
+
+	No curso da execução dos serviços, e quando de sua conclusão, reserva-se o CONTRATANTE, o direito de fiscalizar o fiel cumprimento das especificações exigidas, a fim de assegurar o seu recebimento ou manifestar sua recusa. Para efeito do disposto neste item, o CONTRATANTE registrará as deficiências porventura existentes na execução dos serviços e/ou inobservâncias dos aspectos de segurança envolvidos, comunicando-as à CONTRATADA para imediata correção, sem prejuízo da aplicação das penalidades previstas.
+
+	
+
+FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR (alínea “h”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+	
+
+O fornecedor será selecionado por meio da realização de procedimento de licitação à saber:
+
+	Modalidade: Pregão / Concorrência.
+
+	Formato: Eletrônico / Presencial.
+
+	Critério de Julgamento: Menor preço / Técnica e Preço.
+
+	Regime de Execução: Empreitada a preços unitários / Empreitada por preço global /    
+
+	      Contratação integrada / Contratação semi-integrada.
+
+	Modo de disputa: Aberto / Fechado / Misto.
+
+	Divulgação do orçamento estimativo: Público / Sigiloso.
+
+
+
+NOTA: Textos acima, reproduzir a Modalidade, os Critérios de Julgamento e o Modo de Disputa, lançados no ETP.
+
+Ver Boletim Informativo n.º 02/2022
+
+Ver Boletim Informativo n.º 17/2023 
+
+Compatibilizar com ETP
+
+
+
+ESTIMATIVA DO VALOR DA CONTRATAÇÃO (alínea “i”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+	
+
+		A estimativa do valor da contratação é de R$___________ (por extenso) conforme Planilha Orçamentária, consoante disposto no ANEXO 7 deste Termo de Referência. 
+
+		
+
+ADEQUAÇÃO ORÇAMENTÁRIA (alínea “j”, inc. XXIII, art. 6º da Lei 14.133/2021)
+
+	
+
+		A adequação orçamentária será apresentada pela SOF, e posteriormente inserida neste documento após a indicação de recurso.
+
+
+
+PRESTAÇÃO DE GARANTIA NA CONTRATAÇÃO (arts. 98 da Lei nº 14.133/2021)
+
+	
+
+		A CONTRATANTE deverá contratar as coberturas de seguros a seguir relacionados:
+
+
+
+Seguro de Riscos de Engenharia, com vigência igual ao prazo contratual. A referida apólice deverá conter as seguintes coberturas mínimas obrigatórias:
+
+
+
+Cobertura Básica (Obras Civis/Instalações e  Montagens) com cobertura para testes e comissionamento
+
+100% do valor do contrato
+
+Erro de Projeto/Riscos do Fabricante
+
+100% do valor do contrato
+
+Propriedades Circunvizinhas
+
+30% do valor do contrato,
+
+limitado a R$ 5.000.000,00
+
+Equipamentos Móveis e Estacionários
+
+(quando aplicável)
+
+Mínimo de R$ 500.000,00
+
+Despesas Extraordinárias
+
+5% do valor do contrato,
+
+limitado a R$ 2.000.000,00
+
+Despesas de Desentulho
+
+5% do valor do contrato,
+
+limitado a R$ 2.000.000,00
+
+Tumultos, greve e Lockout
+
+5% do valor do contrato
+
+Ferramentas de Pequeno e Médio porte
+
+Mínimo de R$ 100.000,00
+
+Obras Concluídas (quando aplicável)
+
+30% do valor do contrato,
+
+limitado a R$ 3.000.000,00
+
+Obras Temporárias (quando aplicável)
+
+Mínimo de R$ 100.000,00
+
+Obras Aceitas e Colocadas em Operação
+
+30% do valor do contrato,
+
+limitado a R$ 3.000.000,00
+
+Honorários de Perito
+
+5% do valor do contrato,
+
+limitado a R$ 2.000.000,00
+
+Despesas de Salvamento e Contenção
+
+5% do valor do contrato,
+
+limitado a R$ 2.000.000,00
+
+Manutenção Ampla – 12 meses (quando aplicável - Ex: para obras que tenham contrato de manutenção)
+
+             100% do valor do    
+
+               contrato
+
+
+
+Seguro de Responsabilidade Civil Geral – Obras Civis, Instalações e Montagens com vigência igual ao prazo contratual. A presente cobertura poderá ser apresentada em apólice específica, ou como cobertura adicional da Apólice de Seguro de Riscos de Engenharia, acima mencionada. A referida apólice deverá conter as seguintes coberturas mínimas obrigatórias:
+
+
+
+RC Obras Civis, Instalações e Montagens - com
+
+Fundações (quando aplicável)
+
+30 % do valor do contrato, limitado
+
+a R$ 3.000.000,00
+
+RC Cruzada
+
+30 % do valor do contrato, limitado
+
+a R$ 2.000.000,00
+
+Erro de Projeto
+
+30 % do valor do contrato, limitado
+
+a R$ 2.000.000,00
+
+Perdas Financeiras e Lucros Cessantes
+
+30 % do valor do contrato, limitado
+
+a R$ 2.000.000,00
+
+RC Empregador
+
+10 % do valor do contrato, limitado
+
+a R$ 2.000.000,00
+
+Danos Morais - para todas as coberturas
+
+10 % do valor do contrato, limitado
+
+a R$ 2.000.000,00
+
+Poluição Súbita (quando aplicável)
+
+10% do valor do contrato, limitado
+
+a R$ 2.000.00,00
+
+Cobertura para Vazamento e Infiltração
+
+Mínimo de R$ 100.000,00
+
+
+
+	Os seguros solicitados nos itens acima deverão vigorar de acordo com a vigência contratual, ficando sob a responsabilidade da CONTRATADA  a atualização de valor sempre que incidir correspondente correção no montante contratual, bem como solicitar prorrogação de vigência da apólice se houver ampliação do prazo contratual.
+
+	
+
+	Para os itens de cobertura com a observação “quando aplicável”,  inexistindo a contratação/cobertura, deverá haver manifestação objetiva da CONTRATADA justificando a sua não contratação.  
+
+	
+
+	Quando se tratar de consórcio, os seguros solicitados nos itens acima poderão ser apresentados integralmente pela empresa líder do consórcio, incluindo obrigatoriamente as demais consorciadas como seguradas adicionais.
+
+
+
+	Sob nenhuma circunstância, as apólices de seguro definidas acima reduzirão a responsabilidade da CONTRATADA ou a isentarão de suas obrigações nos termos do contrato, sendo que a CONTRATADA continua responsável por todos os danos eventualmente por ela causados e que não estejam cobertos pelos seguros contratados, ou exceda a compensação paga pelas companhias de seguros.
+
+
+
+NOTA: Seguros de Risco Engenharia e de Responsabilidade Civil aplicados em todas as contratações, sem exceção. 
+
+Cobertura Básica: Visa amparar os danos causados à obra ou instalação e montagem, decorrentes de acidente súbito e imprevisto; ampara ainda danos ocasionados por riscos da natureza, tais como: vendaval, incêndio, inundação, desmoronamento e etc.; também ampara o roubo de bens pertencentes à obra mediante condições  mínimas de segurança definidas na apólice.
+
+Erro de Projeto: Cobre danos acidentais causados à obra decorrentes de falha de  projeto.
+
+Propriedades Circunvizinhas: Cobre os danos causados aos bens e propriedades pré-existentes        
+
+no local de risco e que não fazem parte do escopo do contrato.
+
+Equipamentos Móveis e Estacionários: Cobre danos de causa externa a equipamentos móveis ou estacionários dentro do canteiro de obras.
+
+Despesas Extraordinárias: Cobre despesas de mão de obra para serviços noturnos e/ou realizados em feriados e finais de semana para consertos ou fretamento de meios de transporte.
+
+Despesas de Desentulho: Cobre despesas com a retirada de entulho do local.
+
+Tumultos, greve e        lockout:  Cobre despesas com danos causados por tumulto, greve ou greve  patronal.
+
+Ferramentas de Pequeno e Médio porte: Cobre despesas com perdas e danos materiais causados a equipamentos e ferramentas de pequeno e médio porte utilizadas   na obra, inclusive roubo ou furto qualificado.
+
+Obras Concluídas: Cobre os danos materiais causados às obras civis e às máquinas e equipamentos utilizados em apoio à execução da obra objeto do  seguro.
+
+Obras Temporárias: Cobra os danos às construções temporárias de apoio a obra, tais como escritórios,
+
+refeitórios, alojamentos,  depósitos  de  materiais  e          outras áreas de apoio.
+
+Obras Aceitas e Colocadas em Operação: Cobre os danos físicos acidentais, causados às obras finalizadas, aceitas e colocadas em operação, antes da entrega definitiva ao proprietário.
+
+Honorários de Perito: Verba destinada a contratação de profissionais capacitados em analisar e investigar a causa, natureza e extensão dos danos ou prejuízos cobertos na apólice.
+
+Despesas de Salvamento  e Contenção: Cobre as despesas incorridas pelo segurado para conter ou  minorar as consequências de um sinistro.
+
+Manutenção Ampla: Além da cobertura para manutenção simples garante os danos verificados durante o período de manutenção, mas resultantes de  acidentes ocorridos na fase de construção ou instalação e montagem.
+
+RC Obras Civis, Instalações e Montagens - com
+
+Fundações (quando aplicável): Cobre propriedades circunvizinhas contra danos decorrentes dos serviços contratados.
+
+RC Cruzada: Cobre danos causados a empreiteiros, subempreiteiros ou quaisquer terceiros, decorrentes de acidentes relacionados às obras civis e/ou serviços de instalação e montagem.
+
+Erro de Projeto: Indeniza os prejuízos causados pelos danos acidentais decorrentes do erro de projeto.
+
+Perdas Financeiras e Lucros Cessantes: Perdas financeiras cobre prejuízo direto do sinistro causado;  já a cobertura de Lucros Cessantes garante a indenização pelos prejuízos resultantes da interrupção parcial, interrupção total ou perturbação do movimento de negócios.
+
+RC Empregador: Garante a proteção contra danos corporais sofridos pelos funcionários da empresa enquanto estiverem a serviço do segurado ou durante o trajeto de ida e volta do trabalho, desde que realizado por um veículo contratado pela empresa.
+
+Danos Morais - para todas as coberturas: Garante indenizações judiciais ou extrajudiciais que o segurado possa ser condenado a pagar por danos morais ou estéticos.
+
+Poluição Súbita (quando aplicável): Cobre situações em que ocorre um evento imprevisto e inesperado, que resulta na liberação de substâncias poluentes ou contaminantes no meio ambiente. Essas substâncias podem incluir produtos químicos, resíduos industriais, vazamentos de óleo, gases tóxicos, entre outros.
+
+	Cobertura para Vazamento e Infiltração: Cobre danos causados por vazamentos de líquidos por rompimento de tubulações, encanamentos, canalização de esgoto, água e até mesmo caixa d'água — desde que tenha sido acidental, ou seja, de maneira imprevista.
+
+		
+
+Com vistas a garantir o fiel cumprimento das obrigações assumidas pela CONTRATADA perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento a CONTRATADA deverá apresentar garantia, no percentual de 5% (cinco  por  cento), referente  ao valor  total  do  contrato, com  cobertura para o período de vigência de xxx (por extenso) dias, a título de garantia de execução do contrato.
+
+
+
+NOTA: Seguro Garantia Contratual, texto acima aplicável somente para contratações acima de R$ 500.000,00 (5 x valor de dispensa de licitação pela NLLC).
+
+	
+
+13.6.       Conforme definidos nos artigos 96 e 97 da Lei n.º 14.133/2021, nas contratações de obras e serviços de engenharia poderá ser exigida a garantia na modalidade seguro-garantia.  Porém, a contratação em tela não apresenta complexidade e valor elevado, fatos que, se presentes, poderiam trazer eventual riscos ou prejuízos à Administração em razão da interrupção dos serviços. Ainda, no caso de descumprimento contratual a contratada estará sujeita às sanções administrativas e procedimentos para retenção ou glosa no pagamento, visto que a remuneração ocorre por itens 100% executados, mediante medições mensais. Assim, pode-se concluir, no presente caso que os riscos são baixos não necessitando de exigência de garantia contratual.
+
+
+
+NOTA: Seguro Garantia Contratual, texto acima aplicável para contratações inferiores a R$ 500.000,00 (5 x valor de dispensa de licitação pela NLLC).
+
+
+
+	Eventuais alterações nos termos das apólices de seguros só serão admitidas após aprovação expressa do CONTRATANTE.
+
+Detalhes sobre seguro, taxas BDI etc., ver Boletim Informativo n.º 09/2022
+
+
+
+REQUISITOS DE HABILITAÇÃO E QUALIFICAÇÃO TÉCNICA (art. 67 da Lei nº 14.133/2021)
+
+	
+
+	A licitante, seguindo as exigências do Edital, deverá fornecer documentação composta dos seguintes itens:
+
+	
+
+		Quanto a Qualificação Técnico-Profissional: (inc. I, art. 67 da Lei nº 14.133/2021)
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+Comprovação técnico-profissional do(a) responsável técnico(a) para engenheiro(a) civil e/ou arquiteto(a) mediante a apresentação de Atestado(s), fornecido(s) por pessoa jurídica de direito público ou privado, acompanhado(s) da(s) respectiva(s) Certidão(ões) de Acervo Técnico-Profissional (CAT), devidamente registrada(s) no CREA e/ou /CAU, que comprovem sua capacitação técnica e experiência nos serviços de maior relevância:
+
+		Execução de instalações hidráulicas;
+
+		
+
+Comprovação técnico-profissional do(a) responsável técnico(a) para engenheiro(a) eletricista mediante a apresentação de Atestado(s), fornecido(s) por pessoa jurídica de direito público ou privado, acompanhado(s) da(s) respectiva(s) Certidão(ões) de Acervo Técnico-Profissional (CAT), devidamente registrada(s) no CREA, que comprovem sua capacitação técnica e experiência nos serviços de maior relevância:
+
+a)    Execução de instalações elétricas com instalação de cabine primária;
+
+
+
+Comprovação técnico-profissional do(a) responsável técnico(a) para engenheiro(a) mecânico(a), mediante a apresentação de Atestado(s), fornecido(s) por pessoa jurídica de direito público ou privado, acompanhado(s) da(s) respectiva(s) Certidão(ões) de Acervo Técnico-Profissional (CAT), devidamente registrada(s) no CREA, que comprovem sua capacitação técnica e experiência nos serviços de maior relevância:
+
+a)    Execução de instalação de sistema de ar condicionado tipo VRF e sistema de ventilação/exaustação mecânica;
+
+
+
+Para facilitar a localização no atestado, destacar os itens que devem ser objeto de análise e julgamento da qualificação técnica.
+
+
+
+NOTA: 
+
+1. Textos acima; Atentar para as Súmulas TCE n.ºs 23, 24 e 30 no que se refere aos quantitativos. Ser específico, indicar somente serviços de maior relevância. É vedado exigir experiência anterior em atividade específica. Permitido somente solicitar atestados de execução de obras e/ou serviços de engenharia de forma genérica. Solicitar atestado para cada profissional indicado na equipe técnica. Ver Boletim Informativo n.º 10/2022.
+
+2. Se os textos acima não forem aplicáveis ao objeto a ser contratado, justificar (Parecer Jurídico n.º 117, Processo 2024/8709... “caso determinado requisito não seja aplicado no caso concreto, deverá constar no DFD – Documento de Formalização de Demanda ou TR – Termo de Referência a referida inaplicabilidade acompanhada da respectiva justificativa”.
+
+
+
+			
+
+			Quanto a Qualificação de Capacidade Operacional: (inc. II, art. 67 da Lei nº   14.133/2021)
+
+
+
+	
+
+	
+
+	
+
+	Atestado(s) de capacidade operacional, fornecido(s) por pessoa(s) jurídica(s) de direito público ou privado, em nome da licitante, de forma comprovar experiência na execução de serviços com características e complexidade similares aos de maior relevância no objeto licitado, conforme descrito(s) abaixo:
+
+Redação conforme orientação do GPL, e-mail de 27-02-2023 (SAAB 1.1) e informativo “O Licitante” em 27/02/2023, https://www.olicitante.com.br/atestados-capacidade-tecnica-registrados - A (im)possibilidade de exigência de atestados de capacidade técnica registrados no Crea - Dawison Barcelos.Ver Boletim Informativo n.º 09/2022
+
+
+
+NOTA: A exigência de atestados será restrita às parcelas de maior relevância ou valor significativo do objeto da licitação, assim consideradas as que tenham valor individual igual ou superior a 4% (quatro por cento) do valor total estimado da contratação. Lei 14.133, art. 67, parágrafo 1.º.
+
+
+
+Instalações elétricas em edificações com área superior a ______m². (montante fixado em conformidade com a Súmula 24/TCE e item(ns) ..... do Anexo ....... - Planilha Orçamentária Sintética).
+
+
+
+NOTA: Textos acima; atentar para as Súmulas TCE n.ºs 23, 24 e 30 no que se refere aos quantitativos. Ser específico, indicar somente serviços de maior relevância. É vedado exigir experiência anterior em atividade específica; permitido somente solicitar atestados de execução de obras e/ou serviços de engenharia de forma genérica. Ver Boletim Informativo n.º 10/2022.
+
+
+
+NOTA: Combinado com as Súmulas do TCE, será admitida a exigência de atestados com quantidades mínimas de até 50% (cinquenta por cento) das parcelas de maior relevância. Lei 14.133, art. 67, parágrafo 2.º.
+
+
+
+Para efeito de comprovação da capacidade operacional da licitante será admitido o somatório de atestados, sempre que a aptidão da licitante puder ser satisfatoriamente demostrada por mais de um atestado. 
+
+Redação conforme Acordãos TCU 1865/2012 – Relator Marcos Bemquerer Costa e 7982/2017 – Relator Ana Arraes, assim como BlogZenite.
+
+
+
+NOTA:  Se os textos acima não forem aplicáveis ao objeto a ser contratado, justificar (Parecer Jurídico n.º 117, Processo 2024/8709... “caso determinado requisito não seja aplicado no caso concreto, deverá constar no DFD – Documento de Formalização de Demanda ou TR – Termo de Referência a referida inaplicabilidade acompanhada da respectiva justificativa”.
+
+
+
+Para facilitar a localização no atestado, destacar os itens que devem ser objeto de análise e julgamento da qualificação técnica.
+
+
+
+Quanto a Indicação de Pessoal Técnico: (inc. III, art. 67 da Lei nº 14.133/2021)
+
+
+
+
+
+Relação da equipe técnica cujo(s)(as) profissional(is) comprove(m) que faz(em) parte do quadro da licitante, para atuar como responsável(is) técnico(as) pela execução dos serviços, devendo, ainda, apresentar: 
+
+
+
+Certidão(ões) de Registro, emitida pelo Conselho Regional de Engenharia e Agronomia – CREA ou pelo Conselho de Arquitetura e Urbanismo – CAU, a que o(s) mesmo(s) estiver(em) vinculado(s), dentro de seu prazo de validade e que comprove(m) situação regular perante o(s) mesmo(s), quanto à sua formação em nível superior – engenheiro(a) ou arquiteto(a) – com competência para desempenho em engenharia civil e/ou arquitetura.
+
+
+
+Certidão(ões) de Registro, emitida pelo Conselho Regional de Engenharia e Agronomia – CREA a que o(s) mesmo(s) estiver(em) vinculado(s), dentro de seu prazo de validade e que comprove(m) situação regular perante o(s) mesmo(s), quanto à sua formação em nível superior em engenharia elétrica.... mecânica.... etc.
+
+
+
+Comprovação do vínculo profissional com a licitante mediante contrato social, registro na carteira profissional, ficha de empregado(a) ou contrato de trabalho, sendo possível a contratação de profissional autônomo que preencha os requisitos e se responsabilize tecnicamente pela execução dos serviços, na data fixada para a apresentação das propostas. 
+
+
+
+	Caso o(s) indicado(s) conste(m) da Certidão de Registro de Pessoa Jurídica não será necessária a apresentação de comprovação do vínculo profissional. 
+
+
+
+Os atestados relativos à qualificação técnico-profissional e operacional, poderão ser oriundos de   entidades estrangeiras, desde que acompanhados de tradução para o português, salvo se comprovada a inidoneidade da entidade emissora.
+
+Lei 14.133, art. 67, parágrafo 4.º.
+
+
+
+Certidão de Registro de Pessoa Jurídica da licitante, expedida pelo Conselho Regional de Engenharia e Agronomia – CREA ou pelo Conselho de Arquitetura e Urbanismo – CAU, e que comprove atividade relacionada com o objeto da licitação, dentro do prazo de validade.
+
+
+
+NOTA:  Se os textos acima não forem aplicáveis ao objeto a ser contratado, justificar (Parecer Jurídico n.º 117, Processo 2024/8709... “caso determinado requisito não seja aplicado no caso concreto, deverá constar no DFD – Documento de Formalização de Demanda ou TR – Termo de Referência a referida inaplicabilidade acompanhada da respectiva justificativa”.
+
+
+
+Original ou cópia de Declaração de Vistoria com redação conforme ANEXO 11 e Declaração de Ciência, com redação conforme ANEXO 12, caso tenha sido realizada a vistoria. 
+
+
+
+NOTA: Declaração de Ciência conforme parágrafos 2.º, 3.º e 4.º, artigo 63 da Lei 14.133/2021. No caso de vistoria OBRIGATÓRIA excluir texto em amarelo.
+
+
+
+Original ou cópia de Declaração de Responsabilidade, com redação conforme ANEXO 13 caso não tenha sido realizada a vistoria.
+
+
+
+NOTA: Textos acima; Compatibilizar com o item “Vistoria Técnica”. No caso de vistoria OBRIGATÓRIA, excluir o item 14.3 e respectivo anexo.
+
+
+
+CRONOGRAMA FÍSICO-FINANCEIRO
+
+		
+
+	
+
+	
+
+	
+
+	O modelo de Cronograma Físico-Financeiro que define os valores a serem desembolsados durante a medição dos serviços a serem prestados encontra-se disponível para conhecimento no ANEXO 5, deste Termo de Referência. 
+
+	
+
+OBRIGAÇÕES DA CONTRATADA
+
+	
+
+		As obrigações da contratada especialmente aos itens que deverão ser cumpridos ao longo da execução do contrato, estão relacionadas no item 8 - Modelo de Execução do Objeto deste termo de referência.
+
+		
+
+INDICAÇÃO DE PREPOSTO(A) DA CONTRATADA (art. 118 da Lei 14.133/2021)
+
+		
+
+	Nos termos do item 8 - Modelo de Execução do Objeto deste termo de referência, a CONTRATADA deverá manter preposto(a) aceito(a) pela Administração no local da obra ou do serviço para representá-la na execução do contrato. 
+
+		
+
+NOTA: Não se aplica nos casos em que o objeto a ser contratado não se trate de serviço, ou que seja de execução imediata.
+
+		
+
+MATRIZ DE ALOCAÇÃO DE RISCO (arts. 22 e 103 da Lei nº 14.133/2021)
+
+		
+
+	No presente caso, como a contratação em tela não se refere a obras e serviços de grande vulto ou regimes de contratação integrada e semi-integrada, não está contemplada neste Termo de Referência, matriz de alocação de riscos entre o contratante e o contratado.
+
+	
+
+
+
+
+
+A matriz de alocação de riscos encontra-se disponível para conhecimento no ANEXO 16, deste Termo de Referência. 
+
+
+
+NOTA: Texto acima obrigatório somente para contratações de grande vulto (acima de 200 milhões de Reais – para valor exato consultar Decreto Executivo sobre o tema) e/ou em contratações integrada e semi-integrada. 
+
+
+
+19.     CRITÉRIOS DE MEDIÇÃO (alínea “g”, inciso XXIII, artigo 6.º da Lei 14.133/2021)
+
+
+
+	
+
+	
+
+	
+
+	
+
+	As medições serão mensais, contadas a partir da data de início dos serviços, exceto a última, que ocorrerá quando da conclusão dos serviços e seu recebimento por parte do CONTRATANTE, incluindo a entrega de toda a documentação exigida e listada no ANEXO 6, deste Termo de Referência.
+
+	
+
+	A CONTRATADA deverá apresentar as medições periódicas dos serviços executados e dos materiais empregados em até (10) dez dias corridos após o período de medição, servindo as mesmas como fundamento da emissão da Nota Fiscal de cobrança, a ser emitidos pela CONTRATADA a cada medição.
+
+
+
+	As medições mensais dos custos da administração local, cujos itens estão indicados na planilha de composição de preços, serão apuradas proporcionalmente à execução financeira mensal, conforme recomendações do Tribunal de Contas da União - TCU, acórdãos n.ºs 2622/2013 e 2440/2014, ambos do Plenário.
+
+Ver Boletim Informativo n.º 01/2022.
+
+
+
+	Os serviços serão medidos conforme os critérios de medição e remuneração estabelecidos nas tabelas oficiais utilizadas para a elaboração da Planilha Orçamentária – ANEXO 7, tais como os boletins do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil - SINAPI e da Companhia de Desenvolvimento Habitacional e Urbano – CDHU.
+
+
+
+	A medição dos serviços não contemplados nas tabelas oficiais seguirá os critérios estabelecidos pelo responsável técnico da elaboração das planilhas orçamentárias, disponibilizados no ANEXO 17.
+
+
+
+NOTA: Texto acima aplicável aos casos em que existam serviços sem critério de medição pré-estabelecidos por tabelas oficiais, em mídia especializada ou em contratações similares feitas pela Administração Pública e que esses serviços sejam representados por muitos itens.
+
+
+
+	19.3.1 	A medição dos serviços não contemplados nas tabelas oficiais, a saber itens XXX.XXX, YYY.YYY e ZZZ.ZZZZ do ANEXO 7, seguirá os seguintes critérios estabelecidos pelo responsável técnico da elaboração das planilhas orçamentárias:
+
+
+
+	Item XXX.XXX:
+
+	
+
+	Item YYY.YYY:
+
+	
+
+	Item ZZZ.ZZZ:
+
+
+
+NOTA: Texto acima aplicável aos casos em que existam serviços sem critério de medição pré-estabelecidos por tabelas oficiais, em mídia especializada ou em contratações similares feitas pela Administração Pública e que esses serviços sejam representados por poucos itens.
+
+
+
+	Somente serão medidos serviços claramente quantificáveis e 100% concluídos, exceto o(s) descritos no item 19.4.1 deste Termo de Referência.
+
+
+
+	O(s) item(s) XX da Planilha de Composição de Preços – ANEXO 2, será(ão) medido(s) conforme as fases e percentuais definidos abaixo:
+
+	
+
+Fase 01 - Entrega do produtos/insumos – É a chegada do material no local do(s) serviço(s) com a conferência da especificação dos materiais. 
+
+Percentual da medição do(s) item(s): 30%.
+
+
+
+19.4.1.2. Fase 02 - Equipamento instalado no local definido em projeto – É a instalação somente do item especificado no critério e planilha analítica. Não é a execução dos serviços correlatos. 
+
+Percentual da medição do(s) item(s): 40%.
+
+
+
+19.4.1.3. Fase 03 - Execução dos serviços correlatos (instalação elétrica, rede frigorígena e etc.), colocar o equipamento e o sistema em pleno funcionamento com os devidos testes aprovados pela fiscalização e, entrega da documentação completa exigida em contrato e devidos aprovativos. 
+
+Percentual da medição do(s) item(s): 30%.
+
+
+
+NOTA: Itens 19.4.1, 19.4.1.1 a 3, aplicáveis para serviços especiais conforme lista abaixo:
+
+Fornecimento e instalação de equipamentos para Climatização;
+
+Fornecimento e instalação de elevador;
+
+Fornecimento e instalação de caixilhos metálicos;
+
+Fornecimento e instalação de transformador; 
+
+Fornecimento e instalação de gerador; e
+
+Cubículos de média tensão.
+
+	
+
+	A CONTRATADA deverá solicitar as medições por escrito à FISCALIZAÇÃO do CONTRATANTE, considerando as etapas definidas no cronograma físico-financeiro, acompanhadas da documentação a seguir:
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	A memória de cálculo, descrevendo a quantificação dos serviços;
+
+
+
+	O boletim de medição, contendo todos os itens dos serviços contratados, as quantidades, os percentuais e custos executados, acumulados e totais;
+
+	
+
+	Relatório fotográfico, contendo identificação dos serviços e datas demonstrando todas as etapas de desenvolvimento dos eventos no período correspondente à medição;
+
+	
+
+	Outros documentos relevantes e pertinentes ao assunto.
+
+
+
+	Não será medido o fornecimento de material em separado da execução do respectivo serviço.
+
+	
+
+	Após verificação dos serviços efetivamente executados e da documentação apresentada, caso a medição não seja aceita, a FISCALIZAÇÃO do CONTRATANTE devolverá à CONTRATADA para emissão da medição retificada.
+
+	
+
+	
+
+	
+
+		A medição retificada deverá ser apresentada no prazo máximo de 05 (cinco) dias úteis contados a partir da notificação da FISCALIZAÇÃO do CONTRATANTE.
+
+	
+
+		Se porventura, na nova medição, se verificar que as pendências apontadas pela FISCALIZAÇÃO DO CONTRATANTE não foram sanadas, caracterizar-se-á atraso a partir da data estabelecida no subitem anterior.
+
+
+
+	Aprovada a medição, será autorizada a emissão da Nota Fiscal, cujo ateste será realizado pela FISCALIZAÇÃO do CONTRATANTE.
+
+	
+
+	Se a medição não for apresentada no prazo estabelecido, a CONTRATADA incorre automaticamente em mora.
+
+	
+
+REAJUSTE
+
+Ver Boletim Informativo n.º 07/2022
+
+	
+
+	
+
+	
+
+	
+
+	O valor contratado poderá ser reajustado, a cada período de 1 (um) ano, tendo como fundamento a data-base vinculada à data do orçamento estimado e como referência a variação mensal acumulada do IPOP/FIPE-IGE (Índice de Preços de Obras Públicas, da Fundação Instituto de Pesquisas Econômicas – Índice Geral de Edificações), ocorrida no período de 12 (doze) meses anteriores ao mês de sua incidência.
+
+		                      
+
+	O(s) valor(es) contratado(s) referente aos serviços de manutenção do(s) sistema(s) poderá(ão) ser reajustado(s) a cada período de 1 (um) ano, tendo como fundamento a data-base vinculada à data do orçamento estimado e como referência a variação mensal acumulada do IPC/FIPE (Índice de Preços ao Consumidor da Fundação Instituto de Pesquisas Econômicas), ocorrida no período de 12 (doze) meses anteriores ao de sua incidência.
+
+	
+
+APRESENTAÇÃO DA PROPOSTA E CRITÉRIOS DE AVALIAÇÃO
+
+	
+
+	No julgamento das propostas levar-se-á em conta o critério de “Menor Preço Global”.
+
+		
+
+	A proposta será apresentada conforme estabelecido no Edital, cujos preços deverão incluir todos os custos operacionais incidentes nos serviços, tais como: impostos, taxas, emolumentos, ensaios, testes, equipamentos, ferramentas, materiais, instrumentos, vistorias, medições, prospecções, avaliações, transportes, seguros, mão de obra com todos os seus insumos, inclusive adicional noturno, projetos, e quaisquer outros que incidam direta ou indiretamente na execução do objeto.
+
+	
+
+	A Planilha de Composição de Preços completa e integralmente preenchida contendo o custo unitário e total dos serviços acrescidos do BDI (Benefícios ou Bonificações de Despesas Indiretas) bem como os subtotais e valor total dos serviços, deverá ser apresentada conforme ANEXO 2.
+
+Ver Boletim Informativo n.º 03/2022
+
+Ver Boletim Informativo n.º 06/2022
+
+		
+
+	O preço total dos serviços deverá ser obtido por meio da soma dos itens, 
+resultado da multiplicação das quantidades fornecidas pelos preços unitários 
+propostos, arredondados em duas casas decimais.
+
+		
+
+	Os preços de custo unitário não poderão ser superiores ao previsto em Edital e estimado pela Administração, conforme ANEXO 7.
+
+	A composição do BDI, detalhando todos os seus componentes e custos indiretos, conforme previsto no artigo 15 da Resolução n.º 114/2010 do Conselho Nacional de Justiça - CNJ, em valores nominais como também sob a forma percentual, deverá ser apresentada conforme ANEXO 3.
+
+		
+
+	A composição e o valor total do BDI, detalhando todos os seus componentes, sob a forma percentual deverá seguir a fórmula padrão constante do ANEXO 3.
+
+
+
+	Os custos relativos à administração local, mobilização e desmobilização e 
+instalação de canteiro e acampamento, bem como quaisquer outros itens que 
+possam ser apropriados como custo direto da obra, não poderão ser incluídos 
+na composição do BDI, devendo ser cotados na Planilha de Composição de 
+Preços.
+
+	Ver Boletim Informativo n.º 01/2022
+
+	
+
+		As alíquotas de tributos cotadas pelo licitante não podem ser superiores aos 
+limites estabelecidos na legislação tributária.
+
+	
+
+	No cálculo do Imposto sobre Serviços de Qualquer Natureza – ISS cotado no BDI, que deverá representar a alíquota devida ao fisco, não poderão ser incluídos o fornecimento de materiais para execução do serviço, conforme art. 7º, § 2º, inc. I (códigos 7.02 e 7.05), da Lei Complementar nº 116/2003.
+
+	
+
+	A licitante deverá indicar a alíquota do ISS do local onde a obra será executada, observada a legislação do município e percentual dos materiais no custo da obra.
+
+	
+
+	Na ausência de legislação municipal que arbitre o percentual dos materiais no custo da obra, caberá à licitante indicar o percentual dos materiais utilizado para cálculo do ISS, observada a Planilha de Composição de Preços.
+
+	
+
+		A utilização de percentual dos materiais superior ao custo efetivo não será objeto de revisão durante a execução do contrato. 
+
+	
+
+	Os tributos considerados de natureza direta e personalística, como o Imposto 
+de Renda de Pessoa Jurídica – IRPJ e a Contribuição Sobre o Lucro Líquido 
+– CSLL, não deverão ser incluídos no BDI.
+
+	
+
+	Licitante  sujeita ao  regime  de  tributação  de  incidência  não  cumulativa de PIS e COFINS deve apresentar demonstrativo de apuração de  contribuições  sociais  comprovando  que  os  percentuais  dos  referidos tributos adotados na taxa de BDI correspondem à média dos percentuais  efetivos  recolhidos  nos últimos doze meses  em  virtude  do  direito  de  compensação  dos  créditos previstos no art. 3º das Leis 10.637/2002 e 10.833/2003, de forma a garantir que os preços contratados pela Administração Pública reflitam os benefícios tributários concedidos pela legislação tributária.
+
+	
+
+	Licitante optante pelo Simples Nacional deve apresentar os 
+percentuais de ISS, PIS e COFINS, discriminados na composição do BDI, 
+compatíveis às alíquotas a que estão obrigadas a recolher, conforme previsão 
+contida no Anexo IV da Lei Complementar n.º 123/2006.
+
+	
+
+		A licitante/CONTRATADA é a única responsável pela cotação correta dos encargos tributários. Em caso de erro ou cotação incompatível com o regime tributário a que se submete, serão adotadas as orientações a seguir:
+
+	
+
+	Cotação de percentual menor que o adequado: o percentual será mantido durante toda a execução contratual;
+
+	
+
+	Cotação de percentual maior que o adequado: o excesso será suprimido, unilateralmente da planilha e haverá glosa, quando do pagamento.
+
+	
+
+		Se o regime tributário da licitante implicar o recolhimento de tributos em percentuais variáveis de PIS e COFINS, a cotação adequada será a que corresponde à média dos efetivos recolhimentos da licitante nos últimos doze meses, devendo o licitante ou CONTRATADA apresentar à Comissão/Pregoeiro ou à fiscalização, a qualquer tempo, comprovação da adequação dos recolhimentos, para os fins do previsto no subitem anterior.
+
+		
+
+	A Composição dos Encargos Sociais, detalhando todos os seus componentes sob a forma percentual, deverá ser apresentada conforme ANEXO 4.
+
+		Ver Boletim Informativo n.º 06/2022
+
+
+
+	A composição de encargos sociais das licitantes optantes pelo Simples 
+Nacional não poderá incluir os gastos relativos às contribuições que estão 
+dispensadas de recolhimento (Sesi, Senai, Sebrae, etc.), conforme dispõe o 
+art. 13, §3º, da lei Complementar n.º 123/2006.
+
+		
+
+	O Cronograma Físico-Financeiro em gráfico de Gantt, em conformidade com as etapas, prazos e valores apresentados na Planilha de Composição de Preços e de acordo com o prazo estabelecido, deverá ser apresentado conforme ANEXO 5.
+
+
+
+DOCUMENTOS DISPONIBILIZADOS PARA CONSULTA
+
+	
+
+	Todos os detalhes relativos à execução dos serviços de que trata esta demanda estão contidos no ANEXO 1 – Quadro de Documentos deste Termo de Referência e nos seus anexos.
+
+
+
+	Esses documentos, devidamente listados no Quadro de Documentos – ANEXO 1, serão disponibilizados eletronicamente, até a data de abertura da licitação, mediante solicitação a ser encaminhada ao e-mail licitacoes@tjsp.jus.br juntamente com o Termo de Recebimento e Confidencialidade – ANEXO 10, devidamente preenchido e assinado pelo representante legal da licitante.
+
+	
+
+	Os Projetos e a Documentação Técnica não serão transmitidos por correio eletrônico.
+
+
+
+NOTA: Diretrizes para elaboração das Planilhas Orçamentárias, ver Boletins Informativos n.º 01/2022, n.º 03/2022, n.º 04/2022, n.º 12/2022 e n.º 16/2023. 
+
+
+
+NORMAS TÉCNICAS E LEGISLAÇÃO APLICÁVEL
+
+	
+
+	
+
+	Todos os serviços a serem realizados e os materiais e equipamentos a serem fornecidos deverão obedecer às normas e legislações vigentes, em suas últimas revisões, tais como:
+
+
+
+Normas de Segurança em Edificações, do CREA - Conselho Regional de Engenharia e Agronomia e do CAU – Conselho de Arquitetura e Urbanismo;
+
+Normas e Regulamentações de Saúde e Meio Ambiente;
+
+Normas Regulamentadoras do Ministério do Trabalho e Emprego – MTE;
+
+Normas da Associação Brasileira de Normas Técnicas – ABNT;
+
+Normas internacionais aplicáveis, em sua última edição, para os casos em que a ABNT for omissa;
+
+Normas e Instruções das concessionárias de serviços públicos – Sabesp, Enel, Comgás, Telefônica etc.;
+
+Instruções Normativas do Corpo de Bombeiros do Estado de São Paulo;
+
+Portarias, Recomendações e Resoluções do Instituto Nacional de Metrologia, Normatização e Qualidade Industrial – INMETRO;
+
+Código de Obras e Edificações do Município de São Paulo;
+
+Normas e legislações sobre uso e acessibilidade do prédio por pessoas com deficiência;
+
+Especificações dos fabricantes, posturas técnicas, certificações e recomendações quanto à utilização dos materiais empregados, instalações e dos equipamentos e sistemas prediais;
+
+Leis, Decretos, Regulamentos e Dispositivos Legais emitidos pelas autoridades governamentais, em âmbito Municipal, Estadual e Federal, pertinentes à execução dos serviços ora contratados.
+
+
+
+ANEXOS 
+
+	
+
+	
+
+	Fazem parte integrante e indissociável deste Termo de Referência, como se nele estivessem transcritos, os seguintes anexos: 
+
+		
+
+		ANEXO 1 – QUADRO DE DOCUMENTOS.
+
+		ANEXO 2 – PLANILHA DE COMPOSIÇÃO DE PREÇOS Ver Boletim Informativo n.º 12/2022.
+
+		ANEXO 3 – COMPOSIÇÃO DO BDI.
+
+		ANEXO 4 – COMPOSIÇÃO DOS ENCARGOS SOCIAIS.
+
+		ANEXO 5 – MODELO DE CRONOGRAMA FÍSICO-FINANCEIRO.
+
+		ANEXO 6 – MODELO DE CARTA PARA COMUNICAÇÃO DE ENCERRAMENTO DOS SERVIÇOS E OUTRAS PROVIDÊNCIAS.
+
+		ANEXO 7 – PLANILHA ORÇAMENTÁRIA SINTÉTICA.
+
+		ANEXO 8 – PLANILHA ORÇAMENTÁRIA ANALÍTICA Ver Boletim Informativo n.º 04/2022.
+
+		ANEXO 9 – CRONOGRAMA FÍSICO-FINANCEIRO.
+
+		ANEXO 10 – MODELO DE TERMO DE RECEBIMENTO E CONFIDENCIALIDADE.
+
+		ANEXO 11 – MODELO DE DECLARAÇÃO DE VISTORIA.
+
+			ANEXO 12 – MODELO DE DECLARAÇÃO DE CIÊNCIA.
+
+			ANEXO 13 – MODELO DE DECLARAÇÃO DE RESPONSABILIDADE.
+
+		ANEXO 14 – MODELOS DE PLANOS DE MANUTENÇÃO PREVENTIVA – PMP´S/ PMOC´s.
+
+		ANEXO 15 – ESTRATÉGIA DE OBRA.
+
+		ANEXO 16 – MATRIZ E ALOCAÇÃO DE RISCOS.
+
+		ANEXO 17 – CRITÉRIO DE MEDIÇÃO E REMUNERAÇÃO.
+
+		
+
+
+
+1
+
+1
+
+
+
+|
