@@ -1,0 +1,328 @@
+ESTUDO TÉCNICO PRELIMINAR
+
+(Lei 14.133/2021)
+
+Credenciamento
+
+
+
+Processo CPA nº 0000/00000000
+
+OBJETO
+
+Descrever de forma sucinta o objeto do credenciamento.
+
+Ex: Credenciamento de instituições de ensino superior para aplicação de descontos na mensalidade de cursos universítários na área do Direito, Administração, Contabilidade e Economia.
+
+O credenciamento é um procedimento auxiliar realizado por meio de processo administrativo de chamamento público em que a Administração Pública convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados. 
+
+O objeto a ser contratado deverá ou poderá ser por inexigibilidade de licitação (inciso IV, art. 74, Lei nº 14.133/2021)
+
+O credenciamento poderá ser usado nas seguintes hipóteses:
+
+paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas;
+
+com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação;
+
+em mercados fluidos: caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação.
+
+Os procedimentos de credenciamento estão definidos Provimento nº 99/2024 (TJSP) e deverão ser observadas as seguintes regras:
+
+O TJSP deverá divulgar e manter à disposição do público, em sítio eletrônico oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente de novos interessados;
+
+No caso contratação paralela e não excludente, quando o objeto não permitir a contratação imediata e simultânea de todos os credenciados, deverão ser adotados critérios objetivos de distribuição da demanda;
+
+O edital de chamamento de interessados deverá prever as condições padronizadas de contratação;
+
+Na contratação com seleção a critério de terceiros ou em mercados fluidos, deverá ser definido o valor da contratação;
+
+Na contratação em mercados fluidos deverão ser registradas as cotações de mercado vigentes no momento da contratação;
+
+Não será permitido o cometimento a terceiros do objeto contratado sem autorização expressa da Administração;
+
+Será admitida a denúncia por qualquer das partes nos prazos fixados no edital.
+
+
+
+
+
+DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (Inc. I, § 1º, art. 18, Lei 14.133/21)
+
+Descrever as necessidades de contração, considerando o problema a ser resolvido sob a perspetiva do interesse público.
+
+Ex: Credenciamento de instituições de ensino superior e de pós-graduação para a aplicação de desconto nas mensalidades nos cursos de direito e administração pública aos servidores e magistrados, com a finalidade de incentivo financeiro para melhor qualificação profissional.
+
+DEMONSTRAÇÃO DA PREVISÃO DA CONTRATAÇÃO NO PLANO DE CONTRATAÇÕES ANUAL (Inc. II, § 1º, art. 18, Lei 14.133/21)
+
+Informar o código de identificação do Plano de Contratações Anual, que poderá ser obtido no Portal da Administração, SAAB 5, Monitoramento PCA do exercício vigente.
+
+Atenção: Se a contratação pretendida não estiver inserida no PCA, observar o art. 10, do Provimento nº 97/2022, o pedido será devolvido para o setor de origem
+
+Art. 10. Os pedidos de novas compras ou contratações e prorrogações contratuais formulados pelas áreas do Tribunal de Justiça do Estado de São Paulo que não estejam inseridos no Plano de Contratações Anual não serão processados e serão devolvidos ao setor de origem.
+
+§1º. O caput não se aplica às demandas emergenciais.
+
+§2º. Para os pedidos de contratações a serem efetivados nos meses de janeiro a abril do exercício seguinte, será considerada a versão Preliminar do Plano de Contratações Anual.
+
+§3º. Havendo relevante interesse público, devidamente justificado, o Comitê do Plano de Contratações Anual poderá analisar pedidos de contratação apresentado fora dos períodos estabelecidos no §2º e no artigo 9º, os quais serão aprovados pela Presidência do Tribunal de Justiça do Estado de São Paulo, bem como eventual alteração no Plano de Contratações Anual.
+
+PLANEJAMENTO ESTRATÉGICO (Parágrafo único, art. 11, Lei 14.133/21)
+
+Informar se o objeto está alinhado ao Planejamento Estratégico do Tribunal de Justiça, mencionando o número do objetivo estratégico e a meta.
+
+O Planejamento Estratégico poderá ser consultado no endereço: https://www.tjsp.jus.br/QuemSomos/PlanejamentoEstrategico.
+
+Caso o tipo de objeto não estiver alinhado ao Planejamento estratégico, informar que não se aplica.
+
+CATÁLOGO ELETRÔNICO DE PADRONIZAÇÃO (§ 5º, art. 12, Provimento CSM nº 2.724/2023)
+
+Verificar se objeto possui Catálogo Eletrônico de Padronização no Portal da Administração da intranet do TJSP.
+
+Se existir catálogo publicado o Estudo Técnico Preliminar e o Termo de Referência deverão ser utilizados os modelos disponibilizados no Portal, caso contrário apresentar justificada.
+
+Se não existir, informar que o TJSP não disponibilizou catálogo eletrônico de padronização no Portal da Administração.
+
+REQUISITOS DA CONTRATAÇÃO (Inc. III, § 1º, art. 18, Lei 14.133/21)
+
+Descrição dos requisitos necessários e suficientes à escolha da solução ou produto, prevendo critérios e práticas de sustentabilidade.
+
+No caso de serviços em geral, deverá atender ao princípio da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; (inc. I, art 47)
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+CONDIÇÕES DE RECEBIMENTO (inc. III, art. 18, Lei 14.133/21)
+
+Se aplicável, descrever as condições de recebimento de acordo com as características do objeto, assim como os prazos de recebimento definitivo e provisório.
+
+Indicar dos locais de entrega dos produtos ou da prestação de serviços, quando for o caso.
+
+Atenção: Na ausência de previsão, o prazo de recebimento provisório será de até 10 (dez) dias úteis e, definitivo, no prazo de até 30 (trinta) dias úteis nas hipóteses do inciso I do art. 140 Lei nº 14.133/2021.
+
+CONDIÇÕES DE EXECUÇÃO E PAGAMENTO (inc III, art. 18, Lei 14.133/21)
+
+Se aplicável, informar as condições de execução e pagamento.
+
+Ex1: O serviço terá execução imediata, após a assinatura do contrato, com a disponibilização da mão de obra terceirizada nos locais discriminados no termo de referência; 
+
+O pagamento será mensal, de acordo com a prestação de serviços por posto/dia, em 30 dias da data do ateste da Nota Fiscal pelo fiscal de contrato.
+
+Ex2: O pagamento será realizado em 30 dias a partir do ateste da Nota Fiscal/Fatura pelo fiscal do contrato, após a entrega dos bens de acordo com a especificação.
+
+GARANTIAS EXIGIDAS E OFERTADAS (inc. III, art. 18, Lei 14.133/21)
+
+Se aplicável, informar as garantias exigidas para a contratação, se o caso.
+
+Atenção! Requisito não obrigatório. Se não for o caso, informar: “Não se aplica”
+
+Ex: O equipamento terá garantia de 12 meses a partir da instalação, sendo que empresa deverá dispor um canal de atendimento “0800” ou via “whatsapp” para suporte e acionamento da garantia para reparos em caso de problemas no equipamento adquirido.
+
+MODALIDADE DE LICITAÇÃO, CRITÉRIO DE JULGAMENTO e MODO DE DISPUTA (inc. VIII, art. 18, Lei 14.133/21)
+
+A seleção do fornecedor será mediante credenciamento, previsto no inciso III, do parágrafo único, do art. 79, da Lei nº 14.133/2021, para credenciamento de instituições financeiras que atendam ao objeto estabelecido neste Termo de Referência, com vistas à contratação paralela e não excludente, nos termos do inciso I do art. 79, da Lei nº 14.133/2021.
+
+A contratação será imediata e simultânea de todos os credenciados, em razão de.......
+
+ou
+
+A contratação não será imediata e simultânea de todos os credenciados, em razão de......... Para tanto, será realizado sorteio dos credenciados, em data e regras definida em edital, onde será obtida a relação numerada que será utilizada de forma a se estabelecer a ordem de designação e o rodízio, que será rigorosamente seguida, mantendo-se a sequência, a começar pela primeira sorteada
+
+Ou
+
+A seleção do fornecedor será mediante credenciamento, previsto no inciso III, do parágrafo único, do art. 79, da Lei nº 14.133/2021, para credenciamento de instituições financeiras que atendam ao objeto estabelecido neste Termo de Referência, com seleção a critério de terceiros, nos termos do inciso II do art. 79, da Lei nº 14.133/2021.
+
+Ou
+
+A seleção do fornecedor será mediante credenciamento, previsto no inciso III, do parágrafo único, do art. 79, da Lei nº 14.133/2021, para credenciamento de instituições financeiras que atendam ao objeto estabelecido neste Termo de Referência, com contratação em mercados fluidos, nos termos do inciso III do art. 79, da Lei nº 14.133/2021.
+
+O objeto a ser contratado em decorrência do credenciamento deverá ou poderá ser por inexigibilidade de licitação (inciso IV, art. 74, Lei nº 14.133/2021)
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18, Lei 14.133/21)
+
+Se aplicável, informar as estimativas das quantidades, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala.
+
+LEVANTAMENTO DE MERCADO E JUSTIFICATIVA TÉCNICA E ECONÔMICA (Inc. V, § 1º, art. 18, Lei 14.133/21)
+
+Realizar levantamento de mercado, que consiste em analisar as alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+ESTIMATIVA DE VALOR DA CONTRATAÇÃO (Inc. VI, § 1º, art. 18, Lei 14.133/21) 
+
+Apresentar a estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte.
+
+Atenção! Este valor estimado poderá se revisado/atualizado pela equipe de pesquisa de preços, após análise do ETP e do TR.
+
+Atenção! Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas (art. 24)
+
+DESCRIÇÃO DA SOLUÇÃO (Inc. VII, § 1º, art. 18, Lei 14.133/21)
+
+Descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+JUSTIFICATIVAS PARA O PARCELAMENTO OU NÃO DA CONTRATAÇÃO (Inc. VIII, § 1º, art. 18, Lei 14.133/21)
+
+Apresentar a justificativa para o parcelamento ou não da contratação.
+
+No caso de serviços o parcelamento do objeto da contratação, que visa ampliar a competição, será possível somente quando for tecnicamente viável e economicamente vantajoso, devendo o gestor expor os motivos, e deverão ser considerados: (inc. III, art. 47)
+
+a responsabilidade técnica;
+
+o custo para a Administração de vários contratos frente às vantagens da redução de custos, com divisão do objeto em itens;
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+No caso de compras, o parcelamento do objeto deverá ser considerado:
+
+a viabilidade da divisão do objeto em lotes;
+
+o aproveitamento das peculiaridades do mercado local, com vistas à economicidade, sempre que possível, desde que atendidos os parâmetros de qualidade; e
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+O parcelamento não será adotado quando:
+
+A economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor;
+
+O objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido;
+
+O processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+
+DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS (Inc. IX, § 1º, art. 18, Lei 14.133/21)
+
+Demonstrar os resultados pretendidos com a contratação, em termos de economicidade e aproveitamento dos recursos humanos, materiais e financeiros disponíveis.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+PROVIDÊNCIAS PRÉVIAS A CONTRATAÇÃO (Inc. X, § 1º, art. 18, Lei 14.133/21)
+
+Identificar medidas indispensáveis com vistas aos resultados pretendidos na contratação. Ex: destinação de espaço e infraestrutura para execução de serviços ou recepção de materiais. 
+
+Propor capacitação de servidores que atuarão diretamente na gestão e fiscalização do contrato.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES (Inc. XI, § 1º, art. 18, Lei 14.133/21)
+
+Informar se há contratações correlatas e/ou interdependentes ao objeto que poderá impactar na execução contratual e até mesmo na homologação do objeto.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+IMPACTOS AMBIENTAIS (Inc. XII, § 1º, art. 18, Lei 14.133/21)
+
+Avaliar os possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável.
+
+Identificar quais são as metas que serão impactadas ou que se alinham com o propósito de aquisições sustentáveis e uso eficiente de insumos, materiais e serviços, de acordo com o Plano de Logística Sustentável do TJSP. 
+
+Indicar os critérios de sustentabilidade, ou seja, os métodos utilizados para avaliação e especificação de bens, materiais, serviços e obras em função do seu impacto ambiental, social, cultural e econômico, no mínimo
+
+
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+Obs: cumprimento das Resoluções CNJ nºs 347/2020 e 400/2021.
+
+POSSIBILIDADE DE COMPRA OU DE LOCAÇÃO DE BENS (art. 44, Lei 14.133/21)
+
+Avaliar se há possibilidade de compra ou de locação de bens.
+
+Se não for o caso, informar como: não aplicável.
+
+PARTICIPAÇÃO EM CONSÓRCIO (art. 15, Lei 14.133/21)
+
+A participação de empresas em consórcio deverá levar em consideração a complexidade do objeto e as restrições de mercado que levam à impossibilidade de empresas participarem da licitação isoladamente para atender ao objeto da contratação, tornando a competição reservada a poucas empresas aptas a preencher as condições especiais da licitação. Neste caso, o consórcio visa a ampliar o universo de licitantes permitindo a associação entre os particulares, a fim de possibilitar a soma das capacidades operacionais.
+
+Considerando que o objeto a ser contratado não se enquadra na hipótese estabelecida no item 21.1, em razão de ser de natureza comum, sem características especiais ou necessidade de esforços operacionais para atender ao objeto, possibilitando assim a ampla participação de empresas, não há necessidade da instituição do consórcio nesta contratação.
+
+
+
+Atenção! Requisito não obrigatório. Na ausência, o edital de licitação irá prever a participação de empresas em consórcio.
+
+VISTORIA/VISITA TÉCNICA (§§ 2º,3º e 4º, art. 63, Lei 14.133/21)
+
+A necessidade de vistoria ou visita técnica deverá ser lançada no Termo de Referência, podendo ser facultativa ou obrigatória que, neste caso, a unidade requisitante deverá justificar a obrigatoriedade neste item.
+
+Excluir este item se a vistoria ou visita técnica não for necessária ou facultativa.
+
+PLANO DE RISCOS (inc. XIII, art. 2º, Provimento nº 2.724/2023)
+
+O conteúdo do Plano de Riscos encontra-se apartado no Processo CPA n º xxx/xxxx.
+
+
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+Identificação dos servidores responsáveis pela execução do planejamento da contratação.
+
+
+
+Unidade solicitante
+
+<Sigla da unidade solicitante/interessada>
+
+Secretaria/Diretoria responsável
+
+<Secretaria/Diretoria>
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>  - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+Equipe técnica (se houver)
+
+<Nome> - <Cargo> - < Setor >
+
+
+
+Identificação dos servidores responsáveis pela gestão do contrato (art. 72 do Provimento CSM nº 2.724/2023.
+
+Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+Suplente(s) do Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+AVALIAÇÃO CONCLUSIVA (Inc. XIII, § 1º, art. 18, Lei 14.133/21)
+
+O responsável pela elaboração do estudo deverá se posicionar conclusivamente sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+
+“Não se admite uma avaliação conclusiva imprestável, que se reduza a afirmar qua contratação se revela como uma solução adequada. É imprescindível examinar os diferentes tópicos do objeto de exame e daí extrair conclusões fundamentadas, com exposição satisfatória” Marçal Justen Filho, Comentários à Lei de Licitações e Contratações Administrativas, pág. 35, 29.13
+
+
+
+São Paulo, data registrada em sistema.
+
+
+
+Assinatura eletrônica da equipe de planejamento da contratação
+
+
+
+Observação: O gestor de planejamento necessariamente tem de ser servidor do TJSP e assinar o documento, sem o qual não será recepcionado pela SAAB 5.
+
+
+
+
+
+
+2
+
+2Versão 03/2024
+
+
+
+|

@@ -1,0 +1,341 @@
+ESTUDO TÉCNICO PRELIMINAR 
+
+(Lei nº 14.133/2021 e Resolução CNJ nº 468/2022)
+
+Contratações de Solução de Tecnologia da Informação e Comunicação (STIC) 
+
+
+
+Processo CPA nº 2025/XXXXXX
+
+OBJETO
+
+Contratação de licença de software - xxxxxx
+
+Em consulta ao Connect-Jus ........ (Connect-Jus - Conectando a Justiça - Acesso)
+
+Esse documento foi utilizado de forma colaborativa na elaboração do presente ETP, em conformidade com o disposto no art. 10 da Resolução CNJ nº 468/2022.
+
+DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (Inc. I, § 1º, art. 18, Lei 14.133/21)
+
+A contratação está fundamentada, conforme descrito nos itens abaixo:
+
+Motivação da contratação
+
+A contratação do ....... é necessária para ....... 
+
+Objetivos a serem alcançados por meio da contratação
+
+A adoção do sistema .....
+
+Benefícios diretos e indiretos resultantes da contratação;
+
+Otimização dos processos, redução de custos e melhora na qualidade, planejamento e controle dos .....
+
+DEMONSTRAÇÃO DA PREVISÃO DA CONTRATAÇÃO NO PLANO DE CONTRATAÇÕES ANUAL (Inc. II, § 1º, art. 18, Lei 14.133/21))
+
+A contratação deste serviço será para utilização da [........], portanto, não integra o Plano de Contratações de Tecnologia da Informação e Comunicação (TIC), no entanto, está inserido no Plano Anual de Contratações do TJSP, sob o número XXXX/20XX, aprovado pela E. Presidência.
+
+ESTRATÉGIA DAS CONTRATAÇÕES – Capítulo II da Resolução CNJ nº 468/2022
+
+Considerando que o software será utilizado exclusivamente pela [..........] , a contratação pretendida não integra o Plano de Contratações da Secretaria de Tecnologia da Informação (STI). Dessa forma, a demanda não está alinhada ao Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC), ao Planejamento Estratégico Institucional, à Estratégia Nacional do Poder Judiciário e à Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD).
+
+PLANEJAMENTO ESTRATÉGICO (Parágrafo único, art. 11, Lei 14.133/21))
+
+O objeto está alinhado ao Planejamento Estratégico do Tribunal de Justiça, no objetivo X – ......., meta x.x.
+
+INSTRUMENTOS DE PLANEJAMENTO (Guia CNJ versão 4.0)
+
+Não se aplica;
+
+CATÁLOGO ELETRÔNICO DE PADRONIZAÇÃO (§ 5º, art. 12, Provimento CSM nº 2.724/2023)
+
+O TJSP não disponibilizou catálogo eletrônico de padronização no Portal da Administração para este tipo de objeto.
+
+REQUISITOS DA CONTRATAÇÃO (Inc. III, § 1º, art. 18, Lei 14.133/21))
+
+Contrato válido por xx meses.
+
+Contratação de licença xxx, software desenvolvido pela ......... para ..........., na última versão disponibilizada pela fabricante.
+
+Deverá ser fornecido o cartão de registro e/ou licenças de uso, contendo todas as chaves, senhas, números de identificação, série e demais informações necessárias para identificação, instalação, reinstalação e operação do produto.
+
+O software deve ser compatível com sistema operacional MS-Windows das máquinas usadas pelo Tribunal de Justiça.
+
+Sustentabilidade
+
+Não se aplica ao objeto de contratação por se tratar de serviço de assinatura de licenças de software.
+
+Suporte técnico
+
+O software contratado deve ter garantia de manutenções corretivas e de segurança bem como absorver evoluções de versão, sem ônus ao Tribunal de Justiça, durante a vigência do contrato.
+
+CONDIÇÕES DE RECEBIMENTO (inc III, art. 18, Lei 14.133/21))
+
+Recebimento Provisório (item 14, pag. 40 do GUIA CNJ)
+
+O recebimento da chave de acesso para uso do software diretamente na plataforma da empresa desenvolvedora, xxx, ocorrerá no e-mail ....... em até xx (xx) dias úteis.
+
+Recebimento Definitivo (item 14, pag. 40 do GUIA CNJ)
+
+O recebimento definitivo será efetuado no prazo de até 03 (três) dias úteis, contados a partir da ativação das licenças. 
+
+CONDIÇÕES DE EXECUÇÃO E PAGAMENTO (inc III, art. 18, Lei 14.133/21))
+
+Para o pagamento, a nota fiscal/fatura será atestada definitivamente pela ......, com posterior remessa à SOF.
+
+O ateste da Nota Fiscal será feito após a instalação das licenças e o devido teste de funcionalidade.
+
+O pagamento será efetuado 30 (trinta) dias contados da data do ateste da Nota Fiscal/Fatura pelo Fiscal do Contrato.
+
+GARANTIAS 
+
+Garantia de Execução Contratual ( art. 96, Lei 14.133/21)
+
+Não se aplica
+
+Das garantias exigidas e ofertadas (inc. III, art. 18, Lei 14.133/21)
+
+O software contratado deve ter garantia de manutenções corretivas e de segurança bem como absorver evoluções de versão, sem ônus ao Tribunal de Justiça, durante a vigência do contrato.
+
+MODALIDADE DE LICITAÇÃO, CRITÉRIO DE JULGAMENTO e MODO DE DISPUTA (inc. VIII, art. 18, Lei 14.133/21))
+
+A seleção do fornecedor será realizada por meio de ......., conforme previsto ........ da Lei nº 14.133/2021.
+
+QUALIFICAÇÃO TÉCNICA (Inc. IX, art. 18, Lei 14.133/2021)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software para uso restrito da ......., com entrega imediata.
+
+ESTIMATIVAS DAS QUANTIDADES PARA A CONTRATAÇÃO (Inc. IV, § 1º, art. 18, Lei 14.133/21))
+
+Informar a quantidade necessária e a justificativa.
+
+LEVANTAMENTO DE MERCADO E JUSTIFICATIVA TÉCNICA E ECONÔMICA (Inc. V, § 1º, art. 18 da Lei 14.133/21 e Guia CNJ de Contrações de TIC do Poder Judiciário, versão 4.0, página 20) 
+
+Levantamento de mercado
+
+sdsds
+
+
+
+Justificativa técnica e econômica
+
+
+
+Tabela Comparativa Técnica entre outros aplicativos similares
+
+
+
+O quadro abaixo, demonstra a utilização do software por outros órgãos da administração pública.
+
+Órgão
+
+Valor
+
+PNCP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observação: A variação nos valores das compras pesquisadas no PNCP é atribuída diretamente ao período de duração do contrato e à quantidade demandada.
+
+Análise comparativa de custos (Guia CNJ – item 1.2.7)
+
+Não se aplica, uma vez que não se trata de uma solução técnica e funcionalmente viável, considerando que o objeto em questão refere-se à contratação de licença de uso de software classificado como “de prateleira”, ou seja, uma solução padronizada e previamente desenvolvida, sem possibilidade de customização técnica específica.
+
+Mapa comparativo dos cálculos de propriedade entre as soluções consideradas viáveis.
+
+Não se aplica, uma vez que não se trata de uma solução técnica e funcionalmente viável, considerando que o objeto em questão refere-se à contratação de licença de uso de software classificado como “de prateleira”, ou seja, uma solução padronizada e previamente desenvolvida, sem possibilidade de customização técnica específica.
+
+ESTIMATIVA DE VALOR DA CONTRATAÇÃO (Inc. VI, § 1º, art. 18, Lei 14.133/21)) 
+
+O valor estimado para contratação é de R$............
+
+DESCRIÇÃO DA SOLUÇÃO (Inc. VII, § 1º, art. 18, Lei 14.133/21))
+
+Informar a descrição da solução.....
+
+JUSTIFICATIVAS PARA O PARCELAMENTO OU NÃO DA CONTRATAÇÃO (Inc. VIII, § 1º, art. 18, Lei 14.133/21))
+
+
+
+
+
+O parcelamento do objeto da contratação, que visa ampliar a competição, será possível somente quando for tecnicamente viável e economicamente vantajoso, devendo o gestor expor os motivos, e deverão ser considerados: (inc. III, art. 47)
+
+A responsabilidade técnica;
+
+o custo para a Administração de vários contratos frente às vantagens da redução de custos, com divisão do objeto em itens;
+
+o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+
+O parcelamento não será adotado quando:
+
+A economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor;
+
+O objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido;
+
+O processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+
+DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS (Inc. IX, § 1º, art. 18, Lei 14.133/2021)
+
+
+
+Demonstrar os resultados pretendidos com a contratação, em termos de economicidade e aproveitamento dos recursos humanos, materiais e financeiros disponíveis.
+
+Atenção! Requisito não obrigatório. Na ausência apresentar justificativa.
+
+PLANO DE SUSTENTAÇÃO E TRANSIÇÃO CONTRATUAL (Guia CNJ versão 4.0)
+
+Recursos materiais e humanos necessários à continuidade do objeto contratado.
+
+O software será instalado nos computadores de propriedade do Tribunal de Justiça e será utilizado pelos servidores ....
+
+Continuidade do fornecimento da Solução de Tecnologia da Informação e Comunicação em eventual interrupção contratual;
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Atividades de transição contratual e de encerramento do contrato, que incluem, no mínimo a: 
+
+A. entrega de versões finais dos produtos alvos da contratação; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Transferência final de conhecimentos sobre a execução e a manutenção da Solução de Tecnologia da Informação e Comunicação; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Devolução de recursos materiais; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Revogação de perfis de acesso; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Eliminação de caixas postais
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Regras para estratégia de independência do órgão com relação à empresa contratada, que contemplem, no mínimo: 
+
+Forma de transferência de conhecimento tecnológico nos casos de contratação de desenvolvimento de softwares sob encomenda no mercado de TIC; 
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+Direitos de propriedade intelectual e autorais da Solução de Tecnologia da Informação e Comunicação, inclusive sobre os diversos produtos gerados ao longo do contrato, tais como a documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados, justificando os casos em que tais direitos são exclusivos da empresa contratada.
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+PROVIDÊNCIAS PRÉVIAS A CONTRATAÇÃO (Inc. X, § 1º, art. 18, Lei 14.133/21))
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES (Inc. XI, § 1º, art. 18, Lei 14.133/21))
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+IMPACTOS AMBIENTAIS (Inc. XII, § 1º, art. 18, Lei 14.133/21))
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+POSSIBILIDADE DE COMPRA OU DE LOCAÇÃO DE BENS (art. 44, Lei 14.133/21)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+PARTICIPAÇÃO EM CONSÓRCIO (art. 15, Lei 14.133/21)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+VISTORIA/VISITA TÉCNICA (§§ 2º,3º e 4º, art. 63, Lei 14.133/21)
+
+Não se aplica, por se tratar de assinatura de licença de uso de software com entrega imediata.
+
+CUMPRIMENTO DAS RESOLUÇÕES DO CONSELHO NACIONAL DE JUSTIÇA 
+
+Este estudo técnico preliminar está aderente ao § 1º , do artigo 1º, da Resolução CNJ nº 468/2022.
+
+Informar a redação abaixo somente quando o valor da contratação for inferior ao limite para dispensa de licitação.
+
+Art. 1o As contratações de bens e serviços de Solução de Tecnologia da Informação e Comunicação (STIC) realizadas pelos órgãos submetidos ao controle administrativo e financeiro do CNJ com base na Lei no 14.133/2021 serão disciplinadas por esta Resolução.
+
+§ 1o Na contratação cuja estimativa de preços seja inferior ao disposto no art. 75, II, da Lei no 14.133/2021, aplicam-se apenas os arts. 3o e 4o desta Resolução, competindo ao órgão realizar procedimentos simplificados de contratação adequados nos termos da legislação vigente.
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+
+Identificação dos servidores responsáveis pela execução do planejamento da contratação.
+
+Unidade solicitante
+
+<Sigla da unidade solicitante/interessada>
+
+Secretaria/Diretoria responsável
+
+<Secretaria/Diretoria>
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>  - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+Equipe técnica (se houver)
+
+<Nome> - <Cargo> - < Setor >
+
+
+
+Identificação dos servidores responsáveis pela gestão do contrato (art. 72 do Provimento CSM nº 2.724/2023).
+
+Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+Suplente(s) do Gestor do Contrato
+
+<Nome> - <Cargo> - < Setor >
+
+
+
+
+
+PLANO DE RISCOS
+
+O relatório de Plano de Riscos está instruído no processo XXXX/XXXXX.
+
+AVALIAÇÃO CONCLUSIVA (Inc. XIII, § 1º, art. 18, Lei 14.133/21)) / DECLARAÇÃO DE VIABILIDADE DA SOLUÇÃO (Guia CNJ – item 4.11)
+
+Declaramos a viabilidade da contratação da licença de uso do software .....
+
+
+
+O responsável pela elaboração do estudo deverá se posicionar conclusivamente sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+
+“Não se admite uma avaliação conclusiva imprestável, que se reduza a afirmar qua contratação se revela como uma solução adequada. É imprescindível examinar os diferentes tópicos do objeto de exame e daí extrair conclusões fundamentadas, com exposição satisfatória” Marçal Justen Filho, Comentários à Lei de Licitações e Contratações Administrativas, pág. 35, 29.13
+
+
+
+São Paulo, data registrada no sistema.
