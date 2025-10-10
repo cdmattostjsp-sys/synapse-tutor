@@ -1,0 +1,1018 @@
+ 
+  
+ 
+   
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de Serviços de Mão de Obra Para Reparos 
+Gerais  
+Junho| 2023 | 
+ 
+ 
+SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 
+Sumário  
+Introdução  ................................ ................................ ................................ ........................  3 
+1. Tabela de Valores Referenciais – Junho/2023 ................................ .........................  4 
+2. Fonte de Pesquisa  ................................ ................................ ................................ ..... 5 
+3. Jornada de Trabalho  ................................ ................................ ................................ . 6 
+4. Parâmetros de Cálculo ................................ ................................ ..............................  6 
+5. Módulo I – Remuneração  ................................ ................................ .........................  6 
+6. Encargos Previdenciários e T rabalhistas  ................................ ................................ .. 7 
+7. Módulo II – Encargos Previdenciários e FGTS  ................................ ..........................  7 
+8. Módulo III - 13º Salário e Adicional de Férias  ................................ .........................  9 
+9. Módulo IV - Afastamento Maternidade  ................................ ................................ .. 9 
+10. Módulo V - Prov isão para Rescisão  ................................ ................................ .... 10 
+11. Módulo VI - Multa de FGTS  ................................ ................................ ................  11 
+12. Módulo VII - Custo de Reposição do Profissional Ausente  ...............................  12 
+13. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ...........................  13 
+14. Assistência Médica  ................................ ................................ ..............................  14 
+15. Assistência Odontológica  ................................ ................................ ....................  14 
+16. Cesta Básica/Auxílio Alimentação  ................................ ................................ ...... 14 
+17. Norma Regulamentadora Nº 07  ................................ ................................ .........  14 
+18. Materiais  ................................ ................................ ................................ .............  14 
+19. Seguro de Vida  ................................ ................................ ................................ .... 15 
+20. Uniformes, EPI e Ferramentas  ................................ ................................ ............  15 
+21. Vale Refeição  ................................ ................................ ................................ .......  19 
+22. Vale Transporte  ................................ ................................ ................................ ... 20 
+23. Auxílio Creche  ................................ ................................ ................................ ..... 20 
+24. Benefício e Despesas Indiretas  (BDI) ................................ ................................ .. 20 
+25. Custos e Despesas Indiretas  ................................ ................................ ...............  21 
+26. Lucro Bruto  ................................ ................................ ................................ ..........  21 
+27. Despesas Fiscais  ................................ ................................ ................................ .. 22 
+28. Cálcu lo dos dias úteis por mês  ................................ ................................ ...........  24 
+29. Horas extras  ................................ ................................ ................................ ........  24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Aparecida Alves Camilo Amos  
+Coordenadora de Análise de Requisição e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamentos e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições, 
+Orçamentos e Catalogação   
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições, 
+Orçamentos e Catalogação    
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 
+Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários referentes 
+à prestação de  serviços de mão de obra para reparos gerais  no Tribunal de Justiça do Estado de 
+São Paulo.  
+O estudo técnico de composição de custos foi desenvolvido com b ase nas especificações 
+técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de Referência, produzidos pela 
+coordenadoria responsável pelo planejamento e gestão dos contratos de prestação de serviços 
+de mão de obra para reparos gerais.  
+Para os par âmetros de cálculo foram utilizados a convenção coletiva do SINTRACON e 
+SINDUSCON , referências dos cadernos técnicos CADTERC  publicados pelo Governo do Estado 
+de São Paulo, e demais índices estabelecidos na legislação em vigor.  
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 
+1. Tabela de Valores Referenciais – Junho/202 3 
+Código  Descrição  Periodicidade  Unidade  Valor  
+55-0847  Eletricista - 44 horas semanais 
+- seg a sex  Mensal  Posto   8.065,26  
+55-0848  Encanador (a) - 44 horas 
+semanais - seg a sex  Mensal  Posto   7.718,29  
+55-0850  Pintor (a) - 44 horas semanais 
+- seg a sex  Mensal  Posto   6.551,50  
+55-0849  Pedreiro (a) - 44 horas 
+semanais - seg a sex  Mensal  Posto   6.551,50  
+55-0851  Oficial de Manutenção - 44 
+horas semanais - seg a sex  Mensal  Posto   5.684,67  
+55-0730  Supervisor(a) de Reparos 
+Gerais - 44 horas semanais - 
+seg a sex  Mensal  Posto   10.902,28  
+55-0882  Hora Extra Supervisor (a) - 
+Comum - Sob Demanda  Mensal – Sob 
+demanda  Hora   68,90  
+55-0883  Hora Extra Supervisor (a) - 
+Noturno - Sob Demanda  Mensal – Sob 
+demanda  Hora   77,52  
+55-0884  Hora Extra Supervisor (a) - 
+Sábado - Sob Demanda  Mensal – Sob 
+demanda  Hora   76,02  
+55-0885  Hora Extra Supervisor (a) - 
+Domingos e Feriados - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   93,26  
+55-0891  Hora Extra Pintor (a) - Sábado 
+- Sob Demanda  Mensal – Sob 
+demanda  Hora   43,83  
+55-0893  Hora Extra Encanador (a) - 
+Comum - Sob Demanda  Mensal – Sob 
+demanda  Hora   45,19  
+55-0894  Hora Extra Encanador (a) - 
+Noturno - Sob Demanda  Mensal – Sob 
+demanda  Hora   50,83  
+55-0895  Hora Extra Encanador (a) - 
+Sábado - Sob Demanda  Mensal – Sob 
+demanda  Hora   52,31  
+55-0896  Hora Extra Encanador (a) - 
+Domingos e Feriados - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   63,60  
+55-0897  Hora Extra Eletricista - 
+Comum - Sob Demanda  Mensal – Sob 
+demanda  Hora   47,69  
+55-0898  Hora Extra Eletricista - 
+Noturno - Sob Demanda  Mensal – Sob 
+demanda  Hora   53,65  
+55-0899  Hora Extra Eletricista - Sábado 
+- Sob Demanda  Mensal – Sob 
+demanda  Hora   54,80  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 
+55-0900  Hora Extra Eletricista - 
+Domingos e Feriados - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   66,74  
+55-0901  Hora Extra Oficial de 
+Manutenção - Comum - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   30,16  
+55-0902  Hora Extra Oficial  de 
+Manutenção - Noturno - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   33,92  
+55-0903  Hora Extra Oficial de 
+Manutenção - Sábado - Sob 
+Demanda  Mensal – Sob 
+demanda  Hora   37,28  
+55-0904  Hora Extra Oficial  de 
+Manutenção - Domingos e 
+Feriados - Sob Demanda  Mensal – Sob 
+demanda  Hora   44,82  
+ 
+2. Fonte de Pesquisa   
+Para os cálculos de composição de preços dos trabalhadores, foram 
+considerados os valores referentes aos pisos normativos da categoria profissional conforme 
+acordo coletivo em vigor firmado entre o Sindicato dos Trabalhadores nas Indústrias da 
+Construção Civil de São Paulo – SINTRACON -SP, com o Sindicato da Indústr ia da Construção Civil 
+de Grandes Estruturas no Estado de São Paulo - SINDUSCON , com vigência no período de 1º de 
+maio de 202 2 a 30 de abril de 202 4 e a data -base da categoria em 01º de maio . Informações 
+levantadas na Convenção Coletiva de Trabalho (CCT 20 22/202 4) que estabeleceu as negociações 
+previstas para vigorarem de 202 2 a 202 4. 
+ 
+Função  Valor  Piso Salarial  
+Eletricista – 44h semanais – seg a sex  2.283,36  
+Encanador(a) – 44h semanais – seg a sex  2.283,36  
+Pintor(a) – 44h semanais – seg a sex  2.283,36  
+Pedreiro (a) – 44h semanais – seg a sex  2.283,36  
+Oficial de Manutenção – 44h semanais – seg a sex  1.877,00  
+ 
+A CCT da categoria não determina o piso salarial para a função de supervisor. 
+Para elaboração do val or estimativo desta função foi levantando o valor do salário em 3 fontes 
+de pesquisa  e realizada a média das 3 informações encontradas, conforme tabela abaixo:  
+Função  Tabela 1  Tabela 2  Tabela 3  Média  
+Supervisor – 44h semanais – seg a sex  4.667,92  4.369,80  3.827,56  4.288,43  
+ 
+CBO – 9501 -10 – Supervisor de Manutenção eletroeletrônica industrial, comercial e predial  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 
+Tabela 1: site www.salario.com.br  
+Tabela 2: site www.dissidio.com.br  
+Tabela 3: site www.cargos.com.br  
+ 
+Não há publicação específica do CADTERC para serviços de mão de obra para 
+reparos gerais, porém para os valores de referência dos Uniformes  foram utilizados os 
+parâmetros unitários adotados no Caderno de Serviços Terceirizados de Limpeza. E, para o 
+cálculo  do BDI – Benefícios e Despesas Indiretas , foi adotado o padrão existente na maioria das 
+publicações do CADTERC , totalizando um valor de 27,81%.  
+ 
+3. Jornada de Trabalho  
+Conforme Termo de Referência, a jornada de trabalho será de 44 horas 
+semanais, de segunda a sexta -feira, no horário compreendido entre 06:00 e 19:00 horas, com 1 
+hora de intervalo para almoço.  
+ 
+4. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e não devem ser alterados pela licitante 
+quando da elaboração da proposta.  
+Para todos os cálculos foram utilizados o critério de arredondamento 
+matemático com 2 dígitos.  
+ 
+5. Módulo I – Remuneração  
+Item  Descrição  Valor 
+Salário  
+R$ Adicionais  
+R$ Valor 
+Remuneração 
+R$ 
+1 Eletricista - 44 horas semanais - seg a sex   2.283,36   685,01   2.968,37  
+2 Encanador (a) - 44 horas semanais - seg a sex   2.283,36   528,00   2.811,36  
+3 Pintor (a) - 44 horas semanais - seg a sex   2.283,36    2.283,36  
+4 Pedreiro (a) - 44 horas semanais - seg a sex   2.283,36    2.283,36  
+5 Oficial de Manutenção - 44 horas semanais - seg a 
+sex  1.877,00    1.877,00  
+6 Supervisor(a) de Reparos Gerais - 44 horas 
+semanais - seg a sex   4.288,43    4.288,43  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 
+  Para a função de eletricista foi previsto o adicional de periculosidade  de 30% 
+(trinta por  cento)  do salário base , uma vez que o trabalho o expõe a condições perigosas, ainda 
+que em alguns minutos de sua jornada. Cabe ressaltar que tal estimativa, encontra  
+embasamento na Súmula nº 364 do Tribunal Superior do Trabalho . 
+  Para a função de encanador foi previsto o adicional de insalubridade  de 40% 
+(quarenta  por cento) do salário -mínimo  federal . A NR nº 15 – Anexo 14 – Agentes Biológicos  
+estabelece a insalubridade em grau máximo para trabalho ou operações em contato permanente 
+com esgotos.    
+De acordo com a Súmula nº 47 do Tribunal Superior do Trabalho, o trabalho 
+executado em condições insalubres, mesmo que em caráter intermitente, não a bduz o direito à 
+percepção do adicional de insalubridade.   
+Conforme a diretriz da Súmula Vinculante nº 4 do STF, a  base de 
+cálculo  do adicional de insalubridade  é o salário -mínimo  até que sobrevenha legislação 
+específica dispondo em outro sentido, sendo ve dada a determinação de outro parâmetro por 
+decisão judicial.  
+ 
+6. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos previdenciários e trabalhistas a ser aplicado ao total 
+da remuneração é de 72,9 0% conforme demonstrado nos itens 7 a 12.  
+ 
+7. Módulo II – Encargos Previdenciários e FGTS  
+Os percentuais dos encargos previdenciários e FGTS são estabelecidos pela 
+legislação vigente e correspondem às obrigações que incidem diretamente sobre a folha de 
+pagamento.  
+Item Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2 SESI/SESC  1,50%  Art. 30 da Lei n. 8.036/1990 e art. 1º da Lei nº 8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei n. 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei n. 9.424/1996.  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, da 
+Constituição.  
+7 (RAT x FAP) = RAT Ajustado  3,00%  Lei 8.212/91, Lei 10.666/2009 e Resolução MPS/CNPS nº 
+1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 8.154/1990.  
+Total  36,80%   
+RAT (Riscos Ambientais do Trabalho)  - representa a contribuição da empresa, prevista no inciso 
+II do artigo 22 da Lei 8.212/91, e consiste em percentual que mede o risco da atividade 
+econômica, com base no qual é cobrada a contribuição para financiar os benefícios 
+previdenciários decorrente s do grau de incidência de incapacidade laborativa (GIIL -RAT). A 
+alíquota de contribuição para o RAT será de 1% se a atividade é de risco mínimo; 2% se de risco 
+médio e de 3% se de risco grave, incidentes sobre o total da remuneração paga, devida ou 
+credit ada a qualquer título, no decorrer do mês, aos segurados empregados e trabalhadores 
+avulsos. Havendo exposição do trabalhador a agentes nocivos que permitam a concessão de 
+aposentadoria especial, há acréscimo das alíquotas na forma da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere o desempenho da empresa, dentro da respectiva 
+atividade econômica, relativamente aos acidentes de trabalho ocorridos num determinado 
+período. O FAP consiste num multiplicador variável num intervalo contínuo de c inco décimos 
+(0,5) a dois inteiros (2), aplicado com quatro casas decimais sobre a alíquota RAT.  
+RAT Ajustado  - equivale à alíquota que as empresas terão de recolher, sobre o total das 
+remunerações pagas ou creditadas, no decorrer do mês, aos(às) segurados (as) empregados(as) 
+e trabalhadores(as) avulsos(as), a partir de janeiro de 2010, para custear as aposentadorias 
+especiais e aqueles concedidos em razão do grau de incidência de incapacidade laborativa 
+decorrente dos riscos ambientais do trabalho. O cálcul o do RAT ajustado é feito mediante a 
+fórmula (RAT x FAP), com aplicação da máxima ou mínima do FAP (0,5 a 2) sobre as alíquotas de 
+RAT (1% a 3%), tendo como resultado um RAT ajustado entre 0,5% a 6%.  
+Observações:  
+a) O percentual de 3% utilizado no item 7 - SAT (RAT x FAP) foi utilizado somente para 
+estimativa  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições incidentes 
+são apenas a Previdência Social, FGTS e RAT ajustado.  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 
+ 
+ 
+8. Módulo III - 13º Salário e Adicional de Férias  
+Item Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei nº 4.090/1962 e 
+Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e art. 142 da CLT.  
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+ 
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal considerando, que 
+na duração do contrato de 60 meses, o(a) empregado(a) tem 5 meses de férias e labora em 56 
+meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu a rt. 7º, inciso XVII, prevê que as férias sejam 
+pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do mês.  
+Cálculo: (1/3)*(5/56) = 2,98%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 13º salário mais 
+adicional de férias.  
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+9. Módulo IV - Afastamento Maternidade  
+Item Encargo  % Fundamento legal  
+1 Licença maternidade  0,03%  Art. 7º, inciso XVIII, da CF, regulado pelo art. 72 da Lei n. 
+8.213/1991.  
+2 Encargos sociais incidentes  0,01%  - 
+Total  0,04%   
+ 
+Afastamento Maternidade:  afastamento de 120 dias sem prejuízo da remuneração:  
+a) O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+b) Cabem à empresa a Contribuição Patronal, o FGTS e as provisões relativas ao 13º Salário.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 
+c) A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a empresa paga o 
+salário maternidade e compensa no pagamento do Imposto de Renda, não sendo necessário 
+o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009)  
+d) De acordo com dados estatísticos do IBGE, a taxa de natalidade brasileira é de 1,44%. Estima -
+se que 10% das emprega das engravidam em cada ano de execução contratual.  
+e) Considerando -se o custo de encargos como sendo 43,41% da remuneração (CPP 20,00% + 
+SAT 3,00% + 13º Salário 8,93% + FGTS 8,00% + Multa Rescisória 3,48%) e que a licença -
+maternidade dure 6 meses, a provisão para este item corresponde a:  
+Cálculo: (1,44% * 10% * 43,31% * 6/12) = 0,03%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o afastamento 
+maternidade:  
+Cálculo: (36,80%) * (0,03%) = 0,01%  
+10. Módulo V - Provisão para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  0,42%  §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio indenizado  0,03%  - 
+3 Multa FGTS sobre o aviso prévio indenizado  0,02%  - 
+4 Aviso prévio trabalhado  0,04%  Art. 488 da CLT 
+5 Encargos sociais incidentes sobre aviso prévio trabalhado  0,01%   
+6 Multa FGTS sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,08%  Art. 9 da lei 7.238, de 29 de 
+outubro de 1984  
+Total  0,59%   
+Aviso Prévio indenizado: trata‐se de valor devido ao(à) empregado(a) caso o(a) empregador(a) 
+rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, conforme disposto no 
+§1º do art. 487 da CLT. De acordo com levantamento efetuado em diversos contratos, cerca de 
+5% do pessoal é demitido pelo(a) empregador(a), antes do término do contrato de trabalho. 
+(Estudo CNJ – Resolução 098/2009).  
+Cálculo: [(1/12) * 5%] = 0,42%.  
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo  ao período de aviso 
+prévio, trabalhado ou não, está sujeito à contribuição para o FGTS. (Súmula TST nº 305).  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 
+Cálculo: 0,42% * 8% = 0,03%  
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o custo do aviso 
+prévio indenizado (0,42%)  é acrescido da multa do FGTS indenizado (40%), que incide sobre a 
+alíquota do FGTS (8%) aplicada sobre o custo de referência para o aviso indenizado (0,42%).  
+Cálculo: 0,42%*8%*40%=0,01%  
+Aviso prévio trabalhado: corresponde ao valor repassado para pagar ao (à) funcionário(a) 
+enquanto este(a) não trabalha, pois ele(a) percebe o salário referente a 30 dias de serviço, dos 
+quais sete ele(a) tem direito a ausentar‐se para procurar outro emprego ou, se preferir, 
+trabalhar duas horas a menos por dia durante o mês.  Cerca de 2,00% dos(a) trabalhadores(a) 
+cumprem dispensa por aviso -prévio trabalhado.  
+Cálculo: 1/30/12*7*2%= 0,04%  
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o aviso 
+prévio trabalhado:  
+Cálculo: (0,04%) * (36,80%) = 0 ,01%  
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o custo do aviso 
+prévio trabalhado (0,04%) é acrescido da multa do FGTS trabalhado (40%), que incide sobre a 
+alíquota do FGTS (8%) aplicada sobre o custo de referência para o a viso indenizado (0,01%).  
+Cálculo: 0,04%*8%*40%=0,00%  
+Indenização Adicional:  corresponde a uma remuneração mensal para o(a) funcionário(a) 
+demitido sem a apresentação de justa causa, no período de 30 dias antes da data de correção 
+salarial de sua classe pr ofissional, de acordo com o artigo 9 da lei 7.238, de 29 de outubro de 
+1984, ocorrendo em cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+11. Módulo VI - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 
+ 
+O § 1º, do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de despedida 
+pelo(a) empregador (a) sem justa causa, depositará este, na conta vinculada do (a) trabalhador (a) no 
+FGTS, importância igual a quarenta por cento do montante de todos os depósitos realizados na conta 
+vinculada durante a vigência do contrato de trabalho, atualizados monetariament e e acrescidos dos 
+respectivos juros.  
+Estima -se que 10% dos (a) empregados (a) pedem demissão (rescisão a pedido 
+do(a) trabalhador (a)), assim essa penalidade recai sobre os 90% remanescentes. (Estudo CNJ – 
+Resolução 098/2009).  
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+Férias + Adicional de Férias  
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+12. Módulo VII - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do (a) prof issional (a) ausente 
+deve levar em conta todos os custos para manter o (a) funcionário (a) no posto de trabalho, tais 
+como: salário base acrescido dos adicionais e encargos, uniformes, custo de rescisão etc., com 
+exceção dos equipamentos.  
+ 
+Item  Encargo  % Fund amento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,66%  Art. 18 da Lei n. 8.212/1991 e art. 476 da CLT  
+3 Licença paternidade  0,02%  - 
+4 Faltas legais  0,82%  - 
+5 Ausência por acidente de trabalho  0,05% Art. 131 da CLT  
+6 Encargos sociais incidentes  4,22% - 
+Total  15,70%  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 
+Férias: a cada ano são pagos ao(a) empregado(a), além da remuneração mensal, o pagamento 
+de 13º salário e de um mês de férias. Pode -se determinar a provisão mensal considerando que 
+na duração do contrato de 60 meses o empregado tem 5 meses de férias e labora em 56  meses.  
+Cálculo: (5/56) = 8,93%.  
+Ausência por doença: esta parcela refere -se aos dias em que o(a) empregado(a) fica doente e a 
+contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, onera a empresa 
+com até 15 ausências do(a) empreg ado(a) por motivo de acidente ou doença atestada pelo INSS. 
+Entende -se que devem ser adotados 5,96 dias, conforme consta do memorial convertendo esses 
+dias em mês e depois dividi -lo pelo número de meses no ano.  
+Cálculo: (5,96/30) * (1/12) = 1,66%  
+Licença Paternidade : custo de ausência do(a) trabalhador(a) pelo período de cinco dias. Criada 
+pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT. Taxa de natalidade de 
+1,42%conforme dados do IBGE ano de 2015.  
+Cálculo: ((5/30) /12) * 1,42%= 0,02%  
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga o(a) 
+empregador(a) a assumir o ônus financeiro pelo prazo de 15 dias no caso de acidente de trabalho 
+previsto no art. 131 da CLT. De acordo com o anuário estatístico de acidentes de trabalho 
+publicado pela Secretaria de Previdência Social ( 2019 , mais recente) para o estado de São Paulo, 
+seguindo a Classificação Nacional de Atividades Econômicas (CNAE 4321  – Serviços 
+Especializados para Construção – Instalações elétricas, hidráulica s e outras instalações em 
+construções ), houve 13, 05 acidentes para cada 1000 vínculos (1, 305%). 
+Fonte:  https://www.gov.br/trabalho -e-previdencia/pt -br/assuntos/previdencia -social/saude -
+e-seguranca -do-trabalhador/dados -de-acidentes -do-trabalho  
+Cálculo: ((15 /30)/12) x 1, 305%  = 0,0 5% 
+13. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva  
+Os critérios de cálculo dos itens que compõem as obrigações decorrentes de 
+acordo ou convenção coletiva, que por representar patamares mínimos não podem apresentar 
+preços inferiores pela proposta da licitante, com as exceções apontadas nos respectivos iten s. 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 
+Contudo, a indicação de valores maiores não poderá levar à extrapolação do valor total estimado 
+para a contratação.  
+ 
+14. Assistência Médica  
+Não há uma obrigatoriedade de pagamento de assistência médica ou auxílio 
+saúde na convenção coletiva do SINTRACON/SIN DUSCON. Desta maneira, não foi alocado valores 
+a título de assistência médica para os (as) trabalhadores (as).  
+ 
+15. Assistência Odontológica  
+Não há uma obrigatoriedade de pagamento de assistência odontológica na 
+convenção coletiva do SINTRACON/SINDUSCON. Desta maneira, não foi alocado valores a título 
+da referida assistência para os (as) trabalhadores (as).  
+ 
+16. Cesta Básica/Auxílio Alimentação  
+Foi utilizado como referência o valor de R$ 391,40 (trezentos e noventa e um 
+real e quarenta centavos)  mensais previsto na Convenção Coletiva do SINTRACON/SINDUSCON.  
+ 
+17. Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame médico 
+(admissional, periódico e de demissão). Apesar de não constar expressamente na Convenção 
+Coletiva da Categoria, as empresas terão que arcar com essas despesas.  
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + Valor 
+do exame médico e de demissão) / Estimativa do tempo de permanência do (a) funcionário (a) 
+em meses] + (Valor do ex ame médico periódico / 12 meses)} x (Número de funcionários por posto 
+de trabalho + Número de folguistas necessários por mês)  
+Como referência para o presente estudo, adotou -se o valor contido no Caderno 
+de Serviços Terceirizados.  
+Norma Regulamentadora Nº 07 = R$ 8,54  
+18. Materiais  
+Não há previsão para alocação de valores para fins de materiais na contratação 
+de mão de obra para real ização dos serviços de reparos gerais.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 
+ 
+ 
+19. Seguro de Vida  
+A convenção coletiva de trabalho do SINTRACON/SINDUSCON prevê que as 
+empresas contratarão Seguro de Vida em Grupo para os (as) seus/suas empregados (as) efetivos, 
+mediante a contratação de seguradora de  sua livre escolha. O valor é de R$ 12,00 / mensais  por 
+trabalhador.  
+ 
+20. Uniformes , EPI e Ferramentas  
+O valor referencial de cada item descrito  pelo setor requisitante  foi levantado 
+no Estudo do CADTERC de Limpeza  e, para os casos dos itens não encontrados no referido 
+estudo, esses foram apurados em pesquisa de mercado, conforme segue tabela de preços 
+abaixo:  
+Uniformes e EPI  
+ Descrição  Quantidade  Valor Unitário  Valor Total  
+1 Calça de Sarja ou Brim  2 R$ 42,22  R$ 84,44  
+2 Camisa de manga curta  3 R$ 95,48  R$ 286,44  
+3 Camisa de manga longa  2 R$ 120,00  R$ 240,00  
+4 Jaqueta  1 R$ 60,48  R$ 60,48  
+5 Meia  3 R$ 6,18  R$ 18,54  
+6 1 crachá  1 R$ 5,27  R$ 5,27  
+7 Calçado de Segurança  1 R$ 54,34  R$ 54,34  
+TOTAL CONJUNTO  R$ 849,51  
+Valor Mensal/Funcionário   849,51/6= 
+R$ 143,25  
+ 
+Ferramentas – Setor de Alvenaria – Pedreiro (a)  
+ > Ferramental Setor 
+Alvenaria - Pedreiro(a)  Qtde  Valor 
+Unitário *  Valor Total  Vida Útil 
+(meses)  Valor Mensal  
+1 Marreta 1Kg e 2Kg  1  30,40   30,40  60   0,51  
+2  Ponteiro  1  16,60   16,60  60   0,28  
+3  Talhadeira  1  16,60   16,60  60   0,28  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 
+4 Colher de Pedreiro 6” e 
+8” 1  27,37   27,37  60   0,46  
+5  Desempenadeira de 
+plástico corrugada  1  24,90   24,90  60   0,42  
+6  Desempenadeira Inox 
+dentada  1  96,00   96,00  60   1,60  
+7  Nível de mão  1  14,99   14,99  60   0,25  
+8  Prumo de parede  1  30,66   30,66  60   0,51  
+9  Marreta de borracha  1  102,82   102,82  60   1,71  
+10  Martelo  1  65,15   65,15  60   1,09  
+11 Masseira plástica 40 
+litros  1  58,00   58,00  12   4,83  
+12 Esquadro profissional 12 
+polegadas  1  42,90   42,90  60   0,72  
+13  Broxa retangular  1  9,47   9,47  12   0,79  
+14  Bloco de espuma  1  10,79   10,79  6   1,80  
+15 Trena 5 metros  1  22,19   22,19  60   0,37  
+16  Régua alumínio Pedreiro  1  13,39   13,39  60   0,22  
+17  Pá 1  54,00   54,00  60   0,90  
+18  Enxada  1  75,65   75,65  60   1,26  
+19  Picareta  1  69,21   69,21  60   1,15  
+20  Cavadeira articulada  1  70,42   70,42  60   1,17  
+21  Serrote para gesso  1  26,32   26,32  60   0,44  
+22  Lápis carpinteiro  1  3,30   3,30  6   0,55  
+23  Chave fenda  1  20,64   20,64  60   0,34  
+24  Chave Philips  1  26,00   26,00  60   0,43  
+25  Estilete  1  24,90   24,90  60   0,42  
+26  Escova de aço manual  1  17,54   17,54  60   0,29  
+27 Riscadeira de piso 
+100mm  1  249,33   249,33  60   4,16  
+TOTAL CONJUNTO  R$ 1.219,54   
+Valor Mensal/Funcionário  26,94  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 
+Ferramentas – Setor de Hidráulica – Encanador (a)  
+ > Ferramental Setor 
+Hidráulica - Encanador 
+(a) Qtde  Valor 
+Unitário *  Valor Total  Vida Útil 
+(meses)  Valor Mensal  
+1 Marreta 1Kg  1 30,40  30,40  60 0,51  
+2 Ponteiro  1 16,60  16,60  60 0,28  
+3 Talhadeira  1 16,60  16,60  60 0,28  
+4 Arco de serra  1 24,90  24,90  60 0,42  
+5 Chave sede contra sede 
+de válvula  1 135,10  135,10  60 2,25  
+6 Chave fenda  1 20,64  20,64  60 0,34  
+7 Chave Philips  1 26,00  26,00  60 0,43  
+8 Kit maçarico portátil  1 165,90  165,90  30 5,53  
+9 Alicate bomba d’água 10 
+polegadas  1 29,90  29,90  60 0,50  
+10 Jogo de Chave 
+combinada  1 59,90  59,90  60 1,00  
+11 Trena 5 metros  1 22,19  22,19  12 1,85  
+12 Caneta marcadora 
+permanente  1 11,99  11,99  12 1,00  
+13 Grifo 10 pol  1 83,28  83,28  12 6,94  
+14 Grifo  24 pol  1 105,60  105,60  6 17,60  
+15 Grifo 36 pol  1 546,13  546,13  60 9,10  
+16 Chave da bacia 180 graus 
+de rotação  1 79,00  79,00  60 1,32  
+17 Chave multifuncional 
+torneira de pia  1 95,75  95,75  60 1,60  
+TOTAL CONJUNTO  R$ 1.469,88   
+Valor Mensal/Funcionário  50,93  
+ 
+Ferramentas – Setor de Elétrica – Eletricista   
+ > Ferramental Setor 
+Elétrica - Eletricista  Qtde  Valor 
+Unitário *  Valor Total  Vida Útil 
+(meses)  Valor Mensal  
+1 Alicate universal  1 37,90  37,90  60 0,63  
+2 Alicate corte  1 159,90  159,90  60 2,67  
+3 Alicate bico  1 29,90  29,90  60 0,50  
+4 Alicate prensa terminal  1 172,36  172,36  60 2,87  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 
+5 Alicate amperímetro 
+digital  1 66,90  66,90  60 1,12  
+6 Jogo Chave de fenda 
+isolada  1 222,20  222,20  60 3,70  
+7 Jogo Chave Philips 
+isolada  1 117,53  117,53  60 1,96  
+8 Jogo Chave torque  1 50,92  50,92  30 1,70  
+9 Jogo de Chave allen  1 61,70  61,70  60 1,03  
+10 Estilete  1 24,90  24,90  60 0,42  
+11 Trena  1 22,90  22,90  60 0,38  
+12 Caneta marcadora 
+permanente  1 11,90  11,90  12 0,99  
+13 Martelo  1 65,15  65,15  60 1,09  
+TOTAL CONJUNTO  R$ 1.044,16   
+Valor Mensal/Funcionário  19,04  
+ 
+Ferramentas – Setor de Pintura  – Pintor (a)   
+ > Ferramental Setor 
+Pintura - Pintor (a)  Qtde  Valor 
+Unitário *  Valor Total  Vida Útil 
+(meses)  Valor Mensal  
+1 Extensor para rolo de 
+pintura 5 metros  1  145,80   145,80  60   2,43  
+2 Extensor para rolo de 
+pintura 3 metros  1  72,90   72,90  60   1,22  
+3  Porta trincha 
+prolongador para recorte  1  24,58   24,58  60   0,41  
+4  Desempenadeira de aço  1  44,90   44,90  60   0,75  
+5 Espátula de aço 12,7cm  1  13,90   13,90  60   0,23  
+6  Abridor de trincas aço  1  37,20   37,20  60   0,62  
+7 Suporte para rolo 23cm  1  4,55   4,55  60   0,08  
+8 - Caçamba para tinta 10 
+Litros  1  11,28   11,28  12   0,94  
+9  Furadeira SDS Plus 
+Impacto  1  353,99   353,99  120   2,95  
+10  Furadeira Impacto 
+mandril  1  520,50   520,50  120   4,34  
+11  Extensão elétrica  1  57,99   57,99  60   0,97  
+12  Parafusadeira  1  339,00   339,00  120   2,83  
+13  Lixadeira Pequena  1  229,00   229,00  120   1,91  
+14  serra Mármore  1  596,00   596,00  120   4,97  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 
+15  Desentupidora Roto 
+Rooter elétrica  1  183,00   183,00  120   1,53  
+16 Martelete demolidor / 
+rompedor SDS max 30 Kg  1  558,93   558,93  120   4,66  
+TOTAL CONJUNTO  R$ 3.193,52   
+Valor Mensal/Funcionário  30,81  
+ 
+Ferramentas – Supervisor (a)   
+ > Ferramental Supervisor 
+(a) Qtde  Valor 
+Unitário *  Valor Total  Vida Útil 
+(meses)  Valor Mensal  
+1 Multímetro  1  38,79   38,79  60   0,65  
+2 Jogo Chave de fenda  1  222,20   222,20  60   3,70  
+3 Jogo Chave de fenda 
+Phillips  1  117,53   117,53  60   1,96  
+4  Alicate universal  1  37,90   37,90  60   0,63  
+5 Trena 5 metros  1 22,19   22,19  60   0,37  
+TOTAL CONJUNTO  R$ 438,61   
+Valor Mensal/Funcionário  7,31  
+ 
+* Observações:  
+1. custos unitários levantados no site Leroy Merlim em 07/06/2023  
+2. Depreciação com base na tabela da Receita Federal  
+3. Ferramentas do supervisor (informado via Teams pelo setor requisitante em 07/06/23)  
+4. Oficial de manutenção compartilha as ferramentas com os demais trabalhadores (informado via Teams pelo setor requisi tante 
+em 07/06/23)  
+ 
+21. Vale Refeição  
+ Foi utilizado como referência o valor de R$ 26,18 (vinte e seis reais e dezoito 
+centavos)  por dia útil, previsto na Convenção Coletiva Geral do SINTRACON/SINDUSCON.  
+ 
+Vale Refeição – custo mensal  
+Valor Unitário  Desconto do Funcionário  Valor dia  Número de dias estimados  Valor do vale refeição  
+27,56  1,38  26,18  20,67  541,14  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 
+22. Vale Transporte  
+Fica assegurada a concessão de vale -transporte nos termos da legislação 
+vigente, com dedução de 6% sobre o salário base do (a) empregado (a). 
+Vale Transporte – custo mensal  
+Função  Valor 
+Unitário  Dias  Valor 
+Total  Valor Desconto 
+Empregado  Valor Final  
+Eletricista - 44 horas 
+semanais - seg a sex  9,66  20,67  199,67   137,00   62,67  
+Encanador (a) - 44 horas 
+semanais - seg a sex  9,66  20,67  199,67   137,00   62,67  
+Pintor (a) - 44 horas semanais 
+- seg a sex  9,66  20,67  199,67   137,00   62,67  
+Pedreiro (a) - 44 horas 
+semanais - seg a sex  9,66  20,67  199,67   137,00   62,67  
+Oficial de Manutenção - 44 
+horas semanais - seg a sex  9,66  20,67  199,67   112,62   87,05  
+Supervisor(a) de Reparos 
+Gerais - 44 horas semanais - 
+seg a sex  9,66  20,67  199,67   257,31  - 
+ 
+ 
+Cálculo:  
+Valor Mês = Valor Unitário (ida e volta) * Número de Dias estimados  
+Valor Desconto do (a) Funcionário (a) = Salário Base * 0,06  
+Valor do Transporte = Valor Mensal – Valor do (a) Empregado (a) 
+ 
+ 
+ 
+23. Auxílio Creche  
+Não há uma obrigatoriedade de pagamento de Auxílio Creche na convenção 
+coletiva do SINTRACON/SINDUSCON. Desta maneira, não foram alocados valores a título desta 
+assistência para os (a) trabalhadores (a).  
+ 
+24. Benefício e Despesas Indiretas  (BDI)  
+O benefício e despesas indiretas  é o elemento orçamentário destinado a cobrir 
+todas as despesas da  prestação de serviços, segundo critérios claramente definidos, é composto 
+pelos custos e despesas indiretas, lucro bruto e despesas fiscais tais como: PIS, COFINS e ISSQN.  
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  21 
+25. Custos e Despesas Indiretas   
+Os Custos Indiretos são todos os gastos envolvidos diretamente na execução 
+dos serviços, que podem ser caracterizados e quantificados, mas não são passíveis de serem 
+apropriados a uma fase específica, a exemplo de supervisor, preposto para acompanhamento 
+do contrato etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, são 
+gastos devidos à estrutura administrativa e à organização da empresa que resultam o rateio 
+entre os diversos contr atos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são gastos 
+com seguros legais tais como o seguro de responsabilidade civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrat ivo;  
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas/indiretas adotada é de 5,81% , conforme 
+estudos realizados pelo Caderno de Serviços Terceirizados – Limpeza - Volume 3 - Versão 5 - 
+Dezembro/2021, sendo 0,50% para cobrir o Seguro Responsabilidade Civil e 5,31% para 
+remune rar os demais custos e despesas.  
+ 
+26. Lucro Bruto  
+O lucro bruto no BDI é representado por uma taxa incidente sobre o total geral 
+dos custos e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.  
+A taxa de lucro bruto adotada é de 7,20% , conforme estudos realizados pelo 
+CADTERC.  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  22 
+27. Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como PIS, COFINS 
+e ISSQN:  
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio 
+do Servidor Público : São contribuintes do PIS, segundo as regras vi gentes, as 
+pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cálculo da 
+contribuição é a receita bruta mensal, assim entendida a totalidade das 
+receitas auferidas pela pessoa j urídica, sendo irrelevante o tipo de atividade 
+por ela exercida e a classificação contábil adotada para as receitas (Art. 1º da 
+Lei Federal nº 10.637/2002);   
+A alíquota do PIS/PASEP  1,65%  (art. 2º da Lei Federal nº 10.637, de 2002 ), 
+conforme enquadramento da empresa nos termos da lei.   
+  
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base 
+de cálculo da COFINS é composta pela totalidade das receitas auferidas pela 
+pessoa jurídica, independentemente da atividade exercida e da classificação  
+contábil das receitas.   
+A alíquota do COFINS é de 7,60%  (art. 2° da Lei Federal nº 10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato gerador a 
+prestação de serviços constantes da lista anexa à  Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade preponderante 
+do prestador.  
+Art. 3o   O serviço considera -se prestado, e o imposto, devido, no 
+local do estabelecimento prestador ou, na falta do 
+estabelecimento, no local do domicílio do (a) prestador (a), 
+exceto nas hipóteses previstas nos incisos I a XXV, quando o 
+imposto será devido no local:  
+ [...] 
+XX – do estabelecimento do (a) tomador (a) da mão -de-obra ou, 
+na falta de estabelecimento, onde ele (a) estiver domiciliado (a), 
+no caso dos serviços descritos pelo subitem 17.05 da lista anexa:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  23 
+[...] 
+Item 17.05 – Fornecimento de mão -de-obra, mesmo em caráter 
+temporário, inclusive de empregados (as) ou trabalhadores (as), 
+avulsos (as) ou temporários (as), contratados (as) pelo (a) 
+prestador (a) de serviço.  
+No caso da prestação de serviços de mão de obra para reparos gerais foi 
+utilizada a  alíquota de 2%.  
+A importância  da demonstração das alíquotas de BDI torna mais transparente 
+os custos envolvidos na contratação, com a indicação dos percentuais de impostos incidentes, 
+lucro e despesas administrativas. Além de facilitar eventuais ajustes d e valores contratuais, caso 
+haja alteração de alíquotas impostas pela legislação, facilitando a apuração de pedidos de 
+reequilíbrio econômico -financeiro.   
+ 
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa_adm)  5,81%  
+2 Lucro Bruto (taxa_lucro)  7,20%  
+3 PIS 1,65%  
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  24 
+ 
+28. Cálculo dos dias úteis por mês  
+Para o presente estudo, a quantidade de dias úteis estimados por mês foi de 
+20,67 dias/mês para as funções que exercem trabalho de Segunda a Sexta -Feira.  
+ 
+ 
+29. Hora s extra s 
+Conforme a Convenção Coletiva de Trabalho , foi adotado o adicional de 60%  
+(sessenta por cento) sobre o valor da hora normal para fins de remuneração das horas extras 
+comuns. Conforme a CLT, a duração diária do trabalho poderá ser acrescida em até 2 (duas) 
+horas extras.  
+Para as  horas extras noturnas, adotou -se o adicional de trabalho noturno 
+previsto na CLT de 20% (vinte por cento) somado ao adicional de horas extras de 60% (sessenta 
+por cento) .  
+Para as horas extras realizadas em Domingos e Feriados o adicional adotado 
+foi de 100% (cem por cento) .  
+Adicionalmente ao custo das horas extras, também foi estimado os valores 
+proporcionais de vale-refeição e vale -transporte  para cada hora extra realizada  aos sábados, 
+domingos e feriados . 
+Valor proporcional vale -transporte = Valor vale -transporte / 8 horas  
+Valor proporcional vale -refeição = Valor vale -refeição / 6 horas  
+ 
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  25 
+Adotou -se esta metodologia simplificada de cálculo uma vez que  se torna 
+impossível  a previsão da quantidade de horas extras que cada trabalhador realizará nestas datas 
+e como serão subdivididas  em dias.  
+A. Cálculo do valor da hora extra comum  = (salário /220 horas) * 1,60 * (1+ % 
+encargos  sociais e  trabalhistas) * (1+ %  BDI)  
+B. Cálculo do valor da hor a extra aos sábados  = (salário /220 horas) * 1,60 * 
+(1+ % encargos  sociais e  trabalhistas) * (1+ %BDI) + [(vale -transporte/8 horas) + (vale -refeição/6 
+horas) ] * (1+ %BDI)  
+C. Cálculo do valor da hora extra noturna = (salário /220 horas) * 1,60 * 1,20 * 
+(1+ % encargos  sociais e  trabalhistas) * (1+ %BDI)  
+D. Cálculo do valor da hora extra aos domingos e feriados = (salário  /220 horas) 
+* 2,00 * (1+ % encargos  sociais e  trabalhistas) * (1+ %BDI) + [(vale -trans porte/8 horas) + (vale -
+refeição/6 horas)] * (1+ %BDI)  
+ 
+ 

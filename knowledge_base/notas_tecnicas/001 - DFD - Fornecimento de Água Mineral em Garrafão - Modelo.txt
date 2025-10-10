@@ -1,0 +1,209 @@
+DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA (DFD)
+
+(Contratação Ordinária - Lei nº 14.133/2021 e Provimento nº 97/2022)
+
+
+
+
+
+Processo CPA nº
+
+0000/00000000
+
+Nº PCA
+
+000/0000
+
+Unidade demandante:
+
+
+
+Responsável:
+
+[gestor de planejamento da contratação]
+
+Data estimada da contratação
+
+[previsão de data em que deve ser iniciada a prestação dos serviços ou a entrega do bem]
+
+Grau de Prioridade
+
+Alto
+
+Tipo de contratação
+
+Contratação recorrente
+
+OBJETO
+
+Fornecimento de água mineral em garrafão de 20 litros para atender as regiões administrativas do Tribunal de Justiça. [informar o local, lote ou RAJ]
+
+DESCRIÇÃO RESUMIDA DA DEMANDA (Inc. I do art. 4º do Provimento nº 97/2022)
+
+O presente estudo visa a contratação de empresa especializada para fornecimento e entrega de água mineral, sem gás, inodora, incolor e insípida, de fonte natural, em garrafões com capacidade de 20 litros, em comodato, para atender a demanda de consumo do público interno e externo a serem distribuídos nas unidades que compõem às 10 Regiões Administrativas do Tribunal de Justiça do Estado de São Paulo. [informar o local, lote ou RAJ].
+
+ALINHAMENTO COM O PLANEJAMENTO ESTRATÉGICO (Inc. III do art. 4º do Provimento nº 97/2022)
+
+A contratação pretendida está aderente aos seguintes objetivos do planejamento estratégico do Tribunal de Justiça do Estado de São Paulo, anos 2021-2026:
+
+8. Aprimorar a governança da área de infraestrutura, contratos e abastecimento
+
+12. Aprimorar os processos de trabalhos administrativos
+
+19. Promover a sustentabilidade
+
+21. Elevar o índice de transparência
+
+O Planejamento Estratégico poderá ser consultado no endereço: https://www.tjsp.jus.br/QuemSomos/PlanejamentoEstrategico.
+
+JUSTIFICATIVA DA CONTRATAÇÃO (Inc. IV do art. 4º do Provimento nº 97/2022)
+
+Esta contratação visa atender a demanda de consumo do público interno e externo das unidades administrativas e judiciais que compõem às 10 Regiões Administrativas do Tribunal de Justiça do Estado de São Paulo, considerando que a água é gênero de primeira necessidade e indispensável para hidratação do corpo humano, com fornecimento contínuo de água mineral em garrafão de 20 litros.
+
+ESTIMATIVA DA QUANTIDADE PARA A CONTRATAÇÃO (Inc. V do art. 4º do Provimento nº 97/2022)
+
+Lote
+
+Descrição do lote
+
+Qtde estimada mensal
+
+Qtde estimada para 30 meses 
+
+1
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+...
+
+ 
+
+ 
+
+ 
+
+n
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+
+0
+
+0
+
+ESTIMATIVA PRELIMINAR DO VALOR DA CONTRATAÇÃO
+
+O valor estimado da contratação: R$0,00 (...)
+
+Obs: indicar o mesmo valor lançado no PCA/POS 
+
+CÓDIGOS DO BEM OU SERVIÇO
+
+Código
+
+Descrição
+
+Unidade de Fornecimento
+
+15.0007
+
+Água mineral natural sem gás - garrafão de 20 litros
+
+Garrafão 20 lts.
+
+VINCULAÇÃO OU DEPENDÊNCIA (Inc. XI do art. 4º do Provimento nº 97/2022)
+
+Não há contratações correlatas e/ou interdepedentes ao objeto que poderá impactar na execução contratual e até mesmo na homologação do objeto, tendo em vista que há bebedouros para garrafão de água nas unidades administrativas.
+
+SUSTENTABILIDADE (Inc. XIV do art. 4º do Provimento nº 97/2022)
+
+Meta 4.1 – reduzir em 15% o consumo de água mineral envazada de 2019 a 2026.
+
+
+
+CONTRATAÇÃO COMPARTILHADA (Inc. XIII do art. 4º do Provimento nº 97/2022)
+
+Esta contratação não é passível de compra compartilhada com outros órgãos da Administração Pública, tendo em vista que o fornecimento e distribuição será destinado às unidades judiciais e administrativas do Tribunal de Justiça.
+
+CONTRATOS EM SUBSTITUIÇÃO 
+
+No caso de substituição de contrato(s), informar os dados no quadro abaixo:
+
+Nº do Contrato
+
+Objeto
+
+Término da Vigência
+
+000.000/000-CT
+
+[descrição resumida do objeto]
+
+00/00/0000
+
+
+
+
+
+
+
+EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO (Inc. II do art.13 do Provimento CSM nº 2.724/2023)
+
+Servidores que integrarão a equipe de planejamento da contratação:
+
+Gestor de Planejamento
+
+<Nome> - <Cargo> - <Setor>
+
+Equipe de planejamento da contratação
+
+<Nome> - <Cargo>  - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+<Nome> - <Cargo> - < Setor >
+
+São Paulo, data registrada em sistema.
+
+(Assinatura eletrônica do responsável)
+
+
+
+Designo a equipe de planejamento da contratação acima indicada.
+
+Secretário/Secretária de ....
+
+(Assinatura eletrônica do responsável)
+
+
+
+
+
+2
+
+2Versão 02/2024
+
+
+
+|

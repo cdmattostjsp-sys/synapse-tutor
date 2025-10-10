@@ -1,0 +1,833 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de serviços de manobristas |Fevereiro |2025| 
+ TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+ SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 
+ 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+ 
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisição e Pesquisa de Preços  
+ 
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+ 
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamentos e 
+Catalogação  
+ 
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário  
+ 
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário  
+ 
+André Tadeu Stocco Golanda  
+Administrador Judiciário  
+ 
+Renata Mateus Teixeira  
+Contador Judiciário  
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 
+Sumário  
+Introdução  ................................ ................................ ................................ ..........  3 
+1 Objeto de Contratação  ................................ ................................ .............  4 
+2 Valores Referenciais  ................................ ................................ .................  4 
+3 Piso Salarial  ................................ ................................ ...............................  4 
+4 CBO – Classificação Brasileira de Ocupações  ................................ ...........  4 
+5 Jornada de Trabalho  ................................ ................................ .................  5 
+6 Planilha de Composição de Custos  ................................ ...........................  5 
+7 Encargos previdenciários e trabalhistas  ................................ ...................  6 
+7.1 Módulo I – Encargos Previdenciários e FGTS  ................................ .......  6 
+7.2 Décimo terceiro salário e adicional de férias  ................................ .......  8 
+7.3 Licença Maternidade  ................................ ................................ ............  9 
+7.4 Módulo IV - Provisão para Rescisão  ................................ ...................  10 
+7.5 Multa do FGTS  ................................ ................................ ....................  12 
+7.6 Custo de Reposição do Profissional Ausente  ................................ ..... 13 
+8 Desconto por dia útil não trabalhado ................................ .....................  16 
+9 Vale Refeição  ................................ ................................ ..........................  16 
+10 Auxílio Alimentação  ................................ ................................ ................  17 
+11 Benefício Socioeconômico  ................................ ................................ ...... 17 
+12 Benefício Assistencial de Prevenção à Saúde (BAPS)  .............................  17 
+13 Auxílio -creche  ................................ ................................ .........................  17 
+14 Vale Transporte  ................................ ................................ ......................  17 
+15 Uniformes  ................................ ................................ ...............................  17 
+16 Benefício e Despesas Indiretas  (BDI)  ................................ ......................  18 
+17 Custos e Despesas Indiretas  ................................ ................................ ... 18 
+18 Lucro Bruto  ................................ ................................ .............................  19 
+19 Despesas Fiscais  ................................ ................................ ......................  19 
+20 Cálculo dos dias úteis por mês  ................................ ...............................  21 
+21 Retenção de encargos trabalhistas  ................................ ........................  22 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 
+ 
+Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários 
+referente à prestação de  serviços de  manobristas  no Tribunal de Justiça do Estado de 
+São Paulo.  
+O estudo técnico de composição de custos foi desenvolvido com base nas 
+especificações técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de 
+Referência, produzidos pela coordenador ia responsável pel o planejamento e gestão dos 
+contrato s de prestação de serviços de  manobristas.  
+Para os parâmetros de cálculo foram utilizados a convenção coletiva da 
+categoria de SINDIFICIOS, Estudos do C ADTERC publicados pelo Governo do Estado de 
+São Paulo, e demais índices estabelecidos na legislação em vigor.  
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 
+ 
+1 Objeto de Contratação  
+Contratação de empresa para fornecer mão de obra especializada na prestação 
+de serviços de Manobristas . 
+2 Valores Referenciais  
+Função  Valor Mensal Posto  
+Manobristas 44h semanais - seg a sex  R$ 5.903,85 
+3 Piso Salarial  
+Para o cálculo da estimativa da composição de preços, utilizamos como 
+referência o valor da remuneração dos Manobristas constante na Convenção Coletiva 
+de Trabalho 2024/2025  do SINDIFICIOS , celebrado entre o SINDICATO DOS 
+CONDOMINIOS DE PR. E EDIF. COM. IND. RES. E MISTOS INTERM.DO EST.DE SÃO PAULO 
+e o SIND EMP DE EDIF SP ZEL PORT CAB VIG FAX SERV E OUTROS, com vigência no 
+período de 1º de Outubro de 202 4 a 30 de Setembro de 2025  e a data -base da categoria 
+em 1º de Outubro.  
+Piso Salarial Manobristas  R$ 1. 968,16  
+ 
+4 CBO – Classificação Brasileira de Ocupações  
+A Classificação Brasileira de Ocupações - CBO, instituída por portaria ministerial 
+nº. 397, de 9 de outubro de 2002, tem por finalidade a identificação das ocupações no 
+mercado de trabalho, para fins classificatórios junto aos registros administrativos.  
+Considerando as atribuições exigidas para o posto de trabalho no Termo de 
+Referência, o Código Brasileiro de Ocupações compatível é o de nº 5141 -10 – 
+Garagista/Manobrista .  
+5 - TRABALHADORES DOS SERVIÇOS, VENDEDORES DO COMÉRCIO EM LOJAS E 
+MERCADOS  
+51 - TRABALHADORES DOS SERVIÇOS  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 
+514 - TRABALHADORES NOS SERVIÇOS DE ADMINISTRAÇÃO, CONSERVAÇÃO E 
+MANUTENÇÃO DE EDIFÍCIOS E LOGRADOUROS  
+5141 -Trabalhadores nos serviços de administração de edifícios  
+514110 - Garagista  
+Descrição Sumária - Zelam pela segurança das pessoas e do patrimônio de 
+edifícios de apartamentos, edifícios comerciais, igrejas e outros. atendem e controlam a 
+movimentação de pessoas e veículos no estacionamento; recebem objetos, mercadorias, 
+materiais, equipamentos; conduz em o elevador, realizam pequenos reparos.  
+Formação e Experiência - O exercício dessas ocupações requer ensino 
+fundamental. os profissionais aprendem a profissão no próprio emprego. a(s) 
+ocupação(ões) elencada(s) nesta família ocupacional demanda formação profissional 
+para efeitos do cálculo do número de aprendizes a serem  contratados pelos 
+estabelecimentos, nos termos do artigo 429  da consolidação das leis do trabalho - clt, 
+exceto os casos previstos no art. 10 do decreto 5.598/2005.  
+Condições Gerais de Exercício - São trabalhadores assalariados, com carteira 
+assinada. trabalham em ambiente fechado e a céu aberto. organizam -se em equipe e 
+são supervisionados permanentemente ou ocasionalmente, dependendo do serviço 
+executado. trabalham em horários diurnos,  noturnos e em regime de rodízio de turno.  
+ 
+Fonte:  mtecbo.gov.br e https://www.ocupacoes.com.br/cbo -mte/514110 -garagista   
+5 Jornada de Trabalho  
+Conforme Te rmo de Referência, a jornada de trabalho do Manobrista será de 
+44 (quarenta  e quatro ) horas semanais , de segunda -feira a sexta -feira . 
+6 Planilha de Composição de Custos  
+A planilha de composição de custos foi dividida em módulos e a metodologia 
+de cálculo para os índices adotados foram estabelecidos pela legislação trabalhista em 
+vigor, pesquisa de mercado, sindicato da categoria, estudos do CADTERC, Conselho 
+Nacional de Justiça e pela Diretoria de Controle Interno do Tribunal de Justiça do Estado 
+de São Paulo.  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 
+7 Encargos previdenciários  e trabalhistas  
+De acordo com as publicações do CADTERC, s ão classificados como encargos 
+sociais os custos incidentes sobre a folha de pagamento das empresas. Tais custos são 
+provenientes de leis asseguradas pela Constituição Federal de 1988, da Consolidação 
+das Leis Trabalhistas, ou mesmo de acordos firmados em convenções coletivas de 
+trabalho da categoria representativa.  Considerando os encargos relativos à contratação 
+de serviços com dedicação exclusiva de mão de obra no Estado de São Paulo para 
+trabalhadores contratado s sob o regime de remuneração mensal , é importante salientar 
+que a determinação do cálculo dos percentuais dos encargos associados ao emprego 
+está amparada em estatísticas específicas do setor para o Estado de São Paulo. Nesses 
+termos, as informações extraídas junto ao Ministério do Trabalho e Previdência, através 
+do Cadastro Geral de Empregados e Desempregados (CAGED) e da Relação Anual de 
+Informações Sociais (RAIS), estão enquadradas no código da Classificação Nacional de 
+Atividades Econômicas 8111 – Serv iços combinados para apoio a edifícios, exceto 
+condomínios prediais . Acrescenta -se, ainda, que os encargos estão suportados por 
+dados populacionais regionais coletados junto ao SEADE, além de conceitos 
+estabelecidos nas legislações previdenciária e tributária vigentes . Outro aspecto 
+fundamental deliberado na determinação dos encargos sociais refere - se à atribuição de 
+idade mínima de 18 (dezoito) anos para o provimento de todos os postos de trabalho 
+envolvidos na Prestação de Serviços de  Manobristas.  
+A somatória percentual dos encargos previdenciários e trabalhistas totalizou 
+78,13 %. O percentual será aplicado ao total da remuneração e está demonstrado nos 
+itens 7.1 a 7.6 que seguem.  
+7.1 Módulo I – Encargos Previdenciários e FGTS  
+Engloba as obrigações que, por lei, incidem diretamente sobre a folha de 
+pagamento das empresas e, como tal, recaem sobre o total da remuneração devida aos 
+empregados do setor. Estão contemplados neste grupo a contribuição com a 
+Previdência Social, FGTS, s alário -educação, Seguro Contra Riscos e Acidentes, além de 
+recolhimentos para instituições de natureza pública como SESI, SENAI, Incra e Sebrae. 
+Estes percentuais incidem diretamente sobre a folha de pagamento.  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 
+I
+tem Encargo  % Fundamento legal  
+1  Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2  SESI/SESC  1,50%  Art. 30 da Lei n. 8.036/1990 e art. 1º da Lei nº 8.154/1990.  
+3  SENAI/SENAC  1,00%  Decreto Lei n. 2.318/1986.  
+4  INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei n. 9.424/1996.  
+ 6  FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, da Constituição.  
+7 (RAT x FAP) = RAT Ajustado  3,00%  Lei 8.212/91, Lei 10.666/2009 e Resolução MPS/CNPS nº 
+1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 8.154/1990.  
+Total módulo I  36,8 0%  
+RAT (Riscos Ambientais do Trabalho)  - representa a contribuição da empresa, 
+prevista no inciso II do artigo 22 da Lei 8.212/91, e consiste em percentual que mede o 
+risco da atividade econômica, com base na qual é cobrada a contribuição para financiar 
+os benefícios previdenciários decorrente s do grau de incidência de incapacidade 
+laborativa (GIIL -RAT). A alíquota de contribuição para o RAT será de 1% se a atividade é 
+de risco mínimo; 2% se de risco médio e de 3% se de risco grave, incidentes sobre o total 
+da remuneração paga, devida ou credit ada a qualquer título, no decorrer do mês, aos 
+segurados empregados e trabalhadores avulsos. Havendo exposição do trabalhador a 
+agentes nocivos que permitam a concessão de aposentadoria especial, há acréscimo das 
+alíquotas na forma da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere o desempenho da empresa, 
+dentro da respectiva atividade econômica, relativamente aos acidentes de trabalho 
+ocorridos num determinado período. O FAP consiste num multiplicador variável num 
+intervalo contínuo de cinco décimos (0,5) a dois inteiros ( 2), aplicado com quatro casas 
+decimais sobre a alíquota RAT.  
+RAT Ajustado  - equivale à alíquota que as empresas terão de recolher, sobre o 
+total das remunerações pagas ou creditadas, no decorrer do mês, aos segurados 
+empregados e trabalhadores avulsos, a partir de janeiro de 2010, para custear as 
+aposentadorias especiais e aque les concedidos em razão do grau de incidência de 
+incapacidade laborativa decorrente dos riscos ambientais do trabalho. O cálculo do RAT 
+ajustado é feito mediante a fórmula (RAT x FAP), com aplicação da máxima ou mínima 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 
+do FAP (0,5 a 2) sobre as alíquotas de RAT (1% a 3%), tendo como resultado um RAT 
+ajustado entre 0,5% a 6%.  
+Observações:  
+a) O percentual de 3% utilizado no item 7 - SAT (RAT x FAP) foi utilizado somente 
+para estimativa  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+7.2 Décimo terceiro salário e adicional de férias  
+Item  Encargo  % Fundamento legal  
+1 13º Salário  8,93 % Art. 7º, inciso VIII, da Constituição 
+Federal, Lei nº 4.090/1962 e Lei nº 
+7.787/1989.  
+2 Abono de Férias  2,98 % Inciso XVII do art. 7º da Constituição 
+Federal e art. 142 da CLT.  
+3 Encargos sociais incidentes  4,38%  
+Total módulo II  16,29%  
+Entendemos que a metodologia mais adequada seria aquela utilizada pelo 
+Conselho Nacional de Justiça (CNJ) - [(5/56) x 100] = 8,93%, tendo em vista que durante 
+os sessenta meses de vigência contratual o empregado residente adquire o direito a 
+cinco períodos de férias, laborando cinquenta e seis meses por isso a fração 5/56.   
+Essa situação gera duas consequências imediatas: a primeira é que o último 
+período de férias será, em regra, indenizado caso o empregado residente tenha o 
+contrato de trabalho rescindido pela empresa contratada ao final da vigência 
+contratual.   
+A segunda relaciona -se com o número de vezes em que o “empregado 
+folguista” substituirá o empregado residente durante os sessenta meses de vigência 
+contratual: apenas em quatro oportunidades, pois o quinto período de férias, conforme 
+anterior, será indeniz ado.   
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60 meses, o empregado tem 5 meses de 
+férias e labora em 56 meses.  
+Cálculo: (5/5 6) x 100 = 8,93 %. 
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que 
+as férias sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do 
+mês.  
+Cálculo: (1/3)*(5/5 6) x 100 = 2,98 %. 
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+13º salário mais adicional de férias.  
+Cálculo: ( 9,09+3,03 ) * 36,8% = 4, 38 
+7.3 Licença Maternidade  
+Item  Encargo  % Fundamento legal  
+1 Encargos sociais incidentes  sobre licença maternidade  0,05%  
+Total módulo III  0,05%  
+Afastamento Maternidade : afastamento de 120 dias sem prejuízo da 
+remuneração. Afastamento maternidade: Artigo 7º, XXI, da CF/1988, arts. 392, 477, 487 
+e 491 da CLT; Lei 13.467/2017. Não considerada a prorrogação facultada pela Lei 
+11.770/2008 (Empresa Cidadã) . 
+O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+Durante esse período, a empregada recebe o salário -maternidade, que é pago 
+pelo INSS, e não pela empresa. O valor correspondente à licença -maternidade é 
+repassado à trabalhadora pela Previdência Social, seja diretamente ou por meio da 
+empresa, que posterio rmente compensa o valor pago com as contribuições ao INSS.  
+A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a 
+empresa paga o salário maternidade e compensa no pagamento do Imposto de Renda, 
+não sendo necessário o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009).  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 
+Incidência do FGTS sobre o afastamento maternidade: 8% * 0, 6148 % = 
+0,0491% =~0,05%  
+Afastamento do emprego – Licença -maternidade – Fonte: CADTERC  
+Dias de afastamento  120 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento  81,5254 dias  
+Proporção de mulheres na categoria profissional em análise  37,73%  
+Proporção de mulheres aptas a procriar na categoria 
+profissional em análise  79,26%  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias efetivos de afastamento por licença -maternidade no ano  1,3585  
+Total de dias efetivamente trabalhados no ano  220, 9612  
+ % de Licença -Maternidade  0,6148 % 
+ 
+7.4 Módulo IV - Provisão  para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  4,33 % §1º do art. 487 da CLT  
+2 
+ Incidência FGTS sobre o aviso prévio indenizado  0,35%  
+3 Multa FGTS + contribuição social sobre o aviso prévio indenizado  0,14%  
+4 Aviso prévio trabalhado  0,01% Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso prévio trabalhado  
+ 0,00%  
+6 Multa FGTS + contribuição social sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,08%   
+8 Multa FGTS sobre os depósitos de FGTS  0,92%   
+Total módulo IV  5,83 %  
+Aviso -Prévio indenizado: trata‐se de valor devido ao empregado caso o 
+empregador rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, 
+conforme disposto no §1º do art. 487 da CLT. De acordo com  o Anexo VII da IN nº 05, de 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 
+26 de maio de 2017 a proporção de trabalhadores que cumprem aviso -prévio 
+indenizado é 98%.  
+Aviso-prévio indenizado – Fonte: CADTERC  
+Proporção de trabalhadores que cumprem aviso -prévio 
+indenizado  98%  
+Proporção de demissões sem justa causa no ano  27,1388%  
+Duração do aviso -prévio – Lei 12.506/2011 (dias)  36 dias 
+Total de dias efetivamente trabalhados no ano  220, 9612  
+ % de aviso -prévio indenizado  4,3330%  
+Incidência do FGTS sobre aviso prévio indenizado:  O pagamento relativo ao 
+período de aviso prévio, trabalhado ou não, está sujeito a contribuição para o FGTS. 
+(Súmula TST nº 305).  
+Cálculo: 4,3330 %* 8% = 0, 3470%=~0,35%  
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o 
+custo do aviso prévio indenizado 0, 35% (zero vírgula quarenta e dois por cento)  é 
+acrescido da multa do FGTS indenizado 40%  (quarenta por cento) , que incide sobre a 
+alíquota do FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso 
+indenizado 0,42%  (zero vírgula quarenta e dois por cento) . 
+Cálculo: 4,3330 %*8%*4 0%=0, 1385%=~0,14%  
+Aviso -prévio trabalhado: corresponde ao valor repassado para pagar ao 
+funcionário enquanto este não trabalha, pois ele percebe o salário referente a 30 dias 
+de serviço, dos quais sete ele tem direito a ausentar‐se para procurar outro emprego 
+ou, se preferir, trabalhar duas horas a  menos por dia durante o mês (não há prejuízo da 
+remuneração). Cerca de 2,00% dos trabalhadores cumprem dispensa por aviso -prévio 
+trabalhado, conforme norma Anexo VII da IN nº 05, de 26 de maio de 2017.  
+Aviso-prévio trabalhado – Fonte: CADTERC  
+Dias de ausências facultadas ao empregado no cumprimento 
+de aviso -prévio trabalhado  7 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de ausência por aviso -prévio  4,7556 dias  
+Percentual de aviso -prévio trabalhado  2% 
+Proporção de demissões sem justa causa no ano  27,14%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 
+Dias efetivos de afastamento por cumprimento do aviso -
+prévio trabalhado no ano  0,0258 
+ % de aviso -prévio trabalhado  0,01 16% 
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS 
+sobre o aviso -prévio trabalhado:  
+Cálculo: (0,0 1%) * (36,80%) = 0,0 01% = ~ 0,00%  
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o 
+custo do aviso prévio trabalhado 0,04 % (zero vírgula quatro por cento)  é acrescido da 
+multa do FGTS trabalhado 40%  (quarenta por cento) , que incide sobre a alíquota do 
+FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso indenizado 
+0,01%  (zero vírgula um por cento) . 
+Cálculo: 0,0 1%*8%*40%=0,00 032% com arredondamento de 2 dígitos, o valor 
+é de 0,00%  
+Indenização Adicional:  Art. 9º da Lei nº 7.238, de 29 de outubro de 1984 - O 
+empregado dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a 
+data de sua correção salarial, terá direito à indenização adicional equivalente a um 
+salário mensal. O índice de ocorrência deste fato é cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+Multa FGTS sobre os depósitos do FGTS:  aplicação da multa do FGTS sobre os 
+depósitos de FGTS para afastamento maternidade 0,61 % (zero vírgula sessenta e um ), 
+ausência por enfermidade ≤ 15 dias 1,54% (um vírgula cinquenta e quatro por cento), 
+licença -paternidade 0,03% (zero vírgula zero três por cento), faltas legais 0,91% (zero 
+vírgula noventa e um por cento) e acidentes de trabalho 0,08% (zero vírgula zero oito 
+por cento).  
+Cálculo: 8%*40%*27,7988%*(1+(0, 61%+1,54%+0,0 5%+0,91%+0,0 3%)) = 0,92%  
+7.5 Multa do FGTS  
+A Lei Complementar nº 110, de 29 de junho de 2001, acrescentou 10,00% à 
+contribuição anteriormente adotada perfazendo multa de 50% da soma dos depósitos 
+do FGTS, no caso de rescisão sem justa causa. Estima -se que 10% dos empregados 
+pedem demissão (rescisão  a pedido do trabalhador), assim essa penalidade recai sobre 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 
+os 90% remanescentes. ( Estudo STJ – Modelo de Planilhamento de Custos e de formação 
+de preços, pág 67 ).  
+Item   Encargo   %  Fundamento legal   
+1  Remuneração   2,88%     
+2  Férias + Adicional de 
+Férias   0,34%     
+3  13º Salário   0,26%     
+Total módulo V   3,48%     
+ 
+Remuneração   
+Cálculo: (1*8%*40%*90%) = 2,88%   
+Férias + Adicional de Férias   
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%   
+13º Salário   
+Cálculo: 8,93%*8%*40%*90% = 0,26%   
+7.6 Custo de Reposição do Profissional Ausente  
+O custo de referência para o cálculo da reposição do profissional ausente deve 
+levar em conta todos os custos para manter o profissional no posto de trabalho, (salário 
+base acrescido dos adicionais e encargos, uniformes, custo de rescisão etc., com exceção 
+dos equipamentos).  
+Item  
+ Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,54%  Art. 18 da Lei n. 8.212/1991 e art. 476 da CLT  
+3 Licença paternidade  0,05% - 
+4 Faltas legais  0,91% - 
+5 Ausência por acidente de trabalho  0,03% Art. 131 da CLT  
+6 Encargos sociais incidentes  4,22% - 
+Total módulo VI  15,68%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o 
+pagamento de 13º salário e de um mês de férias. Pode -se determinar a provisão mensal 
+considerando que na duração do contrato de 60 meses o empregado tem 5 meses de 
+férias e labora em 56 meses .  
+Cálculo: (5/5 6) * 100 = 8,93 %. 
+Ausência por doença: esta parcela refere -se aos dias em que o empregado fica 
+doente e a contratada deve providenciar sua substituição. O art. 131, inciso III, da CLT, 
+onera a empresa com até 15 ausências do empregado por motivo de acidente ou doença 
+atestada pelo INSS. Entende -se que devem ser adotados 5,96 dias, conforme consta do 
+memorial convertendo esses dias em mês e depois dividi -lo pelo número de meses no 
+ano.  
+Cálculo: (5 *0,6794) /220,9612  = 1,54% 
+ 
+Ausência por doença  – Fonte: CADTERC  
+Faltas em decorrência de enfermidade ≤ 15 dias  5 dias 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivamente não trabalhados devido a faltas justificadas 
+por afastamento por enfermidade ≤ 15 dias  3,3969 dias 
+Total de Dias Efetivamente Trabalhados no Ano  220,9612  
+% de ausência por doença  1,5370%  
+Licença Paternidade : custo de ausência do trabalhador pelo período de cinco 
+dias. Art. 7º, XIX, da CF/1988; art. 10, § 1º da CLT; Lei nº 13.467/2017  Não considerada 
+a prorrogação facultada pela Lei 11.770/2008 (Empresa Cidadã) . De acordo com o IBGE, 
+nascem filhos de 1,5% dos trabalhadores no período de um ano.  
+Cálculo: ( 5*0,6794*62,2659%*5,5714%) /220,9612 = 0,0530% = ~0,05%  
+ 
+Licença Paternidade  – Fonte: CADTERC  
+Dias de afastamento por licença -paternidade  5 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento por licença -paternidade  3,3969 dias 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 
+Proporção de homens na categoria profissional em análise  62,2659%  
+Proporção de homens aptos a procriar na categoria 
+profissional em análise  99,9023%  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias/ano de ocorrência de licença -paternidade  0,1177  
+Total de Dias Efetivamente Trabalhados no Ano  220,9612  
+Faltas Legais: Arts. 473 e 83 da CLT e Manual de Orientação para 
+preenchimento da planilha analítica de composição de custos e formação de preços 
+constante do Anexo VII da IN nº 05, de 26 de maio de 2017 . Morte do cônjuge, do 
+ascendente ou do descendente (02 dias), casamento (03 dias), doação de sangue (01 
+dia), alistamento eleitoral (02 dias), exigências do serviço militar (01 dia), provas de 
+vestibular (02 dias) e testemunha em processos judiciais (01 dia ). Segundo o Manual, o 
+MP informou que há em média 2,96 faltas por ano nesta rubrica .  
+Ausências legais = 2,0110 / 220,9612 = 0,9101%  
+Afastamento da Empresa por ausências legais  – Fonte: CADTERC  
+Quantidade de ausências legais  2,96 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de faltas justificadas por ano  2,0110  dias 
+% de ausências legais  0,9101%  
+Total de Dias Efetivamente Trabalhados no Ano  220,9612  
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga 
+o empregador a assumir o ônus financeiro pelo prazo de 15 dias . Art. 19 da Lei nº 
+8.213/1991; art. 5º, § 2º da Lei nº 6.367/1976; art. 131 CLT; Lei nº 13.467/2017; Decr. 
+nº 3.048/1999 .   
+De acordo com o anuário estatístico de acidentes de trabalho publicado pela 
+Secretaria de Previdência Social (20 21, mais recente) para o estado de São Paulo, 
+seguindo a Classificação Nacional de Atividades Econômicas (CNAE  811), houve 6,11  
+acidentes para cada 1000 vínculos (0, 6110 %). 
+Ausência por acidente de trabalho = (15*0,6794*0,6110%) /220,9612= 0,0280%  
+Acidente de Trabalho – Fonte: CADTERC  
+Dias não trabalhados por afastamento por acidente de 
+trabalho ≤ 15 dias  15 dias  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias não trabalhados por afastamento por acidente de 
+trabalho ≤ 15 dias, não coincidentes com o repouso semanal  10,1907  dias 
+Ocorrência de acidente de trabalho  0,6110%  
+Dias de afastamento por acidente de trabalho no ano, com 
+base no Anuário Estatístico de Acidente de Trabalho 2019  0,0623   
+Dias não trabalhados por afastamento por acidente de 
+trabalho > 15 dias  0,0600  
+% acidente de trabalho  0,0280%  
+ 
+8 Desconto por dia útil não trabalhado  
+O recesso forense ocorre no período entre 20 de dezembro a 06 de janeiro 
+(Provimento nº 1948/2012 – Conselho Superior da Magistratura), época em que não há 
+expediente nos prédios do Tribunal de Justiça ficando suspensa a prestação dos serviços, 
+exceto: onde houver plantões judiciários ou, nos casos em que a Administração solicite 
+expressamente a prestaçã o dos serviços.  
+A empresa contratada deverá efetuar o desconto em Nota Fiscal do mês da 
+prestação dos serviços de Manobrista, referente aos dias úteis não trabalhados  e no 
+recesso forense, conforme a planilha abaixo:  
+Item  Descrição  Valor do desconto por dia  Valor  
+1 Vale refeição  (Valor Mensal) / (Dias úteis estimados no 
+mês)  16,27  
+2 Vale transporte  (Valor Mensal) / (Dias úteis estimados no 
+mês)  5,36 
+3 Materiais  e 
+equipamentos  (Valor Mensal) / (Dias úteis estimados no 
+mês)  - 
+4 Custo de reposição do 
+profissional ausente  (Valor mensal da remuneração) * (%Custo de 
+reposição do profissional ausente – Módulo 
+VII) 14,70 
+Subtotal  Somatória dos itens 1 a 4  36,33 
+5 Benefícios e Despesas 
+Indiretas (BDI)  Subtotal * %DBI  10,10 
+Total de desconto individual 
+por dia  Subtotal + Item 5  46,43 
+ 
+ 
+9  Vale Refeição  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 
+Conforme previsto na Convenção Coletiva de Trabalho, o valor do vale refeição 
+é de R$ 16,27/ dia de trabalho.  
+10 Auxílio Alimentação  
+Conforme previsto na Convenção Coletiva de Trabalho, o valor do Auxílio 
+Alimentação é de R$ 501,89 /mês.   
+11 Benefício Soci oeconômico  
+Conforme previsto na Convenção Coletiva de Trabalho, o valor do Benefício 
+Social é de R$ 30,0 0/mês com intuito de proporcionar atendimento aos trabalhadores 
+e seus familiares, nos casos de falecimento ou incapacitação permanente para o 
+trabalho do empregado.  
+12 Benefício Assistencial de Prevenção à Saúde (BAPS)  
+Conforme previsto na Convenção Coletiva de Trabalho, o Benefício Assistencial 
+de Prevenção à Saúde (BAPS) – Sist. De Prot. Social é de R$ 37,00/mês . 
+13 Auxílio -creche  
+Conforme previsto na Convenção de Trabalho, os empregadores se obrigam a 
+fornecer creches às suas empregadas, consoante o disposto do par. 1° do art. 389 da 
+Consolidação das Leis do Trabalho ou na forma estabelecida pela Portaria Ministerial n ° 
+3.296/86. De acordo com os valores coletados no Caderno de Serviços Terceirizados – 
+Prestação de Serviços de Controle, Operação e Fiscalização de Portarias e Edifícios – 
+Volume 2 – janeiro/2024 e atualizado em Setembro/2024, o custo do auxílio -creche é 
+de 14,56/mês.  
+14 Vale Transporte  
+Fica assegurada a concessão de vale -transporte nos termos da legislação 
+vigente.  
+15 Uniformes  
+A descrição e quantitativos dos uniformes constam relacionados no Termo de 
+Referência da contratação. Os uniformes deverão conter o emblema da empresa. Com 
+base no custo unitário das peças pesquisado em merc ado e vida útil de 6 meses do 
+conjunto do uniforme, foi estimado um valor mensal de R$ 67,45 . 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 
+ 
+Descrição  Qtde  Valor Unitário  Índice (IPC -
+FIPE)*  Valor Total  
+Calça Jeans  2 50,40  1,0175 (1,75%)  102,56  
+ 
+Camisa Polo  2 100,32  1,0175 (1,75%)  204,15  
+ 
+Jaqueta Tectel  1 96,30  1,0175 (1,75%)  97,98  
+ 
+Valor Total do Kit Uniforme   404,70  
+ 
+Valor mensal (troca a cada 180 dias)   R$ 67,45  
+ 
+*índice referente a Jan/202 4 a Jan/2025  
+ 
+Os valores foram coletados no Caderno de Serviços Terceirizados – Prestação 
+de Serviços de Controle, Operação e Fiscalização de Portarias e Edifícios – Volume 2 – 
+janeiro/202 4 e atualizado em Setembro /2024. Como referência, foram utilizados os 
+itens “Calça”; “Camisa de manga curta” e “Japona”. Além disso, os valores foram 
+atualizados com base no Índice de Preços ao Consumidor (IPC) da Fundação Instituto de 
+Pesquisa Econômicas (FIPE).  
+ 
+16 Benefício e Despesas Indiretas  (BDI) 
+O benefício e despesas indiretas  é o elemento orçamentário destinado a cobrir 
+todas as despesas da prestação de serviços, segundo critérios claramente definidos, é 
+composto pelos custos e despesas indiretas, lucro bruto e despesas fiscais tais como: 
+PIS, COFINS e ISSQN  
+17 Custos e Despesas Indiretas   
+Os Custos Indiretos são todos os gastos envolvidos diretamente na execução 
+dos serviços, que podem ser caracterizados e quantificados, mas não são passíveis de 
+serem apropriados a uma fase específica, a exemplo de supervisor, preposto para 
+acompanhamento d o contrato etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 
+são gastos devidos à estrutura administrativa e à organização da empresa que resultam 
+o rateio entre os diversos contratos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são 
+gastos com seguros legais tais como o seguro de responsabilidade 
+civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas/indiretas adotada é de 5,81%, conforme 
+estudos realizados pelo Caderno de Serviços Terceirizados – Prestação de Serviços de  
+Controle, Operação e Fiscalização de Portarias e Edifícios – Volume 2 – janeiro/2024 e 
+atualizado em Setembro/2024,  sendo 0,50% para cobrir o Seguro Responsabilidade Civil 
+e 5,31% para remunerar os demais custos e despesas.  
+18 Lucro Bruto  
+O lucro bruto no BDI é representado por uma taxa incidente sobre o total geral 
+dos custos e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa de lucro bruto adotada é de 7,20% , conforme estudos realizados pelo 
+CADTERC.  
+19 Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como 
+PIS, COFINS e ISSQN:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio 
+do Servidor Público : São contribuintes do PIS, segundo as regras vigentes, 
+as pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cálculo da 
+contribuição é a receita bruta mensal, assim entendida a totalidade das 
+receitas auferidas pela pessoa jurídica, sendo irrelevante o tipo de atividade 
+por ela exercida e a classificação contábil adotada para as receitas (Art. 1º 
+da Lei Feder al nº 10.637/2002);   
+A alíquota do PIS/PASEP  1,65%  (art. 2º da Lei Federal nº 10.637, de 2002 ), 
+conforme enquadramento da empresa nos termos da lei.   
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base 
+de cálculo da COFINS é composta pela totalidade das receitas auferidas pela 
+pessoa jurídica, independentemente da atividade exercida e da classificação 
+contábil das receitas.   
+A alíquota do COFINS é de 7,60% (art. 2° da Lei Federal nº 10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato gerador a 
+prestação de serviços constantes da lista anexa à  Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade 
+preponderante do prestador.  
+Art. 3o   O serviço considera -se prestado, e o imposto, devido, no 
+local do estabelecimento prestador ou, na falta do 
+estabelecimento, no local do domicílio do prestador, exceto nas 
+hipóteses previstas nos incisos I a XXV, quando o imposto será 
+devido no lo cal: 
+ [...] 
+XX – do estabelecimento do tomador da mão -de-obra ou, na 
+falta de estabelecimento, onde ele estiver domiciliado, no caso 
+dos serviços descritos pelo subitem 17.05 da lista anexa:  
+[...] 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  21 
+Item 17.05 – Fornecimento de mão -de-obra, mesmo em caráter 
+temporário, inclusive de empregados ou trabalhadores, avulsos 
+ou temporários, contratados pelo prestador de serviço.  
+No caso da prestação de serviços de mão de obra braçal foi utilizada a alíquota 
+de 2%.  
+A importância  da demonstração das alíquotas de BDI torna mais transparente 
+os custos envolvidos na contratação, com a indicação dos percentuais de impostos 
+incidentes, lucro e despesas administrativas. Além de facilitar eventuais ajustes de 
+valores contratuais, caso ha ja alteração de alíquotas impostas pela legislação, 
+facilitando a apuração de pedidos de reequilíbrio econômico -financeiro.   
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa_adm)  5,81%  
+2 Lucro Bruto (taxa_lucro)  7,20%  
+3 PIS 1,65%  
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+ 
+20 Cálculo dos dias úteis por mês  
+Para o presente estudo, a quantidade de dias úteis estimados por mês foi de 2 1 
+dias/mês para as funções que exercem trabalho de Segunda a Sexta.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  22 
+ 
+ 
+ 
+21 Retenção de encargos trabalhistas  
+O Tribunal de Justiça do Estado de São Paulo observará o contingenciamento 
+mensal de parcela do pagamento devido à Contratada, em atendimento à Resolução nº 
+169, de 31 de janeiro de 2013 e Resolução nº 183, de 24 de outubro de 2013, ambas do 
+Conselho Nacio nal de Justiça.  
+O montante do valor a ser contingenciado será obtido mediante a aplicação dos 
+percentuais sobre o total da remuneração da mão de obra dos empregados, referentes 
+aos provisionamentos que seguem: Férias; 1/3 constitucional; 13º salário; Multa do 
+FGTS por dispensa sem justa causa; e incidência dos respectivos encargos 
+previdenciários e FGTS sobre férias, 1/3 constitucional e 13º salári o. 
+Data de Início
+Meses
+Data Fim
+Descrição TJ Outros
+Dias Corridos 365                         365                          
+Domingos 52                            52                            
+Sábados 52                            52                            
+Feriado Nacional 7                              7                               
+Feriado Estadual 1                              1                               
+Feriado Estadual - Funcionalismo 1                              -                           
+Feriado Municipal 1                              1                               
+Feriado Judiciário 3                              -                           
+Recesso Forense 10                            -                           
+Dias Úteis 238                         252                          
+Média dias úteis/mês 19,83                      21,00                      
+Média dias não úteis/mês 10,58                      9,42                         
+Média de feriados por mês 1,92                        0,75                         
+* Feriados em dias da semana, descontados o sábado e domingoCALCULADORA DE DIAS POR PERÍODO
+01/01/2025
+12
+31/12/2025

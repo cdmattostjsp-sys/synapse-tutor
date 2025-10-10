@@ -1,0 +1,2457 @@
+ 
+ 
+   
+ 
+ 
+        TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+        Secretaria de Administração e Abastecimento  
+          SAAB 5 – Diretoria de Licitações e Suprimentos  
+ 
+SAAB  
+CADERNO TÉCNICO  
+Fornecimento de Água Mineral em Garrafão   
+| versão 002 | junho /2022  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+1 
+ 
+EQUIPE DE PLANEJAMENTO  
+Aparecida Alves Camilo  
+Carolina Doi Yamamoto  
+Fausto Luis dos Santos  
+Maria Aparecida Lúcio  
+Paulo Magalhães Vizotto  
+Viviane Aparecida de Almeida  
+GERENTE DE PROJETO  
+Rodnei Pinto Fernandes  
+EQUIPE DE APOIO  – EDITAL E CONTRATO  
+Eduardo Kanashiro Oyafuso  
+Rodrigo Marques  de Campos  
+Nelson de Oliveira Júnior  
+Eliana Bontansa  
+Marcello Yoshikazu Yokomiso  
+Maria Amália  Silveira Campos  Souza  
+EQUIPE DE GOVERNANÇA  
+Bruna Marcela de Barros Cunha  
+Cláudio Santos Rodrigues  
+Luiz Guilherme Marionino Barbarini  
+SECRETÁRIO DE ADMINISTRAÇÃO E ABASTECIMENTO  
+Adriano Teócrito Pissolatto  
+JUÍZ AS ASSESSORAS DA PRESIDÊNCIA  
+Doutora Jovanessa Ribeiro Silva Azevedo Pinto  
+Doutora Márcia Helena Bosch  
+Doutora  Paula Micheletto Cometti  
+ 
+PRESIDENTE DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Desembargador Ricardo Mair Anafe   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+2 
+ 
+ 
+Sumário  
+INTRODUÇÃO  ................................ ................................ ................................ ................................ ................................ ..............  4 
+CAPÍTULO 1 – ESTUDO TÉCNICO PRELIMINAR  ................................ ................................ ................................ ............................  5 
+1. DESCRIÇÃO DA NECESSIDADE  ................................ ................................ ................................ ................................ .. 5 
+2. UNIDADES PARTICIPANTES  ................................ ................................ ................................ ................................ ...... 5 
+3. PREVISÃO NA POS E NO PCA  ................................ ................................ ................................ ................................ .... 5 
+4. ALINHAMENTO AO PLANEJA MENTO ESTRATÉGICO DO TRIBUNAL DE JUSTIÇA  ................................ ......................  5 
+5. AVALIAÇÃO E QUANTIFICAÇÃO DA NECESSIDADE  ................................ ................................ ................................ ... 6 
+6. ANÁLISE DE VIABILIDADE DA CONTRATAÇÃO  ................................ ................................ ................................ ..........  6 
+7. CADERNO TÉCNICO DE PRESTAÇÃO DE SERVIÇOS TERCEIRIZADOS - CADTERC  ................................ .....................  10 
+8. PLANO DE SUSTENTAÇÃO DO CONTRATO  ................................ ................................ ................................ .............  10 
+9. ESTRATÉGIA PAR A A CONTRATAÇÃO  ................................ ................................ ................................ .....................  11 
+10. REQUISITOS DE SUSTENTABILIDADE  ................................ ................................ ................................ ......................  13 
+11. CONTRATAÇÃO COMPARTILHADA  ................................ ................................ ................................ .........................  14 
+12. EXIGÊNCIAS QUE DEVEM CONSTAR DO EDITAL  ................................ ................................ ................................ ..... 15 
+CAPÍTULO 2 – ANÁLISE DE RISCOS  ................................ ................................ ................................ ................................ ............  16 
+1. IDENTIFICAÇÃO DOS PRINCIPAIS RISCOS QUE POSSAM COMPROMETER O SUCESSO DA CONTRATAÇÃO OU QUE 
+EMERGIRÃO CASO ELA NÃO SEJA REALIZADA  ................................ ................................ ................................ .......  16 
+2. MENSURAÇÃO DAS PROBABILIDADES DE OCORRÊNCIA E DOS DANOS POTENCIAIS RELACIONADOS A CADA RISCO 
+IDENTIFICADO  ................................ ................................ ................................ ................................ ........................  16 
+3. AÇÕES PREVISTAS PARA REDUZIR OU ELIMINAR AS CHANCES DE OCORRÊNCIA DOS EVENTOS RELACIONADOS A CADA 
+RISCO:  ................................ ................................ ................................ ................................ ................................ .... 16 
+4. AÇÕES DE CONTINGÊNCIA A SEREM ADOTADAS SE OS EVENTOS CORRESPONDENTES AOS RISCOS SE CONCRETIZEM:
+ 17 
+5. RESPONSÁVEIS PELAS AÇÕES DE PREVENÇÃO DOS RISCOS E PELOS PROCEDIMENTOS DE CONTINGÊNCIA:  .......  17 
+CAPÍTULO 3 – MINUTA DO EDITAL DE LICITAÇÃO  ................................ ................................ ................................ .....................  18 
+1. DO OBJETO  ................................ ................................ ................................ ................................ .............................  19 
+2. DA PARTICIPAÇÃO NA LICITAÇÃO  ................................ ................................ ................................ ..........................  19 
+3. DAS PROPOSTAS  ................................ ................................ ................................ ................................ ....................  20 
+4. DA HABILITAÇÃO  ................................ ................................ ................................ ................................ ....................  21 
+5. DA SESSÃO PÚBLICA E DO JULGAMENTO  ................................ ................................ ................................ ..............  23 
+6. DO RECURSO, DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO  ................................ ................................ .......................  28 
+7. DA DESCONEXÃO COM O SISTEMA ELETRÔNICO  ................................ ................................ ................................ .. 29 
+8. DA LEI G ERAL DE PROTEÇÃO DE DADOS  ................................ ................................ ................................ ................  29 
+9. DOS PRAZOS, DAS CONDIÇÕES E DO LOCAL DE ENTREGA DO OBJETO DA LICITAÇÃO  ................................ ..........  30 
+10. DAS CONDIÇÕES DE RECEBIMENTO DO OBJETO  ................................ ................................ ................................ ... 30 
+11. DA GESTÃO E FISCALIZAÇÃO DO CONTRATO  ................................ ................................ ................................ .........  31 
+12. DAS CONDI ÇÕES DE PAGAMENTO  ................................ ................................ ................................ .........................  31 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+3 
+ 
+13. DO REAJUSTAMENTO DOS PREÇOS  ................................ ................................ ................................ .......................  33 
+14. DO PRAZO DE VIGÊNCIA  ................................ ................................ ................................ ................................ ........  33 
+15. DO DESCUMPRIMENTO DA OBRIGAÇÃO E DAS PENALIDADES  ................................ ................................ ..............  33 
+16. DAS DISPOSIÇÕES FINAIS  ................................ ................................ ................................ ................................ .......  35 
+17. DO FORO  ................................ ................................ ................................ ................................ ................................  36 
+CAPÍTULO 4 – ANEXO I - TERMO DE REFERÊNCIA  ................................ ................................ ................................ .....................  38 
+1. DO OBJETO  ................................ ................................ ................................ ................................ .............................  38 
+2. DAS ESPECIFICAÇÕES  ................................ ................................ ................................ ................................ .............  38 
+3. DOS LOCAIS DE ENTREGA, DOS PEDIDOS, DAS CONDIÇÕES E PRAZOS DE ENTREGA  ................................ ............  39 
+4. DA EMBALAGEM  ................................ ................................ ................................ ................................ ....................  40 
+5. DO RÓTULO  ................................ ................................ ................................ ................................ ............................  41 
+6. DAS CARACTERÍSTICAS MICROBIOLÓGICAS  ................................ ................................ ................................ ...........  42 
+7. DA LEGISLAÇÃ O APLICÁVEL  ................................ ................................ ................................ ................................ ... 42 
+8. DAS OBRIGAÇÕES DO CONTRATANTE  ................................ ................................ ................................ ...................  43 
+9. DAS OBRIGAÇÕES DA CONTRATADA  ................................ ................................ ................................ .....................  43 
+10. DA SUBCONTRATAÇÃO  ................................ ................................ ................................ ................................ ..........  44 
+11. DA GESTÃO E FISCALIZAÇÃO DO  CONTRATO  ................................ ................................ ................................ .........  44 
+12. DOS LAUDOS E DAS ANÁLISES LABORATORIAIS  ................................ ................................ ................................ ..... 44 
+13. DOS DOCUMENTOS EXIGIDOS APÓS A ASSINATURA DO CONTRATO  ................................ ................................ .... 46 
+14. DA VIGÊNCIA DO CONTRATO  ................................ ................................ ................................ ................................ . 46 
+15. DAS CONDIÇÕES DE PAGAMENTO  ................................ ................................ ................................ .........................  46 
+16. DA QUALIFICAÇÃO TÉCNICA  ................................ ................................ ................................ ................................ .. 47 
+17. RELATÓRIO MENSAL  ................................ ................................ ................................ ................................ ..............  47 
+18. PROPOSTA COMERCIAL  ................................ ................................ ................................ ................................ .........  48 
+CAPÍTULO 5 – ANEXO II – LOCAIS DE ENTREGA E QUANTIDADES  ................................ ................................ .............................  49 
+CAPÍTULO 6 – ANEXO III – MODELO DE PROPOSTA  ................................ ................................ ................................ ..................  50 
+CAPÍTULO 7 – ANEXOS IV a VII – DECLARAÇÕES  ................................ ................................ ................................ .......................  51 
+1. ANEXO IV - DECLARAÇÃO DECRETO Nº 4.358/2002  ................................ ................................ ..............................  51 
+2. ANEXO V – DECLARAÇÃO LEI DO APRENDIZ  ................................ ................................ ................................ ..........  52 
+3. ANEXO VI – TERMO DE CONFIDENCIALIDADE E PROTEÇÃO DE DADOS  ................................ ................................  53 
+4. ANEXO VII - DECLARAÇÃO DE ATENDIMENTO E SUSTENTABILIDADE  ................................ ................................ .... 56 
+CAPÍTULO 8 – ANEXO VIII – MINUTA DE CONTRATO  ................................ ................................ ................................ ................  57 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+4 
+ 
+INTRODUÇÃO  
+ 
+O presente caderno técnico v isa a  contratação de empresa especializada para 
+fornecimento e entrega de água mineral, sem gás, inodora, incolor e insípida, de fonte 
+natural, em garrafões com capacidade de 20 litros, em comodato, para atender a demanda 
+de consumo do público interno e externo  a serem distribuídos nas unidades que compõem 
+às 10 (dez) Regiões Administrativas do Tribunal de Justiça do Estado de São Paulo . 
+Atualmente, a necessidade de adequação dos ambientes de trabalho, disponibilizando 
+água mineral /potável  aos servidores e jurisdicionados, é atendida por meio de contratos 
+específicos solicitados pontualmente pelas RAJS, havendo a necessidade de expansão da s 
+contratações de empresas para fornecimento e entrega de água em garrafões de 20 litros 
+atendendo as 10 Regiões Administrativas Judiciais do Tribunal de Justiça do Estado de São 
+Paulo, sendo que grande parte das unidades compram águas por verba de adianta mento.  
+O planejamento do consumo, pedidos de licitação e a gestão contratual será de 
+responsabilidade das Coordenadorias d as RAJ´s . A SAAB 5.3 será responsável pela  
+atualização e disponibilização do caderno técnico no Portal da Administração do TJSP.  
+ 
+ 
+ 
+ 
+  
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+5 
+ 
+CAPÍTULO 1 – ESTUDO TÉCNICO PRELIMINAR  
+1. DESCRIÇÃO DA NECESSIDADE  
+1.1. Objeto  
+Fornecimento de água mineral em garrafão para atender as regiões administrativas do 
+Tribunal de Justiça  
+1.2. Identificação da necessidade  
+O presente estudo visa a  contratação de empresa especializada para fornecimento e 
+entrega de água mineral, sem gás, inodora, incolor e insípida, de fonte natural, em garrafões 
+com capacidade de 20 litros, em comodato, para atender a demanda de consumo do público 
+interno e externo a serem distribuídos nas unidades que compõem às 10 Regiões 
+Administrativas do Tribunal de Justiça do Estado de São Paulo . 
+2. UNIDADES PARTICIPANTES  
+ 
+• Unidade Demandante: Unidades Administrativas do TJSP.  
+• Secretaria Responsável:  SAAB – Secretaria de Administração e Abastecimento.  
+• Unidade Gestora:  Coordenadoria da Região Administrativa Judiciária  
+• Gestor(a):  A lista completa constando gestor (a), fiscais  e suplentes, seguirá anexada 
+quando da inclusão do pedido de licitação.  
+ 
+3. PREVISÃO NA POS  E NO PCA  
+Não houve previsão na POS de 2021 e 2022, e nem no PCA de 2022, tendo em vista 
+que na maior parte das unidades o fornecimento atual se dá por meio de aquisição p or 
+verba de adiantamento, exceto nas localidades em que há contrato de fornecimento 
+específico. A partir da POS 2023 deverá ser previsto pelas Coordenadorias Regionais.  Caso 
+haja autorização para prosseguimento das licitações neste exercício, deverá ser so licitado o 
+ajuste no PCA.  
+4. ALINHAMENTO AO PLANEJAMENTO ESTRATÉGICO DO TRIBUNAL DE JUSTIÇA  
+A contratação pretendida está aderente aos seguintes objetivos do planejamento 
+estratégico do Tribunal de Justiça do Estado de São Paulo 2021 -2026:  
+8. Aprimorar a governança da área de infraestrutura, contratos e abastecimento  
+12. Aprimorar os processos de trabalhos administrativos  
+19. Promover a sustentabilidade  
+21. Elevar o índice de transparência  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+6 
+ 
+5. AVALIAÇÃO E QUANTIFICAÇÃO DA NECESSIDADE  
+As quantidades  previstas para os garrafões de água mineral são estimadas, calculadas 
+com base nos dados apresentados pelas unidades administrativas das 10 regiões, por meio 
+de levantamento realizado via formulário no período de junho/julho de 2021 . As 
+quantidades definitivas serão informadas no Termo de Referência pela Região 
+Administrativa na ocasião do pedido eletrônico de compra.  
+ 
+Lote  Descrição  Qtde MENSAL estimada 
+por RAJ (em garrafões 
+de 20 litros)  Qtde estimada para 
+12 MESES por RAJ  
+(em garr afões de 20 
+litros)  
+1 1ª REGIÃO ADMINISTRATIVA DA GRANDE SÃO PAULO  10.381 124.572 
+2 2ª REGIÃO ADMINISTRATIVA DE ARAÇATUBA  1.277 15.324 
+3 3ª REGIÃO ADMINISTRATIVA DE BAURU  1.373 16.476 
+4 4ª REGIÃO ADMINISTRATIVA DE CAMPINAS  5.227 62.724 
+5 5ª REGIÃO ADMINISTRATIVA DE PRESIDENTE PRUDENTE  1.963 23.556 
+6 6ª REGIÃO ADMINISTRATIVA DE RIBEIRÃO PRETO  2.203 26.436 
+7 7ª REGIÃO ADMINISTRATIVA DE SANTOS  1.475 17.700 
+8 8ª REGIÃO ADMINISTRATIVA DE SÃO JOSÉ DO RIO PRETO  2.422 29.064 
+9 9ª REGIÃO ADMINISTRATIVA DE SÃO JOSÉ DOS CAMPOS  1.656 19.872 
+10 10ª REGIÃO ADMINISTRATIVA DE SOROCABA  1.636 19.632 
+  Total  29.613 355.356 
+ 
+ 
+6. ANÁLISE DE VIABILIDADE DA CONTRATAÇÃO  
+ 
+6.1. Requisitos a serem atendidos pela contratação:  
+Atualmente, a necessidade de adequação dos ambientes de trabalho, disponibilizando 
+água aos servidores e jurisdicionados, é atendida por meio de contratos específicos 
+solicitados pontualmente pelas RAJ s, havendo a necessidade de expansão das contratações 
+de empresas para fornecimento e entrega de água em garrafões de 20 litros atendendo as 
+10 Regiões Administrativas Judici árias  do Tribunal de Justiça do Estado de São Paulo, sendo 
+que grande parte das unidades compram águas por verba de adiantamento.  
+Para as unidades que utilizam da verba de adiantamento, conforme apontamentos do 
+estudo apresentado pela SOF – Secretaria de Orçamento e Finanças, CPA nº 2018/32300, a 
+via adotada atualmente é regime de exceção, sendo inclusive alvo de apontamento pelo 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+7 
+ 
+Tribunal de Contas do Estado de São Paulo, no relatório de auditoria das Contas deste Órgão 
+dos exercícios de 2016 e 2017.  
+Diante da necessidade de regularizar o fornecimento da água mineral por meio de 
+processo licitatório, providenciou -se o levantamento das  quantidades mensais estimadas do 
+consumo dos garrafões de 20 Litros, nas periodicidades semanais e quinzenais de cada 
+localidade para as entregas ponto a ponto. A partir desses dados buscou -se informações, por 
+meio de pesquisa de mercado, com vistas a con tratar o serviço de fornecimento de forma a 
+aglutinar as comarcas, evitando -se pedidos fracionados e respeitando a divisão do Estado de 
+São Paulo em RAJ – Região Administrativas Judiciárias, de acordo com a resolução CSM 
+560/12, criadas com o objetivo de m elhorar a estrutura de organização judiciária e a 
+racionalização dos recursos públicos, em função da extensão territorial do Estado.  
+Em decorrência do resultado da pesquisa concluiu -se que o modelo que mais se 
+apropria para este tipo de fornecimento é a r ealização da licitação por lotes de 
+Circunscrições, dentro das respectivas regiões. Constatando  que neste segmento de 
+mercado, muitas empresas não possuem estruturas que permitam atender a demanda de 
+todas as comarcas pertencentes a mesma região administra tiva.  
+Neste caminhar, se detectou que para a licitação por lote de circunscrição será 
+necessária a permissão da subcontratação, devido às distâncias de uma cidade a outra, e da 
+demanda de algumas comarcas que estão situadas na mesma circunscrição, de forma  a 
+ampliar um maior número de participantes.  
+Também, apurou -se a necessidade de padronização do fornecimento de água em 
+garrafão apenas de 20l, tendo em vista que o resultado da pesquisa prévia de mercado 
+demonstrou não haver vantajosidade econômica na aq uisição de garrafões de 10l, os quais 
+possuem diferença mínima de preços com relação aos garrafões de 20l.  
+6.2. Estimativa de custo:  
+Os custos estimados foram efetuados com base na pesquisa de mercado, 
+considerando os preços apresentados por 10 empresas.  
+As em presas participantes da pesquisa não apresentaram preços para todas as cidades 
+e respectivas regiões, por motivos de logística, distâncias entre cidades e quantidades a 
+serem entregues em determinadas unidades.   
+Abaixo seguem as regiões administrativas, di vididas por circunscrição que obtivemos a 
+participação de algumas empresas e os respectivos valores estimados por unidades:   
+Região Administrativa  Circunscrição Judiciária  Valor Unitário / Garrafão 
+20 litros  Valor Unitário / Garrafão 10 
+litros *  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+8 
+ 
+Região Administrativa  Circunscrição Judiciária  Valor Unitário / Garrafão 
+20 litros  Valor Unitário / Garrafão 10 
+litros *  
+RAJ 1  Todas  R$ 12,00  R$ 11,00  
+RAJ 2  Todas  R$ 11,50  R$ 10,50  
+RAJ 3  Somente CJ 33  R$ 20,00  R$ 15,00  
+RAJ 4  5,6,7,8,9,10,50,53,54  
+Exceção da CJ 6  R$ 16,00 -média  R$ 11,50 -média  
+RAJ 5  Todas  R$ 16,00  R$ 11,00  
+RAJ 6  Somente a CJ 12  R$ 20,00  R$ 12,95 média  
+RAJ 7  Toda a CJ 1 e CJ 12 com exceção de Itarir i R$ 15,00  R$ 13,50 média  
+RAJ 8  Todas, com exceção de: Palestina, Paulo de 
+Faria e Potirendaba   
+R$ 12,50   
+R$ 11,50  
+RAJ 9  CJ 1-SJC, Jacare í e CJ 47 Taubaté  R$ 15,00  - 
+RAJ 10  CJ20, exceto Boituva e Cabre úva; CJ 19 
+somente Sorocaba, Votorantim e Piedade  R$ 10,50 média  R$ 7,00  
+Diante dos valores apurados para os garrafões de 10 litros, concluiu -se pela utilização 
+somente de garrafões de 20  litros  por ser mais vantajoso para a Administração.   
+Em decorrência das dif erenças de valores cotados nas empresas, foi utilizado o custo  
+unitário médi o aferido nos contratos atuais de fornecimento do Tribunal de Justiça . 
+Contrato  Locais  Valor 
+Unitário  Qtde 
+Mensal  Valor Total 
+Mensal  
+000.084/2021/CT  Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, São 
+Bernardo do Campo, Santo André e São Caetano do Sul  8,65  1.555  13.450,75  
+000.085/2021/CT  Barueri, Carapicuíba, Guarulhos, Jandira, Mairiporã, 
+Osasco, Santa de Parnaíba  8,50  1.646  13.991,00  
+000.086/2021/CT  Cotia, Embu das Artes, Embu Guaçu, Itapecerica da Serra, 
+Itapevi, Taboão da Serra, Vargem Grande Paulista  6,90  606 4.181,40  
+000.087/2021/CT  Arujá, Ferraz de Vasconcelos, Guararema, 
+Itaquaquecetuba, Mogi das Cruzes, Poá, Santa Isabel, 
+Suzano  5,89  1.187  6.991,43  
+000.088/2021/CT  Prédios da Capital  5,80  12.848  74.518,40  
+000.117/2021/CT  Campinas - Cidade Judiciária  8,50  749 6.366,50  
+000.143/2021/CT  Bauru  8,45  468 3.954,60  
+000.152/2021/CT  Piracicaba  8,50  325 2.762,50  
+  Total  19.384  126.216,58  
+Custo unitário médio do garrafão = R$ 7,65  
+O quadro abaixo representa os valores estimados para a contratação . 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+9 
+ 
+Lote  Descrição  Qtde estimada 
+para 12 MESES 
+por RAJ  (em 
+garrafões)  Valor unitário 
+estimado por 
+região  Valor total 
+estimado por 
+região  
+1 1ª REGIÃO ADMINISTRATIVA DA GRANDE SÃO PAULO  124.572 7,65  952.975,80  
+2 2ª REGIÃO ADMINISTRATIVA DE ARAÇATUBA  15.324 7,65  117.228,60  
+3 3ª REGIÃO ADMINISTRATIVA DE BAURU  16.476 7,65  126.041,40  
+4 4ª REGIÃO ADMINISTRATIVA DE CAMPINAS  62.724 7,65  479.838,60  
+5 5ª REGIÃO ADMINISTRATIVA DE PRESIDENTE PRUDENTE  23.556 7,65  180.203,40  
+6 6ª REGIÃO ADMINISTRATIVA DE RIBEIRÃO PRETO  26.436 7,65  202.235,40  
+7 7ª REGIÃO ADMINISTRATIVA DE SANTOS  17.700 7,65  135.405,00  
+8 8ª REGIÃO ADMINISTRATIVA DE SÃO JOSÉ DO RIO PRETO  29.064 7,65  222.339,60  
+9 9ª REGIÃO ADMINISTRATIVA DE SÃO JOSÉ DOS CAMPOS  19.872 7,65  152.020,80  
+10 10ª REGIÃO ADMINISTRATIVA DE SOROCABA  19.632 7,65  150.184,80  
+  Total  355.356  
+2.718.473,40  
+Salienta -se, entretanto, que os preços finais a serem considerados para efeito de 
+licitação deverão ser confirmados por meio de pesquisa de mercado quando da inclusão dos 
+respectivos pedidos, com os quantitativos e lotes readequados pelos gestores.  Os valores 
+poderão diferentes para cada lote, em decorrência de custos de mercado regionais e de 
+frete.  
+6.3. Justificativa de escolha da solução técnica e economicamente mais vantajosa dentre 
+as avaliadas:  
+A premissa do estudo foi regularizar a forma de aquisição da água em garrafão, por 
+meio de licitação, vez que hoje a maior parte das unidades do interior efetua as aquisições 
+por verba de adiantamento.  
+Não obstante o informado, durante o levantamento foi id entificada a possibilidade de 
+expansão da instalação de purificadores de água.  
+Ocorre que esta alternativa demanda a realização de estudos e investimentos voltados 
+a adequação de infraestrutura dos prédios, adequações de ambientes e licitações futuras 
+para  aquisição ou locação dos equipamentos.  
+A instalação dos purificadores seria uma alternativa mais sustentável e econômica, 
+porém a expansão deste modelo se dará a médio e longo prazo devido ao grande número de 
+prédios.  
+As informações obtidas no levantamen to efetuado para este estudo relativas aos 
+prédios que declaram ter ponto de hidráulica disponíveis foram repassadas à SAAB 4 para 
+continuidade da matéria.  
+Portanto , esse estudo prosseguirá com a proposta  de fornecimento e entrega de 
+garrafões de água de 2 0 litros, sem gás, respeitando a divisão  do Estado  de São Paulo  em RAJ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+10 
+ 
+- Regiões  Administrativas Judiciárias, conforme a Resolução CSM nº 560/12, criada com o 
+objetivo de melhorar a estrutura de  organização  judiciária  e a racionalização  dos recursos  
+públic os, em função  da extensão territorial do Estado.  
+Assim, o modelo proposto visa alcançar maior eficiência administrativa, redução de 
+gastos processuais, uma vez que a aglutinação de comarcas gera redução de processos de 
+licitação para atendimento da demanda , padronização de procedimentos e melhoria da 
+fiscalização na execução dos Contratos.  
+Para tanto, os atuais contratos existentes deverão ser aglutinados gradualmente pelos 
+gestores,  de acordo com os seus vencimentos.  
+Foi elaborado o agrupamento das Comarc as, em lotes, baseados no critério de 
+distâncias (conforme as Circunscrições Judiciárias) e número de garrafões de água a serem 
+entregues.   
+Cabe ressaltar que a implantação da Rede de Suprimentos para este tipo de objeto não 
+é aplicável, pois, não há viabilidade operacional para a entrega  por meio de rede de logística 
+nos moldes da Rede de Suprimentos j á estabelecid os neste Tribunal . 
+ 
+7. CADERNO TÉCNICO DE PRESTAÇÃO DE SERVIÇOS TERCEIRIZADOS - CADTERC  
+ 
+Não é aplicável , pois não há caderno disponível.  
+ 
+8. PLANO DE SUSTENTAÇÃO DO CONTRATO  
+ 
+8.1. Informações necessárias para a continuidade da prestação dos serviços jurisdicionais 
+e administrativos, durante e após a contratação:  
+ 
+O abastecimento de água potável visa o atendimento de norma trabalhista e o bem -
+estar dos funcionários e público em geral.  
+O objeto em estudo é referente ao fornecimento de água em garrafão para os locais 
+onde  não é possível a instalação de bebedouros de pressão e purificadores de água.  
+A gestão contratual e as unidades administ rativas deverão cuidar para que haja 
+continuidade no abastecimento durante a execução contratual, de forma a garantir a 
+adequada prestação dos serviços jurisdicionais e administrativos.  
+ 
+8.2. Recursos materiais e humanos necessários à execução do objeto que está sendo 
+contratado:  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+11 
+ 
+Recursos Materiais:  Serão utilizados bebedouros ou suportes para garrafão  e materiais 
+de higienização . Os garrafões de água serão fornecidos por meio de comodato, não havendo 
+necessidade de o  Tribunal de Justiça adquirir o material.  
+Recursos Humanos:  Mão de obra para higienização, fiscais de contrato 
+(administrações prediais) e gestores(as).  
+ 
+8.3. Elementos necessários à continuidade das atividades essenciais em eventual 
+interrupção contratual:  
+Em caso de eventual interrupção contratual o (a) gestor(a) deverá providenciar novo 
+pedido de licitação. Caso necessário deverá ser avaliado pedido de contratação emergencial 
+ou utilização de verba de adiantamento.  
+No caso de interrupção do fornecimento, o (a) gestor(a) deverá providenciar as 
+apurações administrativas devidas, nos termos dos regulamentos aplicáveis à espécie.  
+8.4. Planejamento das atividades de transição e encerramento contratual:  
+Os pedidos de licitação deverão ser  feitos anualmente, com o acompanh amento dos 
+respectivos processos licitatórios, de forma que as contratações tenham vigência anual.  
+8.5. Planejamento da estratégia de independência do Tribunal de Justiça em relação à 
+Contratada:  
+No prazo de 180 dias do término da vigência contratual, o (a) gest or(a) do contrato 
+deverá inserir um novo pedido eletrônico para realização de nova licitação.  
+As Coordenadorias das RAJs deverão providenciar a aglutinação dos contratos vigentes 
+de modo que na próxima licitação atenda todas as comarcas de acordo com os lo tes 
+estabelecidos neste estudo.  
+ 
+9. ESTRATÉGIA PARA A CONTRATAÇÃO  
+9.1. Indicação da natureza do objeto e dos elementos necessários para caracterizar o 
+bem:  
+Natureza do objeto: material de consumo  
+A especificação técnica de cada item será detalhada no Termo de Refe rência.  
+9.2. Justificativa do parcelamento do objeto com a demonstração da viabilidade ou não 
+da divisão:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+12 
+ 
+Foi efetuada a prospecção de mercado na qual verificou -se que o modelo que mais se 
+adequa para esta contratação é a realização da licitação por Regiões Adm inistrativas com 
+divisão em lotes considerando a divisão geográfica dentro das regiões.  
+Esta formação de grupos visa resguardar a viabilidade operacional de entrega dos 
+garrafões de água semanalmente/quinzenalmente a todas as suas unidades, resultando em 
+maior eficiência administrativa e a possibilidade de maior número de participantes no 
+certame.  
+Constatado   que, neste segmento de mercado, muitas empresas não possuem 
+estrutura que permita atender a demanda de todas as comarcas pertencentes a mesma 
+região administrativa, além da divisão em lotes foi avaliada a necessidade de permissão de 
+subcontrat ação em comarcas com valor estimado por entrega muito baixo ( inferior a  
+R$ 100,00). 
+A atribuição de cota reservada à participação de microempresas e empresas de 
+pequeno porte, conforme art. 48, inc. III, da Lei Complementar Federal nº 123/2006 fica 
+inviabilizada, neste estudo, devido ao sistema de fornecimento contínuo com a logística de 
+entrega direta nas Unidades Administrativas e disponibilização de garrafões em comodato.  
+9.3. Justificativa da escolha do critério de adjudicação do objeto, a uma ou vári as 
+empresas, se por itens ou por grupo de itens:  
+A adjudicação do objeto deve ser por lotes, onde cada lote será composto pelo 
+agrupamento das unidades administrativas em cada RAJ , assim o objeto poderá ser 
+adjudicado para várias empresas.  
+Desta forma, a divisão proporciona rá redução do custo d e logística e melhor  gestão  
+contratual  por parte  das Coordenadorias de cada RAJ.  
+9.4. Justificativa da escolha da modalidade e do tipo de licitação:  
+Tendo em vista tratar -se de bens comuns será adotada a modalidade “Pregão 
+Eletrônico” do tipo “Menor Preço”.  
+9.5. Justificativa da vigência com a indicação do prazo de garantia dos bens:  
+Vigência:  A vigência será de 12 meses, tendo em vista tratar -se de forneci mento de 
+material de consumo . 
+Prazo de garantia:  A garantia dos produtos será prestada nos termos estabelecidos na 
+Lei nº 8.078/1990.  
+9.6. Definição dos integrantes da Equipe de Gestão da Contratação:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+13 
+ 
+As coordenadorias das RAJs serão gestoras das contratações d ecorrentes deste estudo, 
+devendo indicar os fiscais administrativos, bem como incluir os pedidos de licitação  nos 
+termos estabelecidos neste caderno técnico  e efetuar o acompanhamento do certame como 
+equipe de apoio.  
+A fiscalização do contrato ficará a car go das administrações prediais . 
+ 
+10. REQUISITOS  DE SUSTENTABILIDADE  
+10.1. Requisitos  
+Conforme demonstrado  no item 10.2 , a adoção de modelo de abastecimento mais 
+sustentável do que a utilização de água  em garrafão se dará a médio e longo prazo, tendo 
+em vista a necessidade de estudos quanto à adequação dos prédios do Tribunal à instalação 
+de purificadores de água.  
+Entretanto,  a contratação objeto deste estudo é necessária para regularizar grande  
+parte  das aquisições que hoje  não atendem à Lei de Licitações, porqu e são efetuadas pelas 
+Unidades Administrativas com verba de adiantamento . 
+Assim, para esta contratação será previsto no Termo de Referência o atendimento à 
+legislação regulatóri a da produção e comercialização de água em garrafão, garantindo a 
+qualidade do produto e o cumprimento do s requisitos ambientais  exigidos em sua produção , 
+bem como será exigida declaração da empresa vencedora do certame , quanto ao 
+cumprimento de todas as normas aplicáveis ao objeto da co ntratação  e ao descarte 
+ambientalmente correto dos garrafões com prazo de validade expirado.  
+10.2. Meta 4.1 – reduzir em 15% o consumo de água mineral envazada de 2019 a 2026.  
+Com vistas ao cumprimento da Meta 4.1, foram levantad as as seguintes informações : 
+ 
+✓ Instalação de purificadores de água para o público interno e bebedouro de 
+pressão para o público externo, como alternativa mais sustentável e econômica.  
+✓ Para a instalação seria necessária a realização de estudos e investimentos voltados 
+a adequação de infrae strutura dos prédios, adequações de ambientes e licitações 
+futuras para aquisição ou locação dos equipamentos.  
+✓ São 163 prédios que têm condições de instalação de purificadores, de acordo com 
+informações levantadas junto às administrações das comarcas.  
+✓ Pelo  levantamento inicial será necessária a locação de 1.411 purificadores ao 
+custo mensal estimado de R$ 60.390,80 (valor unitário de R$ 42,80 – contrato de 
+locação do Prédio da Patriarca).  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+14 
+ 
+✓ O consumo mensal para as 10 RAJ´s, com potencial de instalação de pur ificadores, 
+é de R$109.310,85, considerando o consumo mensal estimado de 14.289 
+garrafões de 20 litros ao custo unitário estimado de R$7,65 (contratos atuais TJ).  
+✓ Além da contratação ser mais sustentável, a instalação de purificadores 
+representará uma econ omia de 45,75% frente ao custo com fornecimento de 
+garrafões água mineral.  
+ 
+Descrição  Qtde estimada 
+de garrafões  
+Quantidade mensal estimada  29.613  
+Redução com a instalação de purificadores  14.289  
+% de redução  51,75%  
+ 
+Região Administrativa  Qtde de 
+Prédios  Qtde de 
+Purificadores  Custo Mensal 
+Purificador  Qtde de 
+Garraf ões Cust o mensal 
+Garrafão  
+1ª RA DA GRANDE SÃO PAULO  33 689 29.489,20  5513  42.174,45  
+2ª RA DE ARAÇATUBA  7 38 1.626,40  390 2.983,50  
+3ª RA DE BAURU  9 14 599,20  419 3.205,35  
+4ª RA DE CAMPINAS  25 114 4.879,20  1950  14.917,50  
+5ª RA DE PRESIDENTE PRUDENTE  18 80 3.424,00  1294  9.899,10  
+6ª RA DE RIBEIRÃO PRETO  22 135 5.778,00  843 6.448,95  
+7ª RA DE SANTOS  10 107 4.579,60  866 6.624,90  
+8ª RA DE SÃO JOSÉ DO RIO PRETO  1
+3 75 3.210,00  1339  10.243,35  
+9ª RA DE SÃO JOSÉ DOS CAMPOS  1
+4 102 4.365,6
+0 1028  7.864,20  
+10ª RA DE SOROCABA  1
+1 57 2.439,60  647 4.949,55  
+Total  1
+62 1.411  60.390,80  14.289  109.310,85  
+Total anual  33 689 724.689,60  171.468  1.311.730,20  
+ 
+11. CONTRATAÇÃO COMPARTILHA DA 
+ 
+O Edital de Licitação e o Termo de Referência não estão adaptados  para contratação 
+compartilha da com outros órgãos d o Poder Judiciário , nos termos do inciso IX  do artigo 3 º e 
+artigo  19 da Res olução CNJ n º 347/2020 , por não se tratar de ata de registro de preços.  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+15 
+ 
+12. EXIGÊNCIAS QUE DEVEM CONSTAR DO EDITAL  
+12.1. Validade da proposta  
+12.1.1.  O prazo de validade da proposta será de 90 dias  corridos . 
+12.1.2.  A empresa licitante poderá indicar até três marcas em cada item para o 
+fornecimento, sendo que t odas as marcas indicadas deverão atender às 
+especificações e exigências constantes do Edital e seus Anexos (item 3.7 do 
+Anexo I – TR). 
+12.2. Qualificação técnica  
+12.2.1.  Atestado(s) passado(s) p or pessoa(s) jurídica(s) de direito público ou privado, 
+que comprove(m) ter a licitante executado ou estar executando, a contento, 
+para cada lote, no mínimo 20% do fornecimento de garrafão de 10/20 litros.  
+12.2.1.1.  O percentual de 20% (vinte por cento) justifica -se a fim de 
+permitir um maior número de empresas participantes na 
+licitação, haja vista o volume da contratação.  
+12.2.1.2.  Para fins de similaridade, serão admitidos a somatória de 
+garrafões de 10 e 20 litros, por se tratar de garrafões retornáveis, 
+tendo em vista sua particularidade de envase, armazenamento e 
+distribuição do produto, que difere de água mineral em garrafas 
+descartáveis.  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+16 
+ 
+CAPÍTULO 2 – ANÁLISE  DE RISCOS  
+ 
+Análise  sobre os possíveis riscos inerentes à contratação pretendida, bem como a 
+mensuração  de ocorrência e dos danos potenciais relacionados a cada risco, as ações 
+previstas para reduzir ou eliminar as chances de ocorrência dos eventos relacionados aos 
+riscos e ações de contingência a serem adotadas , caso os eventos correspondentes aos 
+riscos s e concretizem . 
+1. IDENTIFICAÇÃO DOS PRINCIPAIS RISCOS QUE POSSAM COMPROMETER O SUCESSO DA 
+CONTRATAÇÃO OU QUE EMERGIRÃO CASO ELA NÃO SEJA REALIZADA  
+Risco 1:  caso haja impugnação ou recurso junto ao Tribunal de Contas do Estado, 
+poderá ocorrer atraso na licitação, não havendo tempo hábil para assinatura do contrato  no 
+tempo previsto.  
+Risco 2:  se algum lote restar fracassado, havendo nova licitação, nesse período  as 
+respectivas unidades administrativas ficarão sem atendimento.  
+Risco 3:  Contratada  não ter a capacidade para o cumprimento da entrega e/ou 
+condições contratuais.  
+Risco 4:  caso a contratação não seja realizada, a infraestrutura para atendimento aos 
+func ionários e jurisdicionados em geral poderá ficar prejudicada . 
+ 
+2. MENSURAÇÃO DAS PROBABILIDADES DE OCORRÊNCIA E DOS DANOS POTENCIAIS 
+RELACIONADOS A CADA RISCO IDENTIFICADO  
+Risco 1:  probabilidade baixa, em face do histórico de impugnações ou recursos  
+interpostos no TCE/SP ser muito raro ; 
+Risco 2:  probabilidade média, tendo em vista que há um certo número de empresas no 
+mercado que podem atender ao fornecimento pretendido;  
+Risco 3: probabilidade média, pois as empr esas deste ramo costumam ser de pequeno 
+porte ; 
+Risco 4: probabilidade baixa, pois caso haja um provável desabastecimento poderá ser 
+utilizada verba de adiantamento.  
+ 
+3. AÇÕES PREVISTAS PARA REDUZIR OU ELIMINAR AS CHANCES DE OCORRÊNCIA DOS 
+EVENTOS RELACIONADOS  A CADA RISCO:  
+Risco 1:  verifica r e se as especifica ções do objeto estão de acordo com as normas 
+vigentes ; 
+Risco 2:  consulta as empresas sobre os itens antecedendo a inclusão, verificação de 
+prazos que sejam adequados a contratação, pesquisa de preços realizada em conformidade 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+17 
+ 
+com o mercado, atualização das exigências contratuais, acompanhamento ao processo 
+licitatório, atuando como equipe de apoio aos pregoeiros ; 
+Risco 3:  recomenda -se que os Atestados de Capacidade Técnica exigidos, considerem a 
+quantidade total a ser registrada por fornecedor, e que sejam diligenciados quando houver 
+dúvida quanto a sua autenticidade. Al ém disso, será solicitada a inclusão no Edital, de 
+elementos para verificação da capacidade financeira da empresa ; 
+Risco 4:  realizar novo processo licitatório  adequando as especificações ou exigências 
+no TR e Edital  com prioridade . 
+4. AÇÕES DE CONTINGÊNCIA A SEREM ADOTADAS SE OS EVENTOS CORRESPONDENTES 
+AOS RISCOS SE CONCRETIZEM:  
+Risco 1:  Adequar o edital de acordo com a determin ação do TCE/SP e remarcar a 
+licitação;  
+Risco 2:  Iniciar uma nova licitação no menor prazo possível ; 
+Risco 3:  Início imediato de novo processo de licitação e a concomitante apuração de 
+responsabilidade da empresa ; 
+Risco 4:  as Unidades Administrativas deverão requisitar compras urgentes, quando 
+justificadas.  
+ 
+5. RESPONSÁVEIS PELAS AÇÕES DE PREVENÇÃO DOS RISCOS E PELOS PROCEDIMENTOS DE 
+CONTINGÊNCIA:  
+ 
+Diretoria de Licitações e Suprimentos : responsável pel o processo de licitação  e 
+especificação do objeto ; 
+Coordenadorias de RAJ:  responsáveis pel o pedido eletrônico de compra  e pela gestão 
+do contrato.  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+18 
+ 
+CAPÍTULO 3 – MINUTA DO EDITAL DE LICITAÇÃO  
+PROCESSO Nº  20XX/XXXXX  OFERTA DE COMPRA (OC) Nº   
+MODALIDADE : PREGÃO ELETRÔNICO  Nº ___/20XX  
+TIPO:  “MENOR PREÇO”  
+ENDEREÇO ELETRÔNICO:  www.bec.sp.gov.br  ou www.bec.fazenda.sp.gov.br  
+DATA DO INÍCIO DO PRAZO PARA ENVIO DA PROPOSTA ELETRÔNICA :   __/__/20XX  
+DATA E HORA DA ABERTURA DA SESSÃO PÚBLICA:      __/__/20XX ÀS __:__ HORAS  
+ 
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  torna 
+público que se acha aberta, nesta unidade, licitação na modalidade PREGÃO, a ser realizada 
+por intermédio do sistema eletrônico de contratações denominado “Bolsa Eletrônica de 
+Compras do Governo do Estado de São Paulo – Sistema BEC/SP”, com utilizaç ão de recursos 
+de tecnologia da informação, denominada “PREGÃO ELETRÔNICO”, do tipo MENOR PREÇO, 
+regida pela Lei Federal nº. 10.520, de 17 de julho de 2002, Lei Complementar nº 123, de 14 
+de dezembro de 2006, alterada pela Lei Complementar nº 147, de 07 de  agosto de 2014, 
+pelo Decreto n° 49.722, de 24 de junho de 2005, pelo regulamento anexo a Resolução CC n° 
+27, de 25/05/2006, nos termos deste instrumento e seus anexos, aplicando -se, 
+subsidiariamente as disposições da Lei Federal nº 8.666, de 21 de junho d e 1993, da Lei 
+Estadual nº 6.544, de 22 de novembro de 1989, do Decreto Estadual n° 47.297, de 06 de 
+novembro de 2002, da Resolução CEGP -10, de 19 de novembro de 2002 e Provimento n° 
+2.138/2013 desta Corte.  
+Constituem anexos deste edital, dele fazendo part e integrante 
+para todos os fins de direito:  
+Anexo I — Termo de Referência  
+Anexo I I — Locais de Entrega e Quantidade  
+Anexo III — Modelo d e Proposta   
+Anexo IV — Modelo de Declaração (Decreto nº. 4.358/2002)  
+Anexo V — Declaração referente a Lei do Aprendiz (Lei nº 10.097/2000)  
+Anexo VI — Termo de Confidencialidade e Proteção de Dados   
+Anexo VII — Declaração de Atendimento e Sustentabilidade  
+Anexo VII I — Minuta de Contrato a ser celebrado  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+19 
+ 
+1. DO OBJETO  
+1.1. O objeto desta licitação é a contratação de empresa especializada para fornecimento 
+de água mineral, sem gás, inodora, incolor e insípida de fonte natural, em garrafões 
+com capacidade para 20 litros, a serem distribuídas nos prédios  [informar os locais  ou 
+a RA ], conforme especificações constantes do Termo de Referência que integra este 
+edital como Anexo I.  
+1.2. As licitantes  ficam cientes que, para efeito de processamento da licitação em ambiente 
+eletrônico, poderá ocorrer divergência entre a descrição do item de materia l existente 
+neste edital, inclusive referente a unidade de fornecimento, e no código constante no 
+Cadastro de Materiais utilizados pelo Sistema BEC, devendo sempre prevalecer o 
+estabelecido neste edital e seus anexos.  
+2. DA PARTICIPAÇÃO NA LICITAÇÃO  
+2.1. Poderão p articipar deste pregão,  [todos os interessados ] ou  [exclusivamente, 
+microempresas e empresas de pequeno porte ] do ramo de atividade pertinente ao 
+objeto desta licitação que atenderem às exigências de habilitação e que estiverem 
+registradas no Cadastro Unificado de Fornecedores do Estado de São Paulo - CAUFESP, 
+em atividade econômica compatível com o seu objeto, sejam detentores de senha 
+para participar de procedimentos eletrônicos e tenham credenciado os seus 
+representantes, na forma estabeleci da no regulamento do Pregão Eletrônico.  
+2.1.1.  O registro no CAUFESP, o credenciamento dos(as) representantes que atuarão 
+em nome da licitante no sistema de pregão eletrônico e a senha de acesso, 
+deverão ser obtidos anteriormente à abertura da sessão pública.  
+2.1.2.  As informações a respeito das condições exigidas e dos procedimentos a serem 
+cumpridos, para o registro no CAUFESP, para o credenciamento de 
+representantes e para a obtenção de senha de acesso, estão disponíveis no 
+endereço eletrônico www.bec.sp.gov.br  ou www.bec.fazenda.sp.gov.br . 
+2.2. Constitui condição para participação, a declaração pela licitante que inexiste qualquer 
+fato impeditivo de sua participação no certame ou de sua  contratação e que conhece e 
+aceita os regulamentos do Sistema BEC/SP relativos ao Pregão Eletrônico, mediante 
+assinalação nos campos próprios ao acessar o ambiente eletrônico de contratações do 
+Sistema BEC/SP.  
+2.3. A licitante responde integralmente por todos os atos praticados no pregão eletrônico, 
+por seus(suas) representantes devidamente credenciados(as), assim como pela 
+utilização da senha de acesso ao sistema, ainda que indevidamente, inclusive por 
+pessoa não credenciada como sua representante.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+20 
+ 
+2.4. Cada repres entante credenciado(a) poderá representar apenas uma licitante, em cada 
+pregão eletrônico.  
+2.5. O envio da proposta vinculará a licitante ao cumprimento de todas as condições e 
+obrigações inerentes ao certame.  
+2.6. Para o exercício do direito de preferência de que trata o subitem 5.6 , bem como para a 
+fruição do benefício da habilitação com irregularidade fiscal previsto no subitem 5.9.5  
+deste edital, a condição de microempresa ou de empresa de pequeno porte, deverá 
+constar do registro da licitante junto ao CAUFESP.  (este item será excluído se a 
+licitação for exclusiva à ME e EPP)  
+2.7. Serão impedidas de participar da presente licitação:  
+2.7.1.  empresas que estiverem suspensas de participar em licitação e impedidas de 
+contratar ju nto a qualquer órgão da Administração Pública Direta e Indireta do 
+Estado de São Paulo;  
+2.7.2.  aquelas que tenham sido declaradas inidôneas pela Administração Pública;  
+2.7.3.  empresas em consórcio, qualquer que seja a forma de sua constituição; e,  
+2.7.4.  servidor(a) de qualquer órgão ou entidade vinculada ao Tribunal de Justiça, 
+bem assim a empresa da qual tal servidor(a) seja sócio(a), dirigente ou 
+responsável técnico.  
+2.8. Empresas que não se enquadrem na condição de microempres as e empresas de 
+pequeno porte no sistema CAUF ESP.  (este item será incluído se a licitação for exclusiva 
+à ME e EPP)  
+2.9. A não observância das vedações contidas no subitem 2.7 é de inteira responsabilidade 
+da licitante que, pelo descumprimento, sujeitar -se-á às penalidades cabíveis.  
+3. DAS PROPOSTAS  
+3.1. As propo stas deverão ser enviadas por meio eletrônico disponível no endereço 
+www.bec.sp.gov.br  ou www.bec.fazenda.sp.gov.br  na opção “PREGÃO – ENTREGAR 
+PROPOSTA”, conforme as datas e horário estabelecidos no preâmbulo do edital, 
+devendo a licitante, para formulá -las, assinalar a declaração de que cumpre 
+integralmente os requisitos de habilitação constantes do edital.  
+3.2. Ao formul ar a proposta de preço, a licitante deverá indicar os seguintes elementos:  
+3.2.1.  Marca do produto ofertado, observadas as especificações do Termo de 
+Referência constante do Anexo I deste Edital;  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+21 
+ 
+3.2.2.  Preço unitário e total por garrafão de 20 litros, em moeda corrente  nacional, 
+em algarismos, apurados à data de sua apresentação, sem inclusão de 
+qualquer encargo financeiro ou previsão inflacionária.  
+3.2.2.1.  Nos preços propostos deverão estar incluídos, além do lucro, todas 
+as despesas e custos, como por exemplo: transportes, tributos de 
+qualquer natureza e todas as despesas, diretas ou indiretas, 
+relacionadas com o fornecimento do objeto da presente licitação.  
+3.3. O prazo de validade da proposta será de 90 (noventa ) dias.  
+3.4. Não será admitida cotação inferior à quantidad e prevista neste Edital.  
+3.5. O preço ofertado permanecerá fixo e irreajustável.  
+4. DA HABILITAÇÃO  
+4.1. O julgamento da habilitação se processará na forma prevista no subitem 5.9 deste 
+Edital, mediante o exame dos documentos a seguir relacionados, os quais dizem 
+respei to a:  
+4.1.1.  Habilitação Jurídica:  
+4.1.1.1.  Registro  empresarial na Junta Comercial, no caso de empresário(a) 
+individual;  
+4.1.1.2.  Ato constitutivo (estatuto ou contrato social), devidamente registrado, 
+atualizado  com a indicação dos(a) atuais administradores(as) ou 
+dirigentes;  
+4.1.1.3.  Documentos  de eleição ou designação dos(a) atuais administradores(a), 
+tratando -se de sociedades por ações, acompanhados da documentação 
+mencionada no subitem 4.1.1.2;  
+4.1.1.4.  Ato constitutivo atualizado e registrado no Cartório de Registro Civil de 
+Pessoas Jurídicas  tratando -se de sociedades civis, acompanhado de prova 
+da diretoria em exercício;  
+4.1.1.5.  Decreto  de autorização e ato de registro ou autorização para 
+funcionamento expedido pelo órgão competente, quando se tratar de 
+firma estrangeira em funcionamento no país e a atividade assim o exigir.  
+4.1.2.  Qualificação Técnica:  
+4.1.2.1.  Atestado(s) conforme exigido no item 1 6 do Anexo I  do edital . 
+4.1.2.1.1.  Para efeito de comprovação da qualificação técnica será 
+admitido o somatório de atestados.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+22 
+ 
+4.1.2.1.2.  Nos termos do artigo 43, parágrafo 3º, da Lei 8.666/93, 
+é facultado  ao(à) pregoeiro(a), ou a sua Equipe de 
+Apoio, a promoção de diligência destinada a averiguar a 
+veracidade das informações constantes dos atestados.  
+4.1.3.  Regularidade Fiscal e Trabalhista:  
+4.1.3.1.  Inscriçã o no Cadastro Nacional de Pessoas Jurídicas (C.N.P.J.);  
+4.1.3.2.  Inscrição no Cadastro de Contribuintes Estadual e Municipal, se houver , 
+relativo à sede da licitante, pertinente ao seu ramo de atividade e 
+compatível com o objeto deste edital;  
+4.1.3.3.  Certidão de regularida de de débito com a Fazenda Estadual e Municipal  
+(Tributos Mobiliários), da sede da licitante;  
+4.1.3.4.  Certidão  de regularidade de débito com o Fundo de Garantia por Tempo 
+de Serviço (FGTS);  
+4.1.3.5.  Certidão  Negativa de Débitos Relativos aos Tributos Federais e à Dívida 
+Ativa da União;  
+4.1.3.6.  Prova  de inexistência de débitos inadimplidos perante a Justiça do 
+Trabalho, mediante a apresentação de certidão negativa.  
+4.1.4.  Qualificação Econômico -Financeira:  
+4.1.4.1.  Certidão  negativa de falência e concordata expedida pelo distribuidor da 
+sede da pes soa jurídica.  
+4.1.4.2.  Certidão  negativa de recuperação judicial ou extrajudicial expedida pelo 
+distribuidor da sede da pessoa jurídica.  
+4.1.4.2.1.  Nas hipóteses em que a certidão encaminhada for 
+positiva, deve o licitante apresentar comprovante da 
+homologação/deferimento pel o juízo competente do 
+plano de recuperação judicial/extrajudicial em vigor.  
+4.1.5.  Outras Comprovações : 
+4.1.5.1.  Declaração firmada pelo licitante nos moldes estabelecidos pelo Decreto 
+nº 4.358, de 05 de setembro de 2002, conforme Modelo (Anexo IV), 
+quanto ao cumprimento da exigência prevista no inciso V, do artigo 27 da 
+Lei de Licitações e Contratos nº 8.666/93, em sua atual redação.  
+4.1.5.2.  Declaração firmada pelo licitante, conforme Modelo (Anexo V ), que 
+atende o disposto na Lei nº 10.097, de 19 de dezembro de 2.000 . 
+4.1.5.3.  Declaração de Atendimento e Sustentabilidade  (Anexo VII). 
+4.2. DISPOSIÇÕES GERAIS  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+23 
+ 
+4.2.1.  Na hipótese de não constar prazo de validade nas certidões apresentadas, a 
+Administração aceitará como válidas as expedidas até 180 (cento e oitenta) 
+dias imediatamente anteriores à data de apresentação das propostas.  
+4.2.2.  A Certidão Positiva com Efeitos de Negativa tem os mesmos efeitos da 
+certidão negativa.  
+5. DA SESSÃO PÚBLICA E DO JULGAMENTO  
+5.1. No dia e horário previstos neste edital, o(a) pregoeiro(a) dará início à sessão pública 
+do pregão eletrônico, com a abertura automática das propostas e a sua divulgação, 
+pelo sistema, na forma de grade ordenatória, em ordem crescente de preços.  
+5.2. A análise das propostas pelo(a) pregoeiro(a) visará ao atendimento das condições 
+estabelecidas neste Edital e seus anexos.  
+5.2.1.  Serão desclassificadas as propostas:  
+5.2.1.1.  cujo  objeto não atenda as especificações, prazos e condições fixados no 
+edital;  
+5.2.1.2.  que apresentem preço baseado exclusivamente em proposta das demais 
+licitantes.  
+5.2.2.  A desclassificação se dará por decisão motivada do(a) pregoeiro(a).  
+5.2.3.  Serão desconsideradas ofertas ou vantagens baseadas nas propostas das 
+demais licitantes.  
+5.2.4.  O eventual desempate de propostas do mesmo valor será promovido pelo 
+sistema, com observância dos critérios legais est abelecidos.  
+5.3. Nova grade ordenatória será divulgada pelo sistema, contendo a relação das 
+propostas classificadas e das desclassificadas.  
+5.4. Será iniciada a etapa de lances, para a qual serão convidadas a participar, todas as 
+licitantes detentoras  de propostas classificadas.  
+5.4.1.  A formulação de lances será efetuada, exclusivamente, por meio do sistema 
+eletrônico.  
+5.4.1.1.  Os lances deverão ser formulados em valores distintos e decrescentes, 
+inferiores  à proposta de menor preço, ou em valores distintos e 
+decresc entes inferiores ao do último valor apresentado pela própria 
+licitante ofertante, observada, em ambos os casos, a redução mínima 
+entre eles que será informada no momento do agendamento da Sessão 
+Pública, pelo(a) pregoeiro(a), no sistema eletrônico de contr atações da 
+“Bolsa Eletrônica de Compras”, aplicável, inclusive, em relação ao primeiro 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+24 
+ 
+formulado, prevalecendo o primeiro lance recebido, quando ocorrerem 2 
+(dois) ou mais lances do mesmo valor.  
+5.4.1.1.1.  A aplicação do valor de redução mínima entre os lances 
+incidirá sobre o [PREÇO UNITÁRIO por garrafão de 20 
+litros  [do lote único]  ou [por lote] . 
+5.4.2.  A etapa de lances terá a duração inicial de 15 (quinze) minutos.  
+5.4.2.1.  A duração da etapa de lances será prorrogada a utomaticamente pelo 
+sistema , visando à continuidade da disputa, quando houver lance 
+admissível ofertado nos últimos 3 (três) minutos do período de que trata o 
+subitem 5.4.2 ou nos sucessivos períodos de prorrogação automática.  
+5.4.2.1.1.  Não havendo novos lances ofer tados nas condições 
+estabelecidas no subitem 5.4.2.1, a duração da 
+prorrogação encerrar -se-á, automaticamente, quando 
+atingido o terceiro minuto contado a partir do registro no 
+sistema, do último lance que ensejar prorrogação.  
+5.4.3.  No decorrer da etapa de lance s, as licitantes serão informadas pelo sistema 
+eletrônico:  
+5.4.3.1.  dos lances  válidos e dos inválidos, horários de seus registros no sistema e 
+respectivos valores;  
+5.4.3.2.  do tempo  restante para o encerramento da etapa de lances.  
+5.4.4.  A etapa de lances será considerada encerra da, findos os períodos de duração 
+indicados no subitem 5.4.2.  
+5.5. Encerrada a etapa de lances, o sistema divulgará a nova grade ordenatória, contendo 
+a classificação final, em ordem crescente de valores.  
+5.5.1.  Para essa classificação será considerado o último preço admitido de cada 
+licitante.  
+5.6. Com base na classificação a que alude o subitem 5.5 , será assegurada às licitantes 
+microempresas e empresas de pequeno porte, preferência à contratação, observadas 
+as seguintes regras:  
+5.6.1.  A microempresa ou empresa de pequeno porte, DETENTORA  da proposta de 
+menor valor, dentre aquelas cujos valores sejam iguais ou superiores até 5% 
+(cinco por cento) ao valor da proposta melhor classificada, será convocada 
+pelo(a) pregoeiro(a), para que apres ente preço inferior ao da melhor 
+classificada, no prazo de 5 (cinco) minutos, sob pena de preclusão do direito 
+de preferência.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+25 
+ 
+5.6.1.1.  A convocação  recairá sobre a licitante vencedora de sorteio, no caso de 
+haver propostas empatadas, nas condições do subitem 5.6.1 . 
+5.6.2.  Não havendo a apresentação de novo preço, inferior ao preço da proposta 
+melhor classificada, serão convocadas para o exercício do direito de 
+preferência, respeitada a ordem de classificação, as demais microempresas ou 
+empresas de pequeno porte, cujos val ores das propostas se enquadrem nas 
+condições indicadas no subitem 5.6.1.  
+5.6.3.  Caso a detentora  da melhor oferta, de acordo com a classificação de que trata 
+o subitem 5.5, seja microempresa ou empresa de pequeno porte, não será 
+assegurado o direito de preferênc ia, passando -se, desde logo, à negociação 
+do preço.  
+[excluir o item 5.6  e subitens se a licitação for exclusiva para ME/EPP  e ajustar 
+itens e subitens subsequentes ] 
+5.7. O(A) pregoeiro(a) poderá negociar com o (a) autor (a) da oferta de menor valor,  
+[obtida com b ase nas disposições dos subitens 5.6.1 e 5.6.2, ou, na falta desta, ] com 
+base na classificação de que trata o subitem 5.5, mediante troca de mensagens 
+abertas no sistema, com vistas à redução do preço.  
+5.8. Após a negociação, se houver, o(a) pregoeiro(a) examin ará a aceitabilidade do menor 
+preço, decidindo motivadamente a respeito.  
+5.8.1.  A aceitabilidade será aferida a partir dos preços de mercado vigentes na data 
+da apresentação das propostas, apurados mediante pesquisa realizada pelo 
+órgão licitante.  
+5.8.2.  Para verificação de aceitabilidade, a licitante autora do menor de preço 
+deverá encaminhar a proposta final, de acordo com o Anexo III – Modelo de 
+Proposta , por meio eletrônico que vier a ser disponibilizado.  
+5.8.2.1.  O(A) pregoeiro(a), mediante mensagem registrada no sistema, poderá 
+estabelecer prazo para o envio da proposta final.  
+5.8.2.2.  A proposta  final deverá contemplar os valores unitários e totais, com o 
+valor total global para o lote adequado ao preço final ofertado.  
+5.8.2.3.  A empresa  deverá utilizar e encaminhar a planilha em Excel  
+disponibilizada  pelo Tribunal de Justiça, com os valores e dados 
+preenchidos.  
+5.9. Considerada aceitável a oferta de menor preço, passará o(a) pregoeiro(a) ao 
+julgamento da habilitação, observando as seguintes diretrizes:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+26 
+ 
+5.9.1.  Verificação dos dad os e informações do (a) autor (a) da oferta aceita, 
+constantes do CAUFESP e extraídos dos documentos indicados no item 4 
+deste Edital.  
+5.9.2.  Caso os dados e informações constantes no CAUFESP não atendam aos 
+requisitos estabelecidos no item 4 deste Edital, a licita nte poderá suprir ou 
+sanear eventuais omissões ou falhas, relativas ao cumprimento dos requisitos 
+e condições de habilitação estabelecidos no Edital, mediante a apresentação 
+de novos documentos ou a substituição de documentos anteriormente 
+ofertados, desde  que os envie no prazo estabelecido pelo(a) Pregoeiro(a), por 
+meio eletrônico que serão informados pelo Pregoeiro no decorrer da sessão 
+pública.  
+5.9.2.1.  Sem prejuízo  do disposto nos subitens 5.9.1  ao 5.9.4, deverão ser 
+apresentados, obrigatoriamente por meio eletr ônico, as declarações 
+e documentos a que se referem os subitens 4.1.2 e 4.1.5 deste 
+Edital.  
+5.9.3.  A Administração não se responsabilizará pela eventual indisponibilidade dos 
+meios eletrônicos hábeis de informações, no momento da verificação dos 
+documentos enviad os ou dos meios para a transmissão de cópias de 
+documentos a que se refere ao subitem 5.9.2, ressalvada a indisponibilidade 
+de seus próprios meios. Na hipótese de ocorrerem essas indisponibilidades 
+e/ou não sendo supridas ou saneadas as eventuais omissões ou falhas, na 
+forma prevista no subitem 5.9.2, a licitante será inabilitada, mediante decisão 
+motivada.  
+5.9.4.  Os originais ou cópias autenticadas por tabelião de notas, dos documentos 
+enviados na forma constante do subitem 5.9.2, deverão ser apresentados no 
+GRUP O DE PREGOEIROS -LICITAÇÕES, sito na Rua Direita, nº 250 – 23º andar, 
+Centro, São Paulo, nesta Capital, em até 02 (dois) dias após o encerramento 
+da sessão pública, sob pena de invalidade do respectivo ato de habilitação e 
+aplicação das penalidades cabíveis . 
+5.9.5.  Para habilitação de microempresas e empresas de pequeno porte, não será 
+exigida comprovação de regularidade fiscal, mas será obrigatória a 
+apresentação dos documentos indicados nos subitens 4.1.3.1 a 4.1.3.5 deste 
+Edital, ainda que eles veiculem restriçõ es impeditivas à referida comprovação;   
+(este item  será  excluído se a licitação for exclusiva a ME e EPP)  
+5.9.6.  Constatado o cumprimento dos requisitos e condições estabelecidos no 
+Edital, a licitante será habilitada e declarada vencedora do certame.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+27 
+ 
+5.9.7.  Por meio de aviso lançado no sistema, o(a) pregoeiro(a) informará aos demais 
+licitantes que poderão consultar as informações cadastrais da licitante 
+vencedora colocando o cursor e clicando sobre o nome dela, o que fará 
+aparecer a página disponível para tanto. Deverá, ainda, informar, quando for 
+o caso, o teor dos documentos recebidos por meio eletrônico.  
+5.9.8.  As microempresas e as empresas de pequeno porte deverão apresentar toda a 
+documentação exigida para efeito de comprovação de regularidade fiscal, mesmo 
+que esta apresente alguma restrição.   
+5.9.8.1.  Havendo alguma restrição na comprovação da regularidade fiscal, será 
+assegurado o prazo de 5 (cinco) dias úteis, cujo termo inicial 
+corresponderá ao momento em que o proponente for declarado(a) o(a) 
+vencedor(a) do certame,  prorrogável por igual período, a critério da 
+Administração Pública, neste ato representada pelo(a) Pregoeiro(a), para a 
+regularização da documentação, pagamento ou parcelamento do débito e 
+emissão de eventuais certidões negativas ou positivas com efeito d e 
+certidão negativa.   
+5.9.8.2.  A não regularização da documentação, no prazo previsto, implicará 
+decadência do direito à contratação, sem prejuízo das sanções previstas 
+no art. 7º da Lei nº 10.520/02.   
+5.9.9.  Na hipótese prevista no subitem 5.9.8.1, a sessão pública será suspensa pelo(a) 
+Pregoeiro(a), por 5 (cinco) dias úteis, para que o(a) licitante vencedor(a) possa 
+comprovar a regularidade fiscal.   
+5.9.10.  Na retomada da sessão, o(a) Pregoeiro(a) decidirá motivadamente sobre a 
+comprovação ou não da regularidade fiscal de que tr ata o subitem 5. 9.8.  
+(Se for licitação exclusiva  a ME & EPP, incluir  os itens 5.9.8 a 5.9.10 e excluir  os itens 5.10 a 
+5.13.)  
+5.10. A licitante habilitada nas condições do subitem 5.9.5, deverá comprovar sua 
+regularidade fiscal, sob pena de decadência do direito à contratação, sem prejuízo da 
+aplicação das sanções cabíveis.  
+5.11. A comprovação de que trata o subitem 5.10 deverá ser efetuada mediante a 
+apresentação das competentes certidões negativas de débitos, ou positivas com 
+efeitos de negativas, no prazo de 5 (cinco) dias úteis, cujo termo inicial corresponderá 
+ao momento em que o proponente for declarado o vencedor do certame, 
+prorrogável por igual período, a critério da administração pública, para a 
+regularização da documentação, pagamento ou parcelamento d o débito e emissão 
+de eventuais certidões negativas ou positivas com efeito de certidão negativa.  
+5.12. Ocorrendo a habilitação na forma indicada no subitem 5.9.5 , a sessão pública será 
+suspensa pelo(a) pregoeiro(a), observados os prazos previstos no subitem 5.1 1, para 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+28 
+ 
+que a licitante vencedora possa comprovar a regularidade fiscal de que tratam os 
+subitens 5.10 e 5.11 . 
+5.13. Por ocasião da retomada da sessão, o(a) pregoeiro(a) decidirá motivadamente sobre 
+a comprovação ou não da regularidade fiscal de que tratam os su bitens 5.10 e 5.11, 
+ou sobre a prorrogação de prazo para a mesma comprovação, observado o disposto 
+no mesmo subitem 5.11.  
+5.14. Se a oferta não for aceitável, se a licitante desatender às exigências para a 
+habilitação, ou não sendo saneada a irregularidade fisca l, nos moldes dos subitens 
+5.10 a 5.13, o(a) pregoeiro(a), respeitada a ordem de classificação de que trata o 
+subitem 5.5, examinará a oferta subsequente de menor preço, negociará com o (a) 
+seu(sua)  autor (a), decidirá sobre a sua aceitabilidade e, em caso p ositivo, verificará as 
+condições de habilitação e, assim, sucessivamente, até a apuração de uma oferta 
+aceitável cujo (a) autor (a) atenda às condições do Edital, caso em que será 
+declarado (a) vencedor (a). 
+6. DO RECURSO, DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO  
+6.1. Divulgado (a) o(a) vencedor (a) ou saneada a irregularidade fiscal nos moldes dos 
+subitens 5.10 a 5.13 , ou, ainda, se for o caso, encerrado o julgamento da habilitação 
+das demais participantes que concordaram em fornecer ao preço da vencedora do 
+certame, o(a) pregoeiro(a) informará às licitantes, por meio de mensagem lançada no 
+sistema, o tempo para manifestação da intenção de interpor recurso, que deverá ser 
+efetuada motivadamente e exclusivamente em campo próprio disponibilizado no 
+sistema.  
+6.2. Have ndo manifestação motivada da intenção de interposição de recurso, na forma 
+indicada no subitem 6.1, o(a) pregoeiro(a), por mensagem lançada no sistema, 
+informará aos recorrentes que poderão apresentar memoriais contendo as razões de 
+recurso, no prazo de 3 (três) dias após o encerramento da sessão pública e, às demais 
+licitantes, que poderão apresentar contrarrazões, em igual número de dias, os quais 
+começarão a fluir do término do prazo do recorrente, sendo -lhes assegurada vista 
+imediata dos autos.  
+6.2.1.  As razõe s de recurso e as contrarrazões serão oferecidas, por meio eletrônico, 
+no sítio www.bec.sp.gov.br  ou www.bec.fazenda.sp.gov.br , opção RECURSO.  
+6.2.1.1.  Se houver  a necessidade de apresentação de documentos, atinentes ao 
+recurso ou às contrarrazões, que não puderem ser oferecidos no ambiente 
+eletrônico, os mesmos deverão ser apresentados mediante protocolo, no 
+Grupo de Pregoeiros -Licitações (GPL), sito na Rua Direi ta, n° 250 – 23° 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+29 
+ 
+andar, São Paulo, nesta Capital, observados os prazos estabelecidos no 
+subitem 6.2.  
+6.3. A falta da manifestação imediata e motivada do licitante, a que se refere o subitem 
+6.1, importará a decadência do direito de recurso e o(a) pregoeiro(a) e ncaminhará o 
+processo à autoridade competente para adjudicação e homologação.  
+6.4. Interposto o recurso, o(a) pregoeiro(a) poderá reconsiderar a sua decisão ou 
+encaminhá -lo devidamente informado à autoridade competente para decisão.  
+6.5. O recurso terá efeito suspen sivo e o seu acolhimento importará a invalidação dos 
+atos insuscetíveis de aproveitamento.  
+6.6. Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade 
+competente adjudicará o objet o da licitação à licitante  vencedora e homologará o 
+procedimento licitatório.  
+6.7. A adjudicação desta licitação será feita [pela totalidade ] ou [por lote]  do objeto 
+somente a 01 (uma) empresa.  
+7. DA DESCONEXÃO COM O SISTEMA ELETRÔNICO  
+7.1. À licitante caberá acompanhar as operações no sistema eletrônico, durante a sessão 
+pública, respondendo pelos ônus decorrentes de sua desconexão ou da 
+inobservância de quaisquer mensagens emitidas pelo sistema.  
+7.2. A desconexão do sistema eletrônico com o(a) pregoeiro(a), durante a sessão pública, 
+implicará:  
+7.2.1.  fora da etapa de lances, a  sua suspensão e a sua retomada, no ponto em que 
+foi suspensa, sem prejuízo dos atos realizados até então. Quando a 
+desconexão persistir por tempo superior a 15 (quinze) minutos, a sessão 
+pública deverá ser suspensa, e reiniciada somente após comunicação e xpressa 
+às licitantes, de nova data e horário para a sua continuidade;  
+7.2.2.  durante a etapa de lances, a continuidade da apresentação de lances pelas 
+licitantes, até o término do período de duração inicial estabelecido no edital.  
+7.3. A desconexão do sistema eletrôn ico com qualquer licitante, não prejudicará a 
+conclusão válida da sessão pública ou do certame.  
+8. DA LEI GERAL DE PROTEÇÃO DE DADOS  
+8.1. Para os fins da Lei Geral de Proteção de Dados, a empresa contratada  dever á declarar ter 
+recebido e concordado com a Política de Privacidade e Proteção de Dados do Tribunal de 
+Justiça do Estado de São Paulo e que adere as ações determinadas no Termo de 
+Confidencialidade e Proteção de Dados d o Contrato  (Anexo VI). 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+30 
+ 
+9. DOS PRAZOS, DAS CONDIÇÕES E DO LOCAL DE ENTREGA DO OBJETO DA LICITAÇÃO  
+9.1. Homologado o resultado e adjudicado o objeto da licitação, a vencedora terá o prazo 
+de 05 (cinco) dias úteis, a contar do recebimento da comunicação específica, para 
+assinar o contrato  e Anexo VI (Termo de Confidencialidade e Proteção de Dados) , por 
+meio de assinatura eletrônica, a ser disponibilizado no sítio do Tribunal de Justiça.  
+9.1.1.  O(a) representante legal da licitante vencedora, legitimado(a) para firmar o 
+ajuste, deverá possuir o ce rtificado digital (e -CPF) válido.  
+9.1.2.  Na impossibilidade do contrato  e anexo  VI serem assinado s eletronicamente, 
+por falha do sistema ou por motivo superveniente do Tribunal de Justiça, a 
+licitante vencedora será convocada para assinar o contrato fisicamente.  
+9.1.3.  A licitante vencedora deverá informar na proposta o e -mail do(a) 
+representante legal para fins de assinatura do contrato  e do Anexo VI . 
+9.1.4.  Na formalização do Contrato deverá ser apresentado registro do produto no 
+Ministério da Saúde, comprovado por meio de có pia da publicação no Diário 
+Oficial da União.  
+9.2. As condições, prazos e locais de entrega estão discriminados nos Anexo I  - item  3. 
+10. DAS CONDIÇÕES DE RECEBIMENTO DO OBJETO  
+10.1. O recebimento será feito nos termos do artigo 73, inciso II, da Lei de Licitações e 
+Cont ratos nº 8.666/93, da Portaria nº 7.296/06, atualizada pela Portaria nº 7.355/06, 
+e nos termos do capítulo VIII do Provimento nº 2.138/2013 da Egrégia Presidência do 
+Tribunal de Justiça  e conforme item 15.3 do Anexo I;  
+10.2. Na hipótese dos produtos apresentarem defeitos, totais ou parciais, desde a entrega, 
+quando de seu uso e durante todo o período de garantia, o Tribunal de Justiça 
+cientificará o licitante acerca das circunstâncias, podendo a Administração rescindir o 
+contr ato ou tornar sem efeito o instrumento equivalente, aplicando as penalidades 
+previstas neste edital ou, a seu critério exclusivo, autorizar a substituição dos 
+produtos defeituosos, em prazo nunca superior ao indicado nos subitens 9.3 e 9.4 do 
+Anexo I , rein iciando -se o prazo para o seu recebimento, caso ainda não tenha sido 
+efetivado.  
+10.3. Na hipótese de ocorrência do previsto no artigo 65, inciso II, alínea “d”, da Lei de 
+Licitações e Contratos nº 8.666/93, em sua atual redação, o fornecedor adjudicatário 
+deverá , primeiramente, observar os prazos de entrega que foram propostos 
+enquanto for apreciado o pedido de remanejamento de preços, sob pena de incorrer 
+em inadimplência, com a consequente aplicação das penalidades legais e as previstas 
+neste Edital.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+31 
+ 
+10.4. Quando da conclusão, caso os produtos não sejam entregues a contento, não serão 
+eles aceitos. A par disso, a Contratada deverá providenciar a sua regularização 
+imediatamente após o recebimento da comunicação, sem prejuízo da incidência das 
+sanções previstas neste Ed ital, pela Lei de Licitações e Contratos nº 8.666/93, em sua 
+atual redação, Provimento nº 2.138/2013, bem como por toda legislação que rege a 
+matéria, no que couber e não conflitar com as citadas leis.  
+11. DA GESTÃO E FISCALIZAÇÃO DO CONTRATO  
+11.1. A gestão e fiscalização serão exercidas no interesse exclusivo do Contratante, nos 
+termos do capítulo VII, do Provimento nº 2.138/2013, não suprimindo a 
+responsabilidade da Contratada, inclusive perante terceiros por quaisquer 
+irregularidades, nos termos do art. 70 d a Lei Federal nº 8.666/93.  
+11.2. Atuarão na fase da gestão, da fiscalização do recebimento do objeto, os(as) 
+servidores(as) indicados(as) pela(s) Secretaria(s) responsável(eis) ou, não havendo, 
+pela(s) Diretoria(s) ou Coordenadoria(s), bem como seus suplentes, c onforme 
+designação da Egrégia Presidência do Tribunal de Justiça . 
+11.3. Para efeito do disposto nesta cláusula, o Contratante registrará as deficiências 
+existentes na execução dos serviços e/ou inobservância das condições pactuadas 
+comunicando -as à Contratada pa ra imediata correção, sem prejuízo da aplicação das 
+penalidades previstas.  
+11.4. A Diretoria  de Controle Interno (DCI) do Tribunal de Justiça do Estado de São Paulo, a 
+qualquer tempo, poderá solicitar à Contratada  seus documentos e escriturações 
+fiscais e/ou con tábeis.  
+12. DAS CONDIÇÕES DE PAGAMENTO  
+12.1. O prazo para pagamento será conforme indicado no item 15 do Anexo I  do Edital . 
+12.2. Havendo atraso nos pagamentos sobre o valor devido, incidirá correção monetária 
+com base na taxa de variação da UFESP (Unidade Fiscal do Estado de São Paulo), nos 
+termos do art. 74, da Lei Estadual nº 6.544/89, e do Decreto Estadual nº 32.117/90, e 
+juros m oratórios, na razão de 1% (um por cento) ao mês, calculados pro rata 
+tempore , em relação ao atraso verificado.  
+12.3. O(a) credor(a) que apresentar registro no Cadastro Informativo dos Créditos não 
+Quitados de Órgãos e Entidades Estaduais – CADIN ESTADUAL, deverá  ter 
+regularizada a pendência junto à Secretaria da Fazenda do Estado de São Paulo, 
+devendo a Contratada comprovar a regularização junto a Secretaria de Orçamento e 
+Finanças – SOF deste Tribunal de Justiça, para efeito de regular pagamento.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+32 
+ 
+12.4. Para o pagament o deverão ser apresentadas Notas Fiscais/Faturas, com indicação do 
+número da agência e conta corrente no Banco do Brasil S.A., bem como deverá ser 
+mencionado o nº da Nota de Empenho respectivo, que a SOF – Secretaria de 
+Orçamento e Finanças remeterá a empr esa no momento do empenhamento, as quais 
+serão atestadas definitivamente pelos(as) servidores(as) designados(as) pela Egrégia 
+Presidência do Tribunal de Justiça e, em seguida, encaminhadas a SOF para efetivo 
+pagamento.  
+12.5. O recebimento será sempre integral (a teste da Nota Fiscal/Fatura), não se admitindo 
+ateste parcial. Caso não seja possível atestar o recebimento, por motivo que possa ou 
+não se constituir em inadimplência, o Documento Fiscal será devolvido ao emitente 
+(Contratada) e a unidade gestora deverá p roceder nos termos dos artigos 80, 81, 82, 
+83 e 84 do capítulo XIII do Provimento nº 2.138/2013.  
+12.5.1.  Durante o tempo que perdurar a apuração, não incidirá a aplicação dos 
+termos constantes do subitem 1 2.2 deste Edital.  
+12.5.2.  A Contratada não poderá apresentar nota f iscal/fatura com CNPJ diverso do 
+qualificado no preâmbulo do Contrato.  
+12.5.3.  As Notas Fiscais/Faturas apresentadas em desacordo com o estabelecido 
+neste Edital, na nota de empenho, no Contrato ou com qualquer 
+circunstância que desaconselhe o pagamento será devol vida à adjudicatária 
+e nesse caso o prazo previsto no subitem 1 2.1 será interrompido.  
+12.5.4.  A contagem do prazo previsto para pagamento (conforme subitem 1 2.1) 
+será reiniciada a partir da respectiva regularização, desconsiderado o prazo 
+anteriormente decorrido d urante a análise das Notas Fiscais/Faturas 
+consideradas irregulares.  
+12.6. Quando a empresa emitir o Documento Auxiliar da Nota Fiscal Eletrônica – DANFE, 
+em substituição a nota fiscal/fatura, no ateste do documento pelo setor responsável 
+deverá ser acrescentado  que foi verificada a autenticidade da NF -e. 
+12.6.1.  Para confirmação da autenticidade da NF -e, a consulta poderá ser feita na 
+Internet digitando -se os números da chave de acesso  no site da Secretaria da 
+Fazenda do Estado de São Paulo ou Portal Nacional da Nota Fiscal Eletrônica, 
+os quais seguem respectivamente, www.fazenda.sp.gov.br   NF-e ou nota 
+fiscal eletrônica  Consulta de NF -e d e mercadorias ou 
+www.nfe.fazenda.gov.br   Consulta resumo de uma Nota Fiscal Eletrônica.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+33 
+ 
+12.6.2.  No caso de nota fiscal eletrônica, a autenticidade deverá ser verificada de 
+acordo com o regulamento do respectivo Municí pio a que se sujeita o 
+recolhimento.  
+12.7. As despesas decorrentes desta licitação correrão à conta das dotações orçamentárias 
+específicas, consignadas no Orçamento para o presente exercício, classificação de 
+despesa  [indicar a fonte] . 
+13. DO REAJUSTAMENTO DOS PREÇOS  
+13.1. O valor contratado poderá ser reajustad o a cada período de 1 (um) ano, 
+contado a partir  da data limite para apresentação da propost a, com base na 
+variação mensal acumulada do  IPC/FIPE (Índice de Preços ao Consumidor da 
+Fundação Instituto de Pesquisas Econômicas ), ocorrida no período de 12 
+(doze) meses  anteriores ao de sua incidência . 
+14. DO PRAZO DE VIGÊNCIA  
+14.1. A contratação resultante da presente licitação será pelo prazo indicado no item 14 do 
+Anexo I  do edital . 
+15. DO DESCUMPRIMENTO DA OBRIGAÇÃO E DAS PENALIDADES  
+15.1. A inexecução total ou parcial do contrato ensejará a sua rescisão pela Administração 
+na forma e conseq uências previstas na Lei nº 8.666/93 e posteriores alterações, bem 
+como o constante nos art. 92 e 93 do Provimento n° 2.138/2013, sem prejuízo da 
+aplicação das penalidades a que aludem a mencionada legislação federal e art. 94 do 
+aludido Provimento:  
+Provim ento nº 2.138/2013:  
+Art. 94 – Os casos de descumprimento, inexecução, inadimplência e atraso na 
+execução do contrato são os previstos no Capítulo IV da Lei nº 8.666/93 e no art. 7º 
+da Lei nº 10.520/02.  
+§ 1° – A recusa da contratada em assinar o contrato, aceitar ou retirar 
+instrumento equivalente, dentro do prazo estabelecido pelo Tribunal de Justiça ou 
+pelo edital, caracteriza o descumprimento total da obrigação assumida, sujeitando -a 
+às seguintes penalidades:  
+I – multa  de 20% (vinte por cento) a 100% (cem por cento) do valor do 
+contrato ou instrumento respectivo; e,  
+II – pagamento correspondente à diferença de preço decorrente de nova 
+licitação ou contratação para o mesmo fim.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+34 
+ 
+ § 2° – O atraso injustificado de até 30 (t rinta) dias para assinatura do 
+contrato, da prestação de garantia ou da execução do serviço, incluindo a assistência 
+técnica em bem ou produto em período de garantia, compra ou obra, sem prejuízo do 
+que dispõe o § 1º do art. 86 da Lei nº 8.666/93, sujeitar á a contratada a multa de 
+mora de 0,50% (cinquenta centésimos percentuais) ao dia.  
+ § 3º – O não atendimento ao disposto no inc. IV do art. 62 ensejará a 
+aplicação da multa prevista no § 2º, a contar do primeiro dia útil seguinte ao término 
+do prazo estabe lecido para substituição.  
+ § 4º – Pela inexecução total ou parcial do serviço, compra ou obra, bem como 
+pelo atraso ou não atendimento de assistência técnica em bem ou produto em 
+período de garantia, poderão ser aplicadas à contratada as seguintes penalida des: 
+I – multa de 20% (vinte por cento) a 100% (cem por cento), nos casos que 
+excederem o prazo estabelecido no § 2º;  
+II – multa de 1% (um por cento) a 100% (cem por cento) do valor das 
+mercadorias não entregues ou da obrigação não cumprida;  
+III – pagament o correspondente à diferença de preço decorrente de nova 
+licitação ou contratação para o mesmo fim.  
+§ 5º – As multas previstas neste artigo e no contrato poderão ser descontadas 
+de pagamentos eventualmente devidos pelo Tribunal de Justiça.  
+§ 6º – As multas  não recolhidas e/ou não descontadas dos pagamentos 
+poderão, a critério da Administração, ser compensadas com as garantias prestadas 
+no contrato, vedando -se o pagamento com serviços ou produtos.  
+§ 7º – Esgotadas as possibilidades administrativas, a cobranç a da multa será 
+efetuada judicialmente.  
+§ 8º – A aplicação das multas previstas neste artigo não exclui outras sanções 
+previstas na Lei nº 8.666/93.  
+15.2. A CONTRATADA  que deixar de entregar o produto ou de executar serviços, ensejar o 
+retardamento da execução d o objeto, não manter a proposta, falhar ou fraudar na 
+execução do contrato, comportar -se de modo inidôneo, fazer declaração falsa ou 
+cometer fraude fiscal, garantido o direito do devido processo legal e da prévia e 
+ampla defesa, ficará impedido de licitar e contratar com a Administração pelo prazo 
+de até 5 (cinco) anos, enquanto perdurarem os motivos determinantes da punição ou 
+até que seja promovida a reabilitação perante o próprio Contratante . 
+15.3. Independentemente da efetivação da rescisão contratual, fica f acultado ao Tribunal 
+de Justiça do Estado de São Paulo a retenção de quaisquer importâncias devidas ao 
+licitante contratado para pagamento ou amortização, total ou parcial, as multas 
+aplicadas e/ou perdas causadas, sem prejuízo da adoção das medidas acima e 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+35 
+ 
+judiciais para cobrança do remanescente ou mesmo do valor total devido, caso não 
+seja possível a retenção ora pactuada ou esta seja insuficiente.  
+15.4. O Tribunal de Justiça suspenderá o pagamento de qualquer fatura quando houver 
+pendência e/ou imperfeições no  objeto contratado, sendo que nenhum pagamento 
+isentará a licitante de suas responsabilidades contratuais e civis.  
+15.5. Os valores referentes a multa e demais importâncias, quando não ressarcidos pela 
+Contratada, incidirá correção monetária com base na taxa de variação da UFESP 
+(Unidade Fiscal do Estado de São Paulo), nos termos do art. 74, da Lei Estadual nº 
+6.544/89, e do Decreto Estadual nº 32.117/90, e juros moratórios, na razão de 1% 
+(um por cento) ao mês, calculados pro rata tempore.  
+16. DAS DISPOSIÇÕES FINAIS  
+16.1. As normas disciplinadoras desta licitação serão interpretadas em favor da ampliação 
+da disputa, respeitada a igualdade de oportunidade entre as licitantes, desde que não 
+comprometam o interesse público, a finalidade e a segurança da cont ratação.  
+16.2. Das sessões públicas de processamento do Pregão será lavrada ata circunstanciada, 
+observado o disposto no artigo 9°, inciso X, da Resolução CEGP -10/2002, a ser 
+assinada pelo(a) pregoeiro(a) e pela equipe de apoio.  
+16.3. Será mantido sigilo quanto a iden tidade das licitantes, para o(a) pregoeiro(a) até a 
+etapa de negociação com o autor da melhor oferta e para os demais, até a etapa de 
+habilitação.  
+16.4. O resultado do presente certame será divulgado no Diário de Justiça Eletrônico do 
+Estado e nos sítios eletrôn icos www.tjsp.jus.br  e www.bec.sp.gov.br  ou 
+www.bec.fazenda.sp.gov.br . 
+16.5. Os demais atos pertinentes a esta licitação, passíveis de divulgação, serão publicados 
+no DJE e no próprio sistema, no endereço www.bec.sp.gov.br  ou 
+www.bec.fazenda.sp.gov.br , opção pregão eletrônico.  
+16.6. Até 2 (dois) d ias úteis anteriores à data fixada para abertura da sessão pública, 
+qualquer pessoa poderá, por meio do sistema eletrônico, solicitar esclarecimentos, 
+informações ou impugnar o ato convocatório do Pregão Eletrônico.  
+16.6.1.  A impugnação, assim como os pedidos de e sclarecimentos, será formulada em 
+campo  próprio do sistema, encontrado na opção Edital e Anexos , sendo 
+respondida pelo(a) subscritor(a) do Edital que decidirá no prazo de até 1 (um) 
+dia útil, anterior à data fixada para abertura da sessão pública.  
+16.6.2.  Acolhida  a impugnação contra o ato convocatório, será designada nova data 
+para realização da sessão pública.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+36 
+ 
+16.7. Os casos omissos do presente Pregão serão solucionados pelo(a) pregoeiro(a) e as 
+questões relativas ao sistema, pelo Centro de Controle de Contratações – CCC, do 
+Departamento de Controle de Contratações Eletrônicas – DCC da Secretaria da 
+Fazenda.  
+16.8. O Presidente do Tribunal de Justiça poderá determinar o cancelamento da nota de 
+empenho que vier a ser emitida em decorrência desta licitação e rescindir o Contrato  
+celebrado, independentemente de interpelação judicial ou extrajudicial, 
+assegurando -se o contraditório e ampla defesa, quando:  
+16.8.1.  A Contratada  venha a contratar empregados(a) que sejam cônjuges, 
+companheiros(as) ou parentes em linha reta, colateral ou por afinidade, 
+até o terceiro grau, inclusive, de ocupantes de cargos de direção e de 
+assessoramento, de membros ou juízes/juízas vinculados(as) a o Tribunal de 
+Justiça do Estado de São Paulo (Resolução nº 07/2005, atualizada pela 
+Resolução nº 09/2005, nº 21/2006, nº 181/2013 e nº 229/2016 do 
+Conselho Nacional de Justiça – CNJ);  
+16.8.2.  A contratação, independentemente da modalidade de licitação, de pessoa 
+jurídica que tenha em seu quadro societário cônjuge, companheiro(a) ou 
+parente em linha reta, colateral ou por afinidade até o terceiro grau, 
+inclusive, dos(as) magistrados(as) ocupantes de cargos de direção ou no 
+exercício de funções administrativas, assim  como de servidores(as) 
+ocupantes de cargos de direção, chefia e assessoramento vinculados direta 
+ou indiretamente às unidades situadas na linha hierárquica da área 
+encarregada da licitação;  
+16.8.3.  A contratação cujo procedimento licitatório tenha sido deflagrado  quando 
+os(as) magistrados(as) e servidores(as) geradores (as) de incompatibilidade 
+estavam no exercício dos respectivos cargos e funções, assim como às 
+licitações iniciadas até 6 (seis) meses após a desincompatibilização;  
+16.8.4.  A contratação de empresa pertencen te a parente de magistrado(a) ou 
+servidor(a) não abrangido (a) pelas hipóteses expressas de nepotismo 
+poderá ser vedada pelo Tribunal de Justiça do Estado de São Paulo, 
+quando, no caso concreto, identificar risco potencial de contaminação do 
+processo licita tório.  
+ 
+ 
+17. DO FORO  
+17.1. Para dirimir  as questões oriundas dest e Edital, será competente o foro da  Comarca 
+de São Paulo.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+37 
+ 
+São Paulo, data registrada em sistema . 
+ 
+Assinado eletronicamente  
+Coordenador(a) de Licitações e Compras  
+SAAB 5.1  Assinado eletronicamente  
+Diretor (a) de Licitações e Compras  
+SAAB 5  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+38 
+ 
+CAPÍTULO 4 – ANEXO I - TERMO DE REFERÊNCIA  
+1. DO OBJETO  
+1.1 Contratação de empresa para o fornecimento de água mineral natural , potável, sem 
+gás, acondicionada em garrafão plástico retornável, em regime de comodato, com 
+capacidade para 20 litros  e com lacre de segurança, com entrega parcelada e 
+sucessiva , a serem distribuídos nas unidades da [XX]  Região Administrativa Judiciária , 
+descritas no Anexo II.   
+2. DAS ESPECIFICAÇÕES  
+2.1 Água mineral;  
+2.2 Natural sem gás;  
+2.3 Obtida diretamente de fontes naturais ou por extração de águas subterrâneas, 
+conforme Resolução RDC ANVISA nº 173/2006, Anexo I - item 2.1;  
+2.4 Envasada em garrafão v edado com tampa de pressão e lacre, fabricado e reutilizado de 
+acordo com o padrão estabelecid o nas normas NBR/ABNT 14.222 (requisitos e métodos 
+de ensaio); 14.328 (tampa); 14.637 (requisitos para lavagem, enchimento e fechamento) 
+e 14.638 ( distribuição ); bem como nas Resoluções RDC/ANVISA nº 274/2005, 331/2019  
+e Portaria DNPM nº 387/2008;  
+2.5 Rótulo a provado pela Agência Nacional de Mineração e elaborado de acordo com as 
+disposições da Portaria do Ministério das Minas e Energia nº 470/99 e da Resolução 
+RDC/ANVISA nº 274/2005;  
+2.6 As condições de fabricação, transporte e comercialização deverão atender às 
+disposições do Regulamento Técnico de Boas Práticas para Industrialização de Água 
+Mineral e de Água Mineral Natural, instituído pela Resolução RDC/ANVISA nº 173/2006, 
+bem como as disposições contidas nas Resoluções RDC/ANVISA nº 274/2005 e nº 
+331/2019, refe rentes , respectivamente, ao controle das características mínimas de 
+qualidade e das características microbiológicas da água mineral natural;  
+2.7 Produto sujeito à verificação no ato da entrega aos procedimentos administrativos 
+determinados pela ANVISA.  
+2.8 Caso al guma norma mencionada tenha sido alterada, deverá automaticamente ser 
+obedecida a norma correspondente que venha a substitu i-la ou alterá -la. 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+39 
+ 
+3. DOS LOCA IS DE ENTREGA , DOS PEDIDOS, DAS CONDIÇÕES E PRAZOS DE ENTREGA  
+3.1 O fornecimento do produto deverá ser efetuado, mediante agendamento prévio, nas 
+localidades discriminadas no Anexo II  deste  Termo de Referência.  
+3.2 As quantidades máximas constantes no Anexo II  são estima das, devendo o (a) Fiscal de 
+Contrato realizar as solicitações semanais de acordo com a quantidade necessária para 
+cada prédio, observando o limite máximo estabelecido.  
+3.2.1 A primeira entrega deverá ser realizada no prazo de até 10 (dez)  dias corridos  
+após o início da vigência  do Contrato;  
+3.2.2 As demais entregas ocorrerão  semanalmente e/ou 
+quinzenalmente,  diretamente em cada endereço,  em dias úteis  e horários a 
+serem definidos  em comum acordo  entre  a Contratada  e o Fiscal de 
+Contrato,  conforme quantidade e locais indicados  no Anexo II .  
+3.2.3 Na semana em que não houver necessidade do fornecimento, o(a) Fiscal 
+de Contrato não fará solicitação de entrega.    
+3.3 O Fiscal de Contrato providenciará local adequado para o armazenamento dos galões 
+com água, evitando locais com incidência direta de luz solar ou calor.   
+3.4 Os veículos  de transporte  de água  em garrafão  de 20 litros,  deverão  estar limpos, sem 
+odores indesejáveis, livres  de vetores e pragas urbanas, dotados  de cobertura e 
+proteção lateral, limpas, impermeáveis e íntegras. Os  veículos  não devem  transp ortar 
+água  mineral natural ou água natural envasada  junto com outras cargas que 
+comprometam sua qualidade  higiênico -sanitária, conforme  item 4.9.2 
+da Resolução  RDC nº 173/2006 da ANVISA.   
+3.5 Cada  garrafão  deverá conter etiqueta com  a identificação do fornecedor, nome e 
+quantidade do produto e validade.   
+3.6 Quando da entrega, o tempo decorrido desde o envase não poderá ser superior a 45 
+(quarenta e cinco) dias corridos .  
+3.7 A cada entrega a C ontratada  deverá apresentar ao Fiscal do Cont rato os laudos 
+constantes nos itens 13.1.3 e 13.1.4 deste Termo de Referência, relativo aos lotes 
+entregues.  
+3.8 Os galões  em desacordo com o especificado deverão ser substituídos pela Contratada , 
+sem ônus para o C ontratante , no prazo máximo de 1 (um) dia útil da  notificação  pelo 
+Fiscal de  Contrato.   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+40 
+ 
+3.9 A Contratada  deverá fornecer, em comodato,  garrafões  de sua propriedade  em 
+quantidades suficientes, os quais serão devolvidos  após o término de vigência do 
+Contrato.   
+3.10 Os garrafões em comodato deverão ser contro lados pelo Serviço de Administração de 
+cada Unidade.   
+3.11 Na ocorrência de danos ou extravios dos garrafões, a Administração Predial deverá 
+apurar responsabilidades para ressarcimento destes à Contratada .  
+3.12 O ressarcimento se dará mediante comprovação dos valor es pagos pela C ontratada  e 
+prévia pesquisa de mercado para verificação da compatibilidade de preços.   
+3.13 Os garrafões serão fornecidos  de acordo com as marcas definidas na proposta . 
+3.13.1  A empresa poderá indicar até três marcas para fornecimento . 
+3.13.2  Todas as marcas indicadas deverão atender às especificações e exigências 
+constantes do Edital e seus Anexos.  
+3.13.3  Caso haja necessidade de substituição de alguma marca, a empresa Contratada  
+deverá enca minhar solicitação e justificativas ao Gestor, que procederá à 
+análise com base nos mesmos critérios utilizados quando da aprovação da 
+proposta.  
+3.13.4  O(A) Gestor (a) comunicará sua decisão à Contratada  e, caso aprovada a 
+substituição, aos (às) Fiscais do Contrato . 
+4. DA EMBALAGEM  
+4.1. As embalagens plásticas para água mineral e potável de mesa deverão garantir a 
+integridade do produto e serem fabricadas com resina virgem ou outro material 
+aceitável para contato com alimentos.  
+4.2. Os materiais a serem utilizados na fabricação das embalagens deverão atender às 
+especificações da Ag ência Nacional de Vigilância Sanitária – ANVISA.  
+4.3. A tampa deve permitir vedação eficiente do garrafão, a fim de evitar o vazamento de 
+água e a contaminação da água durante o transporte e estoc agem.  
+4.4. O garrafão tampado e com lacre inviolado não deverá apresentar vazamentos.  
+4.5. Deverá  apresentar ótimo estado de conservação, isto é: estar limpo, sem manchas, 
+sem odor ou amassados, sem furos e sem evidência de violação.  
+4.6. Deverá conter a identificação com qual tipo de plástico foi fabricado, a data da sua 
+fabricação, seu prazo de validade, o nome e o CNPJ do fabricante e o número de 
+registro da embalagem no Ministério da Saúde.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+41 
+ 
+4.7. Deverá apresentar o selo Fiscal de Controle e Procedência de a cordo com o Decreto 
+Estadual nº 64.645/19.  
+4.8. Os vasilhames retornáveis devem trazer impresso de forma indelével e legível na parte 
+superior do garrafão, entre o gargalo e o anel de reforço superior:  
+4.8.1.  Data limite de 03 (três) anos de sua vida útil, especificad a no formato “Data de 
+Fabricação” e “Prazo de Validade” expressos segundo a escrita usual: mês/ano;  
+4.8.2.  O número de certificação da embalagem que atesta a sua conformidade com as 
+normas técnicas da ABNT NBR nº 14 .222 e nº 14 .328 e o nome do instituto 
+técnico r esponsável pela emissão do certificado.  
+4.9. A empresa deverá dar destinação ambientalmente correta aos garrafões cuja  validade 
+estiver expirada , conforme compromisso assumido no Anexo VII – Declaração de 
+Atendimento e Sustentabilidade  e em atendimento à legisl ação ambiental aplicável.  
+5. DO RÓTULO  
+5.1. No rótulo deverão constar os seguintes elementos informativos:  
+5.1.1 Nome da fonte ; 
+5.1.2 Local da fonte, Município e Estado ; 
+5.1.3 Classificação da água ; 
+5.1.4 Composição química, expressa em miligramas por litro, contendo, no mínimo, 
+os oito elementos predominantes, sob a forma iônica ; 
+5.1.5 Características físico -químicas na surgência ; 
+5.1.6 Nome do laboratório, número e data da análise da água (LAMIN) ; 
+5.1.7 Volume expresso em litros ou mililitros ; 
+5.1.8 Número  e data da concessão de lavra e número do processo ; 
+5.1.9 Nome da empresa concessionária e/ou arrendatária, se for o caso, com o 
+número de inscrição no cadastro nacional de Pessoa Jurídica – CNPJ, do 
+Ministério da Fazenda ; 
+5.1.10  Duração, em meses, do produto, destacando -se a data de envasamento por 
+meio de impressão indelével na embalagem, no rótulo, ou na tampa ; 
+5.1.11  A expressão “Indústria Brasileira” ; 
+5.1.12  Número de registro no Ministério da Saúde ; 
+5.1.13  Deverá ser considerada como extensão do rótulo a cápsula de metal ou outro 
+dispositivo empregado na vedação das embalagens.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+42 
+ 
+ 
+ 
+6. DAS  CARACTERÍSTICAS MICROBIOLÓGICAS  
+6.1. Na fonte, poço ou local de surgência e na sua comercialização, a água mineral natural 
+deve ser de tal qualidade que não apresente risco à saúde do consumidor (ausência de 
+micro -organismos patogênicos) e estar em conformidade com a Resolução RDC nº 
+331/2019  - ANVISA.  
+6.2. Os contaminantes deverão obedecer aos limites máximos da Resolução RDC nº 
+274/ 2005  - ANVISA.  
+7. DA LEGISLAÇÃO APLICÁVEL  
+7.1. A Contratada  deverá observar a legislação específica em vigor que regulamenta o 
+controle, envase e fiscalização do fornecimento de água mineral.  
+7.2. Resolução  ANVISA - RDC nº 173/2006 – Dispõe sobre o Regulamento Técnico de Boas 
+Práticas para Industrialização e Comerciali zação de Água Mineral Natural e de Água 
+Natural e a Lista de Verificação das Boas Práticas para Industrialização e 
+Comercialização de Água Mineral Natural e de Água Natural.  
+7.3. Resolução ANVISA - RDC nº 274/2005 – Fixa a identidade e as características mínima s 
+de qualidade  a que devem obedecer a Água Mineral Natural, a Água Natural, a Água 
+Adicionada de sais envasadas e o Gelo para consumo humano.  
+7.4. Resolução ANVISA - RDC nº 331/2019  – Dispõe sobre os padrões microbiológicos de 
+alimentos e sua aplicação.  
+7.5. Portari a do Ministério das Minas e Energia /DNPM  nº 387/2008 - Disciplina o uso das 
+embalagens de plástico - garrafão retornável - destinadas ao envasamento e 
+comercialização de água mineral e potável de mesa e dá outras providências.  
+7.6. Portaria do Ministério das Mi nas e Energia/DNPM nº  374/200 9 – Aprova a Norma 
+Técnica que dispõe sobre as Especificações Técnicas para o aproveitamento d as águas 
+minerais e potáveis de mesa.   
+7.7. Portaria do Ministério das Minas e Energia nº 470/1999 - Institui as características 
+básicas dos rótulos das embalagens de águas minerais e potáveis de mesa.  
+7.8. ABNT – Associação  Brasileira de Normas Técnicas - NBR/ABNT Nº 14.222 – garrafão 
+retornável - requisitos e mét odos de ensaio;  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+43 
+ 
+7.9. ABNT – Associação  Brasileira de Normas Técnicas - NBR/ABNT Nº 14.328 – tampa para 
+garrafão retornável – requisitos e métodos de ensaio;  
+7.10. ABNT – Associação Brasileira de Normas Técnicas - NBR/ABNT Nº 14.637 – requisitos 
+para lavagem, enchimen to e fechamento;  
+7.11. ABNT – Associação  Brasileira de Normas Técnicas - NBR/ABNT Nº 14.638 – requisitos 
+para distribuição . 
+7.12. Decreto Estadual Nº 64.645/2019 – Regulamenta o Selo Fiscal de Controle e 
+Procedência destinado ao controle e fiscalização do envase de água mineral,  natural 
+ou potável de mesa.  
+7.13. A Contratada deverá obedecer a todas as  normas vigentes aplicáveis ao objeto des te 
+Termo de R eferência . 
+7.13.1.  Caso alguma norma mencionada neste Termo de Referência seja alterada ou 
+substituída, prevalecerá a norma mais atual.    
+8. DAS OBRIGAÇÕES D O CONTRATA NTE 
+8.1. Em casos  de quebra ou perda de garrafões em comodato, o C ontratante  deverá apurar 
+responsabilidades , para ressarcimento à C ontratada . 
+8.2. Verificar minuciosamente a conformidade dos bens recebidos com as especificações 
+constantes neste Termo de Referência, para fins de aceitação e recebimento dos itens.  
+8.3. Comunicar à C ontratada , por escrito, sobre imperfeições, falhas ou irregularidades  
+verificadas, par a que os itens sejam substituídos, reparados ou corrigidos.  
+8.4. Acompanhar  e fiscalizar o cumprimento das obrigações da C ontratada . 
+8.5. O Contratante  deverá designar servidor responsável para acompanhar o processo de 
+envio das amostra s. 
+9. DAS OBRIGAÇÕES DA CONTRATAD A 
+9.1. A Contratada  deve cumprir todas as obrigações constantes no Termo de Referência, 
+Edital, seus anexos e na proposta comercial, assumindo exclusivamente os riscos e as 
+despesas decorrentes da boa e perfeita execução do objeto.  
+9.2. Efetuar a entrega  do objeto em perfeitas co ndições, conforme especificações, prazos e 
+locais constantes no Termo de Referência e seus anexos.  
+9.3. Substituir os materiais entregues com eventuais defeitos de confecção e/ou fabricação 
+ou que apresentarem eventual alteração de suas características dentro d e seus prazos  
+de validade, quando for o caso, sem qualquer ônus adicional para o C ontratante , no 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+44 
+ 
+prazo máximo de 01 (um) dia útil, a contar da data de recebimento da notificação dos 
+produtos/materiais exigidos neste Termo de Referência.  
+9.4. Comunicar à Contrat ante , no prazo máximo de 24 (vinte e quatro)  horas que antecede 
+a data da entrega, os motivos que impossibilitem o cumprimento do prazo previsto, 
+com a devida comprovação.  
+9.5. Manter, durante  toda a execução do contrato, em compatibilidade com as obrigações 
+assumidas, todas as condições de habilitação e qualificação exigidas na licitação.  
+9.6. Indicar um representante  para contatos durante a execução do contrato.  
+10. DA SUBCONTRATAÇÃO  
+10.1. É permitida a subcontratação  do fornecimento para atendimento às Unidades 
+Administrativas cujo valor por entrega seja inferior a R$ 100,00 .  
+10.2. Em qualquer hipótese  de subcontratação, permanece a responsabilidade integral da 
+Contratada pela perfeita execução contratual, cabendo -lhe realizar a supervisão e 
+coordenação das atividades da subcontratada, bem como responder perante o 
+Contratante pelo rigoroso cumprimento d as obrigações contratuais correspondentes 
+ao objeto da subcontratação.  
+11. DA GESTÃO E FISCALIZAÇÃO DO CONTRATO  
+11.1. A fiscalização do contrato será exercida pelos Serviços de Administração das Unidades 
+Administrativas  e a gestão do contrato será exercida pela Coordena doria da Região 
+Administrativa  
+11.2. A gestão e a fiscalização do Contrato serão exercidas nos termos do capítulo  
+VII, do Provimento nº 2.138/2013.  
+11.3. A fiscalização de que trata o item anterior não exclui nem reduz a responsabilidade da 
+Contratada , inclusive perante terceiros, por qualquer irregularidade, ainda que 
+resultante de imperfeições técnicas ou vícios,  e, na ocorrência desta, não implica em 
+corresponsabilidade d o Contratante , de conformidade com o art. 70 da Lei nº 
+8.666 /1993 . 
+12. DOS LAUDOS E DAS ANÁLISES LABORATORIAIS  
+12.1. Durante a vigência do Contrato , se constatada qualquer irregularidade ou suspeita de 
+irregularidade na qualidade dos produtos, e sempre que entender necessário, o(a) 
+gestor(a)  poderá exigir  análises laboratoriais para verificar a conformidade  do produto 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+45 
+ 
+entregue com o padrão exigido, sendo de responsabilidade da C ontratada  acom panhar 
+e realizar os procedimentos solicitados;  
+12.2. As análises  deverão estar de acordo com as normas da Agência Nacional de Vigilância 
+Sanitária - ANVISA, nº 274/2005 e nº 331/2019.  
+12.3. A cada requisição de análise, o (a) Gestor (a) solicitará à Contratada a indicação do 
+laboratório  de sua escolha;  
+12.4. O laboratório  deverá estar com habilitação vigente na Rede Brasileira de Laboratórios 
+Analíticos em Saúde - REBLAS - ANVISA ; 
+12.5. O(a) Gestor (a) indicará a Unidade Administrativa na qual será feita a coleta da 
+amostra, de forma aleatória ; 
+12.6. A entrega no laboratório deverá ser acompanhada por funcionário (a) do Tribunal de 
+Justiça indicado pelo (a) gestor (a).  
+12.7. As amostras  serão transportadas em veícu lo da Contratada , da Unidade Administrativa 
+até o local indicado pelo laboratório, com retorno para o mesmo local da retirada;  
+12.8. O local de entrega  indicado pelo laboratório deverá estar localizado preferencialmente 
+em algum município da Região Administrativa Judiciária, ou a uma distância que 
+permita a ida e retorno no mesmo dia;  
+12.9. O resultado das análises deverá ser encaminhado pelo laboratório diret amente ao 
+Tribunal de Justiça, aos cuidados do (a) gestor (a) do Contrato, ou disponibilizado na 
+internet por meio de protocolo e senha.  
+12.10.  Quando da notificação à empresa, o (a) gestor(a) deverá indicar os dados para envio 
+do laudo (e -mail, endereço, nome), se o caso;  
+12.11.  De posse  do laudo e na eventualidade de seu conteúdo apontar irregularidades, o (a) 
+gestor (a) determinará as providências a serem adotadas;  
+12.12.  Caso seja determinada a substituição de lotes já entregues, os produtos entregues 
+em substituição deverão ate nder a todas as exigências do contrato, e serão 
+submetidos à retirada de nova amostra para análise, repetindo -se o procedimento 
+quantas vezes se fizer necessário, sem nenhum ônus ao Tribunal de Justiça.  
+12.13.  Todas as despesas que incidirem na realização dos procedimentos, inclusive os custos 
+para transportes  e emissão de laudos, correrão por conta da Contratada , sem 
+qualquer ônus para o Contratante . 
+12.14.  Quando do envio de comunicações ou notificações à Contratada , fica estabelecido o 
+prazo de 05 (cinco) dias úteis, podendo ser aumentado ou diminuído a critério do (o) 
+gestor (a), utilizando -se o princípio da razoabilidade.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+46 
+ 
+12.15.  A Contratada  será responsabilizada por quaisquer danos causados à saúde dos (as) 
+servidores (as) do Contratante , nos casos de consumo de água cujo laudo de análise 
+restar  insatisfatório em decorrência do fornecimento de produto de má qualidade.  
+12.16.  Caso o produto apresente problemas de qualidade,  mesmo que seja em um único 
+Laudo de Análise , o contrato poderá ser rescindido, sendo nesse caso, encaminhada 
+comunicação oficial aos órgãos da Vigilância Sanitária do Ministério da Saúde.  
+13. DOS DOCUMENTOS EXIGIDOS APÓS A ASSINATURA DO CONTRATO  
+13.1. A Contratada  deverá apresentar ao(à) gestor(a), no prazo de até 10 (dez) dias após a 
+assinatura do contrato, os seguintes documentos relativos à fonte:  
+13.1.1.  Concessão de Lavra da Fonte.  
+13.1.2.  Laudo físico -químico e microbiológico de análise do LAMIN (Laboratório de 
+Anál ises Minerais) vigente.  
+13.1.3.  Laudo de análise físico -química contemplando também a medição de 
+Condutividade Elétrica, pH e a Temperatura da água na captação e na Linha 
+de Produção, conforme Portaria nº 374/2009 (DNPM);  
+13.1.4.  Laudo Semanal de análises microbiológicas (coliformes totais e fecais) e 
+análise físico -química (pH e condutividade) conforme Portaria nº 374/2009 
+(DNPM);  
+13.2. Os laudos apresentados deverão  estar vigentes ou  terem sido emitidos há no máximo 
+30 (trinta) dias antes de sua entrega.  
+14. DA VIGÊNCIA DO CONTRAT O 
+14.1. O prazo  de vigência será de 12 (doze) meses , contados de sua assinatura por parte da 
+Contratada . 
+15. DAS CONDIÇÕES DE PAGAMENTO  
+15.1. O prazo para pagamento será de 30 (trinta) dias corridos, a contar do ateste 
+definitivo da Nota Fiscal/Fatura pelo Fiscal de Contrato.  
+15.2. A Contratada  deverá apresentar Nota Fiscal/Fatura por Unidade Administrativa, 
+sendo que o pagamento será feito pela quantidade de garrafões de água 
+efetivamente entregue.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+47 
+ 
+15.3. A Nota  Fiscal/Fatura será  conferida  e, estando em conformidade , será atestada 
+pelo(a) Fiscal do Contrato , no prazo de 48 horas a contar do recebimento da Nota 
+Fiscal/Fatura, encaminhando dentro do prazo de 24 horas à Secretaria de Orçamento 
+e Finanças.  
+15.4. A Contratada  será comunicada para correção da Nota Fiscal/Fatura, caso não seja 
+aprovada  pelo (a) Fiscal de Contrato, com as informações que motivaram sua rejeição.  
+15.5. A não aprovação da Nota Fiscal/Fatura pelo (a) Fiscal de Contrato, em hipótese 
+alguma servirá  de pretexto para que a Contratada  suspenda o fornecimento.  
+15.6. A Contratada  entregará ao(à) Fiscal de Contrato relatório mensal conforme item 1 7, 
+após a última entrega do mês.  
+15.6.1.  Para conferência  da quantidade constante no relatório, o(a) Fiscal do Contrato 
+deverá manter o controle das entregas e devoluções efetuadas.  
+16. DA QUALIFICAÇÃO TÉCNICA  
+16.1. Atestado(s) passado(s) por pessoa jurídica de direito público ou privado, que 
+comprove(m) ter a C ontratada  executado ou estar executando, a contento, 
+fornecimento de natureza similar, na quantidade mínima de 20% (vinte por cento)  
+da quantidade total do lote.  
+16.1.1.  O percentual de 20% (vinte por cento) justifica -se a fim de permitir um 
+maior número de empresas partici pantes na licitação , haja vista o volume da 
+contratação.  
+16.1.2.  Para fins de similaridade, serão admitidos a somatória de garrafões de 10 e 
+20 litros, por se tratar de garrafões retornáveis, tendo em vista sua 
+particularidade de envase, armazenamento e distribuiç ão do produto, que 
+difere de água mineral em garrafas descartáveis.  
+16.2. Para efeito de comprovação da qualificação técnica será admitido o somatório de 
+atestados.  
+ 
+ 
+ 
+ 
+17. RELATÓRIO MENSAL  
+ 
+RELATÓRIO MENSAL  
+   
+RELATÓRIO - FORNECIMENTO DE GARRAFÕES DE ÁGUA MINERAL NATURAL   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+48 
+ 
+ 
+UNIDADE 
+ADMINISTRATIVA    ANO   MÊS DE REFERÊNCIA    
+NOME DA EMPRESA   Nº DO CONTRATO   VIGÊNCIA CONTRATUAL    
+DESCRIÇÃO DO ITEM    PERIODIDICADE 
+DE ENTREGA    QUANTIDADE ESTIMADA 
+MENSAL (EM GARRAFÕES)    
+   
+  Data de 
+Entrega  Local de 
+Entrega  Data do 
+Envase  Marca  Qtde Valor 
+Unitário 
+(R$)  Valor Total 
+(R$)  Controle de Comodato - Garrafões 
+20L (Qtde)   
+ENTREGUES  RETIRADOS  SALDO   
+1                  
+2                  
+3                  
+4                  
+5                  
+6                  
+7                  
+8                  
+9                  
+10                  
+11                  
+12                  
+13                  
+14                  
+15                  
+16                  
+17                  
+18                  
+19                  
+20                  
+21                  
+22                  
+23                  
+24                  
+25                  
+26                  
+27                  
+28                  
+TOTAL GERAL  0,00  0 0 0  
+ 
+18. PROPOSTA COMERCIAL  
+18.1. As licitantes deverão realizar o preenchimento da Proposta Comercial, constante no 
+Anexo III do presente Termo de Referência.  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+49 
+ 
+CAPÍTULO 5 – ANEXO II – LOCAIS DE ENTREGA  E QUANTIDADE S 
+ 
+Lote 1 – XXª Região Administrativa Judiciária de XXXXX  
+CENTR
+O DE 
+CUSTO  Unidade Administrativa  Endereço  Bairro  CEP Município  Telefone  Periodicid ade QTDE mensal  
+         
+         
+         
+         
+       Total   
+ 
+Lote 2 – XXª Região Administrativa Judiciária de XXXXX  
+CENTR
+O DE 
+CUSTO  Unidade Administrativa  Endereço  Bairro  CEP Municípi
+o Telefone  Periodicidade  QTDE mensal  
+         
+         
+         
+         
+       Total   
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+50 
+ 
+CAPÍTULO 6 – ANEXO III – MODELO DE PROPOSTA  
+ 
+DADOS DA EMPRESA  
+ CNPJ    
+ Razão Social    
+ Endereço    
+ E-mail    
+ Telefone    
+ Validade da proposta  90 dias  
+ 
+Lote 1  – XXª Região Administrativa Judiciária de XXXXX  
+CENTRO 
+DE 
+CUSTO  LOCALIDADE /PRÉDIO  MARCA (S) UNIDA
+DE QTDE  
+ESTIMADA  
+MENSAL  VALOR 
+UNITÁRIO  VALOR TOTAL  
+       
+       
+       
+       
+       
+Valor total mensal   
+Valor total  anual   
+ 
+Lote 2 – XXª Região Administrativa Judiciária de XXXXX  
+CENTRO 
+DE 
+CUSTO  LOCALIDADE /PRÉDIO  MARCA (S) UNIDA
+DE QTDE  
+ESTIMADA 
+MENSAL  VALOR 
+UNITÁRIO  VALOR TOTAL  
+       
+       
+       
+       
+       
+Valor total mensal   
+Valor total anual   
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+51 
+ 
+CAPÍTULO 7 – ANEXO S IV a VII – DECLARAÇÕES  
+1. ANEXO IV - DECLARAÇÃO DECRETO Nº 4.358/2002  
+ 
+Pregão Eletrônico nº ___/ 20XX  
+ 
+ANEXO X IV 
+(MODELO DE DECLARAÇÃO – DECRETO Nº 4.358/2002)  
+ 
+____________ (nome da licitante) _____________, CNPJ nº_______________________  
+sediada _______________________________________________, por intermédio de 
+seu(sua)  representante legal, infra -assinado, e para os fins do Pregão em epígrafe, DECLARA 
+expressamente que:  
+a) até a presente data, inexistem fatos supervenientes impeditivos para sua habilitação no 
+presente processo licitatório, estando ciente da obrigatoriedade de declarar ocorrências 
+posteriores;  
+b) não emprega menores de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, 
+nem menores de 16 (dezesseis) anos em qualquer trabalho, salvo na condição de 
+aprendiz, a partir de 14 (quatorze) anos.  
+ 
+  _______________   , ______  de _______________ _ de 20 XX. 
+   (Local)  
+    _____________________________________  
+     (Assinatura do (a) responsável)  
+ Nome: ___________________________________________  
+   Cédula de Identidade nº: _____________________________  
+ 
+OBSERVAÇÃO : esta declaração deverá ser enviada por meio eletrônico, a ser 
+disponibilizado nos termos do subitem 5.9.2 do Edital, quando solicitada pelo (a) 
+pregoeiro (a) e apenas para a empresa vencedora da licitação.  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+52 
+ 
+2. ANEXO V – DECLARAÇÃO LEI DO APRENDIZ  
+ 
+Pregão Eletrônico nº ___/ 20XX  
+ 
+ANEXO V  
+(MODELO DE DECLARAÇÃO REFERENTE A LEI DO APRENDIZ (LEI Nº 10.097, DE 19 DE 
+DEZEMBRO DE 2000))  
+ 
+ 
+Nos termos do item 4, subitem 4.1.5.2, do Edital em epígrafe, a empresa 
+..........................................................., C.N.P.J. nº ....... ............................., por seu (sua) 
+representante legal, infra -assinado, com domicílio (profissional) em 
+....................................................., vem, respeitosamente, para fins da presente licitação, 
+manifestar seu compromisso em at ender em sua integralidade o disposto na Lei nº 10.097, 
+de 19 de dezembro de 2000.  
+ 
+  _______________   , ______  de ________________ de 20 XX. 
+   (Local)  
+ 
+    _____________________________________  
+     (Assinatura do (a) responsável)  
+ 
+ Nome: ___________________________________________  
+ C.P.F. nº: ___________________________________________  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+53 
+ 
+3. ANEXO VI – TERMO DE CONFIDENCIALIDADE E PROTEÇÃO DE DADOS  
+ 
+CONTRATO  Nº _________/____  
+ 
+O presente TERMO DE CONFIDENCIALIDADE E PROTEÇÃO DE DADOS rege a 
+divulgação de informações entre a  EMPRESA  CONTRATADA , _____, estabelecida(o) a _____, 
+Município _____, inscrita(o) no Cadastro Nacional de Pessoas Jurídicas – CNPJ/MF sob nº 
+_____, neste ato representada(o) por _____ ao final assinado, e o TRIBUNAL DE JUSTIÇA DO 
+ESTADO DE SÃO PAULO, com sede na Praça da Sé s/nº, Centro, São Paulo, SP, CEP 01018 -
+010, inscrito no CNPJ/MF sob n º 51.174.001/0001 -93, doravante denominado TJSP, neste 
+ato, por seu representante legal ao final assinalado, o qual, a partir d o reconhecimento 
+deste ato, dá conhecimento e estabelece as regras de confidencialidade e de proteção de 
+dados a serem observadas pelas partes:  
+1. A EMPRESA CONTRATADA  DECLARA e compromete -se: 
+a) A cumprir rigorosamente as normas regulamentares sobre a utilizaçã o dos meios e 
+infraestrutura, bem como as diretrizes estipuladas pelo Tribunal de Justiça do Estado 
+de São Paulo (TJSP), mantendo a confidencialidade em relação a toda a documentação 
+e à coleta de dados pessoais (sensíveis ou não) indispensáveis à prestaçã o do serviço, 
+se houver. Os dados assim coletados, bem como os dados pessoais sensíveis, somente 
+poderão ser utilizados na execução dos serviços especificados neste contrato , 
+conforme disposto, respectivamente, nos artigos 8º, § 1º e art. 11, incisos I e I I, da 
+LGPD, qual seja (especificar)_______________ e, em hipótese alguma poderão ser 
+compartilhados ou utilizados para outros fins. Não haverá a possibilidade de 
+tratamento posterior de forma incompatível com essas finalidades (inciso I do art. 6º 
+da LGPD) , bem como serão consideradas nulas as autorizações genéricas (§ 4º do art. 
+8º da Lei nº 13.709, 2018). A EMPRESA CONTRATADA , nos termos do art. 7º, § 5º, da 
+LGPD, obriga -se a obter o consentimento do(s) respectivo(s) titular(es), sempre que a 
+disponibiliz ação dos dados ao TJSP assim o requerer. Em se tratando de dados 
+disponibilizados pelo TJSP à EMPRESA CONTRATADA , o Tribunal obterá o 
+consentimento do(s) respectivo(s) titular(es), sempre que a lei assim o requerer, após 
+solicitação da EMPRESA CONTRATADA ; 
+b) A armazenar os dados obtidos em razão dess e contrato  em um banco de dados seguro, 
+mantido em território nacional, com transparente identificação do perfil dos 
+credenciados, garantindo -se a rastreabilidade de cada transação e a franca apuração, a 
+qualquer t empo, de desvios e falhas, vedado seu compartilhamento com terceiros;  
+c) Não divulgar as informações obtidas nas atividades exercidas junto ao Tribunal de 
+Justiça do Estado de São Paulo, exceto quando expressamente autorizada pelo 
+Tribunal de Justiça do Estad o de São Paulo (TJSP);  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+54 
+ 
+d) Não permitir que qualquer pessoa manuseie qualquer documento físico ou eletrônico 
+que componha ou tenha resultado de atividades do Tribunal de Justiça do Estado de 
+São Paulo (TJSP), exceto se devidamente autorizada;  
+e) Não explorar, em benefício próprio ou de terceiros, informações e documentos 
+adquiridos através da participação em atividades do Tribunal de Justiça do Estado de 
+São Paulo (TJSP);  
+ 
+2. DECLARA AINDA CIÊNCIA de que:  
+f) Qualquer divulgação oral ou eletrônica, que acompanhe a inform ação escrita, também 
+será considerada Informação Confidencial. Se a informação for divulgada oral ou 
+eletronicamente sem documentação escrita acompanhando, também será 
+considerada Informação Confidencial, salvo manifestação expressa em contrário da 
+Parte D ivulgadora quando da divulgação;  
+g) Dará conhecimento formal aos seus empregados, representantes, prepostos, 
+consultores ou qualquer terceiro que tenha conhecimento da presente contratação, 
+das obrigações e condições acordadas neste item, bem como da Polític a de Privacidade 
+do TJSP, cujos princípios deverão ser aplicados à coleta e tratamento dos dados 
+pessoais (sensíveis ou não) de que trata a presente cláusula, responsabilizando -se por 
+toda e qualquer operação realizada em desacordo com a Lei nº 13.709/2018  e/ou 
+outros normativos que venham a entrar em vigor sobre proteção de dados;  
+h) As partes se comprometem a proteger os direitos fundamentais de liberdade, de 
+privacidade e o livre desenvolvimento da personalidade da pessoa natural, inerentes 
+ao tratamento de dados pessoais, inclusive nos meios digitais. Ao Tribunal de Justiça 
+do Estado de São Paulo (TJSP), por sua vez, é reservada a prerrogativa de monitorar e 
+auditar quaisquer atividades que envolvam dados ou informações cuja perda ou 
+vazamento possa trazer graves implicações ao Tribunal de Justiça ou consequências 
+administrativas, civis ou criminais aos responsáveis por sua violação, notadamente por 
+meio do representante especialmente designado, a que se refere o art. 67 da Lei de 
+Licitações e C ontratos Administrativos;  
+i) Encerrada a vigência do contrato  ou não havendo mais necessidade de utilização dos 
+dados pessoais, sejam eles sensíveis ou não, a EMPRESA CONTRATADA  providenciará 
+seu descarte de forma segura, comunicando o TJSP;  
+j) A EMPRESA CONTRATADA  deverá comunicar ao TJSP, no prazo de 24 (vinte e quatro) 
+horas da ocorrência de qualquer incidente que implique violação ou risco de violação 
+de dados pessoais sensíveis ou não, a fim de viabilizar a adoção das providências 
+devidas;  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+55 
+ 
+k) As partes s e comprometem a adotar as melhores práticas de Proteção de Dados, 
+conforme Lei nº 13.709/2018 e/ou outros normativos que venham a entrar em vigor 
+sobre proteção de dados;  
+l) O TJSP deverá, considerando os meios tecnológicos disponíveis e adequados às suas 
+atividades, a natureza dos dados armazenados e os riscos a que estão expostos, adotar 
+medidas físicas e lógicas, de caráter técnico e organizacional, a fim de prover a 
+confidencialidade e a segurança de seus dados, evitar sua alteração, perda, subtração 
+ou ac esso não autorizado, bem como a violação da privacidade dos sujeitos titulares 
+dos dados;  
+m) O descumprimento das obrigações relacionadas à confidencialidade e à segurança de 
+dados, de informações e sistemas, mediante ações ou omissões, intencionais ou 
+aciden tais, que impliquem perda, destruição, inserção, cópia, acesso ou alterações 
+indevidas, independentemente do meio no qual estejam armazenados, em que 
+trafeguem ou do ambiente em que estejam sendo processados, determinará a 
+responsabilização, na forma da le i, de seus dirigentes e funcionários envolvidos, sem 
+prejuízo das sanções estabelecidas, n o presente contrato . Desse modo, as partes 
+responderão administrativa e judicialmente, e, em solidariedade com os agentes de 
+tratamento, estes conceituados nos inciso s VI, VII e VIII do art. 5ª da Lei nº 
+13.709/2018, em caso de causarem danos patrimoniais, morais, individual ou coletivo, 
+aos titulares de dados pessoais, repassados em decorrência da execução contratual, 
+por inobservância à LGPD, conforme previsto em seu  art. 42, § 1º, inciso I;  
+n) O presente Acordo somente poderá ser alterado mediante consentimento mútuo e 
+Aditamento por escrito, assinado por ambas as partes. As obrigações de 
+confidencialidade contidas no presente TERMO DE CONFIDENCIALIDADE E PROTEÇÃO 
+DE DA DOS se perpetuarão por tempo indeterminado, independente do término da 
+vigência d o contrato . 
+ 
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  
+(Assinado Digitalmente)  
+ 
+EMPRESA CONTRATADA  
+(Assinado Digitalmente)  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+56 
+ 
+4. ANEXO VII - DECLARAÇÃO DE ATENDIMENTO  E SUSTENTAB ILIDADE  
+ 
+DECLARAÇÃO DE ATENDIMENTO E SUSTENTABILIDADE  
+Pregão Eletrônico nº ___/20XX  
+ 
+ 
+___________(nome da licitante)___________________________________________, CNPJ 
+nº____________________________, sediada ____________________________  
+__________________________, por intermédio de seu  (sua)  representante legal, infra -
+assinado, e para os fins do Pregão em epígrafe, DECLARA , sob as penas da lei, que:  
+1. os produtos ofertados e o fornecimento atendem às regulament ações previstas no 
+Anexo I – Termo de Referência e demais regulamentações aplicáveis ao objeto da 
+contratação, mesmo que não mencionados no Termo de Referência;  
+2. cumpre toda a legislação ambiental aplicável ao objeto da contratação, em especial 
+quanto à des tinação ambientalmente correta dos garrafões com data de validade 
+expirada.  
+ 
+ 
+ 
+___________________  , ______ de ________________ de 20 XX. 
+(Local)  
+ 
+_____________________________________  
+(Assinatura do (a) responsável)  
+Nome: ___________________________________ ________  
+Cédula de Identidade nº: _____________________________  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+57 
+ 
+CAPÍTULO 8 – ANEXO V III – MINUTA  DE CONTRATO  
+ 
+ANEXO VIII - MINUTA DE CONTRATO  
+ 
+Contrato lavrado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO 
+PAULO e a [NOME DA EMPRESA] , para o fornecimento e entrega de 
+água mineral, em garrafões com capacidade de 20 litros, serem 
+distribuídas nos prédios do [______] , em Lote Único , de acordo com 
+o Pregão Eletrônico n   [____/__]  integrante do Processo 
+n° NNNN /20NN, nos termos das Leis Federais n° 10.520/02 e 
+nº 8.666/93, em sua redação atual, Lei Estadual nº 6.544/89 e suas 
+alterações, Decreto Estadual 49.722/2005, do Provimento nº 
+2.138/2013 do Tr ibunal de Justiça do Estado de São Paulo, bem como, 
+de toda legislação que rege a matéria, no que couber e não conflitar 
+com as citadas leis.  
+ 
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO  PAULO , inscrito no 
+Cadastro Nacional de Pessoas Jurídicas sob o nº  51.174. 001/0001 -93, doravante denominado 
+simplesmente CONTRATANTE,  representado neste ato pelo [____cargo do representante____] , o Dr. 
+[____Nome do Representante____] , portador da Cédula de Identidade R.G. nº [___.___.___ -__] e do 
+C.P.F. nº  [___.___.___ -__], e a [NOME DA EMPRESA] , estabelecida na 
+[____Endereço, Cidade e Estado____] , inscrita no Cadastro Nacional de Pessoas Jurídicas sob o 
+nº [___.___.___/____ -__], doravante denominada simplesmente  CONTRATADA,  representada neste 
+ato por seu (a)  [____cargo do representante____] , o Sr (a) [____Nome do Representante____] , 
+portador da Cédula de Identidade R.G. nº  [___.___.___ -__] e do C.P.F. nº  [___.___.___ --__], assin am 
+o presente instrumento sob as seguintes cláusulas e condições:  
+ 
+CLÁUSULA PRIMEIRA – DO OBJETO  
+1.1- O objeto do presente contrato consiste no fornecimento de água mineral, sem gás, inodora, 
+incolor e insípida, de fonte natural, em garrafões com capacidade de 20 litros, marca  [_____] , 
+serem distribuídas nos prédios do [___________] , em Lote [_____] ; 
+1.2- O regime de execução do presente contrato é o de empreitada por preço unitário.  
+CLÁUSULA SEGUNDA – DOS LOCAIS E QUANTIDADES PARA ENTREGA  
+2.1- Os produtos , objeto desta contratação , deverão ser entregues, mediante agendamento prévio, 
+nas localidades e quantidades discriminadas no Anexo __, parte  integrante do presente 
+contrato para todos os fins e efeitos de direito.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+58 
+ 
+2.2- Quantidade estimada anual: XXX (....... ) garrafões, distribuídos conforme descrito no 
+Anexo ___. 
+2.3- As quantidades acima são estimativas, referindo -se à previsão de consumo para período de 12 
+(doze) meses de vigência contratual.  
+2.4- As quantidades poderão ser alteradas e/ou remanejadas entre os locais co nstantes no Anexo 
+___, sem ônus ao Contratante , de acordo com a necessidade de cada prédio, após autorização  
+do gestor do contrato, respeitando -se a quantidade total contatada.  
+CLÁUSULA TERCEIRA – DAS CONDIÇÕES E PRAZOS DE ENTREGA  
+3.1- Os produtos objeto deste contrato deverão ser entregues de acordo com as especificações 
+contidas no Anexo __ - Termo de Referência e em conformidade com o estabelecido neste 
+contrato, com prazo para início de fornecimento de até 07 (sete) dias corridos par a a primeira 
+entrega, contados a partir do início da vigência do contrato, e após, semanalmente  e/ou 
+quinzenalmente  para as entregas subsequentes, no(s) local(ais) indicado(s) na Cláusula 
+Segunda, observado o disposto no artigo 110 e seu parágrafo único da Lei de Licitações e  
+Contratos nº 8.666/93.  
+3.2- As demais condições estão descritas no Anexo __ - Termo de Referência.  
+CLÁUSULA QUARTA – DAS AMOSTRAS, LAUDOS E ANÁLISES LABORATORIAIS  
+As condições para realização das análises e apresentação dos 
+laudos estão descritas no ite m 12 do Anexo __. 
+CLÁUSULA QUINTA - DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATADA  
+5.1- A Contratada  dará plena e fiel execução ao presente instrumento, respeitando todas as suas 
+cláusulas e condições, obrigando -se ainda a:  
+5.1.1 - Responder e responsabilizar -se pela segurança dos serviços prestados e/ou material 
+fornecido perante o  Contratante , seus próprios funcionários e terceiros, bem como, 
+eventuais danos patrimoniais ou extrapatrimoniais causados, adotando cuidados para 
+prevenção de acidentes, com observ ação e cumprimento das normas, regulamento e 
+determinações de segurança, adotando as medidas corretivas necessárias.  
+5.1.2 - Assumir exclusiva e total responsabilidade por todo e qualquer dano físico ou moral, 
+material e/ou lucros cessantes, ocasionado a qu alquer de seus funcionários ou a 
+terceiros e pela segurança de suas operações.  
+5.1.3 - Indenizar o C ontratante , por quaisquer danos causados por seus funcionários às 
+instalações ou bens de propriedade do C ontratante , bem como, danos físicos ou 
+morais, causa dos aos funcionários do Contratante  ou a terceiros.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+59 
+ 
+5.1.4 - Manter, durante a vigência contratual, as mesmas condições que propiciaram sua 
+habilitação e qualificação no procedimento licitatório.  
+5.1.5 - Aceitar os acréscimos ou supressões no objeto contratual, a critério do C ontratante , 
+nos termos da Lei nº 8666/93, art. 65, §§ 1º e 2º.  
+CLÁUSULA SEXTA - DAS OBRIGAÇÕES DO CONTRATANTE  
+6.1- O Contratante  dará plena e fiel execução ao presente instrumento, respeitando todas as suas 
+cláusulas e condições,  obrigando -se ainda a:  
+6.1.1 - Proporcionar todas as facilidades necessárias à boa execução do contrato.  
+6.1.2 - Comunicar à C ontratada , por escrito e tempestivamente, sobre eventual mudança do 
+endereço de cobrança.  
+6.1.3 - Permitir livre acesso às instalaçõe s, quando solicitado pela C ontratada  ou seus 
+empregados em serviço.  
+CLÁUSULA SÉTIMA – DA GESTÃO E FISCALIZAÇÃO  
+7.1- A gestão e fiscalização será exercida no interesse exclusivo do C ontratante , nos termos do 
+capítulo VII, do Provimento nº 2.138/2013, não s uprimindo a responsabilidade da 
+Contratada , inclusive perante terceiros por quaisquer irregularidades.  
+7.2- Atuarão na fase da gestão, da fiscalização e do recebimento do objeto, os servidores 
+indicados pela(s) Secretaria(s) responsável(eis) ou, não havend o, pela(s) Diretoria(s) ou 
+Coordenadoria(s), bem como seus suplentes , conforme designação da E. Presidência deste 
+Tribunal.  
+7.3- Para efeito do disposto nesta cláusula, o C ontratante  registrará as deficiências existentes na 
+execução dos serviços e/ou inobservância das condições pactuadas comunicando -as à 
+Contratada  para imediata correção, sem prejuízo da aplicação das penalidades previstas.  
+7.4- A Diretoria de Auditoria Interna do Tri bunal de Justiça do Estado de São Paulo poderá, a 
+qualquer tempo, solicitar à  Contratada  seus documentos e escriturações fiscais e/ou 
+contábeis.  
+CLÁUSULA OITAVA - DO RECEBIMENTO DOS BENS  
+8.1- O recebimento do objeto contratado (ateste do documento fiscal) se da rá nos termos do 
+artigo 73 da Lei Federal nº  8.666/93, da Portaria nº 7.296/06, atualizada pela Portaria nº 
+7.355/06, e do Provimento 2.138/2013 da Egrégia Presidência do Tribunal de Justiça do Estado 
+de São Paulo, nos termos do CAPÍTULO VIII.  
+8.2- O prazo para o recebimento do objeto contratado será de:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+60 
+ 
+8.2.1 - Provisoriamente, em até 48 (quarenta e oito) horas, contados da recepção da nota 
+fiscal/fatura.  
+8.2.2 - Definitivamente, em até 10 (dez) dias, contados da entrega dos produtos computando -
+se o pra zo do recebimento provisório ou da diligência  técnica, se necessário.  
+8.3 Na hipótese dos produtos apresentarem defeitos, totais ou parciais, desde a entrega, quando 
+de seu uso e durante todo o período de garantia, o C ontratante  cientificará a Contratada  
+acerca das circunstâncias, podendo a Administração rescindir o contrato ou tornar sem efeito 
+o instrumento equivalente, aplicando as penalidades previstas neste contrato ou, a seu critério 
+exclusivo, autorizar a substituição dos produtos defeituosos, em pra zo nunca superior a 10 
+(dez) dias, reiniciando -se o prazo para o seu recebimento, caso ainda não tenha sido efetivado.  
+8.4 Na hipótese de ocorrência do previsto no artigo 65, inciso II, alínea “d”, da Lei de Licitações e 
+Contratos nº  8.666/93, em sua atual  redação, a C ontratada  deverá, primeiramente, observar 
+os prazos de entrega que foram propostos enquanto for apreciado o  pedido de 
+remanejamento de preços, sob pena de incorrer em inadimplência, com a consequente 
+aplicação das penalidades legais e as previstas neste Contrato.  
+8.5 Quando da conclusão, caso os produtos não sejam entregues a contento, não serão eles 
+aceitos. A  par disso, a C ontratada  deverá providenciar a sua regularização imediatamente após 
+o recebimento da comunicação, sem prejuízo da incidência das sanções previstas neste 
+contrato, pela Lei de Licitações e Contratos nº 8.666/93, em sua atual redação, Provime nto nº 
+2.138/2013, bem como por toda legislação que rege a matéria, no que couber e não conflitar 
+com as citadas leis.  
+CLÁUSULA NONA – DO PREÇO  
+O preço unitário e o preço total semanal /quinzenal  estão descritos 
+conforme tabela abaixo:  
+Localidade  Quantidade  
+Semanal /quinzenal  Valor Unitário 
+(R$) Valor Total (R$)  
+Semanal /quinzenal  
+    
+    
+    
+    
+Total     
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+61 
+ 
+CLÁUSULA DÉCIMA – DAS CONDIÇÕES DE PAGAMENTO  
+10.1 - O prazo para pagamento será de 30 (trinta) dias , a contar da data do recebimento definitivo 
+da Nota Fiscal/Fatura.  
+10.1.1 - Deverão ser observadas as condições constantes no item 15 do Anexo __ – Termo de 
+Referência deste contrato;   
+10.2 - Havendo atraso nos pagamentos sobre o valor devido, incidirá correção monetária com base 
+na taxa de variação da UFESP (Unidade Fiscal do Estado de São Paulo), nos termos do art. 74, 
+da lei Estadual nº 8.544/89, e do Decreto Estadual nº 32.117/90, e juros m oratórios, na razão 
+de 1% (um por cento) ao mês, calculados pro rata tempore , em relação ao atraso verificado.  
+10.3 - Caso a C ontratada  apresente registro no Cadastro Informativo dos Créditos não Quitados de 
+Órgãos e Entidades Estaduais – CADIN ESTADUAL, de verá regularizar a pendência junto à 
+Secretaria da Fazenda do Estado de São Paulo, comprovando a regularização perante a 
+Secretaria de Orçamento e Finanças – SOF do C ontratante , para efeito de regular pagamento.  
+10.4 - Para o pagamento, a C ontratada  deverá apresentar o Documento Fiscal na unidade do 
+Contratante  responsável pelo recebimento do objeto contratado, constando o número da 
+Agência e da conta corrente no BANCO DO BRASIL S.A., bem como, o número da Nota de 
+Empenho, que será encaminhada pela Secretari a de Orçamento e Finanças – SOF à C ontratada  
+no momento da sua emissão, as quais serão atestadas definitivamente pelos servidores 
+designados pela E. Presidência deste Tribunal, e, em seguida, encaminhadas à SOF para o 
+efetivo pagamento.  
+10.4.1 - Os document os fiscais apresentados em desacordo com o estabelecido neste Contrato 
+ou com qualquer circunstância que desaconselhe o pagamento serão devolvidos à 
+Contratada  e nesse caso o prazo previsto no subitem 10.1 desta cláusula será 
+interrompido.  
+10.4.2 - A conta gem do prazo previsto para pagamento no subitem 10.1 desta cláusula será 
+reiniciada a partir da respectiva regularização, desconsiderado o prazo anteriormente 
+decorrido durante a análise dos Documentos Fiscais considerados irregulares.   
+10.5 - O recebimento  será sempre integral (ateste da Nota Fiscal/Fatura), não se admitindo ateste 
+parcial. Caso não seja possível atestar o recebimento, por motivo que possa ou não se 
+constituir em inadimplência, o Documento Fiscal será devolvido ao emitente (C ontratada ) e a 
+Unidade Gestora deverá proceder nos termos dos artigos 80, 81, 82, 83 e 84, CAPÍTULO XIII, do 
+Provimento nº 2.138/2013.  
+10.5.1 - Durante o tempo que perdurar a apuração, não incidirá a aplicação dos termos 
+constantes do subitem 10.2, desta cláusula.  
+10.6 - A Contratada  não poderá apresentar nota fiscal/fatura com CNPJ diverso do qualificado no 
+preâmbulo deste Contrato.   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+62 
+ 
+10.7 - Quando a empresa emitir o Documento Auxiliar da Nota Fiscal Eletrônica – DANFE, em substituição 
+a nota fiscal/fatura, no ateste do docu mento pelo setor responsável deverá ser acrescentado que 
+foi verificada a autenticidade da NF -e. 
+10.7.1 - Para confirmação da autenticidade da NF -e, a consulta poderá ser feita na Internet 
+digitando -se os números da chave de acesso  no site da Secretaria da Fazenda do 
+Estado de São Paulo ou Portal Nacional da Nota Fiscal Eletrônica, os quais seguem 
+respectivame nte, www.fazenda.sp.gov.br   NF-e ou nota fiscal eletrônica Consulta 
+de NF -e de mercadorias ou www.nfe.fazenda.gov.br   Consulta resumo de uma Nota 
+Fiscal Eletrôn ica. 
+10.7.2 - No caso de nota fiscal eletrônica, a autenticidade deverá ser verificada de acordo com 
+o regulamento do respectivo Município a que se sujeita o recolhimento.  
+CLÁUSULA DÉCIMA PRIMEIRA – DO VALOR DO CONTRATO  
+11.1 - O valor total do presente contr ato é de R$ ___,__  (_____ ). 
+11.2 - As despesas com a execução deste Contrato correrão à conta da classificação da despesa 
+[XX.XX.XX]  da dotação orçamentária consignada ao Tribunal neste exercício, no Programa de 
+Trabalho 303 – Processo Judiciário do Tribunal de Justiça. As despesas de exercícios futuros 
+correrão à conta da dotação a ser consignada ao Tribunal no orçamento desses exercí cios.  
+CLÁUSULA DÉCIMA SEGUNDA  - DO REAJUST E 
+O valor contratado poderá ser reajustad o a cada período de 1 (um) 
+ano, contado a partir  da data limite para apresentação da propost a, com base na variação mensal 
+acumulada do  IPC/FIPE (Índice de Preços ao Consumidor da Fundação Instituto de Pesquisas 
+Econô micas ), ocorrida no período de 12 (doze) meses  anteriores ao de sua incidência . 
+CLÁUSULA DÉCIMA TERCEIRA  - DO PRAZO DE VIGÊNCIA  
+O contrato terá vigência de 12 (doze) meses, contados a partir da 
+data de assinatura do Contrato pela Contratada.  
+CLÁUSULA DÉCIMA QUARTA  - DAS SANÇÕES EM CASO DE INADIMPLEMENTO  
+14.1- A inexecução total  ou parcial do ajustado poderá ensejar a sua rescisão pela Administração na 
+forma e consequências previstas nos artigos 78 a 80, da Lei Federal de Licitações e Contratos 
+nº 8.666/93, em sua redação atual, sem prejuízo da aplicação das penalidades a que alu dem os 
+artigos 86 a 88, do citado diploma legal, e no art.7º da Lei nº 10.520/02.  
+14.2- Pelo artigo 94, do Provimento n.º 2.138/2013, da Egrégia Presidência do Tribunal de Justiça do 
+Estado de São Paulo, a C ontratada  está sujeita a aplicação das seguintes penalidades:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+63 
+ 
+14.2.1- Pelo atraso injustificado de até 30 (trinta) dias da prestação da garantia ou da 
+execução do serviço, incluído a assistência técnica em bem ou produto em período 
+de garantia, compra ou obra, sem prejuízo do que dispõe o § 1º do art. 86  da Lei nº 
+8.666/93, sujeitará a Contratada  a multa de mora de 0,50% (cinquenta centésimos 
+percentuais) ao dia;  
+14.2.2- O não atendimento a solicitação do C ontratante  para a adoção de providências para 
+a regularização da execução nos prazos fixados no cont rato, ensejará a aplicação da 
+multa prevista no subitem 13.2.1, a contar do 1º dia útil seguinte ao término do 
+prazo estabelecido para substituição.  
+14.2.3- Pela inexecução total ou parcial do serviço, compra ou obra, bem como pelo atraso 
+ou não atendiment o de assistência técnica em bem ou produto em período de 
+garantia, poderão ser aplicadas à C ontratada  as seguintes penalidades:  
+a) Multa de 20% (vinte por cento) a 100% (cem por cento) nos casos que 
+excederem o prazo estabelecido no subitem 13.2.1;  
+b) Multa de 1% (um por cento) a 100% (cem por cento) do valor das mercadorias 
+não entregues ou da obrigação não cumprida;  
+c) Pagamento correspondente a diferença de preço decorrente de nova licitação ou 
+contratação para o mesmo fim.  
+14.2.4- As multas previstas neste Contrato poderão ser descontadas de pagamentos, 
+eventualmente devidos pelo C ontratante .  
+14.2.5- Esgotadas as possibilidades administrativas, a cobrança da multa será efetuada 
+judicialmente.  
+14.2.6- A aplicação das multas previstas nesta cláusula não exclu i outras sanções previstas na 
+Lei nº 8.666/93.  
+14.2.7- As multas não recolhidas e/ou não descontadas dos pagamentos poderão, a critério 
+do C ontratante , ser compensadas com as garantias prestadas no contrato, vedando -
+se o pagamento com serviços ou produtos;  
+14.2.8- A Contratada  que deixar de entregar o produto, ensejar o retardamento, não manter 
+a proposta, falhar ou fraudar na execução do contrato, comportar -se de modo 
+inidôneo, fazer declaração falsa ou cometer fraude fiscal, garantido o direito do 
+devido processo legal e da prévia e ampla defesa, ficará impedido de licitar e 
+contratar com a Administração pelo prazo de até 05 (cinco) anos, enquanto 
+perdurarem os motivos determinantes da punição ou até que seja promovida a 
+reabilitação perante o próprio C ontratante . 
+14.2.9- Independentemente da efetivação da rescisão contratual, fica facultado ao 
+Contratante  a retenção de quaisquer importâncias devidas a C ontratada  para 
+pagamento ou amortização, total ou parcial, das multas aplicadas e/ou perdas 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+64 
+ 
+causadas, sem  prejuízo da adoção das medidas acima e judiciais para cobrança do 
+remanescente ou mesmo do valor total devido, caso não seja possível a retenção ora 
+pactuada ou esta seja insuficiente.  
+14.2.10 - O C ontratante  suspenderá o pagamento  de qualquer fatura quand o houver 
+pendência e/ou imperfeições no objeto contratado, sendo que nenhum pagamento 
+isentará a Contratada  de suas responsabilidades contratuais e civis.   
+14.2.11 - Os valores referentes a multa e demais importâncias, quando não ressarcidos pela 
+Contratada , incidirá correção monetária com base na taxa de variação da UFESP 
+(Unidade Fiscal do Estado de São Paulo), nos termos do art. 74, da Lei Estadual nº 
+8.544/89, e do Decreto Estadual nº 32.117/90, e juros moratórios, na razão de 1% 
+(um por cento) ao mês, c alculados pro rata tempore . 
+CLÁUSULA DÉCIMA QU INTA  - DA RESCISÃO  
+Na hipótese de inobservância de qualquer uma de suas 
+cláusulas ou por razões de interesse do Serviço Público, este Contrato poderá ser rescindido 
+nos termos dos artigos 77 a 80, da Lei Federa l n° 8.666/93, em sua redação atual.  
+CLÁUSULA DÉCIMA SEXTA  - DA PUBLICAÇÃO  
+O presente contrato será registrado no “Livro de Registro de 
+Contratos” do C ontratante  e seu extrato publicado no DJE.  
+CLÁUSULA DÉCIMA S ÉTIMA  - DAS NORMAS  
+16.1 - As partes contratadas estão sujeitas, além das cláusulas deste contrato, aos termos do 
+Instrumento Convocatório e aos da proposta da Contratada , às normas da Lei Federal n° 
+8.666/93, em sua redação atual, bem como a toda legislação que rege a matéria, no q ue 
+couber e não conflitar com a citada lei.  
+16.2 - O Presidente do Tribunal de Justiça poderá determinar o cancelamento da nota de empenho 
+que vier a ser emitida em decorrência desta contratação e rescindir o Contrato celebrado, 
+independentemente de interpe lação judicial ou extrajudicial, assegurando -se o contraditório 
+e ampla defesa, quando:  
+16.2.1 - A Contratada venha a contratar empregados que sejam cônjuges, companheiros 
+ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, 
+inclusive , de ocupantes de cargos de direção e de assessoramento, de membros 
+ou juízes vinculados ao Tribunal de Justiça do Estado de São Paulo (Resolução nº 
+07/2005, atualizada pela Resolução nº 09/2005, nº 21/2006, nº 181/2013 e nº 
+229/2016 do Conselho Nacional d e Justiça – CNJ);  
+16.2.2 - A contratação, independentemente da modalidade de licitação, de pessoa jurídica 
+que tenha em seu quadro societário cônjuge, companheiro ou parente em linha 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+65 
+ 
+reta, colateral ou por afinidade até o terceiro grau, inclusive, dos magis trados 
+ocupantes de cargos de direção ou no exercício de funções administrativas, assim 
+como de servidores ocupantes de cargos de direção, chefia e assessoramento 
+vinculados direta ou indiretamente às unidades situadas na linha hierárquica da 
+área encarreg ada da licitação;  
+16.2.3 - A contratação cujo procedimento licitatório tenha sido deflagrado quando os 
+magistrados e servidores geradores de incompatibilidade estavam no exercício 
+dos respectivos cargos e funções, assim como às licitações iniciadas até 6 (s eis) 
+meses após a desincompatibilização;  
+16.2.4 - A contratação de empresa pertencente a parente de magistrado ou servidor não 
+abrangido pelas hipóteses expressas de nepotismo poderá ser vedada pelo 
+Tribunal de Justiça do Estado de São Paulo, quando, no ca so concreto, identificar 
+risco potencial de contaminação do processo licitatório.  
+CLÁUSULA DÉCIMA OITAVA  – DA LEI GERAL DE PROTEÇÃO DE DADOS  
+ 
+Para os fins da Lei Geral de Proteção de Dados, a Contratada 
+declara ter recebido e concordado com a Política de Privacidade e Proteção de Dados do 
+Tribunal de Justiça do Estado de São Paulo e que adere as ações determinadas no Termo de 
+Confidencialidade e Proteção de Dados, o qual passa a fazer parte integrante deste CONTRATO 
+como Anexo __.  
+CLÁUSULA DÉCI MA NONA  - DO FORO  
+Para dirimir as questões oriundas deste Contrato será 
+competente o foro da Comarca de São Paulo.  
+ 
+NADA MAIS . Lido e achado conforme pelas partes, lavrou -se 
+este Contrato, por todos assinado, atendidas as formalidades legais.  
+ 
+ 
+_____________________________________________  
+REPRESENTANTE DO TRIBUNAL  
+(assinado digitalmente)  
+ 
+_____________________________________________  
+REPRESENTANTE DA EMPRESA  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+66 
+ 
+(assinado digitalmente)  

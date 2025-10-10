@@ -1,0 +1,843 @@
+ 
+  
+ 
+   
+ 
+  
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de Serviços dePrevenção e Combate a 
+Incêndio por Bombeiro (a) Civil |JUNHO |2023| 
+ 
+ TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento   SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 Sumário  
+ 
+Introdução  ................................ ................................ ................................ ........................  3 
+1. Tabela de Valores Referenciais –junho2023  ................................ ........................  4 
+2. Fonte de Pesquisa  ................................ ................................ ................................ . 4 
+3. Jornada de Trabalho  ................................ ................................ .............................  5 
+4. Folguista  ................................ ................................ ................................ ................  5 
+5. Horas Extras  ................................ ................................ ................................ ..........  6 
+6. Adicional noturno  ................................ ................................ ................................ . 6 
+7. Adicional de periculosidade  ................................ ................................ .................  6 
+8. Parâmetros de Cálculo  ................................ ................................ ..........................  6 
+9. Remuneração* (Salário + Adicionais) ................................ ................................ ... 6 
+10. Encargos Previdenciários e Trabalhistas  ................................ ..............................  7 
+8.1 Módulo I – Encargos Previdenciários e FGTS  ................................ .......................  7 
+8.2 Módulo II - 13º Salário e Adicional de Férias  ................................ .......................  8 
+8.3 Módulo III - Afastamento Maternidade  ................................ ...............................  9 
+8.4 Módulo IV - Provisão para Rescisão  ................................ ................................ ... 10 
+8.5 Módulo V - Multa de FGTS  ................................ ................................ ..................  11 
+8.6 Módulo VI - Custo de Reposição do Profissional Ausente  ................................  12 
+11. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ...........................  13 
+9.1 Vale Refeição  ................................ ................................ ................................ .......  13 
+9.2 Vale Transporte  ................................ ................................ ................................ ... 14 
+9.3 Assistência Médica  ................................ ................................ ..............................  14 
+9.4 Assistência Odontológica  ................................ ................................ ....................  14 
+9.5 Cesta Básica  ................................ ................................ ................................ .........  15 
+9.6 Benefício Social e Familiar  ................................ ................................ ..................  15 
+9.7 Auxílio Creche  ................................ ................................ ................................ ..... 15 
+9.8 Auxílio Filho Excepcional  ................................ ................................ ....................  16 
+9.9 Seguro de Vida, Invalidez e Funeral  ................................ ................................ ... 16 
+9.10  Norma Regulamentadora Nº 07  ................................ ................................ ..... 17 
+9.11  Curso de Reciclagem, Uniformes, EPIs e Materiais  ................................ ........  17 
+9.12  Dia do Trabalhador  ................................ ................................ ..........................  17 
+12. Benefício e Despesas Indiretas  (BDI) ................................ ................................ .. 18 
+10.1  Custos e Despesas Indiretas  ................................ ................................ ............  18 
+10.2  Lucro Bruto  ................................ ................................ ................................ ...... 18 
+10.3  Despesas Fiscais  ................................ ................................ ..............................  19 
+13. Desconto por falta sem reposição e desconto por atraso ................................ . 21 
+14. Quantidade de Dias Úteis Estimados por Mês  ................................ ..................  21 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisições e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamentos e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários 
+referente à pr estação de  serviços de Prevenção e Combate a Incêndio por 
+Bombeiro (a) Civil no Tribunal de Justiça do Estado de São Paulo.  
+O estudo técnico de composição de custos foi desenvolvido com base nas 
+especificações técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de 
+Referência, produzidos pela coordenador ia responsável pel o planejamento e gestão 
+dos contrato s de prestação de serviços de bombeiro  (a) civil.  
+Para os parâmetros de cálculo foram utilizados a convenção coletiva da  
+categoria (SINDEPRESTEM e SINDIBOMBEIROS ), o caderno técnico Prestação de 
+Serviços de Prevenção e Combate a Incêndio por Bombeiro  (a) Civil (CADTERC ) 
+publicado pelo Governo do Estado de São Paulo, e demais índices estabelecidos na 
+legislação em vigor.  
+ 
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 1. Tabela de Valores Referenciais –junho 2023  
+ 
+2. Fonte de Pesquisa   
+Os custos de mão de obra relativos à Prestação de Serviços de Prevenção e 
+Combate a Incêndio por Bombeiro  (a) Civil estão referenciados na Convenção Coletiva 
+de Trabalho 2022/2023 , firmada entre o Sindicato das Empresas de Prestação de 
+Serviços a Terceiros, Colocação e Administração de Mão de obra e de Trabalho 
+Temporário no Estado de São Paulo ( SINDEPRESTEM ) e o  Sindicato dos Bombeiros  (as) 
+Profissionais Civis das Empresas e Prestações de Serviços do Estado de São Paulo 
+(SINDIBOMBEIROS ). Este instrumento tem vigência a partir de 1º de setembro de 
+2022 a 31 de agosto de 2023  e a data -base da categoria em 1º de set embro .  
+Os Estudos Técnicos de Serviços Terceirizados do Governo do Estado de São 
+Paulo, CADTERC , também serviram de apoio para atualização do presente Estudo. Para 
+a atualização dos parâmetros financeiros e estimativos dos postos de BOMBEIRO (A)  
+CIVIL, utilizamos a última versão publicada Prestação de Serviços de Prevenção e 
+Combate a Incêndio por Bombeiro Civil – Volume 20 – data -base setembro/2022 – 
+versão 01 novembro/2022.  
+As informações presente s neste estudo também consideram as prerrogativas 
+contidas na Lei nº 11.901/2009  que regulamenta a profissão de bombeiro civil.  
+Na elaboração da proposta a empresa não poderá cotar valor inferior ao piso 
+normativo estabelecido para a categoria profissional e nvolvida.  
+Os valores dos serviços que caracterizem mão de obra eventual não serão 
+contingenciados nos termos da Resolução 169 do CNJ, de 31 de janeiro de 2013 (Art. 
+1º e parágrafo 1º).  
+ Código  Descrição  Unidade  Periodicidade  Valor 
+Unitário  
+55-0369  Posto de Bombeiro Profissional Civil - 
+diurno: 12 horas - escala de 12 x 36 de 
+segunda -feira a domingo  Posto  Mensal   21.539,70  
+55-0368  Posto de Bombeiro Profissional Civil - 
+noturno: 12 horas - escala de 12 x 36 
+de segunda -feira a domingo  Posto  Mensal   25.029,57   
+55-0644  Serviço de Bombeiro Civil - Diurno - 
+Eventual Pago por Hora  Hora  Mensal   49,72  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 3. Jornada de Trabalho  
+A jornada de trabalho , conforme §5º da convenção coletiva, de 36 horas 
+semanais e de 180 horas mensais . 
+4. Folguista  
+Para a cobertura do posto de trabalho, em conformidade com a escala de 
+trabalho adotada, pode -se fazer necessária a adoção de funcionário folguista 
+(interjornada).  A composição dos custos do folguista leva em consideração o salário -
+base do  bombeiro acrescido de adicionais de insalubridade e periculosidade, quando 
+for o caso, pagamento de horas -extras e adicionais noturnos, quando couber. A 
+quantidade necessária por posto do folguista é então adicionada ao número total de 
+funcionários para a composição de custos . 
+Conforme descrito em convenção coletiva da categoria, na Nova Lei Trabalhista 
+(Lei nº 13.467/2017 e art. 58 -A da CLT), fica consignada a possibilidade de flexibilização 
+da escala 12x36h, sempre respeitando o limite semanal de 36 horas, de acordo com a 
+lei que regulamentou a profissão de Bombeiro profissional civil (Lei nº 11.901/2009) 
+apenas e tão somente mediante acordo coletivo com a Enti dade Laboral. Assim, uma 
+vez que fica definido o limite de trabalho semanal em 36 horas, há a necessidade de 
+cobertura de folguista nos postos supracitados.  
+A quantidade de folguistas por posto de serviço  foi calcula no CADTERC e a 
+seguir apresentamos a me mória de cálculo adotada.  
+Quantidade de funcionários por posto  = Número de funcionários por posto de 
+trabalho + ((carga horaria mensal do posto de trabalho/carga horaria efetivamente 
+trabalhada no mês por funcionário) - número de funcionário por posto de trabalho)  
+Posto  Número de 
+Funcionário por 
+Posto de Trabalho  Carga Horária 
+Mensal Posto 
+de Trabalho  Carga Horária 
+Efetivamente 
+Trabalhada no mês 
+por Funcionário  Cálculo  da 
+Quantidade de 
+Funcionários por 
+posto  
+12 x 36  
+(2ª feira a domingo ) diurno 
+ou noturno  2 365,25  156,54  2 + 
+((365,25/156,54) -2 
+= 2,33  
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 5. Horas Extras  
+As horas extras trabalhadas serão pagas com adicional de 100% (cem por 
+cento) , conforme cláusula 15ª da convenção coletiva da categoria . 
+6. Adicional noturno  
+A hora noturna, trabalhada entre 22h00 e 05h00 horas, será remunerada com o 
+adicional de 20% (vinte por cento),  sobre o valor da hora normal.  
+7. Adicional de periculosidade  
+De acordo com o inciso III do artigo 6º da Lei 11.901/2009, serão assegurados 
+aos empregados a percepção do adicional de periculosidade de 30% (trinta por cento)  
+sobre o salário mensal, sem os acréscimos resultantes de gratificação, prêmios ou 
+participaçõe s nos lucros da empresa.  
+8. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e não devem ser alterados pela licitante 
+quando da elaboração da proposta.  
+Para todos os cálculos foram utilizados o critério de arredondamento 
+matemático com 2  (dois)  dígitos . 
+A quantidade estimada de dias úteis no mês é de 30,44 dias conforme 
+demonstrado no CADTERC de prestação de serviços de bombeiro civil. A quantidade de 
+dias úteis estimados por funcionário é de 13,06 dias  (30,44 / 2,33).  
+ 
+9. Remuneração* (Salário + Ad icionais)  
+Código  Função  Salário  Adicional 
+de 
+Periculosi
+dade  Adicional 
+Noturno  Hora 
+Noturna 
+Reduzida  
+55-0369  Bombeiro Civil - diurno: 12 horas –12 x 36 
+seg a dom  2.420,23  726,07    
+55-0368  Bombeiro Civil - noturno : 12 horas –12 x 36 
+seg a dom  2.420,23  726,07  319,70  274,03  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 10. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos previdenciários e trabalhistas de 72,8 9%a ser  
+aplicado ao total da remuneração está demonstrado nos itens 6.1 a 6.6.  
+8.1 Módulo I – Encargos Previdenciários e FGTS  
+Os percentuais  dos encargos previdenciários e FGTS são estabelecidos pela 
+legislação vigente e correspondem às obrigações que incidem diretam ente sobre a 
+folha de pagamento.  
+Item  Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2 SESI/SESC  1,50%  Art. 30 da Lei nº 8.036/1990 e art. 1º da Lei nº 
+8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei nº 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei nº 
+9.424/1996.  
+ 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, da 
+Constituição Federal.  
+7 (RAT x FAP) = RAT 
+Ajustado  3,00%  Lei nº 8.212/91, Lei nº 10.666/2009 e Resolução 
+MPS/CNPS nº 1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 8.154/1990.  
+Total  36,80%   
+RAT (Riscos Ambientais do Trabalho)  - representa  a contribuição da empresa, 
+prevista no inciso II do artigo 22 da Lei nº 8.212/91, e consiste em percentual que 
+mede o risco da atividade econômica, com base no qual é cobrada a contribuição para 
+financiar os benefícios previdenciário s decorrentes do grau de incidência de 
+incapacidade laborativa (GIIL -RAT). A alíquota de contribuição para o RAT será de 1% 
+(um por cento) se a atividade é de risco mínimo; 2%  (dois por cento)  se de risco médio 
+e de 3% se de risco grave, incidentes sobre o  total da remuneração paga, devida ou 
+creditada a qualquer título, no decorrer do mês, aos segurados empregados e 
+trabalhadores avulsos. Havendo exposição do trabalhador a agentes nocivos que 
+permitam a concessão de aposentadoria especial, há acréscimo das  alíquotas na forma 
+da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere  o desempenho da empresa, 
+dentro da respectiva atividade econômica, relativamente aos acidentes de trabalho 
+ocorridos num determinado período. O FAP consiste num multip licador variável num 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 intervalo contínuo de cinco décimos (0,5) a dois inteiros (2), aplicado com quatro casas 
+decimais sobre a alíquota RAT.  
+RAT Ajustado  - A expressão RAT Ajustado foi criada pela Receita Federal do 
+Brasil (RFB) e equivale à alíquota que a s empresas terão de recolher sobre o total das 
+remunerações pagas ou creditadas no decorrer do mês, aos segurados empregados e 
+trabalhadores avulsos a partir de janeiro/2010, para custear as Aposentadorias 
+Especiais e os benefícios concedidos em razão do g rau de incidência de incapacidade 
+laborativa decorrente dos riscos ambientais do trabalho. O cálculo do RAT ajustado é 
+feito mediante a fórmula (RAT x FAP), com aplicação da máxima ou mínima do FAP (0,5 
+a 2) sobre as alíquotas de RAT (1% a 3%), tendo como resultado um RAT ajustado entre 
+0,5%  (zero vírgula cinco por cento)  a 6%  (seis por cento).  
+Observações:  
+a) O percentual de 3%  (três por cento)  utilizado no item 7 - SAT (RAT x FAP) foi 
+utilizado somente para estimativa.  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+8.2 Módulo II - 13º Salário e Adicional de Férias  
+Item  Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei nº 
+4.090/1962 e Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e art. 142 
+da CLT.  
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60  (sessenta)  meses, o empregado tem 
+5 (cinco)  meses de férias e labora em 56 (cinquenta e seis) meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que 
+as férias sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração 
+do mês.  
+Cálculo: (1/3)*(5/56) = 2,98%.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 Encargos incidentes: Aplicação dos encargos previdenciários e o  FGTS sobre o 
+13º salário mais adicional de férias.  
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+8.3 Módulo III - Afastamento Maternidade  
+Item  Encargo  % Fundamento legal  
+1 Licença maternidade  0,03%  Art. 7º, inciso XVIII, da CF, regulado pelo art. 72 da Lei 
+nº 8.213/1991.  
+2 Encargos sociais 
+incidentes  0,01%  - 
+Total  0,04%   
+Afastamento Maternidade:  afastamento de 120 (cento e vinte dias) sem 
+prejuízo da remuneração:  
+a) O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+b) Cabem à empresa a Contribuição Patronal, o FGTS e as provisões relativas ao 
+13º Salário.  
+c) A Lei nº 11.770/2008 preconiza a prorrogação por 60 (sessenta) dias. Nesse 
+caso, a empresa paga o salário maternidade e compensa no pagamento do 
+Imposto de Renda, não sendo necessário o desembolso pelo órgão.  
+d) De acordo com dados estatísticos do IBGE, a taxa de natalidade brasileira é 
+de 1,44%  (um vírgula quarenta e quatro por centro) . Estima -se que 10%  (dez 
+por cento)  das empregadas engravidam em cada ano de execução 
+contratual.  
+e) Considerando -se o custo de encargos como sendo 43,41% (quarenta e três 
+vírgula quarenta e um por cento) da remuneração (CPP 20,00% + SAT 3,00% 
++ 13º Salário 8,93% + FGTS  8,00% + Multa Rescisória 3,48%) e que a licença -
+maternidade dure 6 meses, a provisão para este item corresponde a:  
+Cálculo: (1,44% * 10% * 43,31% * 6/12) = 0,03%  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+afastamento mate rnidade:  
+Cálculo: (36,80%) * (0,03%) = 0,01%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 8.4 Módulo IV - Provisão para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  0,42%  §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio 
+indenizado  0,03%  - 
+3 Multa FGTS sobre o aviso prévio indenizado  0,01%  - 
+4 Aviso prévio trabalhado  0,04%  Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso 
+prévio trabalhado  0,01%   
+6 Multa FGTS sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,08%  Art. 9 da leinº 7.238, de 29 de outubro 
+de 1984  
+Total  0,59%   
+Aviso Prévio indenizado: trata‐se de valor devido ao empregado caso o 
+empregador rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, 
+conforme disposto no §1º do art. 487 da CLT. De acordo com levantamento efetuado 
+em diversos contratos, cerca de 5% (cinco por cen to) do pessoal é demitido pelo 
+empregador, antes do término do contrato de trabalho. (Estudo CNJ – Resolução 
+098/2009).  
+Cálculo: [(1/12) * 5%] = 0,42%.  
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo ao 
+período de aviso prévio, trabalhado ou não, está sujeito a contribuição para o FGTS. 
+(Súmula TST nº 305).  
+Cálculo: 0,42% * 8% = 0,03%  
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o 
+custo do aviso prévio indenizado 0,42%  (zero vírgula quarenta  e dois por cento)  é 
+acrescido da multa do FGTS indenizado 40%  (quarenta por cento) , que incide sobre a 
+alíquota do FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso 
+indenizado 0,42%  (zero vírgula quarenta e dois por cento) . 
+Cálcul o: 0,42%*8%*40%=0,01%  
+Aviso prévio trabalhado: corresponde ao valor repassado para pagar ao 
+funcionário enquanto este não trabalha, pois ele percebe o salário referente a 30 dias 
+de serviço, dos quais sete ele tem direito a ausentar‐se para procurar outro emprego 
+ou, se preferir, trabalhar duas horas a menos por dia durante o mês. 
+Aproximadamente  2,00%  (dois por cento)  dos trabalhadores cumprem dispensa por 
+aviso -prévio trabalhado.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 Cálculo: 1/30/12*7*2%= 0,04%  
+Encargos sociais incidentes: Aplicação dos enca rgos previdenciários e o FGTS 
+sobre oaviso prévio trabalhado:  
+Cálculo: (0,04%) * (36,80%) = 0,01%  
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o 
+custo do aviso prévio trabalhado 0,04 % (zero vírgula quatro por cento)  é acrescid o da 
+multa do FGTS trabalhado 40%  (quarenta por cento) , que incide sobre a alíquota do 
+FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso indenizado 
+0,01%  (zero vírgula um por cento) . 
+Cálculo: 0,04%*8%*40%=0,0013% com arredondament o de 2 dígitos, o valor é 
+de 0,00%  
+Indenização Adicional:  Art. 9º da Lei nº 7.238, de 29 de outubro de 1984 - O 
+empregado dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a 
+data de sua correção salarial, terá direito à indenização adicional equivalente a um 
+salário mensal. O índice de ocorrência deste fato é cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+8.5 Módulo V - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+O § 1º do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de 
+despedida pelo empregador sem justa causa, depositará este, na conta vinculada do 
+trabalhador no FGTS, importância igual  a quarenta por cento do montante de todos os 
+depósitos realizados na conta vinculada durante a vigência do contrato de trabalho, 
+atualizados monetariamente e acrescidos dos respectivos juros.  
+Estima -se que 10%  (dez por cento)  dos empregados pedem demissão  (rescisão 
+a pedido do trabalhador), assim essa penalidade recai sobre os 90% (noventa por 
+cento) remanescentes. (Estudo CNJ – Resolução nº 098/2009).  
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 Férias + Adicional de Férias  
+Cálculo: (8,93%+2,98%)*8%*40%*90 % = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+8.6 Módulo VI - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do profissional ausente deve 
+levar em conta todos os custos para manter o funcionário no posto de trabalho, tais 
+como: saláriobase acrescido dos adicionais e encargos, uniformes, custo de rescisão 
+etc., com exceção dos equipamentos.  
+ 
+Item  Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,66%  Art. 18 da Lei nº 8.212/1991 e art. 476 da CLT  
+3 Licença paternidade  0,02%  - 
+4 Faltas legais  0,82%  - 
+5 Ausência por acidente de trabalho  0,03% Art. 131 da CLT  
+6 Encargos sociais incidentes  4,22%  - 
+Total  15,6 8%  
+ 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o 
+pagamento de 13º salário e de um mês de férias. Pode -se determinar a provisão 
+mensal considerando que na duração do contrato de 60 (sessenta) meses o 
+empregado tem 5 (cinco) meses de férias e  labora em 56 (cinquenta e seis) meses.  
+Cálculo: (5/56) = 8,93%.  
+Ausência por doença: esta parcela refere -se aos dias em que o empregado fica 
+doente e a contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, 
+onera a empresa com até  15 (quinze)  ausências do empregado por motivo de acidente 
+ou doença atestada pelo INSS. Entende -se que devem ser adotados 5,96  (cinco vírgula 
+noventa e seis)  dias, conforme consta do memorial convertendo esses dias em mês e 
+depois dividi -lo pelo número de  meses no ano.  
+Cálculo: (5,96/30) * (1/12) = 1,66%  
+Licença Paternidade : custo de ausência do trabalhador pelo período de cinco 
+dias. Criada pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT. Taxa de 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 natalidade de 1,42%  (um vírgula quarenta e dois por cento) conforme dados do IBGE 
+ano de 2015.  
+Cálculo: ((5/30) /12) * 1,42%= 0,02%  
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga 
+o empregador a assumir o ônus financeiro pelo prazo de 15  (quinze)  dias no caso de 
+acide nte de trabalho previsto no art. 131 da CLT. De acordo com o anuário estatístico 
+de acidentes de trabalho publicado pela Secret aria de Previdência para o estado de 
+São Paulo, seguindo a Classificação Nacional de Atividades Econômicas (CNAE) – 8011 
+para o E stado de SP, houve 9,170 (sete vírgula  vinte e quatro) acidentes para cada 1000 
+(mil) vínculos - 0,9170 % (zero vírgula sete  dois quatro por cento) . 
+Cálculo Ausência por Acidente de Trabalho: ((15/30)/12) x 0, 7240 %  = 0,0 3% 
+11. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  
+A seguir apresentamos o s critérios de cálculo dos itens que compõem as 
+obrigações decorrentes de acordo ou convenção coletiva que , por representar 
+patamares mínimos , não podem apresentar preços inferio res na proposta da licitante.  
+9.1 Vale Refeição  
+Quantidade de Refeições por dia: 1  
+Valor Unitário: Conforme CCT da Categoria  
+Parcela do Trabalhador: desconto do benefício até o limite previsto em lei, 
+conforme o Programa de Alimentação do Trabalhador (PAT), de 20% do valor 
+do vale . 
+Valor Vale Refeição - R$ 
+Função  Valor 
+Diário  Desconto  Valor Diário 
+Final  Dias 
+Efetivamente 
+Trabalhados por 
+mês Total Valor VR  
+Bombeiro Civil - diurno: 
+12 horas – 12 x 36 seg a 
+dom  29,09  20%  23,27  13,04  303,44  
+Bombeiro Civil - noturno: 
+12 horas – 12 x 36 seg a 
+dom  29,09  20%  23,27  13,04  303,44  
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 9.2 Vale Transporte  
+Valor Unitário da condução do profissional: Valor da Passagem do ônibus na 
+cidade  
+Valor unitário: R$ 4, 83 (quatro vírgula oitenta e três) - São Paulo  
+Quantidade de tarifas diárias: 2  (dois)  
+Parcela do Trabalhador: Desconto de 6%  (seis por cento)  do salário -base do 
+profissional.  
+ 
+ Valor Vale Transporte - R$ 
+Período  Valor da 
+Passagem 
+Unitária  Nº de 
+funcionários 
+por posto  Quantidade/Dia  Dias 
+Efetivamente 
+Trabalhados 
+por mês  Valor Bruto 
+Vale 
+Transporte*  
+12x36  4,83  2,33  2 13,04  293,50  
+ 
+* O valor líquido do vale transporte deverá ser obtido mediante a subtração da parcela 
+suportada pelo empregado, cujo limite é 6%  (seis por cento)  do salário base.  
+ 
+9.3 Assistência Médica  
+Fica assegurada a assistência médica e hospitalar por meio de convênio médico aos 
+profissionais e seus dependentes legais. A convenção coletiva da categoria prevê desconto 
+de 12% do piso da categoria.  
+Assistência Médica  - R$ 
+ Valor Assistência 
+Médica  Desconto 
+Funcionário  Valor Final  
+Bombeiro  342,78  290,43  52,35  
+ 
+9.4 Assistência Odontológica  
+Foi previsto, em consonância com a convenção coletiva da categoria, o custo 
+mensal de R$ 34,14 por profissional para o pagamento do auxílio de assistência 
+odontológica, podendo ser descontado do trabalhador o valor máximo de R$ 17,07.  
+Assistência Bombeiro  - R$ 
+ Valor Assistência 
+Odontológica  Desconto 
+Funcionário  Valor Final  
+Bombeiro  34,14  17,07  17,07  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 9.5 Cesta Básica  
+Conforme Convenção Coletiva da Categoria, fica assegurado o pagamento de 
+uma cesta básica por mês ao profissional.  
+Cesta Básica - R$ 
+ Valor Mensal  
+Bombeiro  164,41  
+ 
+9.6 Benefício Social e Familiar  
+Foi previsto, em conformidade com a convenção coletiva da categoria, o custo 
+de plano de benefício social familiar em caso de nascimento de filhos, incapacitação 
+permanente por perda ou redução de sua aptidão física ou falecimento, por meio de 
+organização gestora especializada e aprovada pela entidade  sindical patronal. O custo 
+mensal do benefício será de R$ 14,84, podendo ser descontada do trabalhador, em folha 
+de pagamento, a importância de R$ 7,42.  
+Benefício Social Familiar - R$ 
+ Valor Benefício  Desconto 
+Funcionário  Valor Final  
+Bombeiro  14,84  7,42  7,42  
+ 
+9.7 Auxílio Creche  
+De acordo com o CADTERC e s egundo convenção coletiva da categoria, as 
+empresas que tenham empregadas e que não possuam creches próprias poderão 
+optar por celebrar o convênio previsto no§ 2º do art. 389 da CLT ou reembolsar 
+direta mente à empregada as despesas comprovadamente havidas com a guarda, 
+vigilância e assistência do filho legítimo ou legalmente adotado em creches 
+credenciadas, à sua escolha, até o limite do valor correspondente a 20% do salário 
+normativo, por mês, para cada  filho com idade entre 0 (zero) e 6 (seis) anos. Assim, 
+para cálculo do valor do auxílio -creche, adotou -se o seguinte procedimento:  
+▪Calculou -se a média de filhos por domicílio a partir da divisão do número de filhos 
+tidos pelas mulheres por domicílio (PNA D 2015) pelo número de famílias residentes 
+por domicílio (PNAD 2015). Dessa forma, encontrou -se a média de 2 (dois) filhos por 
+domicílio.  
+▪ Adotou -se que o tempo de concessão desse benefício seria igual ao tempo de 
+permanência da funcionária na empresa (20,52 meses).  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 ▪ O valor do auxílio -creche é, então, obtido através dos seguintes passos:  
+- Multiplicação de 20% do salário normativo pelo tempo de concessão do benefício;  
+- Esse resultado é multiplicado pela porcentagem de mulheres na categoria, p ela 
+porcentagem de mulheres aptas a procriar na categoria profissional de análise e pela 
+média de filhos por domicílio.  
+▪ O resultado obtido é mensalizado.  
+Auxílio Creche - R$ 
+ Valor Mensal  
+Bombeiro  49,17  
+ 
+9.8 Auxílio Filho Excepcional  
+De acordo com o CADTERD e e m congruência com o acordo coletivo da 
+categoria, as empresas concederão auxílio mensal no valor correspondente a 10% do 
+piso salarial normativo aos trabalhadores que possuírem filhos com deficiências, desde 
+que se encontrem sob total dependênci a do profissional.  
+Para realização dos cálculos, foram tomados os dados coletados na Base de 
+Dados dos Direitos da Pessoa com Deficiência da Secretaria de Estado dos Direitos da 
+Pessoa com Deficiência do Governo de São Paulo, da Relação Anual de Informaçõe s 
+Sociais (RAIS) 2019 e do Cadastro Geral de Empregados e Desempregados (CAGED) 
+2019.  
+Auxílio Filho Excepcional - R$ 
+ Valor Mensal  
+Bombeiro  2,11  
+ 
+9.9 Seguro de Vida , Invalidez e Funeral  
+De acordo com o CADTERC e em em conformidade com a convenção coletiva da 
+categoria, o pagamento de seguro de vida, cujo custo considerado foi obtido a partir de 
+pesquisa de preços referenciais junto ao mercado especializado.  
+Seguro de Vida, Invalidez e Funeral - R$ 
+ Valor Mensal  
+Bombeiro  26,00  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  17  
+9.10 Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame médico 
+(admissional, periódico e de demissão). Apesar de não constar expressamente na 
+Convenção Coletiva da Categoria, as empresas terão que arcar com essas despesas.  
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + Valor 
+do exame médico e de demissão) / Estimativa do tempo de permanência do 
+funcionário em meses] + (Valor do exame médico periódico / 12 meses)} x (Número de 
+funcionários por posto de trab alho + Número de folguistas necessários por mês)  
+Norma Regulamentadora Nº 07 / Funcionário = R$8,37 (Fonte - CADTERC)  
+9.11 Curso de Reciclagem, Uniformes, EPIs e Materiais  
+Conforme o CADTERC, d e acordo com a Portaria nº CCB -008/600, de 2014, e as 
+recomendações técnicas da NBR nº 14.608/2007, aprovada pela Associação Brasileira 
+de Normas Técnicas (ABNT), os cursos de reciclagem são válidos por 1 (um) ano, após o 
+qual os Bombeiros civis deverão ser submetidos a novo curso de reciclagem, com carga 
+horária de 28 horas/aula conforme a atividade exercida, às expensas do empregador. 
+Além do custo do curso resultante de pesquisa no mercado, a Contratada deve prever 
+os gastos com o substituto do posto durante o período de ausência do profissional.  Os 
+valores  referentes aos custos com curso de reciclagem foram levantados no estudos 
+do CADTERC.  
+As empresas deverão fornecer uniformes completos, equipamentos e materiais 
+paraseus profissionais. Os preços referenciais desses insumos foram obtidos  no 
+CADTERC,  via pe squisade preços de mercado com referência em Setembro de 2022.  
+9.12 Dia do Trabalhador  
+Conforme consta na convenção coletiva, será pago anualmente o valor 
+referente a mais um vale -refeição  no dia do trabalhador de asseio conservação.  
+No caso dos Jardineiros, co nforme convenção coletiva da categoria, foi previsto 
+o pagamento de horas extraordinárias, com um acréscimo de 50%  (cinquenta por 
+cento)  sobre a hora normal para as horas laboradas no dia do trabalhador de 
+manutenção e execução de áreas verdes (16 de maio) , quando a data cair em um dia 
+de semana trabalhado.  
+Ambos os valores foram levantados no CADTERC das respectivas funções.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 Dia do Trabalhador - R$ 
+ Valor Mensal  
+Bombeiro  1,48  
+ 
+12. Benefício e Despesas Indiretas  (BDI)  
+O benefício  e despesas indiretas  é o elemento orçamentário destinado a cobrir todas 
+as despesas da prestação de serviços, segundo critérios claramente definidos, é 
+composto pelos custos e despesas indiretas, lucro bruto e despesas fiscais tais como: 
+PIS, COFINS e ISS QN 
+10.1 Custos e Despesas Indiretas   
+Os Custos  Indiretos são todos os gastos envolvidos diretamente na execução 
+dos serviços, que podem ser caracterizados e quantificados, mas não são passíveis de 
+serem apropriados a uma fase específica, a exemplo de supervisor, preposto para 
+acompanhamento do  contrat o etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou 
+seja, são gastos devidos à estrutura administrativa e à organização da empresa que 
+resultam o  rateio entre os diversos contratos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são gastos 
+com seguros legais tais como o seguro de responsabilidade civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas/indiretas adotada é de 5,81%  (cinto vírgula 
+oitenta e um por cento) , conforme estudos realizados pelo Caderno de Serviços 
+Terceirizados, sendo 0,50% para cobrir o Seguro Responsabilidade Civil e 5,31%  (cinco 
+vírgula trinta e um por cento)  para remunerar os demais custos e despesas.  
+10.2 Lucro Bruto  
+O lucrobruto  no BDI é representado por uma taxa incidente sobre o total geral 
+dos custos e despesas, excluídas as despesas fiscais.   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 O lucro  declarado  pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa de lucro bruto adotada é de 7,20%  (sete vírgula vinte por cento)  
+conforme estudos realizados pelo CADTERC.  
+10.3 Despesas Fiscais  
+As Despesas  Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como 
+PIS, COFINS e ISSQN:  
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio 
+do Servidor Público :são contribuintes do PIS, segundo as regras vigentes, 
+as pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cál culo da 
+contribuição é a receita bruta mensal, assim entendida a totalidade das 
+receitas auferidas pela pessoa jurídica, sendo irrelevante o tipo de 
+atividade por ela exercida e a classificação contábil adotada para as 
+receitas (Art. 1º da Lei Federal nº 1 0.637/2002);   
+A alíquota do PIS/PASEP  1,65% (um v írgula sessenta e cinco por cento)  (art. 
+2º da Lei Federal nº 10.637, de 2002 ), conforme enquadramento da 
+empresa nos termos da lei.   
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base 
+de cálculo da COFINS é composta pela totalidade das receitas auferidas 
+pela pessoa jurídica, independentemente da atividade exercida e da 
+classificação contábil das receitas.   
+A alíquota do COFINS é de 7,60% (sete vírgula sessenta por cento)  (art. 2° d a 
+Lei Federal nº 10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de 
+competência dos Municípios e do Distrito Federal, tem como fato gerador 
+a prestação de serviços constantes da lista anexa à  Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade 
+preponderante do prestador.  
+ 
+Art.3º   O serviço considera -se prestado, e o imposto, devido, no 
+local do estabelecimento prestador ou, na falta do 
+estabelecimento, no local do domicílio do prestador, exceto nas 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 hipóteses previstas nos incisos I a XXV, quando o imposto será 
+devido no loc al: 
+ [...] 
+XX – do estabelecimento do tomador da mão -de-obra ou, na 
+falta de estabelecimento, onde ele estiver domiciliado, no caso 
+dos serviços descritos pelo subitem 17.05 da lista anexa:  
+[...] 
+Item 17.05 – Fornecimento de mão -de-obra, mesmo em caráter 
+temporário, inclusive de empregados ou trabalhadores, avulsos 
+ou temporários, contratados pelo prestador de serviço.  
+No caso da prestação de serviços de Bombeiro  foi utilizada a alíquota de 2% 
+(dois por cento) , conforme o que demonstrou o CADTERC.  
+A importância da demonstração das alíquotas de BDI torna mais transparente 
+os custos envolvidos na contratação, com a indicação dos percentuais de impostos 
+incidentes, lucro e despesas administrativas. Além de facilitar eventuais ajustes de 
+valores contrat uais, caso haja alteração de alíquotas impostas pela legislação, 
+facilitando a apuração de pedidos de reequilíbrio econômico -financeiro.   
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa adm. ) 5,81%  
+2 Lucro Bruto (taxa  de lucro)  7,20%  
+3 PIS 1,65%  
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -
+%ISSQN) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  21  
+13. Desconto por falta sem reposição e desconto por atraso  
+Quanto ao desconto por falta sem reposição, o valor a ser deduzido será 
+integral (valor do posto mensal dividido pelos dias úteis estimados por mês de acordo 
+com a função).  
+Código  Descrição  Desconto Falta Sem 
+Reposição  Desconto Dia Útil não 
+trabalhado  
+550369  Posto de Bombeiro Profissional 
+Civil - diurno: 12 horas - escala de 
+12 x 36 de segunda -feira a 
+domingo  707,85  84,89  
+550368  Posto de Bombeiro Profissional 
+Civil - noturno: 12 horas - escala 
+de 12 x 36 de segunda -feira a 
+domingo  910,75  103,31  
+ 
+14. Quantidade de Dias Úteis Estimados por Mês  
+Para o presente estudo, a quantidade de dias úteis estimados por mês foi de  
+30,44 dias/mês  para as funções que exercem trabalho na jornada de 12x36 de  
+segunda -feira  a domingo. Estes dados foram levantados no CADTERC de Prestação de 
+Serviços de Bombeiros Civil.  
+ 
+ 

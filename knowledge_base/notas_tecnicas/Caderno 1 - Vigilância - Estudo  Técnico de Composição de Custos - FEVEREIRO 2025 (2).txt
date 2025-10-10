@@ -1,0 +1,1546 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Caderno 1 |Prestação de serviços de vigilância e segurança 
+patrimonial |Fevere iro|2025| 
+ 
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 
+Sumário  
+Introdução  ................................ ................................ ................................ ........................  3 
+1. Tabela de Valores Referenciais – janeiro/2025  ................................ ........................  4 
+2. Fonte de Pesquisa  ................................ ................................ ................................ ..... 5 
+3. Parâmetros de Cálculo  ................................ ................................ ..............................  6 
+3.1. Adicionais de Periculosidade e Insalubridade  ................................ .......................  6 
+3.2. Adicionais Noturno e Hora Noturna Reduzida  ................................ ......................  7 
+3.3. Intervalo Intrajornada para Repouso e Alimentação  ................................ ............  7 
+3.4. Regras gerais  ................................ ................................ ................................ ..........  9 
+4. Módulo I – Remuneração  ................................ ................................ .......................  10 
+5. Encargos Previdenciários e Trabalhistas  ................................ ................................  10 
+5.1 Módulo II – Encargos Previdenciários e FGTS  ................................ .....................  10 
+5.2 Módulo III - 13º Salário e Adicional de Férias  ................................ .....................  11 
+5.3 Módulo IV - Afastamento Maternidade  ................................ ..............................  12 
+5.4 Módulo V - Provisão para Rescisão  ................................ ................................ ..... 13 
+5.5 Módulo VI - Multa de FGTS  ................................ ................................ .................  15 
+5.6 Módulo VII - Custo de Reposição do Profissional Ausente  ................................ . 16 
+6. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva
+ 18 
+6.1 Assistência Médica  ................................ ................................ ..............................  18 
+6.2 Auxílio Funeral  ................................ ................................ ................................ ..... 19 
+6.3 Curso de Reciclagem  ................................ ................................ ............................  19 
+6.4 Norma Regulamentadora Nº 07  ................................ ................................ ..........  20 
+6.5 Uniformes, EPIs e Materiais  ................................ ................................ ................  21 
+6.6 Seguro de Vida  ................................ ................................ ................................ ..... 23 
+6.7 Vale -Refeição  ................................ ................................ ................................ .......  23 
+6.8 Vale -Transporte  ................................ ................................ ................................ ... 24 
+7. Cobertura Intrajornada com Repositor  ................................ ................................ .. 24 
+8. Benefício e Despesas Indiretas  (BDI)  ................................ ................................ ...... 25 
+9. HORAS EVENTUAIS  ................................ ................................ ................................ . 28 
+10. HORAS EXTRAS  ................................ ................................ ................................ .......  29 
+11. Planilha de Composição de Custos  ................................ ................................ .........  30 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadoria de Análise de Requisições e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamentos e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+Renata Mateus Teixeira  
+Contador Judiciário - Serviço de Processamento de Análise de Requisições, Orçamentos e 
+Catalogação  
+Andr é Tadeu Stocco Golanda  
+Administrador Judiciário - Serviço de Processamento de Análise de Requisições, Orçamentos e 
+Catalogação  
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 
+ 
+Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários referente s 
+à prestação de  serviços de vigilância e segurança patrimonial  nos prédios do  Tribunal de Justiça 
+do Estado de São Paulo.  
+O estudo técnico de composição de custos foi desenvolvido com base nas especificações 
+técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de Referência, produzidos pela 
+coordenador ia responsável pel o planejamento e gestão dos contrato s de prestação de serviços 
+de vigilância e segurança patrimonial . 
+Para os parâmetros d os cálculo s estimativos  foram utilizad as as convenç ões coletiva s da 
+categoria  do Sindicato dos Empregados em Empresas de Vigilância, Segurança e Similares de São 
+Paulo – SEEVISSP , do Sindicato das Empresas de Segurança Privada, Segurança Eletrônica, 
+Serviços de Escolta e Cursos de Formação do Estado de São Paulo – SESVESP , e aditamentos,  
+bem como  o caderno técnico de prestação de serviços de vigilância e segurança predial 
+(CADTERC ), publicados pelo Governo do Estado de São Paulo , custos provenientes de leis 
+asseguradas pela Constituição Federal de 1988, pela Consolidação das Leis Trabal histas e demais 
+índices estabelecidos na legislação em vigor.  
+ 
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 
+1. Tabela de Valores Referenciais – janeiro /202 5 
+ 
+Código  Descrição  Unidade  Nº de Funcionários 
+por posto  Quantidade 
+mensal de 
+dias 
+estimados  Valor unitário 
+Posto/Dia/Hora 
+R$ 
+ 
+ 
+68-0004  Posto de vigilante 
+noturno: 12 horas - 
+escala de 12 x 36 de 
+segunda -feira a 
+domingo  Posto/Dia  2 31 563,25   
+68-0011  Posto de vigilante 
+diurno - com almocista 
+(repositor) - 12 horas - 
+escala de 12 x 36 de 
+segunda -feira a 
+domingo  Posto/Dia  2 31  507,47   
+68-0018  Posto de vigilante 
+diurno - com almocista 
+(repositor) - 44 horas 
+semanais de segunda 
+a sexta -feira - arma 
+não letal  Posto/Dia  1 21  400,88   
+68-0021  Posto de vigilante 
+diurno - com almocista 
+(repositor) - 12 horas 
+diárias - segunda a 
+sexta -feira  Posto/Dia  1,37  21  542,57   
+68-0023  Posto de vigilante 
+diurno: com almocista 
+(repositor) - 44 horas 
+semanais de segunda 
+a sexta -feira - 
+desarmado  Posto/Dia  1 21  400,33   
+68-0024  Vigilante diurno - 
+eventual - pagamento 
+hora trabalhada - 
+desarmado  Posto/Hora  1 A ser 
+estimado 
+pelo gestor 
+no TR.   35,63   
+68-0025  Vigilante noturno - 
+eventual - pagamento 
+hora trabalhada - 
+desarmado  Posto/Hora  1 A ser 
+estimado 
+pelo gestor 
+no TR.   40,65   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 
+68-0027  Posto de vigilante 
+diurno Líder - com 
+almocista 
+(repositor/repositora) 
+- 12 horas - escala de 
+12X36 de segunda a 
+domingo  Posto/Dia 
+Líder  2 31  546,47   
+68-0028  Posto de vigilante 
+diurno - com almocista 
+(repositor/repositora) 
+- 44 horas semanais - 
+segunda a sexta -feira - 
+com uso de arma de 
+fogo  Posto/Dia  1 21  403,84   
+68-0029  Vigilante diurno - 
+eventual - arma não 
+letal  Posto/Hora  1 A ser 
+estimado 
+pelo gestor 
+no TR.   35,68   
+68-0030  Vigilante noturno - 
+eventual - arma de 
+fogo  Posto/Hora  1 A ser 
+estimado 
+pelo gestor 
+no TR.   40,95   
+68-0031  Vigilante diurno - Hora 
+extra - Posto 44 horas 
+semanais - arma de 
+fogo  Posto/Hora 
+extra  1 A ser 
+estimado 
+pelo gestor 
+no TR.   44,61   
+68-0032  Vigilante noturno - 
+Hora extra - Posto 44 
+horas semanais - arma 
+de fogo  Posto/Hora 
+extra  1 A ser 
+estimado 
+pelo gestor 
+no TR.   52,63   
+68-0034  Vigilante diurno - 
+eventual - pagamento 
+hora trabalhada - 
+arma de fogo  Posto/Hora  1 A ser 
+estimado 
+pelo gestor 
+no TR.   35,93   
+ 
+2. Fonte de Pesquisa   
+ Para os cálculos de composição de preços foram considerados os valores 
+referentes aos pisos normativos da categoria profissional conforme acordo coletivo em vigor 
+firmado entre o Sindicato dos Empregados em Empresas de Vigilância, Segurança e Similares de 
+São Paulo – SEEVISSP  com o Sindicato das Empresas de Segurança Privada, Segurança Eletrônica  
+e Cursos de Formação do Estado de São Paulo – SESVESP  com  vigência de 01º de janeiro de  
+2024 a 31 de dezembro de 202 5 e a data -base da categoria em 01º de janeiro  além do Termo 
+Aditivo a Convenção Coletiva de Trabalho 2025/2025 , com vigência de 01º de janeiro de 2025 a 
+31 de dezembro de 2025 , o  Termo Aditivo – Contrato de  Trabalho Intermitente 2025 , com 
+vigência de 01º de janeiro de 2025 a 31 de dezembro de 2025  e, subsidiado s pelo Caderno 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 
+Técnico de Serviços Terceirizados da Secretaria da Fazenda - CadTerc , Prestação de Serviços de 
+Vigilância/Segurança Patrimonial . 
+➢ Norma principal  - Convenção Coletiva de Trabalho firmada entre o Sindicato dos 
+Empregados em Empresas de Vigilância, Segurança e Similares de São Paulo – SEEVISSP 
+com o Sindicato das Empresas de Segurança Privada, Segurança Eletrônica, Serviços de 
+Escolta e Cursos de For mação do Estado de São Paulo – SESVESP com vigência de 01º de 
+janeiro de 202 4 a 31 de dezembro de 202 5 e a data -base da categoria em 01º de janeiro 
+(número de registro no MTE - SP000101/2024 ).  
+➢ Termo Aditivo do trabalho intermitente  - Firmado entre a Federação dos Trabalhadores 
+em Segurança e Vigilância Privada, Transporte de Valores e Similares - FETRAVESP, 
+(representando o SEEVISSP e outros sindicatos profissionais)  com o Sindicato das 
+Empresas de Segurança Privada, Segurança Eletrônica  e Cursos de Formação do Estado 
+de São Paulo – SESVESP 202 5 com vigência de 1º de janeiro  de 202 5 a 31 de dezembro 
+de 202 5 e a data -base da categoria em 01º de janeiro (número de registro no MTE - 
+SP001344/2025 ). 
+➢ Termo Aditivo a Convenção Coletiva de Trabalho 2025/2025  firmado entre o Sindicato 
+dos Empregados Operacionais  e Administrativos  das Empresas de Segurança,  Vigilância 
+e seus anexos de SP e o SESVESP  – Sindicato  das Empresas de Segurança Privada, 
+Segurança Eletrônica  e Cursos de Formação do Estado De São Paulo  com vigência no 
+período de 01º de janeiro de 2025 a 31 de dezembro de 2025 (número de registro no 
+MTE  - SP012190/2024 ). 
+➢ Caderno Técnico de Serviços Terceirizados da Secretaria da Fazenda – CadTerc  - 
+Prestação de Serviços de Vigilância/Segurança Patrimonial, Volume 1  - Versão 2 – 
+Setembro/ 2024  (Data -base: Janeiro/ 2024 ). 
+Os valores extraídos dos Estudos Técnicos de Serviços Terceirizados do Governo do 
+Estado de São Paulo, CADTERC, foram atualizados pelo IPC – Fipe (Índice de Preço ao 
+Consumidor - Fundação Instituto de Pesquisas Econômicas), considerando o período de 1º de 
+fevereiro de 202 4 a 31 de dezembro de 202 5. 
+ 
+IPC - FIPE  
+Geral  4,46%  
+Vestuário  1,75%  
+Saúde  7,51%  
+ 
+3. Parâmetros de Cálculo  
+3.1. Adicionais de Periculosidade e Insalubridade  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 
+Tanto a insalubridade quanto a periculosidade são consideradas na Prestação de 
+Serviços de Vigilância e Segurança Patrimonial. Nos termos vigentes no § 2º do art. 193 da CLT, 
+o trabalhador tem o direito de escolher o adicional mais vantajoso economicamente  entre esses 
+adicionais, não sendo permitido recebê -los de forma concomitante:  
+Periculosidade  
+- 30% (trinta por cento)  sobre a remuneração dos empregados. No presente 
+trabalho, este foi o adicional adotado.  
+Insalubridade  
+- Para empregados que eventualmente trabalhem em locais caracterizados como 
+insalubres pelo Programa de Prevenção de Riscos e Acidentes (PPRA) do local, observando -se o 
+grau de insalubridade ali determinado, nos termos da legislação em vigor. No presente estudo, 
+não há previsão de locais que justifiquem o pagamento da insalubridade.  
+3.2. Adicionais Noturno e Hora Noturna Reduzida  
+O adicional noturno é concedido ao profissional que cumprir jornada parcial ou 
+integralmente entre o horário de 22h e 5h, a fim de compensar, de alguma forma, o desgaste 
+decorrente da troca de horários. De acordo com o art. 73 da CLT, o custo da hora notur na deve 
+ser maior que o da hora diurna em no mínimo 20%  (vinte por cento) .  
+No parágrafo 1º deste mesmo artigo, fica estipulado que a hora noturna deve ser 
+computada com duração de 52 (cinquenta e dois)  minutos e 30  (trinta)  segundos . Devido a essa 
+redução são garantidos ao funcionário como hora noturna adicional os resíduos provenientes 
+de cada 60 (sessenta) minutos  trabalhados no período noturno.  
+a) Cálculo do adicional noturno (AN): AN = QHN × (HN × 20%)  
+Em que:  
+QHN:  Quantidade de horas noturnas trabalhadas (7 × 15,22 ). 
+HN: valor da hora normal = (Salário Base + Adicional de Periculosidade + Gratificação de 
+Função) / 220  
+ 
+b) Cálculo do adicional da hora noturna reduzida (AHNR): AHNR = QHN × HR x HN × (1+ 20%)  
+Em que:  
+ QHN : Quantidade de horas noturnas trabalhadas (7 × 15,22 );  
+HR: Coeficiente de conversão da hora reduzida (0,142857 = 60/52,5 -1); e  
+HN: valor da hora normal = (salário base + adicional de periculosidade + gratificação de 
+função) / 220   
+3.3. Intervalo Intrajornada para Repouso e Alimentação  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 
+O pagamento de hora extra para a cobertura do intervalo intrajornada será 
+aplicado aos vigilantes noturnos 12x36 de segunda -feira a domingo, conforme estabelecido na 
+Súmula 437 do TST e da Convenção Coletiva da Categoria 20 24/202 5, remunerado em 60%  
+(sessenta por cento)  incidente sobre o valor da hora normal  e do adicional de periculosidade  
+dividido por 220 (duzentos e vinte)  horas . 
+Súmula Nº 437 do TST  
+ 
+INTERVALO INTRAJORNADA PARA REPOUSO E ALIMENTAÇÃO. APLICAÇÃO DO ART. 71 DA CLT  
+(conversão das Orientações Jurisprudenciais nºs 307, 342, 354, 380 e 381 da SBDI -1) - Res. 185/2012, DEJT 
+divulgado em 25, 26 e 27.09.2012  
+I - Após a edição da Lei nº 8.923/94, a não -concessão ou a concessão parcial do intervalo intrajornada mínimo,  
+para  repouso e alimentação, a empregados urbanos e rurais, implica o pagamento total do período 
+correspondente,  e não apenas daquele suprimido, com acréscimo de, no mínimo, 50% sobre o valor da 
+remuneração da hora normal de trabalho  (art. 71 da CLT), sem prejuízo do cômputo da efetiva jornada de labor 
+para efeito de remuneração.  
+II - É inválida cláusula de acordo ou convenção coletiva de trabalho contemplando a supressão ou redução do 
+intervalo intrajornada  porque este constitui medida de higiene, saúde e segurança do trabalho, garantido por 
+norma de ordem pública  (art. 71 da CLT e art. 7º, XXII, da CF/1988), infenso à negociação coletiva.  
+III - Possui natureza salarial a parcela prevista no art. 71, § 4º, da CLT, com redação introduzida pela Lei nº 8.923,  
+de 27 de julho de 1994, quando não concedido ou reduzido pelo empregador o intervalo mínimo intrajornada 
+para repouso e alimentação,  repercutindo, assim, no cálculo de outras parcelas salariais.  
+IV - Ultrapassada habitualmente a jornada de seis horas de trabalho, é devido o gozo do intervalo intrajornada 
+mínimo de uma hora,  obrigando o empregador a remunerar o período para descanso e alimentação não 
+usufruídos como extra, acrescido do respectivo adicional,  na forma prevista no art. 71, caput e § 4º da CLT.  
+ 
+Convenção Coletiva da Categoria – SP000101/2024  
+ 
+ CLÁUSULA DÉCIMA SEGUNDA - HORAS EXTRAS A hora extra será remunerada com adicional de 60% (sessenta 
+por cento) incidente sobre o valor da hora normal, acrescido do adicional de periculosidade e gratificação de 
+função, quando houver , conforme tabela de cálculos anexa.  
+ 
+Parágrafo único – O cálculo do valor da hora normal dar -se-á pelo quociente da divisão do salário mensal, por 
+220 (duzentas e vinte) horas.  
+ 
+Após a reforma trabalhista (Lei nº 13.467/2017), o intervalo intrajornada passou a 
+ter característica de indene. Passou a ser intervalo intrajornada indenizado e, portanto, sobre 
+ele não recai quaisquer encargos sociais.  O único posto que contempla a indenização do 
+intervalo é o posto 680004 – Vigilante noturno 12x36.  
+ Dias estimados e carga horária  
+a) Posto de 44 horas (de segunda a sexta feira) considera -se: 
+Dias trabalhados estimados no mês  
+Dias no ano = 365; 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 
+Sábados  = 52, domingos  = 52, feriados em dias de semana  = 9 
+Dias úteis = 365 – (52 + 52 + 9) = 252 
+Dias trabalhados por mês= 252/ 12 = 21 
+ 
+Carga horária mensal efetivamente trabalhada  
+Quantidade de semanas por mês: (36 5/12) / 7 = 4,3 5 
+Quantidade de dias trabalhados por semana = 5  
+Número de dias trabalhados por mês = 4,3 5 x 5 = 21,7 3 
+Média de feriados de segunda a sexta por mês = 0, 75 
+Número de dias efetivamente trabalhados no mês = 21,7 5 – 0,75 = 20,98  
+Número de semanas efetivamente trabalhad as por mês = 21,00  / 5 = 4, 20 
+Carga horária efetivamente trabalhada = 4, 20 x 44 horas semanais = 184, 59 
+ 
+b) Para o posto de 12 X 36 horas (de segunda a domingo) considera -se: 
+Dias trabalhados estimados no mês  
+Dias trabalhados por mês = 30,4 4 dias por posto e 15,22 dias por funcionário.  
+- Quantidade de dias por ano = 365,25  
+- Quantidade de dias por mês = 365,25 / 12 = 30,4375  
+Quantidade de horas trabalhadas por dia = 12  
+ 
+Carga horária mensal efetivamente trabalhada  
+Carga horária efetivamente trabalhada = 15,22* 12 = 182,6 4 
+ 
+No posto de 12 x 36 horas, como o funcionamento é contínuo, sem interrupção em feriados 
+e a remuneração é feita de acordo com os dias efetivamente trabalhados , adotou -se o 
+parâmetro utilizado pelo Cadterc de 365,25 dias no ano.  
+3.4. Regras gerais  
+a) Os percentuais são fixos e não devem ser alterados pela licitante quando da elaboração da 
+proposta . 
+b) Para todos os cálculos foram utilizados o critério de arredondamento matemático  com 2 
+dígitos . 
+c) Para o posto 12 horas de segunda a sexta -feira  foi utilizado o fator 1,37  (um vírgula trinta 
+e sete)  funcionários por posto.  
+d) Para o posto 12 horas de segunda a domingo foi utilizado o fator de 2,00 (dois)  funcionários 
+por posto.  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 
+ 
+4. Módulo I – Remuneração  
+Item  Descrição  Vigilante 
+noturno: 12 
+x 36 de 2ª a 
+domingo  Vigilante 
+diurno: 44 
+horas 
+semanais 
+de 2ª a 6ª  Vigilante 
+diurno: 12 
+x 36 de 2ª a 
+domingo  Vigilante 
+diurno: 12 
+horas 
+semanais 
+de 2ª a 6ª  Vigilante 
+Líder 
+diurno: 12 
+horas x 36 
+de 2ª a 
+domingo  
+1 Salário Base  2.148,22   2.148,22   2.148,22   2.148,22   2.148,22  
+2 Adicional de Periculosidade   644,47   644,47   644,47   644,47   644,47  
+3 Adicional Noturno   270,49   -     -     -     -    
+4 Horas Noturnas Adicional   231,84   -     -     -     -    
+5 Cobertura do Intervalo de 
+Repouso e Alimentação  *  309,13   -     -     -     -    
+6 Gratificação Líder  ** - - - - 257,79  
+Total remuneração  3.604,15   3.604,15   2.792,69   2.792,69   2.792,69  
+Número de funcionários por posto   2,00   2,00   1,00   2,00   1,37  
+Total remuneração por posto   7.208,30   7.208,30   2.792,69   5.585,38   3.825,99  
+ 
+** Conforme acordo coletivo, a gratificação do vigilante líder é de 12% (doze por cento).   
+* Conforme reforma trabalhista de 2017 e em consulta ao advogado do sindicato SE SVESP 
+(30/08/2024), o intervalo intrajornada passou a ser intervalo intrajornada indenizado e, 
+portanto, sobre ele não recai quaisquer encargos sociais.  Este cálculo foi previsto na fórmula 
+de encargos trabalhistas e sociais do vigilante noturno.  
+5. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos previdenciários e trabalhistas a ser aplicado ao total da 
+remuneração é de 76,12 % (setenta e seis vírgula doze  por cento)  conforme demonstrado nos 
+itens 5.1 a 5.6  
+5.1 Módulo II – Encargos Previdenciários e FGTS  
+Os percentuais dos encargos previdenciários e FGTS são estabelecidos pela 
+legislação vigente e correspondem às obrigações que incidem diretamente sobre a folha de 
+pagamento.  
+Item Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 
+Item Encargo  % Fundamento legal  
+2 SESI/SESC  1,50%  Art. 30 da Lei n. 8.036/1990 e art. 1º da Lei nº 8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei n. 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei n. 
+9.424/1996.  
+ 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, da 
+Constituição.  
+7 (RAT x FAP) = RAT 
+Ajustado  3,00%  Lei 8.212/91, Lei 10.666/2009 e Resolução MPS/CNPS nº 
+1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 8.154/1990.  
+Total  36,80%   
+Seguro contra acidentes de trabalho  - Contribuição destinada a custear benefícios 
+concedidos em razão de aposentadoria especial ou incapacidade laborativa. Segundo previsto 
+no art. 22, inciso II, da Lei nº 8.212/1991, a alíquota de contribuição das empresas para com os 
+riscos ambientais do trabalho pode ser de 1,00%, 2,00% ou 3,00% da remuneração paga aos 
+emp regados. Essas alíquotas podem ser reduzidas em até cinquenta por cento ou majoradas em 
+até cem por cento por meio do multiplicador Fator Acidentário de Prevenção (FAP), previsto no 
+art. 202 -A do Decreto 3.048/1999, atualizado pelo Decreto 6.957/2009. Esse  multiplicador pode 
+variar de 0,50 a 2,00, a depender do desempenho da empresa em relação à respectiva atividade 
+econômica, apurado em conformidade com os resultados obtidos a partir dos índices de 
+frequência, gravidade e custo, calculados segundo metodolo gia aprovada pelo Conselho 
+Nacional de Previdência Social. Dito isso, foi considerada neste documento a alíquota média de 
+3,00% para o Seguro Contra Riscos e Acidentes.  
+Observações:  
+a) O percentual de 3% (três por cento)  utilizado no item 7 - SAT (RAT x FAP) foi 
+utilizado somente para estimativa  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+5.2 Módulo III - 13º Salário e Adicional de Férias  
+Item Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei nº 4.090/1962 e 
+Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e art. 142 da CLT.  
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60 meses, o empregado tem 5 meses de férias e 
+labora em 56 meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que as 
+férias sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do mês . 
+Pode -se determinar a provisão mensal considerando que na duração do contrato de 60 
+meses o empregado tem 5 meses de férias e labora 56 meses. A provisão mensal pode ser 
+obtida pelo cálculo (5/56) * 100 = 8,93% (Estudo CNJ - Resolução nº 98/2009 ). 
+Cálculo: (1/3)*(5/56) = 2,98%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 13º 
+salário mais adicional de férias.  
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+5.3 Módulo IV - Afastamento Maternidade  
+Item Encargo  % Fundamento legal  
+1 Encargos sociais 
+incidentes  sobre o 
+afastamento maternidade  0,02%   
+Total  0,02%  
+ 
+Afastamento Maternidade:  afastamento de 120 dias sem prejuízo da  
+remuneração .  
+a) Afastamento maternidade: Artigo 7º, XXI, da CF/1988, art. 392 da CLT; Lei 
+13.467/2017. Não considerada a prorrogação facultada pela Lei 11.770/2008 
+(Empresa Cidadã)  
+b) O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+c) Durante esse período, a empregada recebe o salário -maternidade, que é pago 
+pelo INSS, e não pela empresa. O valor correspondente à licença -maternidade é 
+repassado à trabalhadora pela Previdência Social, seja diretamente ou por meio da 
+empresa, que posterio rmente compensa o valor pago com as contribuições ao 
+INSS.  
+d) A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a empresa 
+paga o salário maternidade e compensa no pagamento do Imposto de Renda, não 
+sendo necessário o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009) . 
+e) Incidência do FGTS sobre o afastamento maternidade: 8% * 0,2828% = 0,0230%  
+Afastamento do emprego – Licença -maternidade – Fonte: CADTERC  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 
+Dias de afastamento  120 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento  81,5254 dias  
+Proporção de mulheres na categoria profissional em análise  0,1576  
+Proporção de mulheres aptas a procriar na categoria 
+profissional  0,8753  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias efetivos de afastamento por licença -maternidade no 
+ano 0,6267  
+Total de dias efetivamente trabalhados no ano  221,6571  
+ % de Licença -Maternidade  0,2828%  
+5.4 Módulo V - Provisão para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  2,88 % §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio indenizado  0,23% - 
+3 Multa FGTS sobre o aviso prévio indenizado  0,09% - 
+4 Aviso prévio trabalhado  0,01% Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso prévio trabalhado  0,00%  
+6 Multa FGTS sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,03% Art. 9 da lei 7.238, de 29 de 
+outubro de 1984  
+8 Multa de FGTS sobre os depósitos do FGTS  0,06%   
+Total  3,84%  
+Aviso -Prévio indenizado: trata‐se de valor devido ao empregado caso o 
+empregador rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, conforme 
+disposto no §1º do art. 487 da CLT.  
+De acordo com  o Anexo VII da IN nº 05, de 26 de maio de 2017 a proporção de 
+trabalhadores que cumprem aviso -prévio indenizado é 98%.  
+Aviso-prévio  indenizado – Fonte: CADTERC  
+Proporção de trabalhadores que cumprem aviso -prévio 
+indenizado  98%  
+Proporção de demissões sem justa causa no ano  18,0990%  
+Duração do aviso -prévio – Lei 12.506/2011 (dias)  36  dias  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 
+Total de dias efetivamente trabalhados no ano  221,6571  
+ % de aviso -prévio indenizado  2,88%  
+ 
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo ao 
+período de aviso prévio, trabalhado ou não, está sujeito a contribuição para o FGTS. (Súmula TST 
+nº 305).  
+Cálculo: 2,88 % * 8% = 0, 23% 
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o 
+custo do aviso prévio indenizado ( 2,88 %) é acrescido da multa do FGTS indenizado (40%), que 
+incide sobre a alíquota do FGTS (8%) aplicada sobre o custo de referência para o aviso indenizado 
+(0,42%).  
+Cálculo: 2,88 %*40% *8% =0,0 9% 
+Aviso -prévio  trabalhado: corresponde ao valor repassado para pagar ao 
+funcionário enquanto este não trabalha, pois ele percebe o salário referente a 30 dias de serviço, 
+dos quais sete ele tem direito a ausentar‐se para procurar outro emprego ou, se preferir, 
+trabalhar duas horas a menos por dia durante o mês  (não há prejuízo da remuneração) . Cerca  
+de 2,00% dos trabalhadores cumprem dispensa por aviso -prévio trabalhado , conforme norma 
+Anexo VII da IN nº 05, de 26 de maio de 2017.  
+Aviso-prévio trabalhado  – Fonte: CADTERC  
+Dias de ausências facultadas ao empregado no cumprimento 
+de aviso -prévio trabalhado  7 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de ausência por aviso -prévio  4,7556  dias 
+Percentual de aviso -prévio trabalhado  2% 
+Proporção de demissões sem justa causa no ano  0,1810  
+Dias efetivos de afastamento por cumprimento do aviso -
+prévio trabalhado no ano  0,0172  
+ % de aviso -prévio trabalhado  0,0080%  = ~ 0,01%  
+ 
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre 
+o aviso -prévio trabalhado:  
+Cálculo: (0,0 1%) * (36,80%) = 0,0 01% = ~ 0,00%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o custo 
+do aviso prévio trabalhado (0,0 1%) é acrescido da multa do FGTS trabalhado (40%), que incide 
+sobre a alíquota do FGTS (8%) aplicada sobre o custo de referência para o aviso indenizado 
+(0,01%).  
+Cálculo: 0,0 1%*8%*40%= ~0,00%  
+Indenização Adicional:  corresponde a uma remuneração mensal para o 
+funcionário demitido sem a apresentação de justa causa, no período de 30 dias antes da data 
+de correção salarial de sua classe profissional  (data -base) , de acordo com o artigo 9 da lei 7.238, 
+de 29 de outubro de 1984 . Valor extraído do CADTERC = 0,0320%  
+Multa FGTS sobre os depósitos do FGTS:  aplicação da multa do FGTS sobre os depósitos 
+de FGTS para afastamento maternidade 0,282 8% (zero vírgula vinte e oito por cento), ausência 
+por enfermidade ≤ 15 dias 1,5 3% (um vírgula cinquenta e três por cento), licença -paternidade 
+0,07% (zero vírgula zero sete  por cento), faltas legais 0,91% (zero vírgula noventa e um por 
+cento) e acidentes de trabalho 0,0 3% (zero vírgula zero três por cento).  
+Cálculo: 8%*40%* 18,099 %*(1+(0, 2828 %+1,5 3%+0,0 7%+0,91%+0,0 3%)) = 0, 60% 
+ 
+5.5 Módulo VI - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+O § 1º, do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de despedida 
+pelo empregador sem justa causa, depositará este, na conta vinculada do trabalhador no FGTS, 
+importância igual a quarenta por cento do montante de todos os depósitos realizados na conta 
+vinculada durante a vigência do contrato de trabalho, atualizados monetariamente e acrescidos 
+dos respectivos juros.  
+Estima -se que 10% dos empregados pedem demissão (rescisão a pedido do 
+trabalhador), assim essa penalidade recai sobre os 90% remanescentes. (Estudo CNJ – Resolução 
+098/2009).  
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+Férias + Adicional de Férias  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+5.6 Módulo VII - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do profissional ausente deve levar 
+em conta todos os custos para manter o funcionário no posto de trabalho, tais como: salário 
+base acrescido dos adicionais e encargos, uniformes, custo de rescisão etc., com exceção dos 
+equipamentos.  
+Item  Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,53% Artigo 131, inc. III da CLT e Atualização dos 
+percentuais máximos para Encargos Sociais 
+(STF/Secretaria de Controle Interno), de 03 de 
+outubro de 2007.  
+3 Licença paternidade  0,07% Artigo 7º, XIX, da CF/1988; art. 10, § 1º da CLT; 
+Lei nº 13.467/2017. Não considerada a 
+prorrogação facultada pela Lei 11.770/2008 
+(Empresa Cidadã).  
+4 Faltas legais  0,91% Arts. 473 e 83 da CLT e Manual de Orientação 
+para preenchimento da planilha analítica de 
+composição de custos e formação de preços 
+constante do Anexo VII da IN nº 05, de 26 de 
+maio de 2017  
+5 Ausência por acidente de trabalho  0,03%  Artigo 19 da Lei nº 8.213/1991; art. 5º, § 2º da 
+Lei nº 6.367/1976; art. 131 da CLT; Lei nº 
+13.467/2017; Decr. nº 3.048/1999  
+6 Encargos sociais incidentes  4,22%  - 
+Total  15,6 9%  
+ 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o 
+pagamento de 13º salário e de um mês de férias. Pode -se determinar a provisão mensal 
+considerando que na duração do contrato de 60 meses o empregado tem 5 meses de férias e 
+labora em 56 meses .  
+Cálculo: (5/56) = 8,93%.  
+Ausência por doença: esta parcela refere -se aos dias em que o empregado fica 
+doente e a contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, onera a 
+empresa com até 15 ausências do empregado por motivo de acidente ou doença atestada pelo 
+INSS.  
+Afastamento do emprego – Enfermidade ≤ 15 Dias – Fonte: CADTERC  
+Faltas em decorrência de enfermidade ≤ 15 dias  5 dias  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivamente não trabalhados devido às faltas 
+justificadas por afastamento por enfermidade ≤ 15 Dias  3,3969 dias 
+Total de dias efetivamente trabalhados no ano  221,6571  
+ % de Ausência por enfermidade ≤ 15 dias  1,5320%  
+ 
+Licença Paternidade : custo de ausência do trabalhador pelo período de cinco dias. 
+Criada pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT.  
+Afastamento do emprego – Licença -paternidade  – Fonte: CADTERC  
+Dias de afastamento  5 dias 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento  3,3969 dias 
+Proporção de homens  na categoria profissional em análise  0,8424  
+Proporção de homens aptos a procriar na categoria 
+profissional  0,9996  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias efetivos de afastamento por licença -paternidade no ano  0,1594  
+Total de dias efetivamente trabalhados no ano  221,6571  
+ % de Licença -paternidade  0,0720%  
+ 
+Faltas Legais : Morte do cônjuge, do ascendente ou do descendente (02 dias), 
+casamento (03 dias), doação de sangue (01 dia), alistamento eleitoral (02 dias), exigências do 
+serviço militar (01 dia), provas de vestibular (02 dias) e testemunha em processos judiciais (01 
+dia). Segundo o Manual, o MP informou que há em média 2,96 faltas por ano nesta rubrica.  
+Afastamento do emprego – Faltas Legais – Fonte: CADTERC  
+Quantidades de faltas legais  2,96  dias 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de faltas justificadas por ano  2,0110  dias 
+ % de ausências legais  0,9070 % 
+ 
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga o 
+empregador a assumir o ônus financeiro pelo prazo de 15 dias no caso de acidente de trabalho 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 
+previsto no art. 131 da CLT. Conforme anuário estatístico de acidentes de trabalho, conforme o 
+CNAE 8011 para o estado de São Paulo, referente ao ano de 2019.  
+Afastamento do emprego – Acidente de Trabalho – Fonte: CADTERC  
+Dias não trabalhados por afastamento por acidente de 
+trabalho ≤ 15 dias  15 dias 
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias não trabalhados por afastamento por acidente de 
+trabalho ≤ 15 dias, não coincidentes com o repouso semanal  10,1907 dias 
+Ocorrência de acidente de trabalho  0,6390%  
+Dias de afastamento por acidente de trabalho no ano, com 
+base no Anuário Estatístico de Acidente de Trabalho 2019  0,0651  
+ 
+6. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva  
+Os critérios de cálculo dos itens que compõem as obrigações decorrentes de acordo ou 
+convenção coletiva, que por representar patamares mínimos não podem apresentar preços 
+inferiores pela proposta da licitante, com as exceções apontadas nos respectivos itens. Contudo, 
+a indicação de valores maiores não poderá levar à extrapolação do valor t otal estimado para a 
+contratação.  
+6.1 Assistência Médica  
+Assistência médica – custo mensal  
+Código  Posto de vigilante  Valor 
+Unitário  Valor do 
+Empregado  Valor 
+mensal  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de segunda -feira a 
+domingo  391,93  171,86  220,07  
+68-0011  Diurno - com almocista (repositor) - 12 horas - escala de 12 
+x 36 de segunda -feira a domingo  391,93  171,86  220,07  
+68-0018  Diurno - com almocista (repositor) - 44 horas semanais de 
+segunda a sexta -feira - arma não letal  391,93  171,86  220,07  
+68-0021  Diurno - com almocista (repositor) - 12 horas diárias - 
+segunda a sexta -feira  391,93  171,86  220,07  
+68-0023  Diurno - com almocista (repositor) - 44 horas semanais de 
+segunda a sexta -feira - desarmado  391,93  171,86  220,07  
+68-0027  Diurno Líder - com almocista (repositor/repositora) - 12 
+horas - escala de 12X36 de segunda a domingo  391,93  171,86  220,07  
+ 
+Foi considerado o valor de R$ 364,55 (trezentos e sessenta e quatro reais e cinquenta e 
+cinco  centavos) do Cadastro de Serviços Terceirizados – CADTERC do Governo do Estado de São 
+Paulo, do ano de 202 4. O valor foi atualizado pelo IPC – FIPE (saúde) de 7,51 % (sete vírgula 
+cinquenta e um  por cento) considerando o período de 1º de fevereiro de 202 4 a 31 de janeiro 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 
+de 2025 ; resultando em um valor unitário de R$ 391,93  (trezentos e noventa e um reais e 
+noventa e três  centavos).  
+Conforme a convenção coletiva da categoria, há previsão de assistência médica e 
+hospitalar aos empregados e dependentes legais ; e são previstos diferentes descontos a 
+depender do número de dependentes do trabalhador.  
+Logo, segundo metodologia de cálculo adotada pelo CADTERC, o valor a ser considerado 
+para a estimativa da assistência médica para uma família com média de 3 (três) dependentes 
+(dois filhos e um cônjuge) além do titular, a faixa a ser adotada, com base na C CT, estabelece 
+que a participação do empregado seja de 8% (oito por cento)  do salário normativo da função, 
+limitado ao desconto mensal de R$ 205,60  (duzentos e cinco reais e sessenta  centavos).   
+6.2 Auxílio Funeral  
+Auxílio funeral – custo anual/12  
+Código  Posto de vigilante  Valor 
+Unitário 
+por evento  Incidência 
+por 
+ocorrência  Custo 
+por ano  Valor 
+Mensal  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de segunda -feira a 
+domingo  3.222,33  0,191%  6,15  0,51 
+68-0011  Diurno - com almocista (repositor) - 12 horas - escala de 
+12 x 36 de segunda -feira a domingo  3.222,33  0,191%  6,15  0,51 
+68-0018  Diurno - com almocista (repositor) - 44 horas semanais 
+de segunda a sexta -feira - arma não letal  3.222,33  0,191%  6,15  0,51 
+68-0021  Diurno - com almocista (repositor) - 12 horas diárias - 
+segunda a sexta -feira  3.222,33  0,191%  6,15  0,51 
+68-0023  Diurno - com almocista (repositor) - 44 horas semanais 
+de segunda a sexta -feira - desarmado  3.222,33  0,191%  6,15  0,51 
+68-0027  Diurno Líder - com almocista (repositor/repositora) - 12 
+horas - escala de 12X36 de segunda a domingo  3.222,33  0,191%  6,15  0,51 
+ 
+Conforme o CADTERC, f oi considerado o pagamento de prêmio de 1,5 vezes o piso 
+salarial a título de auxílio -funeral, sendo utilizada a taxa média de incidência de ocorrência de 
+0,191% ao ano para as jornadas de 44 horas e 12x36h, segundo cálculo efetuado com dados do 
+CAGED.  
+Cálculo: (R$ 2. 148,22  * 1,5 * 0,191% ) / 12= R$ 0, 51 
+6.3 Curso de Reciclagem  
+Curso de Reciclag em 
+ (Valor do Curso / 24 meses)  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 
+Código  Posto de vigilante  Valor Mensal  
+POR 
+FUNCIONÁRIO  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de segunda -feira a domingo  87,00  
+68-0011  Diurno - com almocista (repositor) - 12 horas - escala de 12 x 36 de segunda -
+feira a domingo  87,00  
+68-0018  Diurno - com almocista (repositor) - 44 horas semanais de segunda a sexta -
+feira - arma não letal  72,04  
+68-0021  Diurno - com almocista (repositor) - 12 horas diárias - segunda a sexta -feira  71,75  
+68-0023  Diurno - com almocista (repositor) - 44 horas semanais de segunda a sexta -
+feira - desarmado  71,29  
+68-0027  Diurno Líder - com almocista (repositor/repositora) - 12 horas - escala de 
+12X36 de segunda a domingo  87,00  
+68-0028  Posto de vigilante diurno - com almocista (repositor/repositora) - 44 horas 
+semanais - segunda a sexta -feira - com uso de arma de fogo  72,04  
+ 
+De acordo com o CADTERC e a legislação em vigor, os cursos de formação, extensão e 
+reciclagem são válidos por 2 (dois) anos , após os quais os vigilantes deverão ser submetidos a 
+novo curso de reciclagem, às expensas do empregador. Além do custo do curso, resultante de 
+pesquisa de mercado, a Contratada deve prever os gastos com o substituto do posto durante o 
+período de ausênci a do funcionário. Os valores foram atualizados pelo IPC – FIPE (geral) de 
+4,46 % (quatro vírgula quarenta e seis  por cento) considerando o período de 1º de fevereiro de 
+2024 a 31 de janeiro de 2025 . 
+6.4 Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame médico 
+(admissional, periódico e de demissão). Apesar de não constar expressamente na Convenção 
+Coletiva da Categoria de 2024/2025  ou no Termo Aditivo a Convenção Coletiva 2025/2025 , as 
+empresas terão que arcar com essas despesas. Foi considerado o valor de R$5, 60 (cinco reais e 
+sessenta  centavos) do Cadastro de Serviços Terceirizados – CADTERC do Governo do Estado de 
+São Paulo, do ano de 202 4; e atualizado pelo IPC – FIPE (saúde) de 7,51 % (sete vírgula cinquenta 
+e um por  cento) considerando o período de 1º de fevereiro de 202 4 a 31 de janeiro de 2025 . 
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + Valor 
+do exame médico e de demissão) / Estimativa do tempo de permanência do funcionário em 
+meses] + (Valor do exame médico periódico / 12 meses)} x (Número de funcionários por posto 
+de tr abalho + Número de folguistas necessários por mês)  
+Norma Regulamentadora Nº 07 = R$ 6,02/mês  (para todos os postos)  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  21 
+6.5 Uniformes, EPIs e Materiais  
+O estudo contou com o levantamento dos requisitos e quantitativos de uniformes, EPIs 
+e materiais listados no Termo de Referência da contratação de vigilantes elaborado pelo setor 
+requisitante. Os custos unitários de cada item foram extraídos do CADTERC, as sim como a vida 
+útil em meses. Os valores foram atualizados pelo IPC – FIPE (geral) de 4,46 % (quatro vírgula 
+quarenta e seis  por cento) e IPC – FIPE (vestuário) de 1,75 % (um vírgula setenta e cinco  por 
+cento) considerando o período de 1º de fevereiro de 20 24 a 31 de janeiro de 2025 . 
+Após diversas reuniões entre esta diretoria, o GPL e a SAAB 2.1 para esclarecimentos 
+sobre a composição de custos dos uniformes e dos equipamentos do estudo estimativo de 
+valores  que é constantemente  fruto de questionamentos por parte do GPL frente às propostas 
+das licitantes , foi realizada uma modificação da planilha de composição de custos e criada uma 
+aba específica para facilitar o detalhamento destas despesas  e gerar mais transparência ao 
+processo  e elaboração dos valores estimativos . 
+Contudo, mesmo após estas discussões, não foi possível a obtenção  do quantitativo por 
+posto  para todos os itens  solicitados no Termo de Referência . Esta dificuldade deve -se ao fato 
+de alguns itens estarem atrelados aos prédios  e localidades e não às necessidades individuais 
+dos posto s de trabalho em si , havendo variação das quantidades a cada contratação realizada . 
+Os itens em que não foi possível adotar uma relação de quantidade fixa por posto para o estudo 
+estimativo foram: celular, assentos, detector de metais, livro de ocorrência, ombrelone, 
+equipamentos da ronda eletrônica, caixa de areia, cofre  e armário. Além disto, este estudo 
+também se baseou  nos estudos realizados pela equipe técnica do Cadterc, on de estes itens 
+estavam ausentes. Desta forma, os itens não detalhados deverão ter seus custos suportados 
+pelo % de despesas administrativas, em campo apropriado da aba "indicadores financeiros" , 
+conforme observação nº 3 da planilha de composição de custos.  
+Futuramente, em momento oportuno, se houver um estudo realizado em amostragem 
+pelo setor requisitante para o levantamento das quantidades médias desses equipamentos e a 
+relação destes com os quantitativos por postos, seria viável a inclusão destes itens na s tabelas 
+do estudo estimativo. Caso contrário, torna -se inviável a elaboração de um caderno específico 
+para cada contratação.  
+Ademais, a  estimativa de preços na fase interna da licitação consiste na fixação média 
+de preços, que posteriormente refletirão na aceitabilidade das propostas ofertadas pelas 
+empresas licitantes. Contudo, o valor estimativo elaborado pelo orçamentista na planilha d e 
+composição de custos não tem a aspiração de conceber o valor final exato da contratação. Este 
+deverá ser elaborado pela licitante vencedora considerando o seu contexto financeiro e 
+econômico, sendo de sua responsabilidade aferir se os percentua is indicados estão corretos, 
+bem como em momento futuro e oportuno, quando da aceitabilidade de preços, os cálculos 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  22 
+serem validados pela equipe de pregoeiros e pela equipe responsável da contratação durante 
+os trabalhos de apoio ao pregão.  
+De posse destas informações foi elaborada a tabela a seguir.  
+UNIFORMES (QUANTIDADES POR POSTO)  
+Descrição Uniformes  Vida 
+Útil Cadterc 
+2024  
+Valor 
+Unitário   
+(R$) Valor 
+Unitário 
+IPC (R$)  Qtd por 
+funcionário  44 Horas  12 
+horas 
+(seg a 
+sex) 12 
+horas 
+(seg a 
+dom)  
+ 
+1 Calça  12 129,97  132,24  2 22,04  30,20  44,08   
+2 Camisa de manga longa  12 130,55  132,83  2 22,14  30,33  44,28   
+3 Camisa de manga curta  12 100,32  102,08  2 17,01  23,31  34,03   
+4 Par de calçado  12 82,03  83,47  1 6,96  9,53  13,91   
+5 Par de meia  12 6,24 6,35  2 1,06  1,45  2,12   
+6 Cinto  12 13,84  14,08  1 1,17  1,61  2,35   
+7 Jaqueta de frio com emblema 
+da empresa  12 96,30  97,99  1 8,17  11,19  16,33   
+8 Crachá de identificação  12 5,91 6,17 1 0,51  0,70  1,03   
+TOTAL MENSAL UNIFORMES POR POSTO (R$)  79,06  108,32  158,13   
+Valor mensal por posto = (Valor unit ário/vida útil) * qtd por funcionário  * qtd  
+funcionários por posto  
+EPIs e MATERIAIS (QUANTIDADES POR POSTO)  
+Descrição EPIs e MATERIAIS  Vida 
+Útil Cadterc  
+2024  
+Valor 
+Unitário 
+(R$) Valor 
+Unitário 
+IPC (R$)  44 
+Horas  12 
+horas 
+(seg a 
+sex) 12 horas 
+(seg a 
+dom)  12 horas 
+noturno 
+(seg a 
+dom)  
+1 Colete balístico  60 1149,5  1200,77  1 1 1 1 
+2 Capa individual  60 88,72  92,68  1 1 1 1 
+3 Cordão Fiel  30 12,78  13,35  1 1,37  2 2 
+4 Revólver calibre 38  120 5963,89  6229,88  1 1 1 1 
+5 Munição calibre 38  30 11,25  11,75  ] 1 1 1 
+6 Arma não letal à base de óleos 
+vegetais, de graduação alimentícia  12 85,72  89,54  1 1 1 1 
+7 Tonfa  30 41,09  42,92  1 1 1 1 
+8 Porta Tonfa  30 21,78  22,75  1 1 1 1 
+9 Rádios HT’S de Tecnologia digital 
+com fones auriculares, carregadores 
+e suporte de cinto - Vigilantes  30 64,36  67,23  0,5 0,5 0,5 0,5 
+10 Lanterna  36 32,72  34,18  0 0 0 1 
+11 Cinturão Largo Ajustável  30 35,11  36,68  1 1 1 1 
+12 Coldre para arma de fogo  30 30,56  31,92  1 1 1 1 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  23 
+13 Coldre para arma não letal  30 30,56  31,92  1 1 1 1 
+TOTAL MENSAL – ARMADO – POR POSTO  80,56  81,11  81,39  82,34  
+TOTAL MENSAL – ARMA NÃO LETAL – POR POSTO  35,66  35,66  35,66  36,61  
+TOTAL MENSAL – DESARMADO – POR POSTO  28,20  28,20  28,20  29,15  
+Valor mensal do posto = (Valor unitário / vida útil) * qtd de EPI por posto  
+ 
+6.6 Seguro de Vida  
+Foi previsto, em conformidade com a CCT da categoria, o pagamento de seguro de vida, 
+cujo custo foi obtido do  CadTerc - Prestação de Serviços de Vigilância/Segurança Patrimonial, 
+Volume 1 - Versão 2 - Setembro/ 2024 , a partir de pesquisa de preços referenciais junto ao 
+mercado especializado. Os valores para 2025 foram atualizados pelo IPC – FIPE (geral)  de 4,46 % 
+(quatro vírgula quarenta e seis  por cento) considerando o período de 1º de fevereiro de 202 4 a 
+31 de janei ro de 202 5. 
+Seguro de vida – valor mensal  
+Código  Posto de vigilante  Valor mensal  
+por 
+funcionário  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de segunda -feira a domingo  25,27  
+68-0011  Diurno - com almocista (repositor) - 12 horas - escala de 12 x 36 de segunda -
+feira a domingo  25,27  
+68-0018  Diurno - com almocista (repositor) - 44 horas semanais de segunda a sexta -
+feira - arma não letal  25,27  
+68-0021  Diurno - com almocista (repositor) - 12 horas diárias - segunda a sexta -feira  25,27  
+68-0023  Diurno - com almocista (repositor) - 44 horas semanais de segunda a sexta -
+feira - desarmado  25,27  
+68-0027  Diurno Líder - com almocista (repositor/repositora) - 12 horas - escala de 
+12X36 de segunda a domingo  25,27  
+6.7 Vale -Refeição  
+Vale -Refeição – custo mensal  
+Código  Posto de vigilante  Valor 
+Unitário  Desconto 
+do 
+Funcionário  Valor 
+dia Número 
+de dias 
+estimados  Valor do 
+vale 
+refeição  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de 
+segunda -feira a domingo  39,00 7,02  31,98  15,22  486,74  
+68-0011  Diurno - com almocista (repositor) - 12 
+horas - escala de 12 x 36 de segunda -
+feira a domingo  39,00 7,02   31,98   15,22  486,74  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  24 
+68-0018  Diurno - com almocista (repositor) - 44 
+horas semanais de segunda a sexta -feira 
+- arma não letal  39,00 7,02   31,98   21,00  671,58  
+68-0021  Diurno - com almocista (repositor) - 12 
+horas diárias - segunda a sexta -feira  39,00 7,02  31,98   21,00  671,58  
+68-0023  Diurno - com almocista (repositor) - 44 
+horas semanais de segunda a sexta -feira 
+- desarmado  39,00 7,02  31,98   21,00  671,58  
+68-0027  Diurno Líder - com almocista 
+(repositor/repositora) - 12 horas - escala 
+de 12X36 de segunda a domingo  39,00 7,02  31,98   15,22  486,74  
+Os valores de vale -refeição estão de acordo com a Convenção Coletiva em vigor.  
+6.8 Vale -Transporte  
+Vale Transporte – custo mensal  
+Código  Posto de vigilante  Valor 
+Unitário  Número 
+de dias  Valor 
+Mês  Valor 
+desconto 
+funcionário  Valor do 
+Transporte  
+68-0004  Noturno: 12 horas - escala de 12 x 36 
+de segunda -feira a domingo  10,98   15,22  167,12   128,89   38,22  
+68-0011  Diurno - com almocista (repositor) - 12 
+horas - escala de 12 x 36 de segunda -
+feira a domingo   10,98   15,22  167,12   128,89   38,22  
+68-0018  Diurno - com almocista (repositor) - 44 
+horas semanais de segunda a sexta -
+feira - arma não letal   10,98   21,00  230,58   128,89   101,69  
+68-0021  Diurno - com almocista (repositor) - 12 
+horas diárias - segunda a sexta -feira   10,98   21,00  230,58   128,89   101,69  
+68-0023  Diurno - com almocista (repositor) - 44 
+horas semanais de segunda a sexta -
+feira - desarmado   10,98   21,00  230,58   128,89   101,69  
+68-0027  Diurno Líder - com almocista 
+(repositor/repositora) - 12 horas - 
+escala de 12X36 de segunda a domingo   10,98   15,22  167,12   128,89   38,22  
+ 
+Cálculo:  
+Valor Mês = Valor Unitário (ida e volta) * Número de Dias estimados  
+Valor Desconto do Funcionário = Salário Base * 0,06  
+Valor do Transporte = Valor Mensal – Valor do Empregado  
+ 
+7. Cobertura Intrajornada com Repositor  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  25 
+Cobertura Intrajornada com Repositor  
+Código  Posto de vigilante  Carga 
+Horária 
+Efetivamente 
+trabalhada  Valor Mensal  
+68-0004  Noturno - 12 horas - escala de 12 x 36 de segunda -feira a domingo  - - 
+68-0011  Diurno - com almocista (repositor) - 12 horas - escala de 12 x 36 de 
+segunda -feira a domingo  182,63  491,84  
+68-0018  Diurno - com almocista (repositor) - 44 horas semanais de segunda a 
+sexta -feira - arma não letal  184,59  837,96  
+68-0021  Diurno - com almocista (repositor) - 12 horas diárias - segunda a 
+sexta -feira  182,63  700,95  
+68-0023  Diurno - com almocista (repositor) - 44 horas semanais de segunda a 
+sexta -feira – desarmado  184,59  836,84  
+68-0027  Diurno Líder - com almocista (repositor/repositora) - 12 horas - 
+escala de 12X36 de segunda a domingo  182,63  529,67  
+68-0028  Posto de vigilante diurno - com almocista (repositor/repositora) - 44 
+horas semanais - segunda a sexta -feira - com uso de arma de fogo  184,59  844,15  
+ 
+No caso dos postos 44hs (quarenta e quatro horas) semanais , considerando a 
+jornada de trabalho de 08hs48min , o intervalo para repouso e alimentação do vigilante será de 
+01h12min  (uma hora e doze minutos) , devendo o serviço ser prestado ininterruptamente por 
+10hs  (dez horas) ; 
+Cálculo: [(Remuneração + Benefícios + Insumos Diversos + Encargos Sociais) / Carga 
+horária efetivamente trabalhada] x Dias efetivamente trabalhados (sem BDI) * 
+(1+12/60).  
+No caso dos postos 12hs (doze horas) diurnos, o intervalo para repouso e 
+alimentação do vigilante será de 1h (uma hora) , devendo o serviço ser prestado 
+ininterruptamente por 12hs  (doze horas) ; 
+Cálculo: [(Remuneração + Benefícios + Insumos Diversos + Encargos Sociais) / Carga 
+horária efetivamente trabalhada] x Dias efetivamente trabalhados (sem BDI).  
+ 
+8. Benefício e Despesas Indiretas  (BDI)  
+O benefício e despesas indiretas  é o elemento orçamentário destinado a cobrir todas as 
+despesas da prestação de serviços, segundo critérios claramente definidos, é composto pelos 
+custos e despesas indiretas, lucro bruto e despesas fiscais tais como: PIS, C OFINS e ISSQN  
+Custos e Despesas Indiretas   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  26 
+Os Custos Indiretos são todos os gastos envolvidos diretamente na execução dos 
+serviços, que podem ser caracterizados e quantificados, mas não são passíveis de serem 
+apropriados a uma fase específica, a exemplo de supervisor, preposto para acompanhamento 
+do contrato etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, são 
+gastos devidos à estrutura administrativa e à organização da empresa que resultam o rateio 
+entre os diversos contratos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são gastos com 
+seguros legais tais como o seguro de responsabilidade civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa  de lucro bruto adotada é de 6,62% , conforme estudos realizados pelo 
+CADTERC, sendo 0,50%  (zero vírgula cindo por cento)  para cobrir o Seguro Responsabilidade 
+Civil e 6,12%  (seis vírgula doze por cento)  para remunerar os demais custos e despesas.  
+Lucro Bruto  
+O lucro bruto no BDI é representado por uma taxa incidente sobre o total geral dos 
+custos e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa  de lucro bruto adotada é de 7,20%  (sete vírgula vinte por cento ), conforme 
+estudos realizados pelo CADTERC.  
+Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como PIS, COFINS 
+e ISSQN:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  27 
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio do 
+Servidor Público : são contribuintes do PIS, segundo as regras vigentes, as 
+pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cálculo da 
+contribuição é a receita bruta mensal, assim entendida a totalidade das 
+receitas auferidas pela pessoa jurídica, sendo irrelevante o tipo de atividade 
+por ela exercida e a classificação contábil adotada para as receitas (Art. 1º da 
+Lei Feder al nº 10.637/2002);   
+A alíquota do PIS/PASEP  0,65%  (art. 2º da Lei Federal nº 10.637, de 2002 ), 
+conforme enquadramento da empresa nos termos da lei.   
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base de 
+cálculo da COFINS é composta pela totalidade das receitas auferidas pela 
+pessoa jurídica, independentemente da atividade exercida e da classificação 
+contábil das receitas.   
+A alíquota do COFINS é 3,00%  (art. 10º, inciso I da Lei Federal nº 10.833, de 
+2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato gerador a 
+prestação de serviços constantes da lista anexa à  Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade preponderante 
+do prestador.  
+ 
+Art.3º  O serviço considera -se prestado, e o imposto, devido, no 
+local do estabelecimento prestador ou, na falta do 
+estabelecimento, no local do domicílio do prestador, exceto nas 
+hipóteses previstas nos incisos I a XXV, quando o imposto será 
+devido no local:  
+ [...] 
+XVI – dos bens ou do domicílio das pessoas vigiados, segurados 
+ou monitorados, no caso dos serviços descritos no subitem 11.02 
+da lista anexa;  
+[...] 
+Subitem 11.02 – Vigilância, segurança ou monitoramento de bens e 
+pessoas.  
+No caso da prestação de serviços de vigilância, segurança ou monitoramento de 
+bens e pessoas , foi utilizada a alíquota de 2% vigente na Prefeitura  do Município  de São 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  28 
+Paulo, código do serviço 07870, item 11.02 – Vigilância, Segurança ou Monitoramento 
+de Bens, Pessoas e Semoventes, Anexo 1 da Instrução Normativa SF/SUREM nº 08, de 
+18 de julho de 2011, atualizada até a Instrução Normativa SF/SUREM nº 23, de 22 de 
+dezembro de 2017 . 
+A importância  da demonstração das alíquotas de BDI torna mais transparente 
+os custos envolvidos na contratação, com a indicação dos percentuais de impostos 
+incidentes, lucro e despesas administrativas. Além de facilitar eventuais ajustes de 
+valores contratuais, caso ha ja alteração de alíquotas impostas pela legislação, 
+facilitando a apuração de pedidos de reequilíbrio econômico -financeiro.   
+ 
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas Indiretas (taxa_adm)  6,62%  
+2 Lucro Bruto (taxa_lucro)  7,20%  
+3 PIS 0,65%  
+4 COFINS  3,00%  
+5 ISSQN  2,00%  
+Percentual  21,14%  
+Fórmula BDI=  (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN) -1 
+BDI=  (1+6,62%) x (1+7,20%) / (1 -0,65% -3,00% -2,00%) -1  
+BDI =  21,14%  
+ 
+ 
+9. HORAS EVENTUAIS  
+Para o cálculo das horas eventuais, adotou -se como parâmetros o Termo Aditivo da 
+Convenção Coletiva de Trabalho que regulamenta o serviço intermitente registrada no 
+Ministério do Trabalho e Emprego s ob o número  SP001344/2025 . 
+É importante informar que, c onforme a CCT , as Empresas obrigam -se a remunerar os seus 
+empregados vigilantes que se ativarem em jornada especial para o trabalho intermitente, 
+consoante o valor mínimo d e R$ 1 75,00 (cento e sete nta e cinco  reais)  por diária.  
+Contudo, o pagamento das horas eventuais se dará pela quantidade de horas efetivamente 
+trabalhadas. O setor requisitante informou que , no mínimo, quando requisitado o vigilante 
+eventual, será para suprir um período de 8h. Sendo assim o valor diário mínimo estipulado pela 
+convenção será suprido pelo valor da hora eventual multiplicado pela quantidade diária de horas 
+do trabalhador eventu al.  
+Embora seja provisionado o valor das horas conforme demonstrado na aba "Relatório de 
+Custo"  (adotando -se o % máximo de ISS de 5%) , quando da utilização das horas eventuais e 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  29 
+extras, serão considerados para pagamento os valores unitários indicados na aba "Horas 
+adicionais", de acordo com o percentual efetivo de ISS de cada município.  
+ 
+Valor da Hora Eventual =  [(Valor Salário Base + Adicionais) + (Valor diário Cesta Básica  – §4º do 
+Aditivo)  * Qtde dias úteis no mês) + Vale refeição + Vale Transporte + (Valor indenizatório diário 
+curso reciclagem  - §5º do aditivo  * Qtde dias úteis no mês)  + Materiais + Equipamentos ]/220  * 
+(1+%BDI)  
+ 
+ 
+ 
+HORAS EVENTUAIS  
+  680024  680025  680029  680030  
+Descrição  Vigilante 
+diurno - 
+eventual - 
+pagamento 
+hora 
+trabalhada - 
+desarmado  Vigilante noturno - 
+eventual - 
+pagamento hora 
+trabalhada - 
+desarmado  Vigilante diurno - 
+eventual - arma 
+não letal  Vigilante 
+noturno - 
+eventual - 
+arma de 
+fogo  
+Salário  2.148,22   2.148,22   2.148,22   2.148,22  
+Periculosidade   644,47   644,47   644,47   644,47  
+Adicional Noturno   -     270,49   -     270,49  
+Horas Reduzidas   -     231,84   -     231,84  
+Total Remuneração   2.792,69   3.295,02   2.792,69   3.295,02  
+Encargos   2.125,80   2.508,17   2.125,80   2.508,17  
+Assist Médica – Cesta Básica §4º   137,97   137,97   137,97   137,97  
+Vale Refeição   671,58   671,58   671,58   671,58  
+Vale Transporte   230,58   230,58   230,58   230,58  
+Curso de Reciclagem - §5º  216,93   216,93   216,93   216,93  
+Equipamentos   28,20   28,20   35,66   80,95  
+Uniformes   79,06   79,06   79,06   79,06  
+VALOR POSTO   6.282,81   7.167,51   6.290,27   7.220,26  
+VALOR HORA EVENTUAL S/ BDI   28,56   32,58   28,59   32,82  
+VALOR HORA EVENTUAL C/ BDI   35,73   40,76   35,77   41,06  
+  
+ 
+10. HORAS EXTRAS  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  30 
+Conforme a Convenção Coletiva de Trabalho, foi adotado o adicional de 60%  (sessenta 
+por cento) sobre o valor da hora normal para fins de remuneração das horas extras comuns. 
+Conforme a CLT, a duração diária do trabalho poderá ser acrescida em até 2 (duas) horas extras. 
+O serviço  extraordinário não se destina, em nenhuma hipótese, à cobertura de postos de 
+vigilância que estiverem descobertos por falha da empresa, mas tão somente para atender 
+demandas supervenientes da Administração, como extensão de audiências ou de julgamentos 
+no Tribunal do Júri, dentre outros.   
+Embora seja provisionado o valor das horas conforme demonstrado na aba "Relatório de 
+Custo" (adotando -se o % máximo de ISS de 5%), quando da utilização das horas eventuais e 
+extras, serão considerados para pagamento os valores unitários indicados na aba "H oras 
+adicionais", de acordo com o percentual efetivo de ISS de cada município.  
+ 
+HORAS EXTRAS  
+  680031  680032  
+Descrição  Vigilante diurno - Hora extra - 
+Posto 44 horas semanais - 
+arma de fogo  Vigilante noturno - Hora 
+extra - Posto 44 horas 
+semanais - arma de fogo  
+Salário  2.148,22   2.148,22  
+Periculosidade   644,47   644,47  
+Adicional Noturno   -     270,49  
+Horas Reduzidas   -     231,84  
+Adicional Hora Extra   1.675,61   1.977,01  
+Total Remuneração   4.468,30   5.272,03  
+Encargos   3.401,27   4.013,07  
+VALOR POSTO   7.869,57   9.285,10  
+VALOR HORA EXTRA S/ BDI   35,77   42,21  
+VALOR HORA EXTRA C/ BDI   44,76   52,81  
+ 
+ 
+11. Planilha de Composição de Custos   
+Código  68-0004  68-0011  68-0018  68-0021  68-0023  68-0027  68-0028  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  31 
+Descrição  Posto de 
+vigilante 
+noturno: 12 
+horas - 
+escala de 
+12 x 36 de 
+segunda -
+feira a 
+domingo  Posto de 
+vigilante 
+diurno - 
+com 
+almocista 
+(repositor) 
+- 12 horas 
+- escala de 
+12 x 36 de 
+segunda -
+feira a 
+domingo  Posto de 
+vigilante 
+diurno - com 
+almocista 
+(repositor) - 
+44 horas 
+semanais de 
+segunda a 
+sexta -feira - 
+arma não 
+letal  Posto de 
+vigilante 
+diurno - com 
+almocista 
+(repositor) - 
+12 horas 
+diárias - 
+segunda a 
+sexta -feira  Posto de 
+vigilante 
+diurno: 
+com 
+almocista 
+(repositor) 
+- 44 horas 
+semanais 
+de 
+segunda a 
+sexta -feira 
+- 
+desarmad
+o Posto de 
+vigilante 
+diurno Líder - 
+com almocista 
+(repositor/rep
+ositora) - 12 
+horas - escala 
+de 12X36 de 
+segunda a 
+domingo  Posto de 
+vigilante 
+diurno - com 
+almocista 
+(repositor/rep
+ositora) - 44 
+horas 
+semanais - 
+segunda a 
+sexta -feira - 
+com uso de 
+arma de fogo   
+Quantidades de 
+funcionários por posto  2,00   2,00   1,00   1,37   1,00   2,00   1,00   
+Dias estimados por 
+mês por funcionário   15,22   15,22   21,00   21,00   21,00   15,22   21,00   
+Mão de obra 
+(remuneração)   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor Mensal   Valor Mensal   
+Salário base Mensal   2.148,22   2.148,22   2.148,22   2.148,22   2.148,22   2.148,22   2.148,22   
+Periculosidade (30% 
+sobre o salário base)   644,47   644,47   644,47   644,47   644,47   644,47   644,47   
+Adicional Noturno   270,49   -     -     -     -     -     -     
+Horas Noturnas 
+Reduzidas   231,84   -     -     -     -     -     -     
+Cobertura do Intervalo 
+de Repouso e 
+Alimentação   309,13   -     -     -     -     -     -     
+Gratificação de Função 
+Líder   -     -     -     -     -     257,79   -     
+Subtotal   3.604,15   2.792,69   2.792,69   2.792,69   2.792,69   3.050,48   2.792,69   
+Encargos 
+previdenciários e 
+trabalhistas   0,76   0,76   0,76   0,76   0,76   0,76   0,76  
+Subtotal  2.508,17   2.125,80   2.125,80   2.125,80   2.125,80   2.322,03   2.125,80   
+Insumos e obrigações 
+decorrentes de 
+convenção coletiva   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor 
+Mensal   Valor Mensal   Valor Mensal   
+Assistência médica   220,07   220,07   220,07   220,07   220,07   220,07   220,07   
+Auxílio funeral   0,51   0,51   0,51   0,51   0,51   0,51   0,51   
+         
+Curso de reciclagem 
+(valor do curso / 24 
+meses)   87,00   87,00   72,04   71,75   71,29   87,00   72,04   
+EPIs  41,17   40,70   35,66   59,21   28,20   40,70   80,95   
+Norma 
+Regulamentadora Nº 
+07  6,02   6,02   6,02   6,02   6,02   6,02   6,02   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  32 
+Seguro de vida   25,27   25,27   25,27   25,27   25,27   25,27   25,27   
+Uniformes   79,07   79,07   79,06   79,07   79,06   79,07   79,06   
+Vale refeição /ticket 
+refeição   486,74   486,74   671,58   671,58   671,58   486,74   671,58   
+Vale Transporte   38,22   38,22   101,69   101,69   101,69   38,22   101,69   
+Valor total p/ 
+funcionário s/ 
+cobertura intrajornada   7.096,39   5.902,09   6.130,39   6.153,66   6.122,18   6.356,11   6.175,68   
+Cobertura do intervalo 
+intrajornada   -     491,84   837,96   700,95   836,83   529,67   844,15   
+Valor total por 
+funcionário   7.096,39   6.393,93   6.968,35   6.854,61   6.959,01   6.885,78   7.019,83   
+Valor total por posto   14.192,78   12.787,86   6.968,35   9.390,82   6.959,01   13.771,56   7.019,83   
+Valor total 
+posto/dia/hora sem 
+BDI  466,25   420,10   331,83   447,18   331,38   452,42   334,28   
+Benefício e Despesas 
+Indiretas (BDI)   0,21   0,21   0,21   0,21   0,21   0,21   0,21   
+Valor total 
+posto/dia/hora com 
+BDI  564,82   508,91   401,98   541,71   401,43   548,06   404,95   
+ 

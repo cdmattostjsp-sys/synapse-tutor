@@ -1,0 +1,1427 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de serviços de limpeza, asseio e 
+conservação predial |MAIO |2025| 
+ TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  1 
+Sumário  
+ 
+Introdução  ................................ ................................ ................................ ........................  3 
+1. Tabela de Valores Referenciais – MAIO/2025  ................................ ....................  4 
+2. Fonte de Pesquisa  ................................ ................................ ................................  5 
+3. Jornada de Trabalho  ................................ ................................ ............................  6 
+4. Parâmetros de Cálculo  ................................ ................................ .........................  6 
+5. Remuneração* (Salário + Adicionais) ................................ ................................ .. 7 
+5.1 Adicional de Periculosidade e Insalubridade  ................................ ............................  8 
+5.2 Adicional Noturno e Hora Noturna Reduzida  ................................ .....................  8 
+5.3 Adicional por Acúmulo de Função  ................................ ................................ ...... 9 
+5.4 Hora Extra - Plantões  ................................ ................................ .........................  10 
+6. Encargos Previdenciários e Trabalhistas  ................................ ...........................  11 
+6.1 Módulo I – Encargos Previdenciários e FGTS  ................................ ....................  12 
+6.2 Módulo II - 13º Salário e Adicional de Férias  ................................ ....................  13 
+6.3 Módulo III - Afastamento Maternidade  ................................ ............................  14 
+6.4 Módulo IV - Provisão para Rescisão  ................................ ................................ .. 15 
+6.5 Módulo V - Multa de FGTS  ................................ ................................ .................  17 
+6.6 Módulo VI - Custo de Reposição do Profissional Ausente  ...............................  18 
+7. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ...........................  19 
+7.1 Vale Refeição  ................................ ................................ ................................ ...... 20 
+7.2 Vale Transporte  ................................ ................................ ................................ .. 20 
+7.3 Assistência Médica Ambulatorial e Odontológica Familiar  .............................  20 
+7.4 Cesta Básica  ................................ ................................ ................................ ........  21 
+7.5 Benefício Social Familiar  ................................ ................................ ....................  21 
+7.6 Auxílio Creche  ................................ ................................ ................................ .... 21 
+7.7 Norma Regulamentadora Nº 07  ................................ ................................ ........  22 
+7.8 Uniformes e Equipamentos de Proteção Individual  ................................ .........  22 
+7.9 Materiais e Equipamentos  ................................ ................................ .................  24 
+7.10  Dia do Trabalhador em Limpeza, Asseio e Conservação  ..............................  25 
+7.11  Seguro de Vida  ................................ ................................ ...............................  25 
+7.12  Benefício Assiduidade (não contemplado no orçamento estimativo)  ........  25 
+8. Benefício e Despesas Indiretas  (BDI) ................................ ................................ . 27 
+8.1 Custos e Despesas Indiretas  ................................ ................................ ..............  27 
+8.2 Lucro Bruto  ................................ ................................ ................................ .........  28 
+8.3 Despesas Fiscais  ................................ ................................ ................................ . 28 
+9. Desconto por Falta sem Reposição e Desconto por Dia Útil Não Trabalhado  30 
+10. Quantidade de Dias Úteis Estimados por Mês  ................................ .................  33 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  2 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisições e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamentos e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+Renata Mateus Teixeira  
+Contador Judiciário  - Serviço de Processamento de Análise de Requisições , Orçamentos 
+e Catalogação  
+Andre Tadeu Stocco Golanda  
+Administrador Judiciário  - Serviço de Processamento de Análise de Requisições , 
+Orçamentos e Catalogação  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  3 
+Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários 
+referente à prestação de  serviços de limpeza, asseio e conservação predial  no Tribunal 
+de Justiça do Estado de São Paulo.  
+O estudo técnico de composição de custos foi desenvolvido com base nas 
+especificações técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de 
+Referência, produzidos pela coordenador ia responsável pel o planejamento e gestão dos 
+contrato s de prestação de serviços de limpeza predial . 
+Para os parâmetros de cálculo foram utilizados os instrumentos coletivos de 
+trabalho disponíveis e vigentes  das categorias de limpeza (SEAC/ SIEMACO)  e de 
+jardinagem (SINDVERDE /SIEMACO ), os cadernos técnicos  – CADTERC (disponíveis à 
+data desta publicação ) de limpeza predial, limpeza de áreas médicas e o de manutenção 
+e conservação de jardi ns publicados pelo Governo do Estado de São Paulo e demais 
+índices e normas estabelecidos na legislação trabalhista  em vigor.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  4 
+1. Tabela de Valores Referenciais – MAIO /2025  
+Código  Descrição  Unidade  Periodicidade  Valor Final  
+69-0001  Auxiliar de limpeza - diurno - 44 horas semanais 
+(segunda a sexta -feira)  Posto  Mensal   5.636,56  
+69-0002  Auxiliar de limpeza - diurno - 24 horas semanais  Posto  Mensal   3.330,72  
+69-0003  Auxiliar de limpeza - noturno - 44 horas semanais  Posto  Mensal   6.580,52  
+69-0004  Serviço de limpeza - plantonista - domingos e 
+feriados (5 horas)  Plantão - 
+Dom/Fer  Mensal   1.297,53  
+69-0013  Limpador(a) de vidros - diurno - 44 horas 
+semanais  Posto  Mensal   6.113,34  
+69-0014  Limpador(a) de vidros - noturno - 44 horas 
+semanais  Posto  Mensal   7.458,47  
+69-0015  Limpador(a) de vidros com exposição à risco - 
+diurno - 44 horas semanais  Posto  Mensal   7.572,55  
+69-0016  Limpador(a) de vidros com exposição à risco - 
+diurno - 24 horas semanais  Posto  Mensal   4.518,08  
+69-0017  Limpador(a) de vidros com exposição à risco - 
+noturno - 44 horas semanais  Posto  Mensal   8.917,66  
+69-0018  Jardineiro(a) - 44 horas semanais  Posto  Mensal   6.337,37  
+69-0019  Jardineiro(a) - 24 horas semanais  Posto  Mensal   4.607,12  
+69-0020  Serviço de Jardin agem  M2 Mensal   1,07  
+69-0021  Serviço de limpeza de vidros com exposição à 
+situação de risco  M2 Trimestral   2,84  
+69-0022  Auxiliar de limpeza área médica - diurno - 44 
+horas semanais  Posto  Mensal   6.433,67  
+69-0025  Serviço de limpeza - plantonista - sábado (5 
+horas)  Plantão - 
+Sábado  Mensal   859,52  
+69-0026  Copeiro(a) - diurno - 44 horas semanais  Posto  Mensal   4.986,20  
+69-0028  Supervisor(a) de limpeza - diurno - 44 horas 
+semanais  Posto  Mensal   6.570,87  
+69-0029  Serviço de limpeza de vidros sem exposição à 
+situação de risco  M2 Trimestral   2,22  
+69-0030  Serviço de encarregado - plantonista - sábado  Plantão - 
+Sábado  Mensal   1.064,98  
+69-0031  Serviço de encarregado - plantonista - domingos 
+e feriados  Plantão - 
+Dom/Fer  Mensal   1.626,51  
+69-0032  Auxiliar de limpeza - diurno - 44 horas semanais 
+(segunda a sábado)  Posto  Mensal   5.827,42  
+69-0033  Serviço de limpeza - plantonista - recesso 
+judiciário (5 horas)  Plantão - 
+Recesso  Anual   1.297,53  
+69-0035  Copeiro(a) - diurno - 24 horas semanais  Posto  Mensal   2.946,62  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  5 
+69-0037  Agente de Higienização (Tempo Integral) - (40%) - 
+44 horas semanais  Posto  Mensal   7.205,60  
+69-0038  Agente de Higienização (Tempo Integral) - (40%) - 
+24 horas semanais  Posto  Mensal   4.899,74  
+69-0054  Líder até 10 subordinados - diurno - 44 horas 
+semanais  Posto  Mensal   6.039,94  
+69-0055  Líder até 10 subordinados - noturno - 44 horas 
+semanais  Posto  Mensal   7.069,39  
+69-0056  Encarregado(a) 11 ou mais subordinados - diurno 
+- 44 horas semanais  Posto  Mensal   6.975,21  
+69-0057  Encarregado(a) 11 ou mais subordinados - 
+noturno - 44 horas semanais  Posto  Mensal   8.210,59  
+69-0058  Serviço de limpeza - plantonista - (Agente de 
+Higienização - 40%) - sábado - 8 horas/dia  Plantão - 
+Sábado  Mensal   1.635,65  
+69-0059  Serviço de limpeza - plantonista - (Agente de 
+Higienização - 40%) - domingos e feriados - 8 
+horas/dia  Plantão - 
+Dom/Fer  Mensal   2.538,84  
+69-0062  Agente de Higienização (Tempo Integral) - (40%) - 
+44 horas semanais - noturno  Posto  Mensal   8.483,30  
+69-0063  Auxiliar de Limpeza, com adicional de acúmulo 
+de função - diurno - 44 horas semanais  Posto  Mensal   6.524,04  
+69-0064  Auxiliar de Limpeza, com adicional de acúmulo 
+de função - diurno - 24 horas semanais  Posto  Mensal   3.863,17  
+69-0065  Serviço de limpeza - plantonista - sábados  (8 
+horas)  Plantão - 
+Dom/Fer  Mensal   1.258,86  
+69-0066  Serviço de limpeza - plantonista - domingos  (8 
+horas)  Plantão - 
+Sábado  Mensal   1.613,67  
+2. Fonte de Pesquisa   
+Para os cálculos das funções de  Limpeza  foram considerados os valores 
+referentes aos pisos norma tivos da categoria profissional, conforme  o comunicado 
+conjunto de 10 de dezembro de 2024 , firmado entre o Sindicato das Empresas de 
+Asseio e Conservação no Estado de São Paulo – SEAC/SP  e o Sindicato dos 
+Trabalhadores em Empresas de Prestação de Serviços de Asseio, Conservação e 
+Limpeza Urbana de São Paulo – SIEMACO , a vigorar a partir de 1º de janeiro  de 202 4 a 
+31 de dezembro de 202 5, com a  data -base em 1º de J aneiro . Além disso, foram inseridos 
+os valores presentes no TERMO ADITIVO A CONVENÇÃO COLETIVA DE TRABALHO 
+2025/2025, com data -base em 1° de Janeiro  (MR002821/2025 ). 
+Para os cálculos das funções de  Jardinagem  foram considerados os valores 
+referentes aos pisos normativos da categoria profissional do acordo coletivo firmado 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  6 
+entre o Sindicato dos Trabalhadores em Empresas de Prestação de Serviços de Asseio, 
+Conservação e Limpeza Urbana de São Paulo – SIEMACO e o Sindicato das Empresas 
+de Manutenção e Execução de Área - SINDVERDE , em vigor  a partir de 1º de março de 
+2023 a 28 de fevereiro de 202 5, data -base 1º de março  (Convenção Coletiva de Trabalho 
+2023/2025  nº SP005233/2023) ; e Comunicado Conjunto de 02 de abril de 2025 .  
+Os Estudos Técnicos de Serviços Terceirizados do Governo do Estado de São 
+Paulo, CADTERC , também serviram de apoio para atualização do presente Estudo : 
+1. Prestação de Serviços de Limpeza, Asseio e Conservação Predial  CADTERC - 
+Volume 3 - Versão 0 1 – Março/ 2024  – Data -base Janeiro /2024 - disponibilizado na BEC 
+em 21/05/2024 . 
+2. Prestação de Serviços de Limpeza Hospitalar  CADTERC - Volume 7 - Versão 
+01 - Março /202 4 – Data -base Janeiro /2024 - disponibilizad o na BEC em 20/05/2024 . 
+3. Prestação de Serviços de Manutenção e Conservação de Jardins  CADTERC - 
+Volume 18 - Versão 0 1 – Abril/ 2024  - Data-base março/202 4 - disponibilizado na BEC 
+em 03/10/2024 . 
+Na elaboração da proposta a empresa não poderá cotar valor inferior ao piso 
+normativo estabelecido para a categoria profissional envolvida.  
+Os valores dos serviços que caracterizem mão de obra eventual não serão 
+contingenciados nos termos da Resolução 169 do CNJ, de 31 de janeiro de 2013 (Art. 1º 
+e parágrafo 1º).  
+Os valores  extraídos  dos Estudos Técnicos de Serviços Terceirizados do Governo 
+do Estado de São Paulo mencionados anteriormente, CADTERC , foram atualizados pel o 
+IPC – Fipe  (Índice de Preço ao Consumidor - Fundação Instituto de Pesquisas 
+Econômicas) , considerando o período de fevereiro de 2024  a janei ro de 202 5.  
+3. Jornada de Trabalho  
+A jornada de trabalho considerada é de 44 horas semanais e de 220 horas 
+mensais. Em alguns casos, há funções que consideram 24 horas semanais e plantões 
+judiciários.   
+4. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e não devem ser alterados pela licitante 
+quando da elaboração da proposta.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  7 
+Para todos os cálculos foram utilizados o critério de arredondamento 
+matemático com 2  (dois)  dígitos . 
+A quantidade estimada de dias úteis no mês é de 21,00 (vinte e um) dias 
+conforme demonstrado cálculo no item 10 deste estudo. No caso dos Plantões 
+Judiciários aos Sábados a quantidade de dias estimados por mês foi de 5 (cinco ) dias. 
+Nos Plantões Judiciários aos Domingos e Feriados e durante o Recesso a quantidade de 
+dias foi de 6 (seis) dias.  
+5. Remuneração* (Salário + Adicionais)  
+ 
+Descrição  Salário 
+Base  Ad. 
+Peric ulosidade  Ad. Noturno 
++ Hr. 
+Reduzida  Ad. 
+Insalubr idade  Ad. 
+Acúmulo de 
+Função   
+Auxiliar de Limpeza - 44 horas 
+Semanais   1.717,20  - 365,30  - 343,44  
+Auxiliar de Limpeza - 24 horas 
+Semanais   1.030,32  - - - 206,06  
+Auxiliar de Limpeza - 44 horas 
+Semanais - Área Médica   1.717,20  - - 303,60   
+Agente de Higienização - 44 
+horas semanais   1.717,20  - 494,46  607,20   
+Agente de Higienização - 24 
+horas semanais   1.030,32  - - 607,20   
+Líder de Limpeza (até 10 
+subordinados) - 44 horas 
+Semanais   1.872,80  
+- 398,39  -  
+Encarregado de Limpeza (11 ou 
+mais subordinados) - 44 horas 
+Semanais   2.247,37  
+- 478,08  -  
+Supervisor de Limpeza - 44 
+horas Semanais (funções 
+administrativas) *   2.444,29  
+- - -  
+Limpador de Vidros - 44 horas 
+Semanais   1.882,34  564,70  520,55  -  
+Limpador de Vidros - 24 horas 
+Semanais   1.129,40  338,82  - -  
+Jardineiro - 44 horas Semanais   1.732,39   - - 346,48   
+Jardineiro - 24 horas Semanais  1.039,43  - - 346,48   
+Copeiro - 44 horas Semanais   1.729,04  - - -  
+Copeiro - 24 horas Semanais   1.037,42  - - -  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  8 
+ 
+5.1 Adicional de Periculosidade e Insalubridade  
+Tanto a insalubridade quanto a periculosidade são consideradas neste estudo.  
+Nos termos vigentes no § 2º do Art. 193 da CLT, o trabalhador tem o direito de 
+escolher o adicional mais vantajoso economicamente entre esses adicionais, não sendo 
+permitido recebê -los de forma concomitante. Porém, no presente estudo não há função 
+que pode ria realizar esta opção.  
+5.1.1 Insalubridade  
+Quando o prédio possuir setor de Assistência à Saúde (Ambulatório – área 
+semicrítica de risco), em se tratando de serviços de limpeza em área que oferece risco 
+de transmissão de infecção, deverá ser considerado também o ADICIONAL DE 
+INSALUBRIDADE  para os funcionários destinados a prestarem serviços nessa área em 
+especial, na ordem de  20% (vinte por cento) do salário normativo , nos termos do 
+referido acordo coletivo, bem como do CADTERC.  
+Para a função de JARDINEIRO  o ADICIONAL DE INSALUBRIDADE  corresponde a 
+20% (vinte por cento) do salário normativo, nos termos do acordo coletivo com o 
+SINDVERDE . 
+Conforme Convenção Coletiva de Trabalho  o ADICIONAL DE INSALUBRIDADE  
+será de  40% (quarenta por cento) do salário mínimo federal , para os empregados  que 
+forem contratados para a função de AGENTE DE HIGIENIZAÇÃO , com  determinação 
+expressa das atividades de limpeza ou higienização de instalações sanitárias (banheiros) 
+de uso público ou coletivo de grande circulação e a respectiva  coleta de lixo, tais como: 
+hospitais,  aeroportos, terminais rodoviários e ferroviários,  estádios, arenas, casas de 
+shows, shoppings, órgãos públicos e outros com as  mesmas  características,  desde que 
+desempenhem essas atividades em  período integral de sua jornada diária, semanal ou 
+mensal, exclusivamente  e permanentemente, por não se equiparar a limpeza de 
+residências e escritórios.  
+5.1.2 Periculosidade  
+Haverá  previsão de pagamento do adicional de periculosidade na ordem de  30% 
+(trinta por cento) sobre a remuneração dos profissionais que exercem a função de 
+Limpador de Vidros com exposição a risco , conforme a Convenção Coletiva de Trabalho 
+SEAC/SIEMACO.  
+5.2 Adicional Noturno e Hora Noturna Reduzida  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  9 
+Adicional  Noturno e Hora Noturna Reduzida: Art. 73 da CLT - O adicional noturno 
+é concedido ao profissional que cumprir jornada parcial ou integralmente entre o 
+horário de 22h (vinte e duas)  e 5h  (cinco) , a fim de compensar, de alguma forma, o 
+desgaste decorrente da troca de horários. De acordo com o Art. 73 da CLT, o custo da 
+hora noturna deve ser maior que o da hora diurna em no mínimo 20%  (vinte  por cento) . 
+No parágrafo 1º deste mesmo artigo fica estipulado que a hora noturna deve ser 
+computada com duraç ão de 52  (cinquenta e dois)  minutos e 30  (trinta)  segundos. Devido 
+a esta redução são garantidos ao profissional como hora noturna adicional os resíduos 
+provenientes de cada 60 (sessenta) minutos trabalhados no período noturno.  
+a) O cálculo do adicional noturno (Adic.Not) segue a seguinte fórmula:  
+Adic.Not  = QHN × (HN × 20%)  
+Adic.Not  = 6x 21 x (1.717,20 /220 ) x 20%  = R$196 ,70 
+Em que:  
+QHN:  Quantidade de horas noturnas trabalhadas (6 × quantidade de dias)  
+HN: Valor da hora normal  
+b) Já a hora noturna reduzida (Hnot.adic.) é calculada como se segue:  
+Hnot.adic.  = QHN × (cHReduz - 1) x HN × (1+ 20%)  
+Hnot.adic.  = 6 x 21 x (1,142857 -1) x (1.717,20 /220 ) x 1,2  
+ = 6 x 21 x 0,142857  x 7,81 x 1,2 = R$ 168, 60 
+Em que:  
+QHN:  Quantidade de horas noturnas trabalhadas (6 × quantidade de dias)  
+cHReduz:  Coeficiente de conversão da hora reduzida (1,142857 = 60/52,5)  
+HN: Valor da hora normal  
+Para fins de estimativa, adotamos a quantidade de 6  (seis)  horas noturnas, uma 
+vez que durante o período das 22h  (vinte e duas)  até as 5h (cinco) o profissional se 
+ausenta por 1h  (uma)  para realizar o seu horário de repouso e alimentação, obrigatório 
+por lei. Os adicionais de insalubridade e periculosidade, quando aplicáveis e não 
+cumulativos, integram o valor da hora normal do trabalhador para fins do cálculo do 
+Adicional Noturno e Hor a Reduzida.  
+5.3 Adicional por Acúmulo de Função  
+Em alguns contratos  de comarcas situadas no interior do Estado de São Paulo, há 
+previsão para contratação de profissionais auxiliares de limpeza com acúmulo de 
+função. As atividades acumuladas, nestes casos, são de copeiragem.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  10 
+Conforme a Cláusula 1 2ª da CCT de Trabalho do S IEMACO , o acúmulo de função 
+diz respeito à remuneração de empregados que acumulam mais de uma função no 
+trabalho. Desde que devidamente  autorizado pelo empregador, o empregado que vier 
+a exercer cumulativa e habitualmente outra função terá direito ao percentual de 
+adicional correspondente a  20% (vinte por cento) do respectivo salário contratual.  
+5.4 Hora Extra - Plantões  
+Para  as funções de plantonistas , há previsão de pagamento por hora, conforme 
+segue memória de cálculo demonstrada abaixo:  
+a) Cálculo para o serviço  de limpeza/encarregado - plantonista - domingos e 
+feriados : 
+Valor da Hora =  Valor do Salário Base / 220 * (1+100%)  
+Valor dos Encargos Trabalhistas =  Valor da Hora * % Encargos Trabalhistas  
+Vale Refeição  = (Valor do Vale Refeição - Dedução do Funcionário) * 6 (nº 
+de domingos e feriados por mês)  
+Vale Transporte  = Valor do Vale Transporte Ida e Volta * 6 (nº de domingos 
+e feriados por mês)  
+Valor do BDI =  (Valor da Hora + Valor Encargos Trabalhistas + Valor Vale 
+Refeição + Valor Vale Transporte ) * % BDI  
+Valor Unitário p/ jornada de 5 horas = Valor  da Hora * 6  * 5 + Valor dos 
+Encargos Trabalhistas + Vale Refeição + Vale Transporte + 
+Valor do BDI  
+b) Cálculo para o serviço de limpeza/encarregado - plantonista – Aos sábados : 
+Valor da Hora =  Valor do Salário Base / 220 * (1+50%)  
+Valor dos Encargos Trabalhistas =  Valor da Hora * % Encargos Trabalhistas  
+Vale Refeição =  (Valor do Vale Refeição - Dedução do Funcionário) * 5 (nº 
+de sábados  por mês)  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  11 
+Vale Transporte =  Valor do Vale Transporte Ida e Volta * 5 (nº de sábados  
+por mês)  
+Valor do BDI =  (Valor da Hora + Valor Encargos Trabalhistas + Valor Vale 
+Refeição + Valor Vale Transporte) * % BDI  
+Valor Unitário p/ jornada de 5 horas  = Valor da Hora * 5  * 5 + Valor dos 
+Encargos Trabalhistas + Vale Refeição + Vale Transporte + 
+Valor do BDI  
+Valor Unitário p/ jornada de 8 horas  = Valor da Hora * 5  * 8 + Valor dos 
+Encargos Trabalhistas + Vale Refeição + Vale Transporte + 
+Valor do BDI  
+6. Encargos Previdenciários e Trabalhistas  
+De acordo com as publicações  do CADTERC, s ão classificados como encargos 
+sociais os custos incidentes sobre a folha de pagamento das empresas. Tais custos são 
+provenientes de leis asseguradas pela Constituição Federal de 1988, da Consolidação 
+das Leis Trabalhistas, ou mesmo de acordos firmados em convenções coletivas de 
+trabalho da categoria representativa.  Considerando os encargos relativos à contratação 
+de serviços com dedicação exclusiva de mão de obra no Estado de São Paulo para 
+trabalhadores contratado s sob o regime de remuneração mensal , é importante salientar 
+que a determinação do cálculo dos percentuais dos encargos associados ao emprego 
+está amparada em estatísticas específicas do setor para o Estado de São Paulo. Nesses 
+termos, as informações extraídas junto ao Ministério do Trabalho e Previdência, através 
+do Cadastro Geral de Empregados e Desempregados (CAGED) e da Relação Anual de 
+Informações Sociais (RAIS), estão enquadradas no código da Classificação Nacional de 
+Atividades Econômicas 8121 - 4 – Limpeza em Prédios e em Domicílios. Acre scenta -se, 
+ainda, que os encargos estão suportados por dados populacionais regionais coletados 
+junto ao SEADE, além de conceitos estabelecidos nas legislações previdenciária e 
+tributária vigentes .  
+Outro aspecto fundamental deliberado na determinação dos encargos sociais 
+refere - se à atribuição de idade mínima de 18 (dezoito) anos para o provimento de todos 
+os postos de trabalho envolvidos na Prestação de Serviços de Limpeza, Asseio e 
+Conservação Pre dial.  
+A somatória  percentual d os encargos previdenciários e trabalhistas totalizou 
+77,92%. O percentual será aplicado ao total da remuneração e está demonstrado nos 
+itens 6.1 a 6.6  que seguem.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  12 
+6.1 Módulo I – Encargos Previdenciários e FGTS  
+Engloba as obrigações que, por lei, incidem diretamente sobre a folha de 
+pagamento das empresas e, como tal, recaem sobre o total da remuneração devida aos 
+empregados do setor. Estão contemplados neste grupo a contribuição com a 
+Previdência Social, FGTS, s alário -educação, Seguro Contra Riscos e Acidentes, além de 
+recolhimentos para instituições de natureza pública como SESI, SENAI, Incra e Sebrae. 
+Estes percentuais incidem diretamente sobre a folha de pagamento.  
+Item  Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2 SESI/SESC  1,50%  Art. 30 da Lei nº 8.036/1990 e art. 1º da Lei nº 
+8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei nº 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei nº 
+9.424/1996.  
+ 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, da 
+Constituição Federal.  
+7 (RAT x FAP) = RAT 
+Ajustado  3,00%  Lei nº 8.212/91, Lei nº 10.666/2009 e Resolução 
+MPS/CNPS nº 1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 8.154/1990.  
+Total  36,80%   
+RAT (Riscos Ambientais do Trabalho)  - representa  a contribuição da empresa, 
+prevista no inciso II do artigo 22 da Lei nº 8.212/91, e consiste em percentual que mede 
+o risco da atividade econômica, com base no qual é cobrada a contribuição para 
+financiar os benefícios previdenciários decorrentes do grau de incidência de 
+incapacidade laborativa (GIIL -RAT). A alíquota de contribuição para o RAT será de 1% 
+(um por cento) se a atividade é de risco mínimo; 2%  (dois por cento)  se de risco médio 
+e de 3% se de risco grave, incidentes sobre o total da remuneração paga, devida ou 
+creditada a qualquer título, no decorrer do mês, aos segurados empregados e 
+trabalhadores avulsos. Havendo exposição do trabalhador a agentes nocivos que 
+permitam a concessão de aposentadoria especial, há acréscimo das alíquotas na forma 
+da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere  o desempenho da empresa, dentro 
+da respectiva atividade econômica, relativamente aos acidentes de trabalho ocorridos 
+num determinado período. O FAP consiste num multiplicador variável num intervalo 
+contínuo de cinco décimos (0,5) a dois inteiros (2), apli cado com quatro casas decimais 
+sobre a alíquota RAT.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  13 
+RAT Ajustado  - A expressão RAT Ajustado foi criada pela Receita Federal do Brasil 
+(RFB) e equivale à alíquota que as empresas terão de recolher sobre o total das 
+remunerações pagas ou creditadas no decorrer do mês, aos segurados empregados e 
+trabalhadores avulsos a pa rtir de janeiro/2010, para custear as Aposentadorias Especiais 
+e os benefícios concedidos em razão do grau de incidência de incapacidade laborativa 
+decorrente dos riscos ambientais do trabalho. O cálculo do RAT ajustado é feito 
+mediante a fórmu la (RAT x FAP), com aplicação da máxima ou mínima do FAP (0,5 a 2) 
+sobre as alíquotas de RAT (1% a 3%), tendo como resultado um RAT ajustado entre 0,5%  
+(zero vírgula cinco por cento)  a 6%  (seis por cento).  
+Observações:  
+a) O percentual de 3%  (três por cento)  utilizado no item 7 - SAT (RAT x FAP) foi 
+utilizado somente para estimativa.  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+6.2 Módulo II - 13º Salário e Adicional de Férias  
+Item  Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei nº 
+4.090/1962 e Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e art. 142 
+da CLT.  
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60  (sessenta)  meses, o empregado tem 5  
+(cinco)  meses de férias e labora em 56 (cinquenta e seis) meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que 
+as férias sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do 
+mês.  
+Cálculo: (1/3)*(5/56) = 2,98%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+13º salário mais adicional de férias.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  14 
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+6.3 Módulo III - Afastamento Maternidade  
+Item  Encargo  % Fundamento legal  
+1 Encargos sociais 
+incidentes  sobre a 
+licença maternidade  0,08% - 
+Total  0,08%  
+ 
+Afastamento Maternidade : afastamento de 120 dias sem prejuízo da 
+remuneração. Afastamento maternidade: Artigo 7º, XXI, da CF/1988, art. 392 da CLT; Lei 
+13.467/2017. Não considerada a prorrogação facultada pela Lei 11.770/2008 (Empresa 
+Cidadã) . 
+O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+Durante esse período, a empregada recebe o salário -maternidade, que é pago 
+pelo INSS, e não pela empresa. O valor correspondente à licença -maternidade é 
+repassado à trabalhadora pela Previdência Social, seja diretamente ou por meio da 
+empresa, que posterio rmente compensa o valor pago com as contribuições ao INSS.  
+A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a empresa 
+paga o salário maternidade e compensa no pagamento do Imposto de Renda, não sendo 
+necessário o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009).  
+Incidência do FGTS sobre o afastamento maternidade: 8% * 0, 9440 % = 0,0 8% 
+Afastamento do emprego – Licença -maternidade – Fonte: CADTERC  
+Dias de afastamento  120 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento  81,5254 dias  
+Proporção de mulheres na categoria profissional  64,5890%  
+Proporção de mulheres aptas a procriar na categoria 
+profissional em análise  70,9100%  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias efetivos de afastamento por licença -maternidade no 
+ano 2,0803  
+Total de dias efetivamente trabalhados no ano  220,2768  
+ % de Licença -Maternidade  0,9440%  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  15 
+6.4 Módulo IV - Provisão para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  4,0810%  §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio 
+indenizado  0,33% - 
+3 Multa FGTS sobre o aviso prévio 
+indenizado  0,13% - 
+4 Aviso prévio trabalhado  0,01% Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso 
+prévio trabalhado  0,00%  
+6 Multa FGTS sobre o aviso prévio 
+trabalhado  0,00%   
+7 Indenização Adicional  0,08%  Art. 9 da lei  nº 7.238, de 29 de 
+outubro de 1984  
+8 Multa FGTS sobre os depósitos do FGTS  0,92%   
+Total  5,55 %  
+Aviso -Prévio indenizado: trata‐se de valor devido ao empregado caso o empregador 
+rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, conforme disposto no 
+§1º do art. 487 da CLT. De acordo com o Anexo VII da IN nº 05, de 26 de maio de 2017 a 
+proporção de trabalhadores que cumprem aviso -prévio indenizado é 98%.  
+Aviso-prévio indenizado – Fonte: CADTERC  
+Proporção de trabalhadores que cumprem aviso -prévio 
+indenizado  98%  
+Proporção de demissões sem justa causa no ano  27,7988%  
+Duração do aviso -prévio – Lei 12.506/2011 (dias)  33  dias  
+Total de dias efetivamente trabalhados no ano  220,2768  
+ % de aviso -prévio indenizado  4,0810%  
+ 
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo ao 
+período de aviso prévio, trabalhado ou não, está sujeito a contribuição para o FGTS. 
+(Súmula TST nº 305).  
+Cálculo: 4,0810%*  8% = 0, 33% 
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o 
+custo do aviso prévio indenizado 0,42%  (zero vírgula quarenta e dois por cento)  é 
+acrescido da multa do FGTS indenizado 40%  (quarenta por cento) , que incide sobre a 
+alíquota do FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso 
+indenizado 0,42%  (zero vírgula quarenta e dois por cento) . 
+Cálculo: 4,0810%*8%*4 0%=0, 13% 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  16 
+Aviso -prévio trabalhado: corresponde ao valor repassado para pagar ao 
+funcionário enquanto este não trabalha, pois ele percebe o salário referente a 30 dias 
+de serviço, dos quais sete ele tem direito a ausentar‐se para procurar outro emprego 
+ou, se preferir, trabalhar duas horas a  menos por dia durante o mês (não há prejuízo da 
+remuneração). Cerca de 2,00% dos trabalhadores cumprem dispensa por aviso -prévio 
+trabalhado, conforme norma Anexo VII da IN nº 05, de 26 de maio de 2017.  
+Aviso-prévio trabalhado – Fonte: CADTERC  
+Dias de ausências facultadas ao empregado no cumprimento 
+de aviso -prévio trabalhado  7 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de ausência por aviso -prévio  4,7556 dias  
+Percentual de aviso -prévio trabalhado  2% 
+Proporção de demissões sem justa causa no ano  27,7988%  
+Dias efetivos de afastamento por cumprimento do aviso -
+prévio trabalhado no ano  0,0264 
+ % de aviso -prévio trabalhado  0,01%  
+ 
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre 
+o aviso -prévio trabalhado:  
+Cálculo: (0,01%) * (36,80%) = 0,001% = ~ 0,00%  
+Aviso prévio trabalhado: corresponde ao valor repassado para pagar ao 
+funcionário enquanto este não trabalha, pois ele percebe o salário referente a 30 dias 
+de serviço, dos quais sete ele tem direito a ausentar‐se para procurar outro emprego 
+ou, se preferir, trabalhar duas horas a  menos por dia durante o mês. Aproximadamente  
+2,00%  (dois por cento)  dos trabalhadores cumprem dispensa por aviso -prévio 
+trabalhado.  
+Aviso prévio trabalhado = (Número de faltas em aviso -prévio trabalhado) * (Fator 
+de dias de trabalho por dias corridos) * ( Percentual de aviso -prévio trabalhado) * 
+(Proporção de demissões sem justa causa no ano) / (Total de dias efetivamente 
+trabalhados por ano) .  
+Cálculo: 7 * 0,67942% * 27,7988% / 220,2768 = 0,0 1% 
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS 
+sobre o  aviso prévio trabalhado:  
+Cálculo: 0,0 1% * 36,80% = 0,0 0% 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  17 
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o 
+custo do aviso prévio trabalhado 0,04 % (zero vírgula quatro por cento)  é acrescido da 
+multa do FGTS trabalhado 40%  (quarenta por cento) , que incide sobre a alíquota do 
+FGTS 8%  (oito por cento)  aplicada sobre o custo de referência para o aviso indenizado 
+0,01%  (zero vírgula um por cento) . 
+Cálculo: 0,0 1%*8%*40%=0,0 0%   
+Indenização Adicional:  Art. 9º da Lei nº 7.238, de 29 de outubro de 1984 - O 
+empregado dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a 
+data de sua correção salarial, terá direito à indenização adicional equivalente a um 
+salário mensal. O índice de ocorrência deste fato é cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+Multa FGTS sobre os depósitos do FGTS: aplicação da multa d o FGTS sobre os 
+depósitos  de FGTS para afastamento maternidade  0,94% (zero vírgula noventa e quatro  
+por cento) , ausência por en fermidade ≤ 15 dias  1,54% (um vírgula cinquenta e quatro 
+por cento) , licença -paternidade  0,03% (zero vírgula zero três por cento),  faltas legais  
+0,91% (zero vírgula noventa e um por cento) e acidentes de trabalho  0,08% (zero vírgula 
+zero oito por cento).  
+Cálculo: 8%*40%*27,7988%*(1+(0,94%+1,54%+ 0,03%+0,91%+0,08%))  = 0,92%  
+6.5 Módulo V - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+ 
+O § 1º do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de despedida 
+pelo empregador sem justa causa, depositará este, na conta vinculada do trabalhador 
+no FGTS, importância igual  a quarenta por cento do montante de todos os depósitos 
+realizados na conta vinculada durante a vigência do contrato de trabalho, atualizados 
+monetariamente e acrescidos dos respectivos juros.  
+Estima -se que 10%  (dez por cento)  dos empregados pedem demissão (rescisão a 
+pedido do trabalhador), assim essa penalidade recai sobre os 90% (noventa por cento) 
+remanescentes. ( Manual de Planilhas de Custos - STJ, 2020 ). 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  18 
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+Férias + Adicional de Férias  
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+6.6 Módulo VI - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do profissional ausente deve 
+levar em conta todos os custos para manter o funcionário no posto de trabalho, tais 
+como: salário  base acrescido dos adicionais e encargos, uniformes, custo de rescisão 
+etc., com exceção dos equipamentos.  
+Item  Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,54% Art. 18 da Lei nº 8.212/1991 e art. 476 da 
+CLT 
+3 Licença paternidade  0,03% - 
+4 Faltas legais  0,91% - 
+5 Ausência por acidente de trabalho  0,08% Art. 131 da CLT  
+6 Encargos sociais incidentes  4,23% - 
+Total  15,72%  
+ 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o 
+pagamento de 13º salário e de um mês de férias. Pode -se determinar a provisão mensal 
+considerando que na duração do contrato de 60 (sessenta) meses o empregado tem 5 
+(cinco) meses de férias e labora em 56 (cinquenta e seis) meses.  
+Cálculo: (5/56) = 8,93%.  
+Ausência por doença: esta parcela refere -se aos dias em que o empregado fica 
+doente e a contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, 
+onera a empresa com até 15  (quinze)  ausências do empregado por motivo de acidente 
+ou doença atestada pelo INSS.  
+Ausência por doença = Dias não trabalhados por afastamento enfermidade ≤ 15 
+dias * Fator de dias trabalhados por dias corridos / Total de dias efetivamente 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  19 
+trabalhados no ano.  Fonte: CADTERC Volume 3 - Versão 01 – Março/ 2024 – Data -base 
+Janeiro/2024.  
+Cálculo: (5  * 0,6794 ) / 220,2768 = 1,54%  
+Licença Paternidade : custo de ausência do trabalhador pelo período de cinco 
+dias. Criada pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT.  
+Licença -paternidade = (quantidade de dias de licença -paternidade)  * (fator de 
+dias trabalhados por dias corridos)  * (proporção de homens na categoria profissional)  * 
+(proporção de homens aptos a procriar na categoria profissional)  * (percentual de 
+fecundidade das mulheres entre 21 e 49 anos)  / (total de dias trabalhados por ano) - 
+Fonte: CADTERC Volume 3 - Versão 01 – Março/ 2024 – Data -base Janeiro/2024.  
+Cálculo: (5 * 0,6794 * 35,411% * 99,9511% * 5,5714%) / 220,2768 = 0,03%  
+Faltas Legais:  A lei (art. 473 da CLT) prevê hipóteses de faltas justificadas, vale 
+dizer, situações em que o empregado poderá faltar ao serviço e não ter qualquer 
+desconto na remuneração (por exemplo: doação de sangue, retirar título de eleitor, 
+falecimento de cônjuge etc.) Ocorrendo isso durante a execução do nosso contrato, a 
+empresa terá o custo de colocação de um substituto no lugar daquele prestador de 
+serviço ausente. Essa despesa é calculada por estimativa. Preveem -se quantos dias, no 
+período de um ano, esse evento poderá ocorrer, calcula -se o valor correspondente, com 
+base na remuneração do empregado. Considera -se, no modelo, uma estimativa de que 
+cada empregado usufrua 2,01 dias efetivos de licença por ano (Fonte: CADTERC). 
+Portanto o percentual de ssa rubrica a ser aplicada sobre a remuneração mensal do 
+titular pode ser obtido pelo cálculo abaixo:  
+Cálculo: 2,01/220,2768 (total de dias efetivamente trabalhados por ano) = 
+0,91%.  
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga 
+o empregador a assumir o ônus financeiro pelo prazo de 15  (quinze)  dias no caso de 
+acidente de trabalho previsto no art. 131 da CLT. De acordo com o anuário estatístico 
+de acidentes de trabalho publicado pela Secret aria de Previdência Social (20 23, mais 
+recente) para o estado de São Paulo, seguindo a Classificação Nacional de Atividades 
+Econômicas (CNAE) – 81214  para o Estado de SP, houve 17,54  (dezessete vírgula 
+cinquenta e quatro ) acidentes para cada 1000 (mil) vínculos - 1,754 % (um vírgula 
+setecentos e cinquenta e quatro  por cento) .  
+Cálculo Ausência por Acidente de Trabalho: ((15/30)/12) x 1,754 %  = 0,0 8% 
+7. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  20 
+Os critérios de cálculo dos itens que compõem as obrigações decorrentes de 
+acordo ou convenção coletiva, que por representar patamares mínimos não podem 
+apresentar preços inferiores pela proposta da licitante.  
+7.1 Vale Refeição  
+Quantidade de Refeições por dia: 1  
+Valor Unitário: Conforme CCT da Categoria  
+Parcela do Trabalhador: Desconto fixado na CCT  
+Valor Vale Refeição - R$ 
+Função  Valor 
+Diário  Desconto  Valor Diário 
+Final  Dias Úteis por 
+Mês  Total Valor 
+VR  
+Funções de Limpeza  20,76  1,39 19,37  21 406,77  
+Jardineiro  12,50  1,40 11,10  25* 277,50  
+* Referência mínima mensal para o cargo de Jardineiro de acordo com o Comunicado em Conjunto 
+SIEMACO X SINDVERDE, de 02 de abril de 2025 . 
+Obs.: Conforme Nota Técnica do CADTERC e CCT, não haverá pagamento de ticket refeição para as 
+jornadas de 24 horas semanais.  
+7.2 Vale Transporte  
+Valor Unitário da condução do profissional: Valor da Passagem do ônibus na 
+cidade  
+Valor unitário: R$ 5,49 (cinco reais e quarenta e nove  centavos ) - São Paulo  
+Quantidade de tarifas diárias: 2  (dois)  
+Valor do vale -transporte: R$ 10, 98 
+Parcela do Trabalhador: Desconto de 6%  (seis por cento)  do salário -base do 
+profissional.  
+ 
+Valor Vale Transporte - R$ 
+Período  Valor da Passagem 
+Unitária  Quantidade/Dia  Dias Úteis por 
+Mês  Valor Bruto 
+Vale 
+Transporte*  
+Segunda a Sexta  5,49 2 21 230,58  
+Segunda a Sábado  5,49 2 25,33 278,12  
+* O valor líquido do vale transporte deverá ser obtido mediante a subtração da parcela suportada pelo 
+empregado, cujo limite é 6%  (seis por cento)  do salário base.  
+ 
+7.3 Assistência Médica Ambulatorial e Odontológica Familiar  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  21 
+Foi previsto, em conformidade com a CCT da Categoria, o custo mensal por 
+profissional a fim de subsidiar o pagamento do benefício por parte do empregador.  
+Assistência Médica e Odontológica - R$ 
+ Valor Mensal  
+Funções de Limpeza  35,33  
+Jardineiro  34,94  
+ 
+7.4 Cesta Básica  
+Conforme Convenção Coletiva da Categoria, fica assegurado o pagamento de 
+uma cesta básica por mês ao profissional.  
+Cesta Básica - R$ 
+ Valor Mensal  
+Funções de Limpeza  144,68  
+Jardineiro  138,60  
+ 
+7.5 Benefício Social Familiar  
+Foi previsto, em conformidade com a CCT da Categoria, o custo de Plano de 
+Benefício Social Familiar,  composto de assistência familiar, assistência financeira 
+imediata, assistência alimentícia e manutenção de renda familiar, pelo valor mensal por 
+profissional.  
+Benefício Social Familiar - R$ 
+ Valor Mensal  
+Funções de Limpeza  15,96 
+Jardineiro  9,31  
+ 
+7.6 Auxílio Creche  
+O valor referencial do Auxílio Creche foi obtido no CADTERC das respectivas 
+funções  e atualizado pelo IPC – FIPE (geral) de 4,46% considerando o período de 
+fever eiro de 202 4 a janeiro de 2025 . 
+Auxílio Creche - R$ 
+ Valor Mensal  
+Funções de Limpeza  23,29  
+Jardineiro  2,20  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  22 
+7.7 Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame médico 
+(admissional, periódico e de demissão). Apesar de não constar expressamente na 
+Convenção Coletiva da Categoria, as empresas terão que arcar com essas despesas.  
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + Valor 
+do exame médico e de demissão) / Estimativa do tempo de permanência do funcionário 
+em meses] + (Valor do exame médico periódico / 12 meses)} x (Número de funcionários 
+por posto de tr abalho + Número de folguistas necessários por mês)  
+O valor referencial da Norma Regulamentador a foi obtido no CADTERC das 
+respectivas funções e atualizado pelo IPC – FIPE ( saúde ) de 7,51 % (sete vírgula cinquenta 
+e um por cento ) considerando o período  de fevereiro de 2024 a janeiro de 2025.  
+Norma Regulamentadora Nº 07 / Funcionário = R$ 7,60  (Limpeza Fonte - 
+CADTERC)  
+Norma Regulamentadora Nº 07 / Funcionário = R$ 8,76  (Jardineiro Fonte - 
+CADTERC)  
+7.8 Uniformes e Equipamentos de Proteção Individual  
+As empresas deverão fornecer uniformes completos para seus profissionais, bem 
+como os EPIs necessários  para a Prestação de Serviços de Limpeza, Asseio e Conservação 
+Predial . Os preços referenciais desses insumos foram obtidos com base nas informações 
+do CADTERC , pesquisas de preços no mercado ; e foram atualizados pelo IPC – FIPE 
+(vestuário) de 1,75  (um vírgula setenta e cinco  por cento ) considerando o período 
+fevereiro de 2024 a janeiro de 2025.  
+Auxiliares de Limpeza e Agentes de Higienização - R$ 
+Composição  Tipo  Qtde  Valor Unit  Valor 
+Total  Vida útil 
+(meses)  Valor 
+Mensal  
+Conjunto de calça 
+camisa – uniforme 
+operacional  Uniforme  
+2 99,30  198,60  6 33,10  
+Tênis/sapato  Uniforme  1 57,74  57,74  6 9,62  
+Meia  Uniforme  2 7,23  14,46  4 3,62  
+Gorro  Uniforme  1 15,23  15,23  12 1,27  
+Crachá de 
+identificação  Uniforme  1 6,25  6,25  12 0,52  
+Jaleco  Uniforme  1 65,61  65,61  12 5,47  
+Luva  EPI 2 5,50  11,00  2 5,50  
+Bota  EPI 1 44,53  44,53  12 3,71  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  23 
+VALOR MENSAL  62,81  
+ 
+Encarregados(as) e Líderes - R$ 
+Composição  Tipo  Qtde  Valor Unit  Valor 
+Total  Vida útil 
+(meses)  Valor 
+Mensal  
+Calça  Uniforme  2 46,38  92,76  6 15,46  
+Camisa manga curta  Uniforme  2 111,26  222,52  6 37,09  
+Tênis/sapato  Uniforme  1 57,74  57,74  6 9,62  
+Meia  Uniforme  2 7,23  14,46  4 3,62  
+Gorro  Uniforme  1 15,23  15,23  12 1,27  
+Crachá de 
+identificação  Uniforme  1 6,25  6,25  12 0,52  
+Jaleco  Uniforme  1 65,61  65,61  12 5,47  
+VALOR MENSAL  73,04  
+ 
+Jardineiro(a) - R$ 
+Composição  Tipo  Qtde  Valor Unit  Valor Total  Vida útil 
+(meses)  Valor Mensal  
+Calça  Uniforme  2 47,12  94,24  6 15,71  
+Camiseta  Uniforme  2 18,03  36,06  6 6,01  
+Sapato  Uniforme  1 87,67  87,67  6 14,61  
+Meia  Uniforme  2 7,93  15,86  4 3,97  
+Crachá de identificação  Uniforme  1 6,31  6,31  12 0,53  
+Jaleco  Uniforme  2 65,76  131,52  12 10,96  
+Luva  EPI 2 5,56  11,12  2 5,56  
+Bota  EPI 1 56,96  56,96  6 9,49  
+Avental  EPI 1 9,33  9,33  12 0,78  
+Óculos de proteção  EPI 1 7,07  7,07  12 0,59  
+Máscara de proteção  EPI 1 36,56  36,56  12 3,05  
+Capa de chuva  EPI 1 18,96  18,96  12 1,58  
+Chapéu  EPI 1 21,56  21,56  6 3,59  
+Perneira  EPI 2 39,98  79,96  12 6,66  
+Protetor auricular  EPI 1 20,92  20,92  12 1,74  
+Cinto paraquedista*  EPI 1 356,13  356,13  30 11,87  
+Corda*  EPI 1 351,04  351,04  30 11,70  
+VALOR MENSAL  108,40  
+ 
+Auxiliar de Limpeza Área Médica - R$ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  24 
+Composição  Tipo  Qtde  Valor Unit  Valor 
+Total  Vida útil 
+(meses)  Valor 
+Mensal  
+Conjunto de calça 
+camisa – uniforme 
+operacional  Uniforme  
+2 99,30  198,60  6 33,10  
+Tênis/sapato  Uniforme  1 57,74  57,74  6 9,62  
+Meia  Uniforme  2 7,23  14,46  4 3,62  
+Gorro  Uniforme  1 15,23  15,23  12 1,27  
+Crachá de 
+identificação  Uniforme  1 6,25  6,25  12 0,52  
+Jaleco  Uniforme  1 65,61  65,61  12 5,47  
+Luva  EPI 2 5,50  11,00  2 5,50  
+Bota  EPI 1 44,53  44,53  6 7,42  
+Avental  EPI 1 9,24  9,24  6 1,54  
+Óculos de proteção  EPI 2 4,00  8,00  36 0,22  
+Máscara descartável  EPI 10 0,32  3,20  1 3,20  
+VALOR MENSAL  71,48  
+ 
+Limpador(a) de Vidros - R$ 
+Composição  Tipo  Qtde  Valor Unit  Valor 
+Total  Vida útil 
+(meses)  Valor 
+Mensal  
+Conjunto de calça 
+camisa – uniforme 
+operacional  Uniforme  
+2 99,30  198,60  6 33,10  
+Tênis/sapato  Uniforme  1 57,74  57,74  6 9,62  
+Meia  Uniforme  2 7,23  14,46  4 3,62  
+Gorro  Uniforme  1 15,23  15,23  12 1,27  
+Crachá de 
+identificação  Uniforme  1 6,25  6,25  12 0,52  
+Jaleco  Uniforme  1 65,61  65,61  12 5,47  
+Cinto paraquedista  EPI 1 356,13  356,13  30 11,87  
+Talabarte duplo ou Y 
+em atividades em 
+andaimes  EPI 
+1 254,38  254,38  30 8,48  
+Trava queda  EPI 1 152,63  152,63  30 5,09  
+Capacete sem aba  EPI 1 61,05  61,05  30 2,04  
+Ascensor  EPI 1 305,25  305,25  30 10,18  
+Mosquetão oval  EPI 1 61,05  61,05  30 2,04  
+Estribo Um degrau  EPI 1 66,14  66,14  30 2,20  
+Corda semi estática  EPI 1 351,04  351,04  30 11,70  
+VALOR MENSAL  107,18  
+7.9 Materiais e Equipamentos  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  25 
+Para cálculo dos valores de Materiais, utilizaram -se os parâmetros contidos no 
+CADTERC de limpeza. Desta  forma, para efeito de cálculo desse item, foi efetuado 
+levantamento de contratos dos órgãos da administração direta e das empresas 
+controladas pelo Governo do Estado, e adotou -se que a composição do custo do 
+material de limpeza utilizado nos cargos/funçõe s do CADTERC considera a aplicação de 
+coeficiente de 12%  (doze  por cento ), exceto para as funções de Supervisor e Copeiro.  
+7.10 Dia do Trabalhador em Limpeza, Asseio e Conservação  
+Conforme consta na convenção coletiva, será pago anualmente o valor referente 
+a mais um vale -refeição  no dia do trabalhador de asseio conservação.  
+No caso dos Jardineiros, conforme convenção coletiva da categoria, foi previsto 
+o pagamento de horas extraordinárias, com um acréscimo de 50%  (cinquenta por cento)  
+sobre a hora normal para as horas laboradas no dia do trabalhador de manutenção e 
+execução de áreas verdes (16 de maio), quando a data cair em um dia de semana 
+trabalhado.  
+As funções de limpeza  foram atualizad as de acordo com os valores informados 
+na convenção coletiva da categoria para 2025, enquanto a função de jardinagem foi 
+atualizada pelo IPC – FIPE (geral) de 3,72% (três vírgula setenta e dois  por cento), 
+considerando o período de abril de 2024 a janeiro de 2025, tendo como referência o 
+Caderno de  Prestação de Serviços de Manutenção e Conservação de Jardins – Vol. 18 – 
+Data base: Mar./2024 .  
+ 
+Dia do Trabalhador - R$ 
+ Valor Mensal  
+Funções de Limpeza  1,73 
+Jardineiro  2,82 
+7.11 Seguro de Vida  
+Para a função de Jardineiro, conforme a CCT , é facultativo o  pagamento de 
+seguro de vida . Não há previsão de pagamento de seguro  de vida para as funções de 
+limpeza.   
+7.12 Benefício Assiduidade  (não contemplado no orçamento estimativo)  
+O Comunicado Conjunto SEAC-SP - Sindicato das Empresas de Asseio e 
+Conservação no Estado de São Paulo e SIEMACO -SP - Sindicato dos Trabalhadores  das 
+Empresas de Prestação de Serviços de Asseio e Conservação e Limpeza Urbana de São 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  26 
+Paulo, de 17 de março de 2025 instituiu o Benefício Assiduida de para os trabalhadores 
+operacionais da categoria profissional , inclusive os trabalhadores administrativos que 
+laboram nos locais de prestação de serviços e que recebam como salário base até o valor 
+de R$2.542,86  (maior piso salarial da tabela de funções e salários do sindicato) .  
+O benefício tem caráter indenizatório e será pago ao trabalhador que não tenha 
+se ausentado  ao trabalho por motivo de faltas justificadas, faltas injustificadas, 
+afastamentos médicos de qualquer natureza e licença maternida de, exceto no caso das 
+ausências legais, previstas no ordenamento jurídico (Artigo 473 da CLT) , não se 
+confundindo com ausências motivadas por doença e comprovadas por meio de atestado 
+médico.   
+O valor do Benefício Assiduidade será de R$300,00 (trezentos reais) para a 
+jornada de 8 horas diárias , 44 horas semanais, nas jornadas de 12X36 e nas jornadas de 
+trabalho de 6 horas diárias, desde que não haja faltas no período. Os empregados que 
+trabalham em jornada de trabalho de 4 horas diárias terão direito a 50% do valor do 
+benefício, ou seja, R$150, 00 (cento e cinquenta reais) . 
+Embora a C onvenção Coletiva  SEAC X SIEMACO liste algumas funções de forma 
+nominada, a sua aplicação tem efeitos a todas as funções abrangidas na contratação , 
+mesmo que não estejam expressamente indicadas, podendo ser enquadradas na 
+categoria "outras funções". Desta forma, entendeu -se que o benefício assiduidade  é 
+estabelecido de forma ampla e geral a todos os empregados abrangidos pela norma 
+coletiva.   
+O Benefício Assiduidade ainda não foi elencad o no CADTERC  - Prestação de 
+Serviços de Limpeza, Asseio e Conservação Predial até a conclusão deste estudo . Em 
+consulta ao Portal de Compras do Estado de São Paulo  (Cadterc – Portal de Compras)  
+por meio do Fale Conosco obtivemos a seguinte resposta:  
+ “Informamos que ainda estamos avaliando a possibilidade de incluir o 
+Prêmio de Assiduidade nos Estudos de Limpeza, Portaria e Recepção. Por se tratar 
+de um tema sensível, a análise está sendo conduzida pela Diretoria de Normas e 
+Logística Pública, vinculada  à Subsecretaria de Gestão, no âmbito da Secretaria 
+de Gestão e Governo Digital, por meio de sua equipe técnica. Sendo assim, a 
+Secretaria concluirá a decisão sobre a adoção do Prêmio de Assiduidade por 
+ocasião da publicação dos Estudos Técnicos pertinen tes, em 2025 ”. Data: 02 de 
+abril de 2025.  
+Em 03/02/2025, a consultoria técnica “Negócios Públicos” se manifestou nos 
+seguintes termos:  
+“Diante desse quadro, e respondendo de forma objetiva ao questionamento 
+formulado, conclui -se que a entidade não deve repactuar o contrato com o 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  27 
+intuito de incluir o prêmio de assiduidade previsto na nova CCT. Isso porque esse 
+benefício, por não estar amparado em lei, não vincula a Administração Pública, 
+que somente pode arcar com despesas expressamente autorizadas pelo 
+ordenamento jurídico. O mesm o raciocínio se aplica à inclusão desse custo nas 
+planilhas de custos, seja em licitações regidas pela Lei 8.666/93, seja naquelas 
+disciplinadas pela Lei 14.133/21.”  
+Por fim, d evido ao parecer  do GTAJ  nº 875/2025 , recebido em 16/05/2025,  o 
+valor referente ao benefício assiduidade não foi contemplado n a composição de custos  
+do orçamento estimativo . 
+Neste documento, houve a orientação d a impossibilidade de inclusão do 
+benefício assiduidade, com base no a rt. 457, §§2º CLT.  assim como no a rt. 6º da 
+Instrução Normativa nº 05/2017  e no art. 135, §1º da Lei nº 14.133/2021 , além do 
+entendimento da AGU contido no s parecer es nº 00540/2024/NLC/ETRLIC/PGF/AGU  e 
+no parecer nº 00009/2022/COORD/E CJUS/SCOM/CGU/AGU . 
+ 
+8. Benefício e Despesas Indiretas  (BDI)  
+O benefício  e despesas indiretas  é o elemento orçamentário destinado a cobrir 
+todas as despesas da prestação de serviços, segundo critérios claramente definidos, é 
+composto pelos custos e despesas indiretas, lucro bruto e despesas fiscais tais como: 
+PIS, COFINS e ISS QN 
+8.1 Custos e Despesas Indiretas   
+Os Custos  Indiretos são todos os gastos envolvidos diretamente na execução dos 
+serviços, que podem ser caracterizados e quantificados, mas não são passíveis de serem 
+apropriados a uma fase específica, a exemplo de supervisor, preposto para 
+acompanhamento do  contrat o etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, 
+são gastos devidos à estrutura administrativa e à organização da empresa que resultam 
+o rateio entre os diversos contratos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são gastos 
+com seguros legais tais como o seguro de responsabilidade civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  28 
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas/indiretas adotada é de 5,81%  (cinto vírgula 
+oitenta e um por cento) , conforme estudos realizados pelo Caderno de Serviços 
+Terceirizados, sendo 0,50% para cobrir o Seguro Responsabilidade Civil e 5,31%  (cinco 
+vírgula trinta e um por cento)  para remunerar os demais custos e despesas.  
+8.2 Lucro Bruto  
+O lucro  bruto  no BDI é representado por uma taxa incidente sobre o total geral 
+dos custos e despesas, excluídas as despesas fiscais.   
+O lucro  declarado  pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa de lucro bruto adotada é de 7,20%  (sete vírgula vinte por cento)  conforme 
+estudos realizados pelo CADTERC.  
+8.3 Despesas Fiscais  
+As Despesas  Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como 
+PIS, COFINS e ISSQN:  
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio 
+do Servidor Público : são contribuintes do PIS, segundo as regras vigentes, 
+as pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cálculo da 
+contribuição é a receita bruta mensal, assim entendida a totalidade das 
+receitas auferidas pela pessoa jurídica, sendo irrelevante o tipo de atividade 
+por ela exercida e a classificação contábil adotada para as receitas (Art. 1º 
+da Lei Feder al nº 10.637/2002 );  
+A alíquota do PIS/PASEP  1,65%  (um v írgula sessenta e cinco por cento)  (art. 
+2º da Lei Federal nº 10.637, de 2002 ), conforme enquadramento da empresa 
+nos termos da lei.   
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base 
+de cálculo da COFINS é composta pela totalidade das receitas auferidas pela 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  29 
+pessoa jurídica, independentemente da atividade exercida e da classificação 
+contábil das receitas.   
+A alíquota do COFINS é de 7,60%  (sete vírgula sessenta por cento)  (art. 2° da 
+Lei Federal nº 10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato gerador a 
+prestação de serviços constantes da lista anexa à  Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade 
+preponderante do prestador.  
+ 
+Art.3º  O serviço considera -se prestado, e o imposto, devido, no 
+local do estabelecimento prestador ou, na falta do 
+estabelecimento, no local do domicílio do prestador, exceto nas 
+hipóteses previstas nos incisos I a XXV, quando o imposto será 
+devido no loca l: 
+ [...] 
+VII – da execução da limpeza, manutenção e conservação de vias 
+e logradouros públicos, imóveis, chaminés, piscinas, parques, 
+jardins e congêneres, no caso dos serviços descritos no subitem 
+7.10 da lista anexa;  
+[...] 
+Subi tem 7.10 – Limpeza, manutenção e conservação de vias e 
+logradouros públicos, imóveis, chaminés, piscinas, parques, 
+jardins e congêneres.  
+No caso  da prestação de serviços de Limpeza foi utilizada a alíquota de 2% (dois 
+por cento) vigente na Prefeitura  do Município  de São Paulo, inciso II, art. 16, da 
+Lei Municipal nº 13.701, de 24 de dezembro de 2003.  
+A importância da demonstração das alíquotas de BDI torna mais transparente os 
+custos envolvidos na contratação, com a indicação dos percentuais de impostos 
+incidentes, lucro e despesas administrativas. Além de facilitar eventuais ajustes de 
+valores contrat uais, caso haja alteração de alíquotas impostas pela legislação, 
+facilitando a apuração de pedidos de reequilíbrio econômico -financeiro.   
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa  adm. ) 5,81%  
+2 Lucro Bruto (taxa  de lucro)  7,20%  
+3 PIS 1,65%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  30 
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -
+%ISSQN) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+ 
+9. Desconto por Falta sem Reposição e Desconto por Dia Útil Não Trabalhado  
+Nos FERIADOS MUNICIPAIS (dia do início e término do ano do centenário de 
+fundação do Município e feriados religiosos instituídos pela legislação local), ESTADUAIS 
+E NACIONAIS, seguir -se-á a regra geral disposta na CLT que veda o trabalho, exceto em 
+Plantões Judiciário.  
+Nos feriados do Tribunal de Justiça, emendas de Feriados (concedidos pelo de 
+Justiça do Estado de São Paulo) os funcionários /funcionárias da empresa contratada 
+trabalharão nos casos que a Administração solicite expressamente a prestação dos 
+serviços de li mpeza.  
+Quanto à prestação dos serviços no período de RECESSO FORENSE: o recesso 
+forense ocorre no período entre 20 de dezembro a 06 de janeiro (Provimento nº 
+1.948/2012 – Conselho Superior da Magistratura), época em que não há expediente nos 
+prédios do Tribunal d e Justiça, ficando suspensa a prestação dos serviços, exceto: onde 
+houver plantões judiciários; reformas; ou, nos casos que a Administração solicite 
+expressamente a prestação dos serviços de limpeza.  
+Para prédios em geral, a prestação dos serviços ocorrerá até o dia 20 de 
+dezembro, inclusive (ou dia útil posterior, caso a data caia em final de semana), e 
+retornará no dia 06 de janeiro (ou dia útil anterior, caso a data caia em final de semana).  
+Caso os serviços de limpeza predial sejam expressamente solicitados pelo 
+Magistrado / Magistrada, Coordenador / Coordenadora, Diretor / Diretora, a prestação 
+dos serviços deverá ocorrer somente nos dias úteis compreendidos no período de 
+Recesso Forense e s erão executados por funcionários / funcionárias  fixos(as) do quadro 
+habitual.  
+QUANTO AO DESCONTO DOS DIAS ÚTEIS NÃO TRABALHADOS : as empresas 
+Contratadas deverão efetuar o desconto em Nota Fiscal do mês da prestação dos 
+serviços de limpeza predial, referente aos dias úteis não trabalhados.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  31 
+A empresa contratada deverá efetuar o desconto em Nota Fiscal do mês da 
+prestação dos serviços, referente aos dias úteis não trabalhados, efetuando -se o 
+desconto conforme a tabela a seguir . 
+Quanto ao desconto por falta sem reposição, o valor a ser deduzido será integral 
+(valor do posto mensal dividido pelos dias úteis estimados por mês de acordo com a 
+função).  
+Valor Desconto por Funcionário - R$ 
+Código  Descrição  Unidade  Periodicidade  Desconto 
+Falta sem 
+Reposição  Desconto Dia 
+Útil não 
+Trabalhado  ¹ 
+69-0001  Auxiliar de limpeza - diurno - 44 horas 
+semanais (segunda a sexta -feira)  Posto  Mensal   268,41   81,15  
+69-0002  Auxiliar de limpeza - diurno - 24 horas  
+semanais  Posto  Mensal   158,61   39,16  
+69-0003  Auxiliar de limpeza - noturno - 44 
+horas  semanais  Posto  Mensal   313,36   90,04  
+69-0004  Serviço de limpeza - plantonista - 
+domingos e feriados (5 horas)  Plantão - 
+Dom/Fer  Mensal   216,26   54,47  
+69-0013  Limpador(a) de vidros - diurno - 44 
+horas semanais  Posto  Mensal   291,11   84,85  
+69-0014  Limpador(a) de vidros - noturno - 44 
+horas semanais  Posto  Mensal   355,17   97,53  
+69-0015  Limpador(a) de vidros com exposição 
+à risco - diurno - 44 horas semanais  Posto  Mensal   360,60   98,61  
+69-0016  Limpador(a) de vidros com exposição 
+à risco - diurno - 24 horas semanais  Posto  Mensal   215,15   49,77  
+69-0017  Limpador(a) de vidros com exposição 
+à risco - noturno - 44 horas semanais  Posto  Mensal   424,65   111,26  
+69-0018  Jardineiro(a) - 44 horas semanais  Posto  Mensal   301,78   77,99  
+69-0019  Jardineiro(a) - 24 horas semanais  Posto  Mensal   219,39   64,01  
+69-0020  Serviço de Jardineiro  M2 Mensal   -     -    
+69-0021  Serviço de limpeza de vidros com 
+exposição à situação de risco  M2 Trimestral   -     -    
+69-0022  Auxiliar de limpeza área médica - 
+diurno - 44 horas semanais  Posto  Mensal   306,37   88,61  
+69-0025  Serviço de limpeza - plantonista - 
+sábado (5 horas)  Plantão - 
+Sábado  Mensal   171,90   50,55  
+69-0026  Copeiro(a) - diurno - 44 horas 
+semanais  Posto  Mensal   237,44   49,02  
+69-0028  Supervisor(a) de limpeza - diurno - 44 
+horas semanais  Posto  Mensal   312,90   53,26  
+69-0029  Serviço de limpeza de vidros sem 
+exposição à situação de risco  M2 Trimestral   -     -    
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  32 
+69-0030  Serviço de encarregado - plantonista - 
+sábado  Plantão - 
+Sábado  Mensal   213,00   54,18  
+69-0031  Serviço de encarregado - plantonista - 
+domingos e feriados  Plantão - 
+Dom/Fer  Mensal   271,09   59,32  
+69-0032  Auxiliar de limpeza - diurno - 44 horas 
+semanais (segunda a sábado)  Posto  Mensal   230,06   74,82  
+69-0033  Serviço de limpeza - plantonista - 
+recesso judiciário (5 horas)  Plantão - 
+Recesso  Anual   216,26   54,47  
+69-0035  Copeiro(a) - diurno - 24 horas 
+semanais  Posto  Mensal   140,32   20,18  
+69-0037  Agente de Higienização (Tempo 
+Integral) - (40%) - 44 horas semanais  Posto  Mensal   343,12   95,93  
+69-0038  Agente de Higienização (Tempo 
+Integral) - (40%) - 24 horas semanais  Posto  Mensal   233,32   53,95  
+69-0054  Líder até 10 subordinados - diurno - 
+44 horas semanais  Posto  Mensal   287,62   84,38  
+69-0055  Líder até 10 subordinados - noturno - 
+44 horas semanais  Posto  Mensal   336,64   94,08  
+69-0056  Encarregado(a) 11 ou mais 
+subordinados - diurno - 44 horas 
+semanais  Posto  Mensal   332,15   91,95  
+69-0057  Encarregado(a) 11 ou mais 
+subordinados - noturno - 44 horas 
+semanais  Posto  Mensal   390,98   103,58  
+69-0058  Serviço de limpeza - plantonista - (Agente 
+de Higienização - 40%) - sábado - 8 
+horas/dia  Plantão - 
+Sábado  Mensal   327,13   64,26  
+69-0059  Serviço de limpeza - plantonista - 
+(Agente de Higienização - 40%) - 
+domingos e feriados - 8 horas/dia  Plantão - 
+Dom/Fer  Mensal   423,14   72,75  
+69-0062  Agente de Higienização (Tempo 
+Integral) - (40%) - 44 horas semanais - 
+noturno  Posto  Mensal   403,97   107,96  
+69-0063  Auxiliar de Limpeza, com adicional de 
+acúmulo de função - diurno - 44 horas 
+semanais  Posto  Mensal   310,67   89,52  
+69-0064  Auxiliar de Limpeza, com adicional de 
+acúmulo de função - diurno - 24 horas 
+semanais  Posto  Mensal   183,96   44,18  
+69-0065  Serviço de limpeza - plantonista - 
+domingos (8 horas)  Plantão - 
+Dom/Fer  Mensal   251,77   57,62  
+69-0066  Serviço de limpeza - plantonista - 
+sábados (8 horas)  Plantão - 
+Sábado  Mensal   322,73   63,88  
+¹ Desconto Dia Útil Não Trabalhado  = [(vale refeição/dias estimados no mês) + 
+(vale transporte/dias estimados) + (materiais e equipamentos/dias estimados) + (total 
+da mão de obra * percentual do custo total com reposição de profissional ausente)] * 
+(1+percentual do BDI)  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+SAAB  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+SAAB  5 – Diretoria de Licitações e Suprimentos  
+  33 
+ 
+10. Quantidade de Dias Úteis Estimados por Mês  
+Para o presente estudo, a quantidade de dias úteis estimados por mês foi de  
+21,00 (vinte e um ) dias/mês  para as funções que exercem trabalho de segunda -feira  a 
+sexta -feira  e 25,33 (vinte e cinco vírgula trinta e três ) dias/mês  para as funções que 
+exercem trabalho de segunda -feira  a sábado.  
+ 
+ 
+ 
+ 
+ 

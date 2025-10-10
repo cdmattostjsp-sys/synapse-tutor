@@ -1,0 +1,215 @@
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+
+■ SECRETARIA DE ADMINISTRAÇÃO E ABASTECIMENTO	
+
+
+
+PROCESSO  Nº    :
+
+2025/103757
+
+INTERESSADO    :
+
+SAAB 4 – Diretoria das Regiões Administrativas
+
+ASSUNTO             :
+
+	Análise crítica dos documentos elaborados pela SAAB 4 – Registro de Preços para fornecimento, instalação e substituição de aparelhos de ar-condicionado tipo split.
+
+	
+
+
+
+Referência: Estudo Técnico Preliminar (ETP), Termo de Referência (TR) – Anexo I, Planilhas de Quantitativos (Substituição e Novos).
+
+
+
+1. Introdução
+
+Esta Nota Técnica tem por finalidade apresentar análise crítica dos documentos elaborados pela SAAB 4, referentes à futura contratação de fornecimento e instalação de equipamentos de climatização, no âmbito das Regiões Administrativas Judiciárias (RAJs) do TJSP.
+
+A análise foi realizada com base na Lei nº 14.133/2021, no Decreto Estadual nº 67.381/2022, no Provimento CSM nº 2.724/2023, bem como nos modelos e diretrizes institucionais do TJSP.
+
+2. Análise por Documento
+
+2.1 Estudo Técnico Preliminar (ETP) – Revisado
+
+Pontos fortes
+
+Estrutura compatível com o modelo institucional TJSP.
+
+Integração ao Plano de Contratações Anual (PCA).
+
+Alinhamento às diretrizes do TCE/SP, especialmente quanto à padronização.
+
+Pontos críticos e sugestões
+
+Pesquisa de preços – ausência de memória de cálculo detalhada
+
+Risco: apontamento pelo TCE/SP por insuficiência metodológica.
+
+Sugestão de adequação:
+
+“A estimativa de preços foi obtida a partir de três fontes: (i) Boletim Referencial da CDHU – edição [mês/ano]; (ii) contratações recentes registradas no PNCP (ex.: Pregão Eletrônico TRT/GO nº xxx/2024); e (iii) cotações formais junto a fornecedores locais. Valores destoantes superiores a 30% da média foram desconsiderados, nos termos do art. 23, §1º, da Lei 14.133/2021.”
+
+Base legal:
+
+Art. 23, §1º, Lei nº 14.133/2021:
+
+“As estimativas de preços poderão ser obtidas por meio de: (...) II – pesquisa publicada em mídia especializada, em sítio eletrônico especializado ou em portal de compras governamentais; III – pesquisa com os fornecedores.”
+
+Reserva técnica de 50%
+
+Risco: interpretação de superdimensionamento.
+
+Sugestão de adequação:
+
+“O percentual de 50% (cinquenta por cento) de reserva técnica foi definido com base em dados históricos de falhas e substituições nos últimos cinco anos, especialmente nas RAJs 4 (Campinas) e 6 (Ribeirão Preto), que concentram maior número de prédios e equipamentos instalados. Tal medida busca prevenir a paralisação de atividades essenciais em caso de falhas súbitas, atendendo ao disposto no art. 18, III, da Lei nº 14.133/2021.”
+
+Base legal: Art. 18, III, Lei nº 14.133/2021:
+
+“O planejamento da contratação deverá demonstrar: (...) III – a quantidade a ser contratada, considerada a interdependência com outras contratações e a possibilidade de ganho de escala.”
+
+
+
+
+
+
+
+Sustentabilidade e descarte ambiental
+
+Risco: ausência de mecanismos de comprovação.
+
+Sugestão de adequação:
+
+“A contratada deverá apresentar, semestralmente, relatório de logística reversa relativo ao descarte de equipamentos inservíveis e fluidos refrigerantes, em conformidade com a Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010), sob pena de aplicação das penalidades previstas no contrato.”
+
+2.2 Termo de Referência (TR) – Anexo I
+
+Pontos fortes
+
+Especificações técnicas detalhadas (ABNT/NBR).
+
+Cláusulas de glosa progressiva (3% a 10%).
+
+Previsão de garantias mínimas e suporte técnico regionalizado.
+
+Pontos críticos e sugestões
+
+Dispensa de vistoria prévia
+
+Risco: ausência de vistoria pode gerar problemas de execução em locais com restrições estruturais.
+
+Sugestão de inserção – Local: Seção “Condições de Execução dos Serviços”:
+
+“Apesar de dispensada a vistoria presencial, a contratada deverá apresentar, previamente ao início da execução, declaração técnica circunstanciada, acompanhada da devida ART/CRT assinada por profissional habilitado, atestando que tomou pleno conhecimento das condições locais e de infraestrutura necessárias para a instalação dos equipamentos. A falsidade ou omissão em tal declaração implicará responsabilização integral da contratada pelos prejuízos decorrentes, sem prejuízo da aplicação das penalidades previstas na Lei nº 14.133/2021.”
+
+
+
+Intervenções em elementos estruturais (trecho submetido à engenharia)
+
+Risco: impacto em lajes, vigas ou pilares.
+
+Sugestão de inserção – Local: item de “responsabilidade da contratada por adaptações civis e elétricas”:
+
+“Qualquer intervenção que envolva furos, cortes ou alterações em elementos estruturais (lajes, vigas, pilares ou paredes estruturais) dependerá de prévia análise técnica por engenheiro civil habilitado, com emissão de ART específica, devendo o laudo ser submetido à aprovação da área de engenharia do TJSP antes da execução. A contratada será integralmente responsável por quaisquer danos decorrentes da inobservância desta condição.”
+
+
+
+Critério de julgamento – exequibilidade
+
+Risco: propostas inexequíveis.
+
+Sugestão de inserção – Local: “Critérios de Julgamento”:
+
+“Nos termos do art. 59, §3º, da Lei nº 14.133/2021, a Administração exigirá comprovação da exequibilidade das propostas cujo valor global ou unitário seja inferior a 75% do valor de referência estimado, cabendo à licitante comprovar, de forma objetiva, a viabilidade da execução.”
+
+Base legal:
+
+Art. 59, §3º, Lei nº 14.133/2021:
+
+“Considera-se inexequível a proposta cujo valor seja inferior a 75% do valor de referência ou que não apresente condições de viabilidade técnica e econômica.”
+
+
+
+
+
+
+
+Garantia de apenas 1 ano
+
+Risco: desalinhamento com práticas de mercado.
+
+Sugestão: ampliar para 2 anos em compressores e peças principais.
+
+Subcontratação
+
+Risco: vedação absoluta pode restringir competitividade.
+
+Sugestão: permitir subcontratação parcial de serviços especializados, mediante autorização expressa do TJSP.
+
+
+
+2.3 Planilhas de Quantitativos
+
+Pontos fortes
+
+As planilhas de substituição e novos equipamentos apresentam compatibilidade com os totais indicados no ETP e TR.
+
+A distribuição entre RAJs é proporcional à realidade de cada região administrativa, refletindo a heterogeneidade de prédios e comarcas – especialmente em Campinas (RAJ 4) e Ribeirão Preto (RAJ 6), que concentram maior densidade predial no interior.
+
+A lógica de proporcionalidade já está implícita no levantamento realizado, o que afasta a necessidade de justificativa específica para eventuais concentrações regionais.
+
+Pontos críticos e sugestões
+
+Memória de cálculo – detalhamento insuficiente
+
+Embora haja compatibilidade global, o documento não explicita a rastreabilidade dos quantitativos por RAJ.
+
+Sugestão de inserção no ETP – Seção “Estimativa de Quantidades”:
+
+“As quantidades previstas por RAJ foram definidas a partir de levantamento detalhado do parque de equipamentos atualmente instalado, considerando o número de prédios e comarcas atendidos, bem como o histórico de manutenções corretivas e substituições realizadas nos últimos cinco anos.
+
+A título exemplificativo, em 2023, a RAJ 4 (Campinas) registrou 312 atendimentos de manutenção corretiva, dos quais 140 resultaram em descarte definitivo de equipamentos. Já a RAJ 6 (Ribeirão Preto) apresentou 280 atendimentos, com 120 substituições definitivas. Esses dados demonstram a necessidade de maior previsão nessas regiões, que concentram o maior número de prédios no interior do Estado.
+
+Assim, os quantitativos apresentados não são homogêneos entre as RAJs, mas proporcionais à realidade específica de cada uma, em conformidade com o art. 18, III, da Lei nº 14.133/2021.”
+
+
+
+3. Cenários de Risco Identificados
+
+Controle externo (TCE/SP): questionamento de superdimensionamento e ausência de memória de cálculo detalhada.
+
+Competitividade: restrição excessiva pela vedação de subcontratação.
+
+Execução contratual: risco de litígios por adaptações estruturais não precedidas de laudo.
+
+Ambiental: ausência de relatórios de logística reversa.
+
+Garantia: insuficiência do prazo mínimo de 1 ano.
+
+
+
+4. Conclusão
+
+Os documentos analisados estão em conformidade geral com a Lei nº 14.133/2021 e com os normativos internos do TJSP. Entretanto, ajustes pontuais são recomendáveis para fortalecer a fundamentação técnica, reduzir riscos de impugnações e assegurar maior robustez jurídica e administrativa.
+
+
+
+As sugestões apresentadas nesta Nota Técnica, especialmente aquelas com trechos prontos para inserção nos documentos (ETP e TR), buscam contribuir para a melhoria da segurança contratual e da transparência do processo, preservando a legalidade e a economicidade da contratação.
+
+
+
+
+
+Fábio Makoto Tagliaferro Yokoyama
+
+Secretário de Administração e Abastecimento
+
+(assinado digitalmente)
+
+
+
+1
+
+1

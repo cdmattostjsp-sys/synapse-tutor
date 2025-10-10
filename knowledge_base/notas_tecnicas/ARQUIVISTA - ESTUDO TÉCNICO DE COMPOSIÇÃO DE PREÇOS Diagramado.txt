@@ -1,0 +1,703 @@
+ 
+   
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de serviços de profissional graduado em 
+arquivologia |Agosto 2022  | 
+ 
+ TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento   SAAB  Prestação de serviços de Profissional graduado em  
+arquivologia | 2021 | 
+ 
+| 2021 | 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisição e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  e Pesquisa de Preços  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamento e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , Orçamento 
+e Catalogação  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , Orçamento 
+e Catalogação  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 Sumário  
+1. Tabela de Valores Referenciais – Agosto/2022  ................................ .............................  3 
+2. Fonte de Pesquisa  ................................ ................................ ................................ ...........  3 
+3. Jornada de Trabalho  ................................ ................................ ................................ .......  4 
+4. Parâmetros de Cálculo  ................................ ................................ ................................ .... 4 
+5. Módulo I – Remuneração  ................................ ................................ ...............................  4 
+6. Encargos Previdenciários e Trabalhistas  ................................ ................................ ........  4 
+6.1 Módulo II – Encargos Previdenciários e FGTS  ................................ ................................ ...... 4 
+6.2 Módulo III - 13º Salário e Adicional de Férias ................................ ................................ .......  6 
+6.3 Módulo IV - Afastamento Maternidade  ................................ ................................ ...............  7 
+6.4 Módulo V - Provisão para Rescisão  ................................ ................................ ......................  7 
+6.5 Módulo VI - Multa de FGTS  ................................ ................................ ................................ .. 9 
+6.6 Módulo VII - Custo de Reposição do Profissional Ausente  ................................ ................  10 
+7. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ................................ ..... 11 
+7.1 Assistência Médica  ................................ ................................ ................................ .............  12 
+7.2 As sistência Odontológica  ................................ ................................ ................................ .... 12 
+7.3 Cesta Básica/Auxílio Alimentação  ................................ ................................ ......................  12 
+7.4 Norma Regulamentadora Nº 07  ................................ ................................ .........................  12 
+7.5 Materiais e Equipamentos  ................................ ................................ ................................ .. 13 
+7.6 Seguro de Vida  ................................ ................................ ................................ ....................  13 
+7.7 Uniformes  ................................ ................................ ................................ ...........................  13 
+7.8 Vale Refei ção ................................ ................................ ................................ ......................  14 
+7.9 Vale Transporte  ................................ ................................ ................................ ..................  14 
+7.10 Auxílio Creche  ................................ ................................ ................................ ...................  14 
+8. Benefício e Despesas Indiretas  (BDI) ................................ ................................ ............  15 
+8.1 Custos e Despesas Indiretas  ................................ ................................ ...............................  15 
+8.2 Lucro Bruto  ................................ ................................ ................................ .........................  16 
+8.3 Despesas Fiscais  ................................ ................................ ................................ ..................  16 
+9. Desconto dia útil não trabalhado e falta sem reposição.  ................................ ...........  18 
+10. Cálculo dos dias úteis estimados por mês  ................................ ................................ ... 20 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 1. Tabela de Valores Referenciais – Agosto /202 2 
+ 
+2. Fonte de Pesquisa   
+Para os cálculos de composição de preços da função de Arquivista , 
+foram considerados os valores referentes aos pisos normativos da categoria 
+profissional conforme acordo coletivo em vigor firmado entre o SINDICATO DOS 
+BIBLIOTECÁRIOS, CIENTISTAS DA INFORMAÇ ÃO, HISTORIADORES, MUSEÓLOGOS, 
+DOCUMENTALISTAS, ARQUIVISTAS, AUXILIARES DE BIBLIOTECA E CENTROS DE 
+DOCUMENTAÇÃO NO ESTADO DE SÃO PAULO - SINBIESP  E A FEDERAÇÃO DO 
+COMÉRCIO DE BENS, SERVIÇOS E TURISMO DO ESTADO DE SÃO PAULO - 
+FECOMERCIO SP , com vigência no período de 01º de setembro  de 20 21 a 31 de agosto 
+de 202 2.  
+Piso Normativo Salarial SINBIESP - Nível 
+Superior  R$ 3. 580,00  
+ 
+Tendo em vista que o SINBIESP não prevê em sua Convenção Coletiva 
+de Trabalho valores específicos para os benefícios dos trabalhadores, adotou -se como 
+premissa para fins de estimativa do valor referencial da contratação os benefícios 
+contidos na convenção coletiva do SINDEEPRES .  
+Para os valores de referência dos Uniformes  foram utilizados os 
+parâmetros adotados no Caderno de Serviços Terceirizados - CADTERC.  
+Para o cálculo do BDI – Benefícios e Despesas Indiretas , adotou -se o 
+padrão existente nas publicações do CADTERC, totalizando um valor de 27,81%.  
+ 
+ Código  Descrição  Unidade  Valor mensal  
+ Arquivista  Mensal  R$ 8.746, 13 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 3. Jornada de Trabalho  
+A jornada de trabalho será de 40 horas semanais, de segunda a sexta, 
+no horário compreendido entre 09:00 e 19:00 horas, com 1 hora de intervalo para 
+almoço.  
+4. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e  não devem ser alterados pela 
+licitante quando da elaboração da proposta.  
+Para todos os cálculos foram utilizados o critério de arredondamento 
+matemático com 2 dígitos.  
+5. Módulo I – Remuneração  
+Item  Descrição  Valor  
+R$ 
+1 Salário Normativo Base (SINBIESP)  3.580,00 
+6. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos previdenciários e trabalhistas a ser aplicado ao 
+total da remuneração é de 72,88% conforme demonstrado nos itens 7.1 a 7.6  
+6.1 Módulo II – Encargos Previdenciários e FGTS  
+Os percentuais dos encargos previdenciários e FGTS são estabelecidos pela 
+legislação vigente e correspondem às obrigações que incidem diretamente sobre a 
+folha de pagamento.  
+Item  Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2 SESI/SESC  1,50%  Art. 30 da Lei n. 8.036/1990 e art. 1º da Lei nº 
+8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei n. 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 Lei n. 9.424/1996.  
+ 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso 
+III, da Constituição.  
+7 (RAT x FAP) = RAT 
+Ajustado  3,00%  Lei 8.212/91, Lei 10.666/2009 e Resolução 
+MPS/CNPS nº 1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 
+8.154/1990.  
+Total  36,80%   
+RAT (Riscos Ambientais do Trabalho)  - representa a contribuição da empresa, prevista 
+no inciso II do artigo 22 da Lei 8.212/91, e consiste em percentual que mede o risco da 
+atividade econômica, com base no qual é cobrada a contribuição para financiar os 
+benefícios previdenciários decorrente s do grau de incidência de incapacidade 
+laborativa (GIIL -RAT). A alíquota de contribuição para o RAT será de 1% se a atividade é 
+de risco mínimo; 2% se de risco médio e de 3% se de risco grave, incidentes sobre o 
+total da remuneração paga, devida ou credit ada a qualquer título, no decorrer do mês, 
+aos segurados empregados e trabalhadores avulsos. Havendo exposição do 
+trabalhador a agentes nocivos que permitam a concessão de aposentadoria especial, 
+há acréscimo das alíquotas na forma da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere o desempenho da empresa, dentro da 
+respectiva atividade econômica, relativamente aos acidentes de trabalho ocorridos 
+num determinado período. O FAP consiste num multiplicador variável num intervalo 
+contínuo de c inco décimos (0,5) a dois inteiros (2), aplicado com quatro casas decimais 
+sobre a alíquota RAT.  
+RAT Ajustado  - equivale à alíquota que as empresas terão de recolher, sobre o total 
+das remunerações pagas ou creditadas, no decorrer do mês, aos segurados 
+emp regados e trabalhadores avulsos, a partir de janeiro de 2010, para custear as 
+aposentadorias especiais e aqueles concedidos em razão do grau de incidência de 
+incapacidade laborativa decorrente dos riscos ambientais do trabalho. O cálculo do 
+RAT ajustado é feito mediante a fórmula (RAT x FAP), com aplicação da máxima ou 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 mínima do FAP (0,5 a 2) sobre as alíquotas de RAT (1% a 3%), tendo como resultado 
+um RAT ajustado entre 0,5% a 6%.  
+Observações:  
+a) O percentual de 3% utilizado no item 7 - SAT (RAT x FAP) foi ut ilizado somente 
+para estimativa  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+6.2 Módulo III - 13º Salário e Adicional de Férias  
+Item  Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei 
+nº 4.090/1962 e Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e 
+art. 142 da CLT.  
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+ 
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60 meses, o empregado tem 5 meses de 
+férias e labora em 56 meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que as 
+férias sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do 
+mês.  
+Cálculo: (1/3)*(5/56) = 2,98%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 13º 
+salário mais adicional de férias.  
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 6.3 Módulo IV - Afastamento Maternidade  
+Item  Encargo  % Fundamento legal  
+1 Licença 
+maternidade  0,03%  Art. 7º, inciso XVIII, da CF, regulado pelo art. 72 
+da Lei n. 8.213/1991.  
+2 Encargos sociais 
+incidentes  0,01%  - 
+Total  0,04%   
+ 
+Afastamento Maternidade:  afastamento de 120 dias sem prejuízo da remuneração:  
+a) O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+b) Cabem à empresa a Contribuição Patronal, o FGTS e as provisões relativas ao 13º 
+Salário.  
+c) A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a empresa 
+paga o salá rio maternidade e compensa no pagamento do Imposto de Renda, não 
+sendo necessário o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009)  
+d) De acordo com dados estatísticos do IBGE, a taxa de natalidade brasileira é de 
+1,44%. Estima -se que 10% das emprega das engravidam em cada ano de execução 
+contratual.  
+e) Considerando -se o custo de encargos como sendo 43,41% da remuneração (CPP 
+20,00% + SAT 3,00% + 13º Salário 8,93% + FGTS 8,00% + Multa Rescisória 3,48%) e 
+que a licença -maternidade dure 6 meses, a provisão para este item corresponde a:  
+Cálculo: (1,44% * 10% * 43,31% * 6/12) = 0,03%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+afastamento maternidade:  
+Cálculo: (36,80%) * (0,03%) = 0,01%  
+6.4 Módulo V - Provisão para Rescisão  
+Item Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  0,42%  §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio 0,03%  - 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 indenizado  
+3 Multa FGTS sobre o aviso prévio indenizado  0,02%  - 
+4 Aviso prévio trabalhado  0,04%  Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso 
+prévio trabalhado  0,01%   
+6 Multa FGTS sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,08%  Art. 9 da lei 7.238, de 
+29 de outubro de 1984  
+Total  0,59%   
+Aviso Prévio indenizado: trata‐se de valor devido ao empregado caso o empregador 
+rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, conforme 
+disposto no §1º do art. 487 da CLT. De acordo com levantamento efetuado em 
+diversos contratos, c erca de 5% do pessoal é demitido pelo empregador, antes do 
+término do contrato de trabalho. (Estudo CNJ – Resolução 098/2009).  
+Cálculo: [(1/12) * 5%] = 0,42%.  
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo ao período 
+de aviso prévio , trabalhado ou não, está sujeito a contribuição para o FGTS. (Súmula 
+TST nº 305).  
+Cálculo: 0,42% * 8% = 0,03%  
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o custo 
+do aviso prévio indenizado (0,42%) é acrescido da multa do FG TS indenizado (40%), 
+que incide sobre a alíquota do FGTS (8%) aplicada sobre o custo de referência para o 
+aviso indenizado (0,42%).  
+Cálculo: 0,42%*8%*40%=0,02%  
+Aviso prévio trabalhado: corresponde ao valor repassado para pagar ao funcionário 
+enquanto este não trabalha, pois ele percebe o salário referente a 30 dias de serviço, 
+dos quais sete ele tem direito a ausentar‐se para procurar outro emprego ou, se 
+preferir, trabalhar duas horas a menos por dia durante o mês. Cercade 2,00% dos 
+trabalhadores cumprem d ispensa por aviso -prévio trabalhado.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 Cálculo: 1/30/12*7*2%= 0,04%  
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre 
+oaviso prévio trabalhado:  
+Cálculo: (0,04%) * (36,80%) = 0,01%  
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o custo do 
+aviso prévio trabalhado (0,04%) é acrescido da multa do FGTS trabalhado (40%), que 
+incide sobre a alíquota do FGTS (8%) aplicada sobre o custo de referência para o aviso 
+indenizado (0,01%).  
+Cálculo: 0,04%*8%*40%=0,0 0% 
+Indenização Adicional:  corresponde a uma remuneração mensal para o funcionário 
+demitido sem a apresentação de justa causa, no período de 30 dias antes da data de 
+correção salarial de sua classe profissional, de acordo com o artigo 9 da lei 7.238, de 29  
+de outubro de 1984, ocorrendo em cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+6.5 Módulo VI - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de 
+Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+ 
+O § 1º, do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de 
+despedida pelo empregador sem justa causa, depositará este, na conta vinculada do 
+trabalhador no FGTS, importância igual a quarenta por cento do montante de todos os 
+depósitos realizados na conta vinculada durante a vigência do contrato de trabalho, 
+atualizados monetariamente e acrescidos dos respectivos juros.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 Estima -se que 10% dos empregados pedem demissão (rescisão a pedido 
+do trabalhador), assi m essa penalidade recai sobre os 90% remanescentes. (Estudo CNJ 
+– Resolução 098/2009).  
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+Férias + Adicional de Férias  
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+6.6 Módulo VII - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do profissional ausente 
+deve levar em conta todos os custos para manter o funcionário no posto de trabalho, 
+tais como: salário base acrescido dos adic ionais e encargos, uniformes, custo de 
+rescisão etc., com exceção dos equipamentos.  
+Item  Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,66%  Art. 18 da Lei n. 8.212/1991 e art. 
+476 da CLT  
+3 Licença paternidade  0,02%  - 
+4 Faltas legais  0,82%  - 
+5 Ausência por acidente de 
+trabalho  0,02%  Art. 131 da CLT  
+6 Encargos sociais incidentes  4,22%  - 
+Total  15,66%   
+ 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o 
+pagamento de 13º salário e de um mês de férias. Pode -se determinar a provisão 
+mensal considerando que na duração do contrato de 60 meses o empregado tem 5 
+meses de férias e labora em 56 meses .  
+Cálculo: (5/56) = 8,93%.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 Ausência por doença: esta parcela refere -se aos dias em que o empregado fica doente 
+e a contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, onera a 
+empresa com até 15 ausências do empregado por motivo de acidente ou doença 
+atestada pelo INSS. Entende -se que devem ser adotados 5,96 dias, conforme consta do 
+memorial convertendo esses dias em mês e depois dividi -lo pelo número de meses no 
+ano.  
+Cálculo: (5,96/30) * (1/12) = 1,66%  
+Licença Paternidade : custo  de ausência do trabalhador pelo período de cinco dias. 
+Criada pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT. Taxa de 
+natalidade de 1,42%conforme dados do IBGE ano de 2015.  
+Cálculo: ((5/30) /12) * 1,42%= 0,02%  
+Ausência por acidente de tr abalho: o Regulamento Geral da Previdência obriga o 
+empregador a assumir o ônus financeiro pelo prazo de 15 dias no caso de acidente de 
+trabalho previsto no art. 131 da CLT. De acordo com o anuário estatístico de acidentes 
+de trabalho publicado pela Secret aria de Previdência Social (2018, mais recente) para o 
+estado de São Paulo, houve 6,88 acidentes para cada 1000 vínculos (0,688%).  
+Fonte: https://www.gov.br/previdencia/pt -br/assuntos/saude -e-seguranca -do-
+trabalhador/dados -de-acidentes -do-trabalho  - página 854 do anuário estatístico de 
+acidentes do trabalho (2018).  
+Cálculo: ((15/30)/12) x 0,688%  = 0,03%  
+7. Módulo VIII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva  
+Os critérios de cálculo dos itens que compõem as obrigações 
+decorrentes de acordo ou convenção coletiva, que por representar patamares mínimos 
+não podem apresentar preços inferiores pela proposta da li citante, com as exceções 
+apontadas nos respectivos itens. Contudo, a indicação de valores maiores não poderá 
+levar à extrapolação do valor total estimado para a contratação.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 7.1 Assistência Médica  
+Não há uma obrigatoriedade de pagamento de assistência médi ca ou 
+auxílio saúde na convenção coletiva do SINBIESP, quanto na convenção coletiva do 
+SINDEEPRES. Desta maneira, não foi alocado valores a título de assistência médica para 
+os trabalhadores.  
+7.2 Assistência Odontológica  
+A conveção coletiva do Sindeepres,  em sua cláusula 26ª, prevê 
+pagamento de assistência odontológica no valor de R$ 23,00 / mês para os 
+funcionários. Haverá possibilidade de realização de desconto de R$ 10,00  por 
+empregado. O valor final considerado no estudo foi de R$ 13,00 / Mês / Funcion ário.  
+7.3 Cesta Básica/Auxílio Alimentação  
+Foi utilizado como referência o valor de R$ 133,86  mensais previsto na 
+Convenção Coletiva Geral do SINDEEPRES.  
+7.4 Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame 
+médico  (admissional, periódico e de demissão). Apesar de não constar expressamente 
+na Convenção Coletiva da Categoria, as empresas terão que arcar com essas despesas.  
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + 
+Valor do exame médico e de  demissão) / Estimativa do tempo de permanência do 
+funcionário em meses] + (Valor do exame médico periódico / 12 meses)} x (Número de 
+funcionários por posto de trabalho + Número de folguistas necessários por mês)  
+Como referência para o presente estudo, ado tou-se o valor contido no 
+Caderno de Serviços Terceirizados – CADTERC  
+ 
+Norma Regulamentadora Nº 07 = R$ 8,54  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 7.5 Materiais e Equipamentos  
+Conforme Termo de Referência, não há previsão para alocação de 
+valores para fins de materiais e equipamentos na contra tação de mão de obra para 
+realização dos serviços de arquivistas.  
+7.6 Seguro de Vida  
+A convenção coletiva de trabalho do SINDEEPRES em sua 25ª cláusula, 
+prevê que as empresas contratarão Seguro de Vida em Grupo para os seus empregados 
+efetivos, mediante a contratação de seguradora de sua livre escolha. O valor é de R$ 
+2,40 / mensais  por trabalhador.  
+7.7 Uniformes  
+A empresa deverá fornecer um conjunto de Uniforme e Crachás aos seus 
+funcionários, a cada 06 seis meses, composto por: 02 camisas pólo, 02 calças,  03 pares 
+de meia, 1 calçado e 1 agasalho. O valor estimado mensal foi de  R$ 72,93 / funcionário . 
+O valor referencial de cada item descrito, foi levantado no Estudo do 
+CADTERC de Portarias , por possuir similaridade com os requisitos dos itens que 
+compõem o kit de uniformes.  
+Descrição  Valor Unitário  Valor Total  
+02 camisas  R$ 63,28  R$ 126,56  
+02 calças  R$ 58,16  R$ 116,32  
+03 pares de meia  R$ 9,92  R$ 29,76  
+1 calçado  R$ 83,78  R$ 83,78  
+1 agasalho  R$ 76,97  R$ 76,97  
+1 crachá  R$ 4,21  R$ 4,21  
+ TOTAL CONJUNTO 
+UNIFORME  R$ 437,60  
+ Valor Mensal/Funcionário  = 437,60 / 6 = R$ 72,93  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 7.8 Vale Refeição  
+   Não há previsão de pagamento de vale refeição na Convenção Coletiva 
+de Trabalho do SINBIESP, no entanto foi utilizado, como referência, o valor de R$ 
+19,59  por dia útil, previsto na Convenção Coletiva Geral do SINDEEPRES.  
+Vale Refeição – custo Mensal  
+Valor Unitário  Desconto do 
+Funcionário  Valor dia  Número de 
+dias 
+estimados  Valor do 
+vale refeição  
+19,59  0,00  19,59  20,92  409,82  
+7.9 Vale Transporte  
+Fica assegurada a concessão de vale -transporte nos termos da legislação 
+vigente, com dedução de 6% sobre o salário base do empregado.  
+ 
+Vale Transporte – custo mensal  
+Função  Valor 
+Unitário  Número de 
+dias estimados  Valor 
+Total  Valor 
+Desconto 
+Empregado  Valor 
+Final  
+Arquivista  9,66  20,92  202,08  214,80  0,00  
+ 
+Cálculo:  
+Valor Mês = Valor Unitário (ida e volta) * Número de Dias 
+estimados  
+Valor Desconto do Funcionário = Salário Base * 0,06  
+Valor do Transporte = Valor Mensal – Valor do Empregado  
+ 
+*Para a função o valor do desconto de 6% do salário supera o valor do vale 
+transporte, desta forma o valor ficou zerado.  
+7.10 Auxílio Creche  
+Conforme convenção coletiva do SINDEEPRES, em sua 24ª cláusula, há 
+previsão de paramento de auxílio creche, limitado a 20% do valor do salário normativo 
+da categoria. Desta maneira, adotou -se um valor de R$ 13,37 /mês , conforme tabela a 
+seguir : 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 Piso Normativo SINDEEPRES (demais 
+funções)  R$ 1.392,95  
+20% - Auxílio Creche  R$ 278,59  
+Índice de incidência 4,8%  R$ 13,37  
+8. Benefício e Despesas Indiretas  (BDI)  
+O benefício e despesas indiretas  é o elemento orçamentário destinado a 
+cobrir todas as despesas da prestação de serviços, segundo critérios claramente 
+definidos, é composto pelos custos e despesas indiretas, lucro bruto e despesas fiscais 
+tais como: PIS, COFINS e ISSQN  
+8.1 Custos e Despesas Indiretas   
+Os Custos In diretos são todos os gastos envolvidos diretamente na 
+execução dos serviços, que podem ser caracterizados e quantificados, mas não são 
+passíveis de serem apropriados a uma fase específica, a exemplo de supervisor, 
+preposto para acompanhamento do  contrato e tc.  
+As Despesas Indiretas, embora associadas à produção, não estão 
+relacionadas especificamente com o serviço, e sim com a natureza de produção da 
+empresa; ou seja, são gastos devidos à estrutura administrativa e à organização da 
+empresa que resultam o ra teio entre os diversos contratos que a empresa detém, a 
+exemplos de:   
+✓ Gastos com a administração central e despesas securitárias, que são 
+gastos com seguros legais tais como o seguro de responsabilidade 
+civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 A taxa de despesas administrativas/indiretas adotada é de 5,81% , 
+conforme estudos realizados pelo Caderno de Serviços Terceirizados – Portarias – 
+Versão 5 – julho/2020, sendo 0,50% para cobrir o Seguro Responsabilidade Civil e 
+5,31% para remunerar  os demais custos e despesas.  
+8.2 Lucro Bruto  
+O lucro bruto no BDI é representado por uma taxa incidente sobre o 
+total geral dos custos e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, 
+torna po ssível a justa remuneração da empresa em decorrência dos serviços 
+prestados.    
+A taxa de lucro bruto adotada é de 7,20% , conforme estudos realizados 
+pelo CADTERC.  
+8.3 Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como 
+PIS, COFINS e ISSQN:  
+a) PIS/PASEP – Programa de Integração Social e de Formação do 
+Patrimônio do Servidor Público :São contribuintes do PIS, segundo as 
+regras vigentes, as pessoas jurídicas de direito privado, de fins 
+lucrativos, e as que são equiparadas pela legislação do Imposto de 
+Renda. A base  de cálculo da contribuição é a receita bruta mensal, 
+assim entendida a t otalidade das receitas auferidas pela pessoa 
+jurídica, sendo irrelevante o tipo de atividade por ela exercida e a 
+classificação contábil adotada para as receitas (Art. 1º da Lei Federal 
+nº 10.637/2002);   
+A alíquota do PIS/PASEP  1,65%  (art. 2º da Lei Federa l nº 10.637, de 
+2002 ), conforme enquadramento da empresa nos termos da lei.   
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 b) COFINS – Contribuição para o Financiamento da Seguridade Social : 
+a base de cálculo da COFINS é composta pela totalidade das receitas 
+auferidas pela pessoa jurídica, independentemente da atividade 
+exercida e da classificação contábil das receitas.   
+A alíquota do COFINS é de 7,60%  (art. 2° da Lei Federal nº 
+10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Dis trito Federal, tem como fato 
+gerador a prestação de serviços constantes da lista anexa à  Lei 
+Complementar 116/2003 , ainda que esses não se constituam como 
+atividade preponderante do pr estador.  
+Art. 3o   O serviço considera -se prestado, e o imposto, 
+devido, no local do estabelecimento prestador ou, na falta 
+do estabelecimento, no local do domicílio do prestador, 
+exceto nas hipóteses previstas nos incisos I a XXV, quando 
+o imposto será de vido no local:  
+ [...] 
+XX – do estabelecimento do tomador da mão -de-obra ou, 
+na falta de estabelecimento, onde ele estiver domiciliado, 
+no caso dos serviços descritos pelo subitem 17.05 da lista 
+anexa:  
+[...] 
+Item 17.05 – Fornecimento de mão -de-obra, mesmo em 
+caráter temporário, inclusive de empregados ou 
+trabalhadores, avulsos ou temporários, contratados pelo 
+prestador de serviço.  
+No caso da prestação de serviços de arquivista foi utilizada a alíquota 
+de 2%, ,  vigente na Prefeitura do Mun icípio de São Paulo, inciso II, 
+art. 16, da Lei  Municipal nº 13.701, de 24 de dezembro de 2003.  
+ 
+A importância  da demonstração das alíquotas de BDI torna mais 
+transparente os custos envolvidos na contratação, com a indicação dos percentuais de 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 impostos incidentes, lucro e despesas administrativas. Além de facilitar eventuais 
+ajustes de valores contratuais, caso ha ja alteração de alíquotas impostas pela 
+legislação, facilitando a apuração de pedidos de reequilíbrio econômico -financeiro.   
+ 
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa_adm)  5,81%  
+2 Lucro Bruto (taxa_lucro)  7,20%  
+3 PIS 1,65%  
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -
+%ISSQN) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+ 
+ 
+9. Desconto dia útil não trabalhado  e falta sem reposição.  
+O recesso forense ocorre no período entre 20 de dezembro a 06 de 
+janeiro (Provimento nº 1.948/2012 – Conselho Superior da Magistratura), época em 
+que não há expediente nos prédios do Tribunal de Justiça ficando suspensa a prestação 
+dos serviços, exceto: onde houver plantões judiciários ou, nos casos em que a 
+Administração solicite expressamente a prestação dos serviços.  
+A emp resa contratada deverá efetuar o desconto em Nota Fiscal do mês 
+da prestação dos serviços, referente aos dias úteis não trabalhados no recesso forense  
+ou em outras ocasiões , efetuando -se o desconto conforme a planilha abaixo:  
+Item  Descrição  Valor do desconto por dia  Valor 
+Desconto R$  
+1 Vale 
+alimentação/refei
+ção (Valor Mensal) / (Dias úteis 
+estimados no mês)  19,59  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 2 Vale transporte  (Valor Mensal) / (Dias úteis 
+estimados no mês)  0,00  
+3 Materiais e 
+equipamentos  (Valor Mensal) / (Dias úteis 
+estimados no mês)  0,00  
+4 Custo de 
+reposição do 
+profissional 
+ausente  (Valor mensal da 
+remuneração) * (%Custo de 
+reposição do profissional 
+ausente – Módulo VII)  26,83  
+Subtotal  Somatória dos itens 1 a 4  46,42  
+5 Benefícios e 
+Despesas Indiretas 
+(BDI)  Subtotal * %DBI (27,81%)  12,90  
+Total de desconto 
+individual por dia  Subtotal + Item 5  59,33  
+ 
+Desconto dia útil não trabalhado  = [(vale refeição/dias estimados no mês) + (vale 
+transporte/dias estimados) + (materiais e equipamentos/dias estimados) + (total da 
+mão de obra * percentual do custo total com reposição de profissional ausente)] * 
+(1+percentual do BDI)  
+O desconto por fal ta sem reposição, se dará pelo cálculo do valor do posto dividido 
+pela quantidade de dias úteis estimado no mês.  
+Desconto falta sem reposição  =  R$ 8.746,13 / 20,92  dias = R$ 418,08  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 10. Cálculo dos dias úteis estimados por mês  
+Para o presente estudo, a quantidade de dias úteis estimados por mês foi de  20,92 
+dias/mês.  
+ 
+ 

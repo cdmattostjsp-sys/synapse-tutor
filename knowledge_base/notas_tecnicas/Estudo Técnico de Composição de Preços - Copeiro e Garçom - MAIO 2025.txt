@@ -1,0 +1,977 @@
+ 
+ fin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Caderno 7 - Prestação de serviços de  garçom/garçonete e 
+copeiro/copeira |Maio |2025| 
+ 
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 
+ 
+Sumário  
+ 
+1. Tabela de Valores Referenciais – maio/ 2025  ................................ ....................  4 
+2. Fonte de Pesquisa  ................................ ................................ ................................  4 
+3. Jornada de Trabalho  ................................ ................................ ............................  5 
+4. Parâmetros de Cálculo  ................................ ................................ .........................  5 
+5. Módulo I – Remuneração* (Salário + Adicionais)  ................................ ...............  5 
+6. Encargos Previdenciários e Trabalhistas  ................................ .............................  6 
+6.1 Módulo I – Encargos Previdenciários e FGTS  ................................ ......................  6 
+6.2 Módulo II - 13º Salário e Adicional de Férias  ................................ ......................  7 
+6.3 Módulo III - Afastamento Maternidade  ................................ ..............................  8 
+6.4 Módulo IV - Provisão para Rescisão  ................................ ................................ .... 9 
+6.5 Módulo V - Multa de FGTS  ................................ ................................ .................  12 
+6.6 Módulo VI - Custo de Reposição do Profissional Ausente  ...............................  13 
+7. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ...........................  14 
+7.1 Vale Refeição  ................................ ................................ ................................ ...... 14 
+7.2 Vale Transporte  ................................ ................................ ................................ .. 15 
+7.3 Assistência Médica Ambulatorial e Odontológica Familiar  .............................  15 
+7.4 Cesta Básica  ................................ ................................ ................................ ........  15 
+7.5 Benefício Social Sindical  ................................ ................................ ....................  16 
+7.6 Auxílio Creche  ................................ ................................ ................................ .... 16 
+7.7 Norma Regulamentadora Nº 07  ................................ ................................ ........  16 
+7.8 Uniformes e Equipamentos de Proteção Individual  ................................ .........  17 
+7.9 Dia do Trabalhador em Limpeza, Asseio e Conservação  ................................ .. 18 
+7.10  Benefício Assiduidade (não contemplado no orçamento estimativo)  ........  18 
+8. Benefício e Despesas Indiretas  (BDI) ................................ ................................ . 20 
+8.1 Custos e Despesas Indiretas  ................................ ................................ ..............  20 
+8.2 Lucro Bruto  ................................ ................................ ................................ .........  21 
+8.3 Despesas Fiscais  ................................ ................................ ................................ . 21 
+9. Desconto por Dia Útil Não Trabalhado e Desconto por dia Útil Não Trabalhado
+ 23 
+10. Quantidade de Dias Úteis Estimados por Mês  ................................ .................  25 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 
+ 
+ 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisições e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Orçamento e 
+Catalogação  
+Marjorie Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , Orçamento 
+e Catalogação  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço Processamento de Análise de Requisições , Orçamento e 
+Catalogação  
+Renata Mateus Teixeira  
+Contador Judiciário - Serviço de Processamento de Análise de Requisições, Orçamentos e 
+Catalogação  
+Andre Tadeu Stocco Golanda  
+Administrador Judiciário - Serviço de Processamento de Análise de Requisições, Orçamentos e 
+Catalogação  
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 
+1. Tabela de Valores Referenciais – maio / 2025  
+CBO  Código  Descrição  Unidade  Periodicidade  Valor Unitário  
+5134 -25 550652  Copeiro/Copeira - diurno - 44 horas 
+semanais  – segunda a sexta -feira  Posto/Dia  Mensal  R$ 255,39   
+5134 -05 550653  Garçom/Garçonete - 44 horas/semanais -
+segunda a sexta -feira  Posto/Dia  Mensal  R$ 254,28  
+ 
+CBO  Código  Descrição  Unidade  Periodicidade  Valor Unitário  
+5134 -25 550652  Copeiro/Copeira - diurno - 44 horas 
+semanais  – segunda a sexta -feira  Posto  Mensal  R$ 5.363,15  
+ 
+5134 -05 550653  Garçom/Garçonete - 44 horas/semanais -
+segunda a sexta -feira  Posto  Mensal  R$ 5.339,86  
+ 
+ 
+2. Fonte de Pesquisa   
+Para os cálculos da funç ão de Copeiro/Copeira , foram considerados os valores 
+referentes aos pisos normativos da categoria profissional conforme convenção coletiva  
+em vigor firmado entre o Sindicato das Empresas de Asseio e Conservação no Estado 
+de São Paulo – SEAC/SP  e o Sindicato dos Trabalhadores em Empresas de Prestação de 
+Serviços de Asseio, Conservação e Limpeza Urbana de São Paulo – SIEMACO , para o s 
+período s de 2024/ 2025 , com vigência de  01 de Janeiro de 202 4 a 31 de Dezembro de 
+2025, data -base 1º de Janeiro , o Termo Aditivo à Convenção Coletiva  2025/2025  
+SEAC/SIEMACO , com vigência de 01 de Janeiro de 2025 a 31 de Dezembro de 2025 e 
+data -base em 1º de Janeiro  e o Comunicado  Conjunto  sobre o benefício assiduidade  
+publicado em 17 de março de 2025.  
+Para os cálculos da função de Garçom/Garçonete , foi realizado um levantamento nas 
+mídias salariais dos sites  www.salarios.com.br, www.cargos.com.br e 
+www.vagas.com.br  que realiza m uma pesquisa nacional de referências salariais junto ao 
+CAGED, E -social e Empregador Web , consultado s em fevereiro  de 202 5. A média salarial  
+desta pesquisa demonstrou que o piso do SIEMACO (para a função de Copeiro/ Copeira) 
+encontra -se alinhado com os parâmetros de mercado encontrados para a função 
+Garçom/ Garçonete. Desta forma, para fins estimativos da cont ratação foi adotado o 
+mesmo piso salarial para ambas as funções.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 
+ 
+Função  www.salario.com.br  www.cargos.com.br  www.vagas.com.br  Média  
+Garçom 44 horas 
+semanais seg a sexta  R$ 1.792,36  R$ 2.060,90  R$ 1 .314,00  R$ 1.722,45  
+ 
+Para elaboração dos cálculos  estimativos  (uniformes, NR 7, auxílio creche) também 
+foram utilizadas algumas referências contidas no CADTERC de Limpeza  e no CADTERC 
+de Recepção . 
+Na elaboração da proposta , a empresa não poderá cotar valor inferior ao piso normativo 
+estabelecido para a categoria profissional envolvida . 
+CBO  Código  Descrição  Salário  
+5134 -05 550653  Prestação de Serviços de Garçom/Garçonete - 44 
+horas/semanais -segunda a sexta -feira   1.729,04  
+5134 -25 690026  Copeiro/Copeira - diurno - 44 horas semanais   1.729,04  
+3. Jornada de Trabalho  
+A jornada de trabalho considerada é de 44 horas semanais e de 220 horas mensais com 
+intervalo para repouso e alimentação de 1 (uma) hora.    
+4. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e não devem ser alterados pela licitante quando da 
+elaboração da proposta.  
+Para todos os cálculos foram utilizados o critério de arredondamento matemático com 
+2 dígitos . 
+A quantidade estimada de dias úteis no mês é de  21 dias conforme demonstrado cálculo 
+no item 10 deste estudo.  
+5. Módulo I – Remuneração* (Salário + Adicionais)  
+Código  Descrição  Remuneração  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 
+550653  Prestação de Serviços de Garçom/Garçonete - 44 
+horas/semanais - segunda a sexta -feira   1.729,04  
+690026  Copeiro/Copeira - diurno - 44 horas semanais   1.729,04  
+6. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos previdenciários e trabalhistas de 77,92 % a ser aplicado ao 
+total da remuneração está demonstrado nos itens 6.1 a 6.6.  
+6.1 Módulo I – Encargos Previdenciários e FGTS  
+Os percentuais dos encargos previdenciários e FGTS são estabelecidos pela 
+legislação vigente e correspondem às obrigações que incidem diretamente sobre a folha 
+de pagamento.  
+Item  Encargo  % Fundamento legal  
+1 Previdência Social  20,00%  Inciso I, da Lei nº 8.212/1991.  
+2 SESI/SESC  1,50%  Art. 30 da Lei nº 8.036/1990 e art. 1º da Lei nº 
+8.154/1990.  
+3 SENAI/SENAC  1,00%  Decreto Lei nº 2.318/1986.  
+4 INCRA  0,20%  Art. 1º, inciso I, do Decreto Lei nº 1.146/1970.  
+5 Salário Educação  2,50%  Art. 3º, inciso I, do Decreto nº 87.043/1982, Lei 
+nº 9.424/1996.  
+ 
+6 FGTS  8,00%  Art. 15 da Lei nº 8.036/1990 e art. 7º, inciso III, 
+da Constituição Federal.  
+7 (RAT x FAP) = RAT 
+Ajustado  3,00%  Lei nº 8.212/91, Lei nº 10.666/2009 e Resolução 
+MPS/CNPS nº 1.308/2009.  
+8  SEBRAE  0,60%  Lei nº 8.029/1990, alterada pela Lei nº 
+8.154/1990.  
+Total  36,80%   
+ 
+RAT (Riscos Ambientais do Trabalho)  - representa a contribuição da empresa, prevista 
+no inciso II do artigo 22 da Lei nº 8.212/91, e consiste em percentual que mede o risco 
+da atividade econômica, com base no qual é cobrada a contribuição para financiar os 
+benefícios previdenciários decorre ntes do grau de incidência de incapacidade laborativa 
+(GIIL -RAT). A alíquota de contribuição para o RAT será de 1% se a atividade é de risco 
+mínimo; 2% se de risco médio e de 3% se de risco grave, incidentes sobre o total da 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 
+remuneração paga, devida ou creditada a qualquer título, no decorrer do mês, aos 
+segurados empregados e trabalhadores avulsos. Havendo exposição do trabalhador a 
+agentes nocivos que permitam a concessão de aposentadoria especial, há acréscimo das 
+alíquotas  na forma da legislação em vigor.  
+FAP (Fator Acidentário de Prevenção)  - afere o desempenho da empresa, dentro da 
+respectiva atividade econômica, relativamente aos acidentes de trabalho ocorridos num 
+determinado período. O FAP consiste num multiplicador variável num intervalo 
+contínuo de cinco décimos (0,5) a dois inteiros ( 2), aplicado com quatro casas decimais 
+sobre a alíquota RAT.  
+RAT Ajustado  - A expressão RAT Ajustado foi criada pela Receita Federal do Brasil (RFB) 
+e equivale à alíquota que as empresas terão de recolher sobre o total das remunerações 
+pagas ou creditadas no decorrer do mês, aos segurados empregados e trabalhadores 
+avulsos a pa rtir de janeiro/2010, para custear as Aposentadorias Especiais e os 
+benefícios concedidos em razão do grau de incidência de incapacidade laborativa 
+decorrente dos riscos ambientais do trabalho. O cálculo do RAT ajustado é feito 
+mediante a fórmu la (RAT x FAP), com aplicação da máxima ou mínima do FAP (0,5 a 2) 
+sobre as alíquotas de RAT (1% a 3%), tendo como resultado um RAT ajustado entre 0,5% 
+a 6%.  
+Observações:  
+a) O percentual de 3% utilizado no item 7 - SAT (RAT x FAP) foi utilizado somente 
+para estimativa.  
+b) Para as empresas optantes pelo regime tributário SIMPLES, as contribuições 
+incidentes são apenas a Previdência Social, FGTS e RAT ajustado.  
+6.2 Módulo II - 13º Salário e Adicional de Férias  
+Item  Encargo  % Fundamento legal  
+1 13º Salário  8,93%  Art. 7º, inciso VIII, da Constituição Federal, Lei nº 
+4.090/1962 e Lei nº 7.787/1989.  
+2 Abono de Férias  2,98%  Inciso XVII do art. 7º da Constituição Federal e art. 
+142 da CLT.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 
+3 Encargos sociais 
+incidentes  4,38%  - 
+Total  16,29%   
+ 
+13º Salário  - Gratificação de Natal - pode -se determinar a provisão mensal 
+considerando, que na duração do contrato de 60 meses, o empregado tem 5 meses de 
+férias e labora em 56 meses.  
+Cálculo: (5/56) = 8,93%.  
+Abono de Férias  - A Constituição Federal, em seu art. 7º, inciso XVII, prevê que as férias 
+sejam pagas com adicional de, pelo menos, 1/3 (um terço) da remuneração do mês.  
+Cálculo: (1/3)*(5/56) = 2,98%.  
+Encargos incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 13º 
+salário mais adicional de férias.  
+Cálculo: (8,93%+2,98%) * 36,8% = 4,38%  
+6.3 Módulo III - Afastamento Maternidade  
+Item  Encargo  % Fundamento legal  
+1 Encargos sociais 
+incidentes  sobre o 
+afastamento 
+maternidade  0,08% - 
+Total  0,08%  
+ 
+Afastamento Maternidade:  afastamento de 120 dias sem prejuízo da remuneração:  
+Afastamento maternidade: Artigo 7º, XXI, da CF/1988, art. 392 da CLT; Lei 13.467/2017. 
+Não considerada a prorrogação facultada pela Lei 11.770/2008 (Empresa Cidadã).  
+O salário é custeado pelo Instituto Nacional de Seguridade Social - INSS.  
+Durante esse período, a empregada recebe o salário -maternidade, que é pago pelo INSS, 
+e não pela empresa. O valor correspondente à licença -maternidade é repassado à 
+trabalhadora pela Previdência Social, seja diretamente ou por meio da empresa, que 
+posterio rmente compensa o valor pago com as contribuições ao INSS.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 
+A Lei n. 11.770/2008 preconiza a prorrogação por 60 dias. Nesse caso, a empresa paga 
+o salário maternidade e compensa no pagamento do Imposto de Renda, não sendo 
+necessário o desembolso pelo órgão. (Estudo CNJ – Resolução 098/2009).  
+Incidência do FGTS sobre o afastamento maternidade: 8% * 0,9440% = 0,08%  
+ 
+Afastamento do emprego – Licença -maternidade – Fonte: CADTERC  
+Dias de afastamento  120 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de afastamento  81,5254 dias  
+Proporção de mulheres na categoria profissional  64,5890%  
+Proporção de mulheres aptas a procriar na categoria profissional 
+em análise  70,9100%  
+Percentual de fecundidade das mulheres entre 21 e 49 anos  5,5714%  
+Dias efetivos de afastamento por licença -maternidade no ano  2,0803  
+Total de dias efetivamente trabalhados no ano  220,2768  
+ % de Licença -Maternidade  0,9440%  
+ 
+6.4 Módulo IV - Provisão para Rescisão  
+Item  Encargo  % Fundamento legal  
+1 Aviso prévio indenizado  4,0810 % §1º do art. 487 da CLT  
+2 Incidência FGTS sobre o aviso prévio 
+indenizado  0,33% - 
+3 Multa FGTS sobre o aviso prévio indenizado  0,13% - 
+4 Aviso prévio trabalhado  0,01% Art. 488 da CLT  
+5 Encargos sociais incidentes sobre aviso prévio 
+trabalhado  0,00%  
+6 Multa FGTS sobre o aviso prévio trabalhado  0,00%   
+7 Indenização Adicional  0,08%  Art. 9 da lei  nº 7.238, 
+de 29 de outubro de 
+1984  
+8 Multa FGTS sobre os depósitos do FGTS  0,92%   
+Total  5,55 %  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 
+Aviso Prévio indenizado: trata‐se de valor devido ao empregado caso o empregador 
+rescinda o contrato sem justo motivo e sem lhe conceder aviso prévio, conforme 
+disposto no §1º do art. 487 da CLT. De acordo com o Anexo VII da IN nº 05, de 26 de 
+maio de 2017 a proporção de trabalhadores que cumprem aviso -prévio indenizado é 
+98%. 
+Aviso -prévio indenizado – Fonte: CADTERC  
+Proporção de trabalhadores que cumprem aviso -
+prévio indenizado  98%  
+Proporção de demissões sem justa causa no ano  27,7988%  
+Duração do aviso -prévio – Lei 12.506/2011 (dias)  33 dias  
+Total de dias efetivamente trabalhados no ano  220,2768  
+ % de aviso -prévio indenizado  4,0810%  
+  
+Incidência do FGTS sobre aviso prévio indenizado: O pagamento relativo ao período de 
+aviso prévio, trabalhado ou não, está sujeito a contribuição para o FGTS. (Súmula TST nº 
+305).  
+Cálculo: 4,0810%* 8% = 0,33%  
+Multa do FGTS sobre aviso prévio indenizado: no cálculo dos valores limites o custo do 
+aviso prévio indenizado 0,42% (zero vírgula quarenta e dois por cento) é acrescido da 
+multa do FGTS indenizado 40% (quarenta por cento), que incide sobre a alíquota do 
+FGTS 8% (oito por cento) aplicada sobre o custo de referência para o aviso indenizado 
+0,42% (zero vírgula quarenta e dois por cento).  
+Cálculo: 4,0810%*8%*40%=0,13%  
+Aviso -prévio trabalhado: corresponde ao valor repassado para pagar ao funcionário 
+enquanto este não trabalha, pois ele percebe o salário referente a 30 dias de serviço, 
+dos quais sete ele tem direito a ausentar‐se para procurar outro emprego ou, se preferir, 
+trabalhar duas horas a  menos por dia durante o mês (não há prejuízo da remuneração). 
+Cerca de 2,00% dos trabalhadores cumprem dispensa por aviso -prévio trabalhado, 
+conforme norma Anexo VII da IN nº 05, de 26 de maio de 2017.  
+Aviso -prévio trabalhado – Fonte: CADTERC  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 
+Dias de ausências facultadas ao empregado no 
+cumprimento de aviso -prévio trabalhado  7 dias  
+Fator de dias de trabalho por dias corridos  0,6794  
+Dias efetivos de ausência por aviso -prévio  4,7556 dias  
+Percentual de aviso -prévio trabalhado  2% 
+Proporção de demissões sem justa causa no ano  27,7988%  
+Dias efetivos de afastamento por cumprimento do 
+aviso -prévio trabalhado no ano  0,0264  
+ % de aviso -prévio trabalhado  0,01%  
+  
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+aviso -prévio trabalhado:  
+Cálculo: (0,01%) * (36,80%) = 0,001% = ~ 0,00%  
+Aviso prévio trabalhado: corresponde ao valor repassado para pagar ao funcionário 
+enquanto este não trabalha, pois ele percebe o salário referente a 30 dias de serviço, 
+dos quais sete ele tem direito a ausentar‐se para procurar outro emprego ou, se preferir, 
+trabalhar duas horas a  menos por dia durante o mês. Aproximadamente 2,00% (dois por 
+cento) dos trabalhadores cumprem dispensa por aviso -prévio trabalhado.  
+Aviso prévio trabalhado = (Número de faltas em aviso -prévio trabalhado) * (Fator de 
+dias de trabalho por dias corridos) * (Percentual de aviso -prévio trabalhado) * 
+(Proporção de demissões sem justa causa no ano) / (Total de dias efetivamente 
+trabalhados po r ano).  
+Cálculo: 7 * 0,67942% * 27,7988% / 220,2768 = 0,01%  
+Encargos sociais incidentes: Aplicação dos encargos previdenciários e o FGTS sobre o 
+aviso prévio trabalhado:  
+Cálculo: 0,01% * 36,80% = 0,00%  
+Multa FGTS sobre o aviso prévio trabalhado: no cálculo dos valores limites o custo do 
+aviso prévio trabalhado 0,04% (zero vírgula quatro por cento) é acrescido da multa do 
+FGTS trabalhado 40% (quarenta por cento), que incide sobre a alíquota do FGTS 8% (oito 
+por cento) aplicada sobre o custo de refe rência para o aviso indenizado 0,01% (zero 
+vírgula um por cento).  
+Cálculo: 0,01%*8%*40%=0,00%   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 
+Indenização Adicional:  Art. 9º da Lei nº 7.238, de 29 de outubro de 1984 - O empregado 
+dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a data de sua 
+correção salarial, terá direito à indenização adicional equivalente a um salário mensal. 
+O índice de ocorrência deste fato é cerca de 1% dos trabalhadores.  
+Cálculo: 1%*(1/12) = 0,08%  
+Multa FGTS sobre os depósitos do FGTS: aplicação da multa do FGTS sobre os depósitos 
+de FGTS para afastamento maternidade 0,94% (zero vírgula noventa e quatro por 
+cento), ausência por enfermidade ≤ 15 dias 1,54% (um vírgula cinquenta e quatro por 
+cento), licença -paternidade 0,03% (zero vírgula zero três por cento), faltas legais 0,91% 
+(zero vírgula noventa e um por cento) e acidentes de trabalho 0,08% (zero vírgula zero 
+oito por cento).  
+Cálculo: 8%*40%*27,7988%*(1+(0,94%+1,54%+0,03%+0,91%+0,08%)) = 0,92%  
+6.5 Módulo V - Multa de FGTS  
+Item  Encargo  % Fundamento legal  
+1 Remuneração  2,88%  § 1º, artigo 18, da Lei 8.036/90  
+2 Férias + Adicional de 
+Férias  0,34%  - 
+3 13º Salário  0,26%  - 
+Total  3,48%   
+ 
+O § 1º do artigo 18, da Lei nº 8.036/90 estabelece que na hipótese de despedida pelo 
+empregador sem justa causa, depositará este, na conta vinculada do trabalhador no 
+FGTS, importância igual a quarenta por cento do montante de todos os depósitos 
+realizados na conta vinculada durante a vigência do contrato de trab alho, atualizados 
+monetariamente e acrescidos dos respectivos juros.  
+Estima -se que 10% dos empregados pedem demissão (rescisão a pedido do trabalhador), 
+assim essa penalidade recai sobre os 90% remanescentes. (Estudo CNJ – Resolução nº 
+098/2009).  
+Remuneração  
+Cálculo: (1*8%*40%*90%) = 2,88%  
+Férias + Adicional de Férias  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 
+Cálculo: (8,93%+2,98%)*8%*40%*90% = 0,34%  
+13º Salário  
+Cálculo: 8,93%*8%*40%*90% = 0,26%  
+6.6 Módulo VI - Custo de Reposição do Profissional Ausente  
+O valor de referência para o cálculo de reposição do profissional ausente deve levar em 
+conta todos os custos para manter o funcionário no posto de trabalho, tais como: salário 
+base acrescido dos adicionais e encargos, uniformes, custo de rescisão etc., com exceção 
+dos equipamentos.  
+Item  Encargo  % Fundamento legal  
+1 Férias  8,93%  - 
+2 Ausência por doença  1,54% Art. 18 da Lei nº 8.212/1991 e art. 476 
+da CLT  
+3 Licença paternidade  0,03% - 
+4 Faltas legais  0,91% - 
+5 Ausência por acidente de 
+trabalho  0,08% Art. 131 da CLT  
+6 Encargos sociais incidentes  4,23% - 
+Total  15,72%  
+ 
+Férias: a cada ano são pagos ao empregado, além da remuneração mensal, o pagamento 
+de 13º salário e de um mês de férias. Pode -se determinar a provisão mensal 
+considerando que na duração do contrato de 60 meses o empregado tem 5 meses de 
+férias e labora em 56 meses .  
+Cálculo: (5/56) = 8,93%.  
+Ausência por doença: esta parcela refere -se aos dias em que o empregado fica doente 
+e a Contratada deve providenciar sua substituição. O inciso III, art. 131, da CLT, onera a 
+empresa com até 15 ausências do empregado por motivo de acidente ou doença 
+atestada pelo INSS.  
+Ausência por doença = Dias não trabalhados por afastamento enfermidade ≤ 15 dias * 
+Fator de dias trabalhados por dias corridos / Total de dias efetivamente trabalhados no 
+ano. Fonte: CADTERC Volume 3 - Versão 01 – Março/ 2024 – Data -base Janeiro/2024.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 
+Cálculo: (5 * 0,6794) / 220,2768 = 1,54%  
+ 
+Licença Paternidade : custo de ausência do trabalhador pelo período de cinco dias. 
+Criada pela CF, art. 7º, inciso XIX, combinado com o art. 10, §1º, ADCT. T  
+Licença -paternidade = (quantidade de dias de licença -paternidade) * (fator de dias 
+trabalhados por dias corridos) * (proporção de homens na categoria profissional) * 
+(proporção de homens aptos a procriar na categoria profissional) * (percentual de 
+fecundid ade das mulheres entre 21 e 49 anos) / (total de dias trabalhados por ano) - 
+Fonte: CADTERC Volume 3 - Versão 01 – Março/ 2024 – Data -base Janeiro/2024.  
+Cálculo: (5 * 0,6794 * 35,411% * 99,9511% * 5,5714%) / 220,2768 = 0,03%  
+ 
+Ausência por acidente de trabalho: o Regulamento Geral da Previdência obriga o 
+empregador a assumir o ônus financeiro pelo prazo de 15 dias no caso de acidente de 
+trabalho previsto no art. 131 da CLT. De acordo com o anuário estatístico de acidentes 
+de trabalho publicado pela Secretaria de Previdência Social (2023, mais recente) para o 
+estado de São Paulo, seguindo a Classificação Nacional de Atividades Econômicas (CNAE) 
+– 81214 para o Estado de SP, hou ve 17,54 (dezessete vírgula cinquenta e quatro) 
+acidentes para cada 1000 (mil) vínculos - 1,754% (um vírgula setecentos e cinquenta e 
+quatro por cento).  
+Cálculo Ausência por Acidente de Trabalho: ((15/30)/12) x 1,754% = 0,08%  
+7. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção coletiva  
+Os critérios de cálculo dos itens que compõem as obrigações decorrentes de acordo ou 
+convenção coletiva, que por representar patamares mínimos não podem apresentar 
+preços inferio res pela proposta da licitante. Foram adotados os parâmetros econômicos 
+contidos na Convenção Coletiva de Trabalho SEAC x SIEMACO tanto para as funções de 
+Copeiro/Copeira e Garçom/Garçonete.  
+7.1 Vale Refeição  
+Quantidade de Refeições por dia: 1  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 
+Valor Unitário: Conforme C omunicado Conjunto  da Categoria   
+Parcela do Trabalhador: Desconto fixado na CCT  
+Valor Diário  Desconto  Valor Diário 
+Final  Dias Úteis por Mês  Total Valor VR  
+20,76  1,39 19,37  21 406,77  
+ 
+7.2 Vale Transporte  
+Valor Unitário da condução do profissional: Valor da Passagem do ônibus na 
+cidade  
+Valor unitário: R$ 5,49  (São Paulo)  
+Quantidade de tarifas diárias: 2  
+Parcela do Trabalhador: Desconto de 6% do salário -base do profissional.  
+Valor Vale Transporte - R$ 
+ Valor da 
+Passagem 
+Unitária  Quantidade/Dia  Dias Úteis 
+por Mês  Valor Bruto Vale 
+Transporte*  
+Segunda a 
+Sexta  5,49  2 21 230,58  
+* O valor líquido do vale transporte deverá ser obtido mediante a subtração da parcela 
+suportada pelo empregado, cujo limite é 6% do salário base.  
+7.3 Assistência Médica Ambulatorial e Odontológica Familiar  
+Foi previsto, em conformidade com a CCT da Categoria, o custo mensal por profissional 
+a fim de subsidiar o pagamento do benefício por parte do empregador.  
+Assistência Médica e Odontológica - R$ 
+ Valor Mensal  
+Valor Mensal  35,33  
+ 
+7.4 Cesta Básica  
+Conforme Convenção Coletiva da Categoria, fica assegurado o pagamento de uma cesta 
+básica por mês ao profissional.  
+Cesta Básica - R$ 
+ Valor Mensal  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 
+Valor Mensal  144,68  
+ 
+7.5 Benefício Social Sindical  
+Foi previsto, em conformidade com a CCT da Categoria, o custo de Plano de Benefício 
+Social Familiar, composto de assistência familiar, assistência financeira imediata, 
+assistência alimentícia e manutenção de renda familiar, pelo valor mensal por 
+profissional.  
+Benefício Social Familiar - R$ 
+ Valor Mensal  
+Valor Mensal  15,96 
+7.6 Auxílio Creche  
+O valor referencial do Auxílio Creche foi obtido no CADTERC d e prestação de serviços de 
+limpeza, com última atualização em janeiro de 2024 , sendo  atualizado pelo IPC – FIPE 
+(geral) de 4,46% considerando o período de fevereiro de 2024 a janeiro de 2025 , 
+apurando -se o valor abaixo discriminado.  
+Auxílio Creche - R$ 
+ Valor Mensal  
+Valor Mensal  23,29  
+ 
+7.7 Norma Regulamentadora Nº 07  
+Diz respeito aos custos que a empresa contratada tem como exame médico 
+(admissional, periódico e de demissão). Apesar de não constar expressamente na 
+Convenção Coletiva da Categoria, as empresas terão que arcar com essas despesas.  
+Norma Regulamentadora Nº 07 = {[Valor do exame médico admissional + Valor do 
+exame médico e de demissão) / Estimativa do tempo de permanência do funcionário 
+em meses] + (Valor do exame médico periódico / 12 meses)} x (Número de funcionários 
+por posto de tr abalho + Número de folguistas necessários por mês)  
+O valor referencial da Norma Regulamentadora foi obtido no CADTERC da prestação de 
+serviços de limpeza e atualizado pelo IPC – FIPE (saúde) de 7,51% (sete vírgula cinquenta 
+e um por cento) considerando o período  de fevereiro de 2024 a janeiro de 2025.  
+Norma Regulamentadora Nº 07 / Funcionário = R$ 7,60 (Limpeza Fonte - CADTERC)  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 
+7.8 Uniformes e Equipamentos de Proteção Individual  
+Conforme Termo de Referência, a s empresas deverão fornecer uniformes co mpletos 
+para seus profissionais para a prestação de serviços.  Os preços referenciais desses 
+insumos foram obtidos com base nas informações do CADTERC  de Recepção  por guardar 
+similaridade com o objeto . Saliente -se que o referido caderno teve sua última 
+atualização em janeiro de 2024  e, para que os valores estejam o mais atualizados 
+possível, o fizemos de acordo com a Tabela IPC – FIPE  (vestuário) de 1,75% (um vírgula 
+setenta e cinco por cento) , índice acumulado de fevereiro/ 2024 a janeiro/ 2025.  
+Considerou -se para o presente estudo o conjunto de maior valor (feminino x masculino) 
+para fins estimativos dos custos com uniformes.  
+O valor mensal ( maior valor total /6 meses) final do conjunto de uniformes ficou em R$ 
+339,47  Garçom/Garçonete e de R$ 357,69  Copeiro/Copeira.  
+ 
+Garçom  Quantidade  Valor Unitário 
+2024  Valor Unitário 
+atualizado IPC  Valor Total  
+Paletó Preto  2 94,45  96,10   192,21  
+Calça Preta  2 80,88  82,30   164,59  
+Gravata Borboleta  2 13,63  13,87   27,74  
+Meias Pretas  6 6,24  6,35   38,10  
+Sapatos Pretos  1 82,03  83,47   83,47  
+Camisa de Manga 
+Longa Branca  5 110,29  112,22   561,10  
+Malha Social Preta  1 110,29  112,22   112,22  
+TOTAL   1.179,41  
+ 
+Garçonete  Quantidade  Valor Unitário 
+2024  Valor Unitário 
+atualizado IPC  Valor Total  
+Blazer Preto  2 94,45   96,10   192,21  
+Saia Preta  1 46,85   47,67   47,67   
+Calça Preta  2 80,88  82,30  164,59  
+Laço com Rede  5 15,00   15,26   76,31  
+Meias Cor da Pele  6 2,78   2,83   16,97   
+Sapatos Pretos  1 59,95   61,00   61,00  
+Camisa de Manga 
+Longa Branca 7/8  5 110,29   112,22   561,10  
+Malha Social Preta  1 110,29   112,22   112,22  
+Colete Preto  2 130,55   132,83   265,67  
+TOTAL   1.497,74  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 
+Copeira  Quantidade  Valor Unitário  
+2024  Valor Unitário 
+atualizado IPC  Valor Total  
+Saia de Brim Branca  2 46,85   47,67  95,34   
+Calça de Brim 
+Branca  3 80,88  82,30  246,89  
+Camiseta Polo  5 130,55   132,83   664,17  
+Agasalho  2 130,55   132,83   265,67  
+Bata Avental  5 130,55   132,83   664,17  
+Touca  5 5,00   5,09   25,44  
+Meias  5 2,78   2,83   14,14  
+Sapato 
+antiderrapante  1 59,95   61,00   61,00  
+TOTAL  2.036,82  
+ 
+Copeiro  Quantidade  Valor Unitário  Valor Unitário 
+atualizado IPC  Valor Total  
+Calça de Brim 
+Branca  5 80,88   82,30   411,48  
+Camiseta Polo  5 130,55   132,83   664,17  
+Agasalho  2 130,55   132,83   265,67  
+Touca  5 5,00  5,09  25,44  
+Bata Avental  5 130,55   132,83   664,17  
+Meias  5 6,24   6,35   31,75  
+Sapato 
+antiderrapante  1 82,03   83,47   83,47  
+TOTAL  2.146,14  
+ 
+7.9 Dia do Trabalhador em Limpeza, Asseio e Conservação  
+Conforme consta na convenção coletiva, será pago anualmente o valor referente a mais 
+um vale -refeição no dia do trabalhador de asseio conservação.  
+Ambos os valores foram levantados no CADTERC d e Limpeza, atualizado conforme a 
+Tabela IPC - FIPE, índice acumulado de fevereiro/ 2024 a janeiro/ 2025 . 
+Dia do Trabalhador - R$ 
+ Valor Mensal  
+Valor Mensal  1,73 
+7.10 Benefício Assiduidade  (não contemplado no orçamento estimativo)  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 
+O Comunicado Conjunto SEAC -SP - Sindicato das Empresas de Asseio e Conservação 
+no Estado de São Paulo e SIEMACO -SP - Sindicato dos Trabalhadores das Empresas de 
+Prestação de Serviços de Asseio e Conservação e Limpeza Urbana de São Paulo, de 17 
+de março de 2025 instituiu o Benefício Assiduidade para os trabalhadores operacionais 
+da categoria profissional, inclusive os trabalhadores administrativos que laboram nos 
+locais de prestação de serviços e que recebam como salário base até o valor de 
+R$2.542,86 (maior  piso salarial da tabela de funções e salários do sindicato).  
+O benefício tem caráter indenizatório e será pago ao trabalhador que não tenha se 
+ausentado ao trabalho por motivo de faltas justificadas, faltas injustificadas, 
+afastamentos médicos de qualquer natureza e licença maternidade, exceto no caso das 
+ausências legais, previstas no ordenamento jurídico (Artigo 473 da CLT), não se 
+confundindo com ausências motivadas por doença e comprovadas por meio de atestado 
+médico.  
+O valor do Benefício Assiduidade será de R$300,00 (trezentos reais) para a jornada 
+de 8 horas diárias, 44 horas semanais, nas jornadas de 12X36 e nas jornadas de trabalho 
+de 6 horas diárias, desde que não haja faltas no período. Os empregados que trabalham  
+em jornada de trabalho de 4 horas diárias terão direito a 50% do valor do benefício, ou 
+seja, R$150,00 (cento e cinquenta reais).  
+Embora a Convenção Coletiva SEAC X SIEMACO liste algumas funções de forma 
+nominada, a sua aplicação tem efeitos a todas as funções abrangidas na contratação, 
+mesmo que não estejam expressamente indicadas, podendo ser enquadradas na 
+categoria "outras funçõe s". Desta forma, entendeu -se que o benefício assiduidade é 
+estabelecido de forma ampla e geral a todos os empregados abrangidos pela norma 
+coletiva.   
+O Benefício Assiduidade ainda não foi elencado no CADTERC - Prestação de Serviços 
+de Limpeza, Asseio e Conservação Predial até a conclusão deste estudo. Em consulta ao 
+Portal de Compras do Estado de São Paulo ( Cadterc – Portal de Compras)  por meio do 
+Fale Conosco obtivemos a seguinte resposta:  
+“Informamos que ainda estamos avaliando a possibilidade de incluir o Prêmio de 
+Assiduidade nos Estudos de Limpeza, Portaria e Recepção. Por se tratar de um 
+tema sensível, a análise está sendo conduzida pela Diretoria de Normas e 
+Logística Pública, vinculad a à Subsecretaria de Gestão, no âmbito da Secretaria 
+de Gestão e Governo Digital, por meio de sua equipe técnica. Sendo assim, a 
+Secretaria concluirá a decisão sobre a adoção do Prêmio de Assiduidade por 
+ocasião da publicação dos Estudos Técnicos pertinent es, em 2025”. Data: 02 de 
+abril de 2025.  
+Em 03/02/2025, a consultoria técnica “Negócios Públicos” se manifestou nos 
+seguintes termos:  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 
+“Diante desse quadro, e respondendo de forma objetiva ao questionamento 
+formulado, conclui -se que a entidade não deve repactuar o contrato com o 
+intuito de incluir o prêmio de assiduidade previsto na nova CCT. Isso porque esse 
+benefício, por não estar ampa rado em lei, não vincula a Administração Pública, 
+que somente pode arcar com despesas expressamente autorizadas pelo 
+ordenamento jurídico. O mesmo raciocínio se aplica à inclusão desse custo nas 
+planilhas de custos, seja em licitações regidas pela Lei 8.66 6/93, seja naquelas 
+disciplinadas pela Lei 14.133/21.”  
+Por fim, devido ao parecer do GTAJ nº 875/2025, recebido em 16/05/2025, o 
+valor referente ao benefício assiduidade não foi contemplado na composição de custos 
+do orçamento estimativo.  
+Neste documento, houve a orientação da i mpossibilidade de inclusão do 
+benefício assiduidade, com base no art. 457, §§2º CLT. assim como no art. 6º da 
+Instrução Normativa nº 05/2017 e no art. 135, §1º da Lei nº 14.133/2021, além do 
+entendimento da AGU contido nos pareceres nº 00540/2024/NLC/ETRLI C/PGF/AGU e 
+no parecer nº 00009/2022/COORD/E CJUS/SCOM/CGU/AGU.  
+8. Benefício e Despesas Indiretas  (BDI)  
+O benefício e despesas indiretas  é o elemento orçamentário destinado a cobrir todas as 
+despesas da prestação de serviços, segundo critérios claramente definidos, é composto 
+pelos custos e despesas indiretas, lucro bruto e despesas fiscais tais como: PIS, C OFINS e 
+ISSQN . 
+8.1 Custos e Despesas Indiretas   
+Os Custos Indiretos são todos os gastos envolvidos diretamente na execução dos 
+serviços, que podem ser caracterizados e quantificados, mas não são passíveis de serem 
+apropriados a uma fase específica, a exemplo de supervisor, preposto para 
+acompanhamento d o contrato etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, 
+são gastos devidos à estrutura administrativa e à organização da empresa que resultam 
+o rateio entre os diversos contratos que a empresa detém, a exemplos de:   
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  21 
+✓ Gastos com a administração central e despesas securitárias, que são 
+gastos com seguros legais tais como o seguro de responsabilidade 
+civil;   
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas/indiretas adotada é de 5,81% , conforme estudos 
+realizados pelo Caderno de Serviços Terceirizados, sendo 0,50% para cobrir o Seguro 
+Responsabilidade Civil e 5,31% para remunerar os demais custos e despesas.  
+8.2 Lucro Bruto  
+O lucro bruto no BDI é representado por uma taxa incidente sobre o total geral dos custos 
+e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, torna possível a 
+justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa de lucro bruto adotada é de 7,20% , conforme estudos realizados pelo CADTERC.  
+8.3 Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de contribuições, 
+impostos e taxas que incidem diretamente no faturamento, tais como PIS, COFINS e 
+ISSQN:  
+a) PIS/PASEP – Programa de Integração Social e de Formação do 
+Patrimônio do Servidor Público : são contribuintes do PIS, segundo as 
+regras vigentes, as pessoas jurídicas de direito privado, de fins 
+lucrativos, e as que são equiparadas pela legislação do Imposto de 
+Renda. A base  de cálculo da contribuição é a receita bruta mensal, 
+assim entendida a totalidade das receitas auferidas pela pessoa 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  22 
+jurídica, sendo irrelevante o tipo de atividade por ela exercida e a 
+classificação contábil adotada para as receitas (Art. 1º da Lei Federal 
+nº 10.637/2002);   
+A alíquota do PIS/PASEP  1,65%  (art. 2º da Lei Federal nº 10.637, de 
+2002 ), conforme enquadramento da empresa nos termos da lei.   
+  
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a 
+base de cálculo da COFINS é composta pela totalidade das receitas 
+auferidas pela pessoa jurídica, independentemente da atividade 
+exercida e da classificação contábil das receitas.   
+A alíquota do COFINS é de 7,60%  (art. 2° da Lei Federal nº 
+10.833/2003).  
+c) ISSQN – Imposto  sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato 
+gerador a prestação de serviços constantes da lista anexa à  Lei 
+Complementar 116/2003 , ainda que esses não se constituam como 
+atividade preponderante do prestador.  
+Art.3º   O serviço considera -se prestado, e o imposto, 
+devido, no local do estabelecimento prestador ou, na falta 
+do estabelecimento, no local do domicílio do prestador, 
+exceto nas hipóteses previstas nos incisos I a XXV, quando 
+o imposto será devido no loc al: 
+ [...] 
+XX – do estabelecimento do tomador da mão -de-obra ou, 
+na falta de estabelecimento, onde ele estiver domiciliado, 
+no caso dos serviços descritos pelo subitem 17.05 da lista 
+anexa:  
+[...] 
+Item 17.05 – Fornecimento de mão -de-obra, mesmo em 
+caráter temporário, inclusive de empregados ou 
+trabalhadores, avulsos ou temporários, contratados pelo 
+prestador de serviço.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  23 
+No caso da prestação de serviço  foi utilizada a alíquota de 2% vigente na Prefeitura do 
+Município de São Paulo, inciso II, art. 16, da Lei  Municipal nº 13.701, de 24 de dezembro 
+de 2003 , referente ao serviço  Item 17.05 - Fornecimento de mão -de-obra, mesmo em 
+caráter temporário, inclusive de empregados ou trabalhadores, avulsos ou temporários, 
+contratados pelo prestador de serviço.  
+A importância  da demonstração das alíquotas de BDI torna mais transparente os custos 
+envolvidos na contratação, com a indicação dos percentuais de impostos incidentes, 
+lucro e despesas administrativas. Além de facilitar eventuais ajustes de valores 
+contratuais, caso ha ja alteração de alíquotas impostas pela legislação, facilitando a 
+apuração de pedidos de reequilíbrio econômico -financeiro.   
+Benefícios e Despesas Indiretas (BDI)  Percentual  
+1 Custos e Despesas indiretas (taxa_adm)  5,81%  
+2 Lucro Bruto (taxa_lucro)  7,20%  
+3 PIS 1,65%  
+4 COFINS  7,60%  
+5 ISSQN  2,00%  
+Percentual  27,81%  
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN -%Desoneração ) -1 
+BDI= (1+6,62%) x (1+7,20%) / (1 -1,65% -7,60% -2,00%) -1  
+BDI = 27,81%  
+9. Desconto por Dia  Útil Não Trabalhado e Desconto por dia Útil Não Trabalhado  
+O recesso forense ocorre no período entre 20 de dezembro a 06 de janeiro (Provimento 
+nº 1.948/2012 – Conselho Superior da Magistratura), época em que não há expediente 
+nos prédios do Tribunal de Justiça ficando suspensa a prestação dos serviços, exceto: 
+onde houver plantões judiciários ou, nos casos em que a Administração solicite 
+expressamente a prestaçã o dos serviços.  
+A empresa contratada deverá efetuar o desconto em Nota Fiscal do mês da prestação 
+dos serviços, referente aos dias úteis não trabalhad os e das faltas sem reposição  
+(integral) , conforme a tabela a seguir:  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  24 
+Valor Desconto por Funcionário - R$ 
+Código  Descrição  Unidade  Periodicidade  Desconto 
+Falta sem 
+Reposição  Desconto 
+dia Útil não 
+trabalhado  
+55-0652  Copeiro/Copeira - diurno - 44 horas 
+semanais  Posto/Dia  Mensal  255,39  49,03  
+55-0653  Prestação de Serviços de 
+Garçom/Garçonete - 44 
+horas/semanais - segunda a sexta -
+feira  Posto/Dia  Mensal  254,28  49,03  
+ 
+Composição do Desconto por Dia Útil não Trabalhado  
+Item  Descrição  Valor do desconto por dia  Garçom/ 
+Garçonete  Copeiro/ 
+Copeira  
+1 Vale 
+alimentação/refeição  (Valor Mensal) / (Dias úteis 
+estimados no mês)    19,37  19,37  
+2 Vale transporte  (Valor Mensal) / (Dias úteis 
+estimados no mês)   6,04   6,04  
+3 Materiais e 
+equipamentos  (Valor Mensal) / (Dias úteis 
+estimados no mês)   -  - 
+4 Custo de reposição do 
+profissional ausente  (Valor mensal da remuneração) * 
+(%Custo de reposição do 
+profissional ausente – Módulo VI) 
+/ DU  12,95  12,95  
+Subtotal  Somatória dos itens 1 a 4  38,36  38,36  
+5 Benefícios e Despesas 
+Indiretas (BDI)  Subtotal * %B DI (27,81%)   10,67  10,67  
+6. Total de desconto individual 
+por dia  Subtotal + Item 5  49,03   49,03  
+ 
+Desconto dia útil não trabalhado  = [(vale refeição/dias estimados no mês) + (vale 
+transporte/dias estimados) + (materiais e equipamentos/dias estimados) + (total da 
+mão de obra * percentual do custo total com reposição de profissional ausente)] * 
+(1+percentual do BDI)  
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5 - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+    Saab 5 – Diretoria de Licitações e Suprimentos  
+  25 
+10. Quantidade de Dias Úteis Estimados por Mês  
+ Para o presente estudo, a quantidade de dias úteis estimados por mês foi de  21 
+dias/mês  para as funções que exercem trabalho de Segunda a Sexta . 
+CALCULADORA DE DIAS POR PERÍODO  
+   
+Data de Início  01/01/2025  
+Meses  12  
+Data Fim 31/12/2025  
+   
+Descrição  TJ Outros  
+Dias Corridos  365   365  
+Domingos  52   52  
+Sábados  52   52  
+Feriado Nacional  7   7  
+Feriado Estadual  1   1  
+Feriado Estadual - Funcionalismo  1   -    
+Feriado Municipal  1   1  
+Feriado Judiciário  3   -    
+Recesso Forense  10   -    
+Dias Úteis  238   252  
+Média dias úteis/mês  19,83   21,00  
+Média dias não úteis/mês  10,58   9,42  
+Média de feriados por mês  1,92   0,75  
+   
+* Feriados em dias da semana, descontados o sábado e domingo    
+ 

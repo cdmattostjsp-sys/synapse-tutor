@@ -1,0 +1,869 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ESTUDO TÉCNICO DE COMPOSIÇÃO DE CUSTOS  
+Prestação de serviços de Controle e Fiscalização de Obras e 
+Projetos de Engenharia – Mão de obra de  Engenheiro (a) / 
+Arquiteto (a)  
+Setembro |2023 | 
+ 
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO  
+Secretaria de Administração e Abastecimento  
+ 
+SAAB  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  1 
+Sumário  
+ 
+Introdução  ................................ ................................ ................................ ........................  3 
+1. Objetivo  ................................ ................................ ................................ .................  4 
+2. Tabela de Valores Referenciais – Setembro/2023  ................................ ..............  5 
+3. Fonte de Pesquisa  ................................ ................................ ................................ . 5 
+4. Jornada de Trabalho  ................................ ................................ .............................  6 
+5. Parâmetros de Cálculo  ................................ ................................ ..........................  6 
+6. Encargos Previdenciários e Trabalhistas  ................................ ..............................  6 
+7. Desoneração da Folha de Pagamento  ................................ ................................ .. 9 
+8. Serviços Sob Demanda ................................ ................................ ........................  10 
+9. Módulo VII - Insumos e Obrigações decorrentes de acordo ou convenção 
+coletiva  ................................ ................................ ................................ ...........................  13 
+9.1 Vale Refeição  ................................ ................................ ................................ ............  13 
+9.2 Vale Transporte  ................................ ................................ ................................ ........  13 
+9.3 Assistência Médica  ................................ ........................  Erro! Indicador não definido.  
+9.4 Cesta Básica  ................................ ................................ ................................ ..............  16 
+9.5 Auxílio Creche  ................................ ................................ ................................ ..........  16 
+9.6 Norma Regulamentadora Nº 07  ................................ ... Erro! Indicador não definido.  
+9.7 Uniformes e Equipamentos Proteção Individual  .........  Erro! Indicador não definido.  
+9.8 Seguro de Vid a ................................ ..............................  Erro! Indicador não definido.  
+9.9 Auxílio Filho Excepcional  ................................ ..............  Erro! Indicador não definido.  
+10. Benefício e Despesas Indiretas  (BDI) ................................ ................................ .. 19 
+10.1 Custos e Despesas Indiretas  ................................ ................................ ..................  20 
+10.2 Lucro Bruto  ................................ ................................ ................................ .............  20 
+10.3 Despesas Fiscais  ................................ ................................ ................................ ..... 21 
+11. Desconto por Dia Não Trabalhado e Desconto do Período de Recesso Forense 
+(aplicável somente para as contratações Posto/Mês)  ................................ .................  23 
+12. Quantidade de Dias Úteis Estimados por Mês  ................................ ..................  24 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  2 
+EQUIPE DE PLANEJAMENTO DO ESTUDO TÉCNICO  
+ 
+Rodnei Pinto Fernandes  
+Diretor de Licitações e Suprimentos  
+Viviane das Neves Fernandes Costa  
+Coordenadora de Análise de Requisição e Pesquisa de Preços  
+Viviane Aparecida de Almeida  
+Supervisora de Processamento de Análise de Requisições  
+Carolina Doi Yamamoto  
+Chefe de Seção Judiciário de Processamento de Análise de Requisições , Catalogação e 
+Orçamentos  
+Marjorie  Graniso Beck  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Catalogação e Orçamentos  
+Jose Jader Peixoto Soares Filho  
+Escrevente Técnico Judiciário - Serviço de Processamento de Análise de Requisições , 
+Catalogação e Orçamentos  
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  3 
+Introdução  
+O presente estudo técnico tem por finalidade apresentar os custos unitários referente à 
+prestação de  serviços de  controle e fiscalização de obras e projetos de engenharia  no Tribunal 
+de Justiça do Estado de São Paulo.  
+O estudo técnico de composição de custos  foi desenvolvido com base nas especificações 
+técnicas estabelecidas no Estudo Técnico Preliminar e no Termo de Referência, produzidos pela 
+coordenador ia responsável pel o planejamento e gestão dos contrato s de prestação de serviços 
+de controle e fiscalizaç ão de obras e projetos de engenharia . 
+Para os parâmetros de cálculo foram utilizados o Caderno do  SINAPI – Sistema Nacional 
+de Pesquisa de Custos e Índices da Construção Civil  disponibilizado pela Caixa Econômica 
+Federal , contendo as  referências em composição de serviços e de insumos da construção civil, 
+com os preços constituindo resultado da pesquisa realizada pelo IBGE para elaboração dos 
+orçamentos de referências adotados  na contratação de obras públicas.  
+Desde 2003 o SINAPI é ado tado no Brasil como referência oficial para elaboração de 
+orçamentos públicos  com recursos federais e, a partir da vigência da Lei nº 14.133 de 2021  
+(nova lei de licitações), passará a ser referência técnica para todas  as obras executadas com 
+recursos públ icos no país.  
+ 
+ 
+ 
+ 
+ 
+  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  4 
+1. Objetiv o 
+ O presente estudo tem como objetivo apresentar a s metodologia s de cálculo s adotad as 
+para a estimativa de preços dos serviços, refletindo as informações constantes n o Caderno de 
+Cálculos de Parâmetros  e de Metodologias e Conceitos do SINAPI – Caixa Econômica Federal  
+assim como as especificações técnicas elaboradas pelo setor requisitante para a contratação  e, 
+também , as pesquisas em mídias salariais  para obtenção dos valores referenciais da contratação . 
+ A estimativa de preços na fase interna  da licitação  consiste na fixação média de preços, que 
+posteriormente refletirão na aceitabilidade das propostas ofertadas pelas empresas licitantes . 
+Contudo , o valor estimativo elaborado pelo orçamentista na planilha de composição de custos  
+não tem a aspiração de concebe r o valor final  exato  da contratação . Este deverá ser elaborado 
+pela licitante vencedora considerando o seu contexto financeiro e econômico, sendo de sua 
+responsabilidade aferir se os percentuais indica dos estão corretos, bem como em momento 
+futuro e oportuno, quando da aceitabilidade de preços , os cálculos serem validado s pela equipe 
+de pregoeiros e pela equipe responsável  da contratação durante os trabalhos de apoio ao 
+pregão.   
+ Cabe ainda ressaltar qu e a planilha de composição de custos disponibilizada pelo Tribunal 
+de Justiça visa facilitar a apresentação da proposta pelos licitantes e conferência dos valores 
+apresentados no momento da aceitabilidade de preços, sendo de uso facultativo pelas empresas.  
+A empresa licitante tem por obrigação apresentar sua proposta de acordo com estabelecido em 
+edital, convenção coletiva da categoria, tabelas da SINAPI, materiais e insumos, tributos 
+incidentes, despesas administrativas e lucro, com os cálculos corretos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  5 
+2. Tabela de Valores Referenciais – setembro /2023  
+Código  Função  Periodicidade  Unidade de 
+Medida  Valor 
+Unitário  
+550961  Deslocamento  Sob Demanda  KM 3,30  
+550962  Diária de Estadia  Sob Demanda  DIÁRIA  239,82  
+550690  Engenheiro (a) Arquiteto (a) 
+Pleno – Hora técnica  Sob Demanda  HORA  148,01  
+550957  Coordenador (a)  Mensal  POSTO  32.524,87  
+550958  Supervisor (a)  Mensal  POSTO  30.108,40  
+550959  Engenheiro (a) Arquiteto (a) 
+Pleno  Mensal  POSTO  23.558,26  
+ 
+3. Fonte de Pesquisa   
+A remuneração dos profissionais diplomados em Engenharia e Arquitetura deve 
+observar o que se estabelece na Lei nº 4.950 -A de 1966,  havendo um valor de salário piso 
+mínimo correspondente para a profissão.  
+Art . 1º O salário -mínimo dos diplomados pelos cur sos regulares superiores mantidos pelas  
+Escolas de Engenharia, de Química, de Arquitetura, de Agronomia e de Veterinária é o 
+fixado pela presente Lei.  
+Art . 4º Para os efeitos desta Lei os profissionais citados no art. 1º são classificados em:  
+a) diplomados pelos cursos regulares superiores mantidos pelas Escolas de Engenharia, de 
+Química, de Arquitetura, de Agronomia e de Veterinária com curso universitário de 4 
+(quatro) anos ou mais;  
+b) diplomados pelos cursos regulares superiores mantidos pelas Escolas de Engenharia, de 
+Química, de Arquitetura, de Agronomia e de Veterinária com curso universitário de menos 
+de 4 (quatro) anos.  
+Art . 5º Para a execução das atividades e tarefas classificadas na alínea a do art. 3º, fica 
+fixado o salário -base mínimo de 6 (seis) vêzes o maior salário -mínimo comum vigente no 
+País, para os profissionais relacionados na alínea a do art. 4º, e de 5 (cinco) vezes o maior 
+salário -mínimo comum vigente no País, para os profissionais da alínea b do art. 4º.  
+Para elaboração da e stimativa salarial da função dos Engenheiros (as) ou Arquitetos (as) 
+foi realizada uma pesquisa para levantamento das informações salariais no SINAPI, no site 
+www.salarios.com.br  e no Guia Salarial Robert Half e obtida a média dos valores prospectados .  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  6 
+Remuneração Mensal – R$  
+(sem encargos)  SINAPI  SALÁRIOS  ROBERT 
+HALF  Média  
+Mensal  
+COORDENADOR (A)  16.250,58  11.262,46  16.050,00  14.521,01  
+ENGENHEIRO (A) SÊNIOR  17.901,71  11.254,91  11.250,00  13.468,87  
+ENGENHEIRO (A) PLENO  13.153,09  8.952,63  9.000,00  10.368,57  
+ 
+Em pesquisa realizada por esta supervisão em outras contratações públicas similares por 
+meio de  fontes oficia is de preços, não foi identificado a previsão para pagamento de adicionais 
+como  a insalubridade  ou p ericulosidade  para as funções desta contratação.  O setor requisitante 
+da contratação também validou  e confirmou  a informação de que não haverá o pagamento 
+destes adicionais para a mão de obra envolvida nesta contratação.  
+4. Jornada de Trabalho  
+Os profissionais mobilizados como mão de obra residente deverão cumprir  jornada 
+semanal de 40 horas , 200 horas mensais , no período entre as 6h e 22h, observando os horários  
+de funcionamento dos prédios.  
+Em situações em que o profissional residente  precisar  realizar horas extras, não haverá 
+pagamento adicional ao preço mensal contratado, mas, compensação de horário  de trabalho 
+durante o mês da execução dos serviços ou, caso s e trate de final de mês, no mês subsequente, 
+respeitando -se as Convenções Coletivas e Legislação vigente.  
+5. Parâmetros de Cálculo  
+Os percentuais utilizados são fixos e não devem ser alterados pela licitante quando da 
+elaboração da proposta.  A fonte de referência dos % de encargos trabalhistas e sociais desta 
+estimativa estão com base no Caderno do SINAPI – Cálculos e Parâmetros.  
+Para todos os cálculos foram utilizados o critério de arredondamento matemático com 
+2 dígitos.   
+A quantidade estimada de dias úteis no mês é de 20,67 dias por mês.  
+6. Encargos Previdenciários e Trabalhistas  
+O percentual de encargos sociais, previdenciários e trabalhistas a ser aplicado ao total da 
+remuneração dos profissionais foi obtido na tabela do S INAPI – Cálculos e Parâmetros. Toda a 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  7 
+metodologia das alíquotas  e as suas  respectivas  fontes constam no Caderno SINAPI às fls. 22 a 
+43.  
+Há uma alíquota percentual específica para cada localidade e o % adotado para o presente 
+estudo foi para a localidade d e São Paulo – SP, conforme apêndice 25 do Caderno Cálculos e 
+Parâmetros do SINAPI.   
+A coluna adotada para fins estimativos desta contratação foi a opção sem desoneração e 
+mensalista, totalizando 71,27% de encargos sociais .  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  8 
+ 
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  9 
+7. Desoneração da Folha de Pagam ento  
+A desoneração da folha de pagamento surgiu em 2011,  adotada por meio da 
+Medida Provisória nº 540, convertida na Lei nº 12.546, de 2011, e consiste em um benefício 
+fiscal  que substitui a contribuição previdenciária patronal de 20% incidente sobre a folha de 
+salários, por alíquotas de 1% a 4,5% s obre a receita bruta. Na prática, a medida reduz a carga 
+tributária da contribuição previdenciária devida pelas empresa s, tendo como objetivo estimular 
+o crescimento econômico do País, buscando oferecer maior competitividade e contratações.  Os 
+17 setores a lcançados pela medida são: confecção e vestuário, calçados, construção civil, call 
+center, comunicação, empresas de construção e obras de infraestrutura, couro, fabricação de 
+veículos e carroçarias, máquinas e equipamentos, proteína animal, têxtil, TI (tec nologia da 
+informação), TIC (tecnologia de comunicação), projeto de circuitos integrados, transporte 
+metro -ferroviário de passageiros, transporte rodoviário coletivo e transporte rodoviário de 
+cargas.   
+No presente estudo, para fins estimativos da contrataç ão de mão de obra de 
+serviços de engenheiros (as) ou arquitetos (as) para fins de controle e fiscalização de obras para 
+o Tribunal de Justiça de São Paulo, considerou -se os valores sem a desoneração da folha de 
+pagamento . Contudo, a planilha de formação de  preços foi preparada para que a licitante opte 
+pela desoneração, caso possa ser enquadrada, e os valores calculados reflitam este benefício 
+fiscal.  
+Importante registrar que quando há opção pela licitante sob o regime de 
+desoneração da folha de pagamento,  o cálculo do BDI sobre alteração, pois existe a  incidência 
+de uma taxa adicional de 4,5% de CPRB – Contribuição Previdenciária sobre a Receita Bruta, 
+resultando em uma nova taxa de BDI %  para a contratação .  
+Contudo, a validação da opção do regime tributá rio da licitante assim como os 
+cálculos contidos na planilha de composição de custos deverão ser validad os pela equipe de 
+pregoeiros e pela equipe responsável  da contratação durante os trabalhos de apoio ao pregão , 
+uma vez que o papel desta seção  nesta fase d a preparação interna  da contratação é 
+estritamente para  fins orçamentário s e estimativo s, sem  o anseio de refletir , neste momento do 
+processo , os aspectos esp ecíficos, imprevisíveis e particulares da futura contratação.   
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  10 
+8. Serviços Sob Demanda  
+8.1 Diárias   
+A utilização da UFESP como critério de estimativa das diárias foi fundamentada 
+conforme Decreto nº 48.292/2003, do Governo Estadual de São Paulo, que trata de concessão 
+de diárias a servidores da Administração Centralizada e das Autarquias, bem como aos 
+Componentes da Polícia Militar do Estado de São Paulo, com o objetivo de indenizar despesas 
+com alimentação e pousada.  
+Com relação à possibilidade de utilização de outros mecanismos de pesquisa de 
+preços, informamos que o valor da(s) estadia(s) e ou diárias , está sendo aplicado sobre o valor 
+da tabela utilizada pelo servidor do Tribunal de Justiça, ou seja, 07 (sete) UFESP, por pernoite. 
+Para o custo das estadias foi adotado o critério já empregado por este Tribunal de Justiça, com 
+o pagamento mínimo de 7 (s ete) UFESPs – Unidade Fiscal do Estado de São Paulo aos servidores 
+deste órgão, bem como o mecanismo padrão utilizado pelos pregões de terceirização de outros 
+órgão s.  
+O cálculo adotado de 7 (sete) UFESP está devidamente explicado no artigo 2º, item 
+II do Decreto nº 48.292/2003 de fls. 283/296 conforme transcrito abaixo:  
+Artigo 2.º - O valor da diária será calculado com base no valor da Unidade Fiscal do 
+Estado de São Paulo - UFESP, fixado para o primeiro dia útil do mês devido, na 
+seguinte conformidade:  
+I - na importância correspondente a 9 (nove) UFESPs, para:  
+a) ocupantes de cargos e funções -atividades para cujo provimento seja exigido 
+diploma de nível universitário ou habilitação profissional correspondente;  
+b) ocupantes de cargos e funções -atividade s de direção;  
+c) componentes da Polícia Militar do Estado de São Paulo, ocupantes de postos de 
+Coronel PM a Aspirante a Oficial PM;  
+II - na importância correspondente a 7 (sete) UFESPs, para:  
+a) ocupantes de cargos e funções -atividades não abrangidos pe lo inciso anterior;  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  11 
+b) componentes da Polícia Militar do Estado de São Paulo, ocupantes de graduações 
+de Subtenente PM a Aluno Oficial 1. CFO.  
+Ainda cabe informar que n ão há incidência do % de BDI sobre os valores finais 
+de diárias de estadias.  
+8.2 Deslocame ntos  – Km rodado  
+Para a estimativa de deslocamentos por KM rodado, utilizou -se o valor 
+referencial da Secretari a de Logística e Transportes do Estado de São Paulo que, através do DER 
+- Departamento de Estradas de Rodagem e da DERSA - Desenvolvimento Rodoviário S.A., que 
+desenvolveram a Tabela de Preços Unitários Unificada, publicada trimestralmente  no site 
+http://200 .144.30.103/tpu -internet/. Esses valores são referências médias de mercado e foram 
+obtidos a partir de preços de insumos pesquisados por reconhecida instituição de pesquisas 
+econômicas vinculada à Universidade de São Paulo.  Além desta estimativa referencia l também 
+foi realizada  uma pesquisa  no Banco de Preços e ao final foi calculada a média do valor por KM 
+rodado  a partir dos 2 valores encontrados . A tabela a seguir resum e o estudo realizado:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  12 
+Tabela obtida em consulta ao Banco de Preços  
+ 
+Por fim, ainda cabe informar que n ão há incidência do % de BDI sobre os valores 
+finais de deslocamentos por KM rodado.  
+8.3 Hora Eventual  Técnica  – Engenheiro (a) Arquiteto (a) Pleno  
+Para o serviço da hora técnica do engenheiro (a) ou arquiteto (a) pleno sob demanda a 
+licitante deverá inserir no campo apropriado o valor da hora contemplando a remuneração, 
+encargos sociais e trabalhistas, custos com alimentação, transporte, EPIs, exames médicos, 
+seguros obrigatórios entre outros valores que fazem parte da composição de custo da hora 
+técnica do profissional, exceto o % BDI que será aplicado automaticamente pela planilha de 
+custos sob o valor unitário da hora informado multiplicado pela quantidade de horas mensais.  
+Para  estimativa do valor deste item, foram levantadas as informações de referência no 
+Caderno SINAPI, site www.salarios.com.br,  Guia salarial da Robert Half e  a tabela de valores 
+referenciais da  SIURB - Prefeitura de São Paulo fornecida pela SAAB 1.1.3. Com ba se neste 
+levantamento, realizou -se a média dos valores encontrados, conforme tabela a seguir:  
+ 
+ 
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  13 
+Valor da Hora  técnica 
+(com encargos 
+sociais ) - R$ SINAPI  SALÁRIOS  ROBERT 
+HALF  PREFEITURA  Média  Valor 
+da Hora – R$ 
+ENGENHEIRO  (A) 
+PLENO  sob demanda 
+hora técnica  128,79  96,36  96,87  162,17  121,05  
+ 
+9. Módulo VII – Encargos Complementares  
+De acordo com o Caderno SINAPI  fl. 44 , os encargos complementares consiste m nos 
+custos relacionados à alimentação, transporte, equipamentos de proteção individual, 
+ferramentas, exames médicos, seguro de vida e cursos de capacitação.  
+ 
+9.1 Alimentação  
+  Para determinação do custo referente à alimentação, segundo o SINAPI, foram 
+estudadas as Convenções Coletivas de Trabalho estaduais vigentes. Cada CCT tem regras próprias 
+quanto ao fornecimento de café da manhã, cesta básica, vale refeição e lanche da tard e. O 
+caderno ainda informa que nas composições de mão -de-obra para a Administração Local 
+(engenheiro (a), arquiteto (a), apontador (a), almoxarife, mestre de obras, dentre outras) não 
+foram incluídos os custos com alimentação e nem com transporte, tendo em  vista que não há 
+padronização entre as Convenções Coletivas no que tange às suas atividades para este tipo de 
+profissionais. Contudo, esta Administração optou por adotar os valores indicados para estes fins 
+constantes na tabela apresentada na fl. 138  do C aderno SINAPI, que considera os valores 
+levantados para o Estado de São Paulo.  
+Valor unitário do café da manhã: R$ 9,50  
+Valor unitário do vale refeição: R$ 24,50  
+Quantidade de dias úteis por mês: 20, 67 
+Parcela do Trabalhador: R$ 1,70  
+Café da manhã = R$ 9,50 x 20,67  – 0,48  = R$ 195,88  mensais   
+Vale Refeição = R$ 24,50  x 20, 67 – 1,22 = R$ 505,19  mensais  
+ 
+9.2 Transporte  
+Conforme o Caderno SINAPI, c onsiderando que o deslocamento dos trabalhadores até 
+o local de trabalho varia significativamente de obra para obra  e em função da localização de suas 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  14 
+residências, foi adotada uma situação paradigma representada pela utilização de uma passagem 
+de ida e uma  passagem de volta.  
+Valor Unitário da condução do profissional: Valor da Passagem do ônibus na cidade  de 
+São Paulo  
+Valor ida e volta : R$ 4,83 x 2 = R$ 9,66  (São Paulo)  
+Parcela do Trabalhador: Desconto de 6% do salário -base do profissional  (Lei Federal nº 
+7.418 /1985 ) 
+Como o valor da parcela de desconto do funcionário excede o valor mensal referente as 
+tarifas de ida e volta multiplicado pela quantidade de dias úteis, o valor referente ao transporte 
+para este estudo em específico para os profissionais ficou zerado.  
+ 
+9.3 Uniformes , Equipamentos Proteção Individual  e Ferramentas  
+  Segundo o Caderno SINAPI, a partir de junho de 2019, foi adotada uma nova metodologia 
+para o cálculo dos itens de equipamentos de proteção individual dos encargos complementares. 
+Nesta metodol ogia, foram estabelecidos Kits de EPI para cada uma das doze famílias 
+homogêneas de insumos de mão de obra do SINAPI, sendo a família do “engenheiro civil de obra 
+júnior” aquela que melhor se adequou ao objeto da contratação em mote . Foi levado em 
+consider ação a durabilidade de cada equipamento, bem como a frequência com que o 
+trabalhador utiliza cada equipamento, que pode ser de uso contínuo durante a jornada de 
+trabalho, como no caso de uniforme, capacete e botas, ou ainda, de uso eventual associado à 
+atividade específica que está sendo realizada.  
+  Desta maneira, considerando o estudo realizado pela equipe técnica que elaborou o 
+Caderno SINAPI, as empresas deverão  precificar e  fornecer um kit para cada funcionário 
+contendo os itens relacionados na tabela  abaixo:  
+Item  Quantidade  Valor 
+unitário 
+(R$) Vida útil 
+(dias)  Coeficiente 
+de 
+Utilização  Valor 
+Mensal (R$)  
+Uniforme comum  2 277,82  180 100%  46,3030  
+Capacete  1 15,12  360 100%  1,2597  
+Botas de couro cano 
+curto  1 72,56  90 100%  24,1867  
+Protetor auricular  1 2,25  20 30%  0,8689  
+Óculos contra impacto  1 5,89  60 50%  1,4730  
+Creme de proteção solar 
+FPS 30 4L  1 256,99  130 50%  29,6524  
+Capa impermeável  1 19,65  60 20%  1,9650  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  15 
+Cinto de segurança tipo 
+paraquedista  * 1 72,56  180 20%  - 
+Trava quedas  * 1 177,62  90 20%  - 
+Talabarte  * 1 202,19  90 20%  - 
+Valor Mensal Total  105,70  
+* Para estes itens, o s etor responsável informou que eles não serão utilizados pelos funcionários  
+da contratação e que podem ser retirados da estimativa financeira.  
+ 
+  O cálculo do custo com ferramentas segue o mesmo princípio utilizado para o cálculo do 
+custo com EPI. A partir da família de mão de obra foi realizado o levantamento das ferramentas 
+necessárias para cada atividade profissional, considerando o custo, a vida  útil e a frequência de 
+uso. A partir destas informações obteve -se o valor mensal com ferramental.  
+Item  Quantidade  Valor 
+unitário 
+(R$) Vida útil 
+(dias)  Coeficiente 
+de 
+Utilização  Valor 
+Mensal (R$)  
+Trena   1 25,43  360 50%  1,0596  
+Esquadro 90” x 30 cm 
+(12’’)  1 36,46  360 20% 0,6077  
+Prumo de parede  1 52,45  360 20% 0,8742  
+Valor Mensal Total  2,54  
+ 
+A somatória dos valores com EPIs, uniformes e ferramentas foi alocada na rubrica 
+apropriada da planilha de composição de custos.  
+ 
+9.4 Exames Médicos  
+  As empresas são obrigadas a custear exames médicos obrigatório (admissionais, 
+periódicos e demissionais) de seus empregados, conforme exigência da CLT e regulamentação 
+da NR – 7 (Programa de Controle Médico de Saúde  Ocupacional). Segundo o Caderno SINAPI, a 
+metodologia empregada para estabelecer o custo unitário dos exames médicos utiliza as tabelas 
+SECONCI de cada localidade ou a tabela referencial da AMB – Associação Médica Brasileira. Para 
+definir o número de exames é considerada a rotatividade da mão de  obra por localidade (CAGED 
+e Encargos Sociais do SINAPI) e o número de horas efetivamente trabalhadas neste período.  
+  O custo dos exames médicos pesquisados no mercado é dividido pelas horas 
+efetivamente trabalhadas no período para determinar o custo ho rário com exames.  
+  O valor adotado com base no Caderno SINAPI para fins de exigência da NR 7 foi de  R$ 
+215,56 mensais , conforme tabela de custos apresentada na fl. 13 8 do caderno.  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  16 
+9.4 Seguro de Vida  
+ Considerando os estudos do Caderno SINAPI, a metodologia utilizada considera o custo com 
+Seguro de Vida e Acidentes Pessoais, conforme previsto nas CCT, tendo a apólice vigência de 1 
+ano. Cabe observar que este item trata dos seguros de vida em grupo e contra acidentes de 
+trabalho, previstos nas CCT e patrocinados pelos empregadores, e não deve ser confundido com 
+o seguro contra acidentes de trabalho previsto no Grupo A dos Encargos Sociais. O seguro 
+previsto no Grupo A, à alíquota de 3%, é definido nas leis federais 8.212/91 (Artigo 22 – inciso II) 
+e 8.213/91 (Artigos 57 e 58) e trata de contribuição a cargo da empresa e destinada à Seguridade 
+Social a título de custeio do seguro social acidentário e do financiamento do benefício de 
+aposentadoria especial, variando a menor na medida em que a empresa c omprove redução de 
+acidentes do trabalho e, consequentemente, a realização de investimentos na área de prevenção 
+acidentária.  
+   A cotação realizada leva em consideração a opção de Seguro Capital Global para empresa 
+no ramo de Engenharia/Arquitetura com 10 0 empregados, sediada em Brasília. Para a definição 
+do valor do Capital Segurado para cada Cobertura, adotou -se o valor médio previsto nas CCTs 
+das 27 capitais. Constatado que o custo do seguro tem pouco impacto nos Encargos 
+Complementares e que a variação  máxima desse custo é da ordem de 20% a 30%, quando levada 
+em conta as diferentes expectativas de vida e a diversidade de cláusulas existentes nas CCT das 
+demais capitais brasileiras, optou -se por nacionalizar o valor cotado em Brasília. Anteriormente 
+o va lor era obtido através da mediana de três cotações, entretanto pela dificuldade encontrada 
+para obtê -las, a partir de 2022 optou -se por utilizar cotação obtida através da Caixa Seguridade.  
+Valor Mensal do Seguro = R$ 11,80  
+9.5 Curso s de Capacitação  
+ De acordo com o Caderno SINAPI, a segurança e a saúde do trabalho na área da 
+construção civil baseiam -se em Normas Regulamentadoras descritas na Portaria  nº 
+3214/78 do Ministério do Trabalho e Emprego (MTE). As Normas Regulamentadoras (NR) 
+devem ser cumpri das obrigatoriamente pelas empresas privadas e públicas e pelos 
+órgãos públicos da administração direta e indireta, bem como pelos órgãos dos Poderes 
+Legislativo e Judiciário, que possuam empregados regidos pela Consolidação das Leis do 
+Trabalho (CLT).  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  17 
+ Dentre as ações preventivas propostas pelas NR estão os treinamentos e cursos de 
+capacitação, que envolvem desde noções básicas de salvamento até operação de 
+máquinas e equipamentos utilizados nas atividades que serão desempenhadas na 
+construção.  
+As NR consideradas no estudo , para a mão de obra de engenheiro(a) ou arquiteto (a)  
+foram:  
+• NR, Norma Regulamentadora Ministério do Trabalho e Emprego. NR -18 - Condições e 
+Meio Ambiente de Trabalho na Indústria da Construção. 1978 (atualização 2015).  
+• NR, Norm a Regulamentadora Ministério do Trabalho e Emprego. NR -33 - Segurança e  
+Saúde nos Trabalhos em Espaços Confinados. 2006 (atualização 2012).  
+• NR, Norma Regulamentadora Ministério do Trabalho e Emprego. NR -35 – Trabalho em  
+Altura. 2012 (atualização 2014)  
+ As NR estabelecem a carga mínima de horas de capacitação para situações comuns 
+a todo tipo de obra, como no caso dos treinamentos da Comissão Interna de Prevenção 
+de Acidentes (CIPA), que se aplica a todos os profissionais, bem como em situações 
+específic as, como no caso das atividades realizadas em espaços confinados, de 
+ocorrência mais pontual. No SINAPI foram incluídos como um item dos encargos 
+complementares os custos oriundos da quantidade de horas gastas para cada categoria 
+profissional em cursos e t reinamentos, ou seja, as horas não trabalhadas devidas à 
+atividade de capacitação. O SINAPI não realizou levantamento de custos para viabilização 
+do treinamento, tais como instrutor, local, material didático , etc .   
+ Conforme tabela do Caderno SINAPI a seg uir (fl. 83), para a função de Engenheiro 
+(a) ou Arquiteto (a), foram estimad as horas de capacitação em conformidade com a NR 
+18, NR 33 e a NR 35, totalizando 36,635 horas  de treinamento/capacitação.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  18 
+ 
+  Como não há previsão do custo de viabilização do treinamento  no caderno, para 
+definição do valor estimativo mensal com curso de capacitação , adotou -se o valor  total  
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  19 
+das horas  (36,635 horas) divido por 12 meses e  multiplicado pelo custo da hora  (salário 
++ encargos / 2 00 horas  mensais ) dos profissionais . 
+ 
+Custo com capacitação mensal:  
+(Quantidade de horas de capacitação SINAPI / 12 ) x Custo da hora de cada profissional  
+Cursos de Capacitação – R$ 
+ Coordenador(a)  Supervisor (a)  Engenheiro(a)/Arquiteto(a) - 
+Nível Pleno  
+Valor da Hora do 
+profissional 
+(considerando 
+remuneração + 
+encargos)  124,35  67,34  51,84  
+Quantidade de 
+horas de 
+capacitação 
+mensal  36,635/12 =  
+ 3,05 horas  36,635/12 =  
+ 3,05 horas  36,635/12 =  
+ 3,05 horas  
+Custo mensal 
+com cursos de 
+capacitação  379,63  205,60  158,27  
+ 
+10. Benefício e Despesas Indiretas  (BDI)  
+O benefício e despesas indiretas  é o elemento orçamentário destinado a cobrir todas as 
+despesas da prestação de serviços, segundo critérios claramente definidos, é composto pelos 
+custos e despesas indiretas, lucro bruto e despesas fiscais tais como: PIS, COFINS e ISSQN  
+A importância  da demonstração das alíquotas de BDI torna mais transparente os custos 
+envolvidos na contratação, com a indicaçã o dos percentuais de impostos incidentes, lucro e 
+despesas administrativas.  
+Para estimativa do BDI, o  presente estudo adotou as orientações previstas do Acórdão 
+do TCU – Tribunal de Contas da União nº 2622/2013 – Plenário  que contém instruções para a 
+comp osição do  % de BDI em Obras Públicas.  
+Na ausência de informações no caderno SINAPI sobre o BDI e também em nossas 
+pesquisas em outras fontes de contratações públicas, a pesar do objeto em questão tratar -se de 
+contratação de mão -de-obra  técnica para controle  e fiscalização de obras,  as informações 
+contidas no Acórdão do TCU nº 2622/2013 foram as que m ais se adequavam e se aproxim avam  
+do objeto estudado.  
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  20 
+ 
+ 
+10.1 Custos Indiretos - Administração Central   
+Os Custos Indiretos são todos os gastos envolvidos diretamente na execução dos 
+serviços, que podem ser caracterizados e quantificados, mas não são passíveis de serem 
+apropriados a uma fase específica, a exemplo de supervisor, preposto para acompanhamento 
+do contrato etc.   
+As Despesas Indiretas, embora associadas à produção, não estão relacionadas 
+especificamente com o serviço, e sim com a natureza de produção da empresa; ou seja, são 
+gastos devidos à estrutura administrativa e à organização da empresa que resultam o rateio 
+entre os diversos contr atos que a empresa detém, a exemplos de:   
+✓ Gastos com a administração central  
+✓ Remuneração de pessoal administrativo;   
+✓ Transporte de pessoal administrativo;   
+✓ Aluguel da sede;   
+✓ Manutenção e conservação da sede;   
+✓ Despesas com água, luz e comunicação;   
+✓ Imposto predial e taxa de funcionamento;   
+✓ Material de escritório;   
+✓ Manutenção de equipamentos de escritório;   
+✓ Etc.  
+ 
+A taxa de despesas administrativas /indiretas  média adotada foi de 4,0% , 
+conforme acórdão do TCU  nº 2622/2013 . Para este estudo, n ão foram considerados os % de 
+Seguro/Garantia, Risco e Despesa Financeira  presentes da informação do Acórdão , por tratar -se 
+de contratação de mão -de-obra e não da execução da obra em si.  
+ 
+10.2 Lucro Bruto  
+O lucro bruto no BDI é representado por um a taxa incidente sobre o total geral 
+dos custos e despesas, excluídas as despesas fiscais.   
+O lucro declarado pela empresa é apenas uma meta, que se alcançada, torna 
+possível a justa remuneração da empresa em decorrência dos serviços prestados.    
+A taxa de  lucro bruto média adotada foi de 7,40%, conforme Acórdão do TCU nº 
+2622/2013.  
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  21 
+10.3 Despesas Fiscais  
+As Despesas Fiscais são  os gastos  relacionados com o recolhimento de 
+contribuições, impostos e taxas que incidem diretamente no faturamento, tais como PIS, COFINS 
+e ISSQN . 
+Os serviços de construção civil submetem -se ao regime de apuração não 
+cumulativa da Cofins, porém, quando aplicadas em obra de construção civil e vinculados ao 
+mesmo contrato de administração, empreitada ou subempreitada dessa últ ima, suas receitas 
+estão abrangidas pelo inciso XX do art. 10 da Lei nº 10.833, de 2003, devendo submetê -las, 
+portanto, ao regime de apuração cumulativa.  Desta maneira, para fins estimativos desta 
+contratação adotou -se o % de  3% de COFINS e 0,65% de PIS . 
+ 
+a) PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio 
+do Servidor Público : São contribuintes do PIS, segundo as regras vigentes, as 
+pessoas jurídicas de direito privado, de fins lucrativos, e as que são 
+equiparadas pela legislação do Imposto de Renda. A base  de cálculo da 
+contribuição é a receita bruta mensal, assim entendida a t otalidade das 
+receitas auferidas pela pessoa jurídica, sendo irrelevante o tipo de atividade 
+por ela exercida e a classificação contábil adotada para as receitas (Art. 1º da 
+Lei Federal nº 10.637/2002);   
+A alíquota do PIS/PASEP  adotada foi de 0,65%    
+  
+b) COFINS – Contribuição para o Financiamento da Seguridade Social : a base 
+de cálculo da COFINS é composta pela totalidade das receitas auferidas pela 
+pessoa jurídica, independentemente da atividade exercida e da classificação 
+contábil das receitas  (Lei Federal nº 10.833/2003)  
+A alíquota do COFINS adotada foi de  3,00 %  
+c) ISSQN – Imposto sobre Serviço de Qualquer Natureza : imposto de  
+competência dos Municípios e do Distrito Federal, tem como fato gerador a 
+prestação de serviços constantes da lista anexa da Lei Complementar 
+116/2003 , ainda que esses não se constituam como atividade preponderante 
+do prestador.  Conforme orientação do setor responsável pela contratação o 
+código de serviço adotado para fins de pesquisa das alíquotas municipais do 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  22 
+ISS foi o 7.01  - Engenharia, agronomia, agrimensura, arquitetura, geologia, 
+urbanismo, paisagismo, decoração, topografia , cartografia, execução de 
+serviços técnicos.  
+ 
+Benefícios e Despesas Indiretas (BDI)  – São Paulo   
+(SEM DESONERAÇÃO)  Percentual  
+1 Despesas Administrativas  4,00% 
+2 Lucro Bruto (taxa_lucro)  7,40 % 
+3 PIS 0,65%  
+4 COFINS  3,00% 
+5 ISSQN  5,00%  
+Percentual  22,27%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN) -1 
+BDI= (1+ 4,00 %) x (1+7, 40%) / (1 -0,65% -3,00 %-5,00%) -1  
+BDI = 22,27%  
+ 
+Benefícios e Despesas Indiretas (BDI)  – São Paulo   
+(COM DESONERAÇÃO)  Percentual  
+1 Despesas Administrativas  4,00%  
+2 Lucro Bruto (taxa_lucro)  7,40%  
+3 PIS 0,65%  
+4 COFINS  3,00% 
+5 ISSQN  5,00%  
+6 CPRB  4,50%  
+Percentual  28,61%  
+ 
+Fórmula BDI= (1+taxa_adm) x (1+taxa_lucro) / (1 -%PIS -%COFINS -%ISSQN -%CPRB ) -1 
+BDI= (1+4,00%) x (1+7,40%) / (1 -0,65% -3,00% -5,00% -4,50% ) -1  
+BDI = 28,61%  
+ 
+Conforme os cálculos informados acima, a CPRB  considerando a desoneração da folha 
+de pagamento  não é simplesmente somada ao BDI sem desoneração, uma vez que se faz 
+necessário a aplicação da fórmula do BDI com a desoneração , resultando em alíquotas de BDI 
+diferenciadas para cada caso.  
+ 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  23 
+11. Desconto por Dia Não Trabalhado e Desconto do Período de Recesso Forense  (aplicável 
+somente para  as contratações Posto/Mês)  
+O recesso forense ocorre no período entre 20 de dezembro a 06 de janeiro (Provimento 
+nº 1 .948/2012 – Conselho Superior da Magistratura), época em que não há expediente nos 
+prédios do Tribunal de Justiça ficando suspensa a prestação dos serviços, exceto: onde houver 
+plantões judiciários ou, nos casos em que a Administração solicite expressamente a prestação 
+dos serviços.  
+Nos casos de contratação cuja unidade de medida é o Posto/Mês , a empresa contratada 
+deverá efetuar o desconto em Nota Fiscal do mês da prestação dos serviços, referente aos dias 
+úteis não trabalhados no recesso forense  ou em dias úteis não trabalhados , efetuando -se o 
+desconto conforme fórmula  apresentada a seguir : 
+ 
+Desco nto por dia útil não trabalhado = [(vale refeição/dias estimados no mês) + (vale 
+transporte/dias estimados) + (total da mão de obra * percentual do custo total com reposição 
+de profissional ausente)] * (1+percentual do BDI)  
+ 
+Desconto Dia Útil Não Trabalha do (por funcionário)  
+ Coordenador(a)  Supervisor (a)  Engenheiro(a)/Arquiteto(a) 
+- Nível Pleno  
+Vale Refeição  32,30  32,30  32,30  
+Vale Transporte  - - - 
+Custo de 
+reposição do 
+profissional 
+ausente  178,03  165,13  127,12  
+Total desconto 
+sem BDI  210,33  197,43  159,42  
+BDI 22,27%  22,27%  22,27%  
+Total desconto 
+com BDI  257,17  
+ 241,40  194,92  
+ 
+Nos casos de contratação cuja unidade de medida é o Posto/Dia  haverá o pagamento 
+somente pelos dias efetivamente trabalhados no mês.  
+Quando houver falta sem reposição  do profissional o desconto deverá ser integral : valor 
+total mensal do posto / quantidade de dias . 
+ 
+ 
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  24 
+ 
+ 
+Desconto Falta sem Reposição  (por funcionário)  
+ Coordenador(a)  Supervisor (a)  Engenheiro(a)/Arquiteto(a) 
+- Nível Pleno  
+Valor Mensal do 
+Posto  32.524,87  30.180,40  23.558,26  
+Quantidade de 
+dias 20,67  20,67  20,67  
+Valor do desconto 
+por falta sem 
+reposição  1.573,53  1.456,62  1.139,73  
+ 
+12. Quantidade de Dias Úteis Estimados por Mês  
+ Para o presente estudo, a quantidade de dias úteis estimados p or mês foi de  20,67 
+dias/mês , conforme estudo demonstrado abaixo.  
+ 
+ 
+ 
+ 
+ 
+
+■S E C R E T A R I A  D E  A D M I N I S T R A Ç Ã O  E  A B A S T E C I M E N T O  
+S a a b  5  - D i r e t o r i a  d e  L i c i t a ç õ e s  e  S u p r i m e n t o s  
+ 
+ 
+|Secretaria de Administração e Abastecimento  
+Saab 5 – Diretoria de Licitações e Suprimentos  
+  25 
+13. Fontes  
+1. Caderno SINAPI LIVRO 2  - C138 Caixa Econômica Federal.  SINAPI: Referências para Custos 
+Horários e Encargos: Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil / 
+Caixa Econômica  Federal. – 5ª Ed. – Brasília: CAIXA, 2022.  Atualizada em agosto/2023. 1. 
+Construção Civil. 2. Sistema de Referência s de Custo. 3. Obras Públicas. 4. Lei de Diretrizes 
+Orçamentárias. I. Caixa Econômica Federal  
+2. Caderno SINAPI LIVRO 1 - C138 Caixa Econômica Federal. SINAPI: Metodologias e Conceitos: 
+Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil / Caixa Econômica Federal. 
+– 9ª Ed. – Brasília: CAIXA, 2023. 155 p. 21 cm. ISBN 978 -85-86836 -43-5 1. Construção Civil. 2. 
+Sistema de Referências de Custo. 3. Obras Públicas. 4. Lei de Diretrizes Orçamentárias. I. Caixa 
+Econômica Federal  
+3. Sumário de Publicações SINAPI  - https://www.caixa.gov.br  
+4. Sistema banco de preços  – https:// www.bancodepreços.com.br  
+5. DER - Departamento de Estradas de Rodagem e da DERSA - Desenvolvimento Rodoviário S.A., 
+Tabela de Preços Unitários Unificada  - http://200.144.30.103/tpu -internet  
+6. Acórdão do TCU  – Tribunal de Contas da União nº 2622/2013  
+ 
