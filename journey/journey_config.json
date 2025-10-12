@@ -1,1 +1,40 @@
+{
+  "transitions": {
+    "inicio": {
+      "next": "dfd_incomplete",
+      "doc": "dfd",
+      "descricao": "O usuário descreveu um problema ou necessidade, mas ainda não iniciou a formalização da demanda."
+    },
+    "dfd_incomplete": {
+      "next": "dfd_ready",
+      "doc": "dfd",
+      "descricao": "O usuário já forneceu elementos básicos, mas o DFD ainda não está completo."
+    },
+    "dfd_ready": {
+      "next": "etp_incomplete",
+      "doc": "etp",
+      "descricao": "O DFD foi concluído e validado, hora de iniciar o Estudo Técnico Preliminar."
+    },
+    "etp_incomplete": {
+      "next": "etp_ready",
+      "doc": "etp",
+      "descricao": "O ETP está em elaboração e precisa de complementos técnicos."
+    },
+    "etp_ready": {
+      "next": "tr_incomplete",
+      "doc": "tr",
+      "descricao": "O ETP foi concluído, agora é o momento de elaborar o Termo de Referência."
+    },
+    "tr_incomplete": {
+      "next": "tr_ready",
+      "doc": "tr",
+      "descricao": "O TR está em elaboração e deve conter escopo, prazos, critérios e garantias."
+    },
+    "tr_ready": {
+      "next": "fim",
+      "doc": "tr",
+      "descricao": "O Termo de Referência está completo. Fim da jornada inicial."
+    }
+  }
+}
 
