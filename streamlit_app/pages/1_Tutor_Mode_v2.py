@@ -6,6 +6,7 @@ from datetime import datetime
 
 # ============================================================
 # Synapse Tutor v2 - Jornada Guiada Interativa (POC TJSP)
+# Compatível com estrutura YAML em chave-valor (DFD, ETP, TR)
 # ============================================================
 
 st.set_page_config(
@@ -41,20 +42,19 @@ if "etapa" not in st.session_state:
 st.divider()
 
 # ------------------------------------------------------------
-# 3. Formulário interativo
+# 3. Formulário interativo - compatível com YAML chave-valor
 # ------------------------------------------------------------
 st.subheader("🧾 Preencha as respostas para as perguntas abaixo:")
 
-questions = question_bank.get("dfd", {}).get("questions", [])
-total_questions = len(questions)
+dfd_questions = question_bank.get("dfd", {})
+total_questions = len(dfd_questions)
 answered_count = 0
 
-for q in questions:
-    question_text = q.get("text", "")
-    key = f"resp_{question_text[:40]}"  # chave única curta para sessão
-    response = st.text_area(question_text, value=st.session_state["respostas"].get(key, ""), height=80)
-    if response.strip():
-        st.session_state["respostas"][key] = response
+for key, question_text in dfd_questions.items():
+    campo_key = f"resp_{key}"
+    resposta = st.text_area(question_text, value=st.session_state["respostas"].get(campo_key, ""), height=80)
+    if resposta.strip():
+        st.session_state["respostas"][campo_key] = resposta
         answered_count += 1
 
 # ------------------------------------------------------------
@@ -76,37 +76,39 @@ if st.button("Gerar Documento DFD"):
         st.warning("⚠️ Nenhuma resposta foi preenchida ainda.")
         st.stop()
 
-    # Montagem do texto em formato institucional
+    # Montagem do texto em formato institucional, usando chaves do YAML
     dfd_text = f"""
 # Documento de Formalização da Demanda (DFD)
 **Data:** {datetime.now().strftime('%d/%m/%Y')}  
-**Unidade Solicitante:** {respostas.get('resp_Qual é a unidade solicitante', 'Não informado')}
+**Unidade Solicitante:** {respostas.get('resp_unidade_demandante', 'Não informado')}  
+**Responsável pela Solicitação:** {respostas.get('resp_responsavel', 'Não informado')}
 
 ---
 
 ## 1️⃣ Descrição do Objeto
-{respostas.get('resp_O que exatamente precisa ser adquirido ou contratado', 'Não informado')}
+{respostas.get('resp_objeto', 'Não informado')}
 
 ---
 
 ## 2️⃣ Justificativa da Necessidade
-{respostas.get('resp_Por que essa aquisição é necessária agora', 'Não informado')}
+{respostas.get('resp_justificativa', 'Não informado')}
 
 ---
 
-## 3️⃣ Urgência e Risco
-{respostas.get('resp_Há urgência ou prazo limite', 'Não informado')}
-{respostas.get('resp_Há riscos identificados caso o pedido não seja atendido', '')}
+## 3️⃣ Quantidade, Urgência e Riscos
+- **Quantidade ou escopo:** {respostas.get('resp_quantidade_ou_escopo', 'Não informado')}
+- **Condição de urgência:** {respostas.get('resp_condicao_urgencia', 'Não informado')}
+- **Riscos se não atendido:** {respostas.get('resp_riscos', 'Não informado')}
 
 ---
 
 ## 4️⃣ Alinhamento Institucional
-{respostas.get('resp_Há relação com algum projeto', 'Não informado')}
+{respostas.get('resp_alinhamento_planejamento', 'Não informado')}
 
 ---
 
-## 5️⃣ Informações Complementares
-{respostas.get('resp_Você possui fotos', 'Não informado')}
+## 5️⃣ Documentos de Suporte
+{respostas.get('resp_documentos_suporte', 'Não informado')}
 
 ---
 
