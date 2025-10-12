@@ -1,0 +1,28 @@
+dfd:
+  unidade_demandante: "Qual é a unidade solicitante (ex.: Fórum de Sorocaba, Secretaria do Foro)?"
+  responsavel: "Quem está solicitando o atendimento (nome, cargo ou setor)?"
+  objeto: "O que exatamente precisa ser adquirido ou contratado?"
+  justificativa: "Por que essa aquisição é necessária agora? Existe risco, urgência ou demanda reprimida?"
+  quantidade_ou_escopo: "Qual a quantidade aproximada de itens ou o tamanho do serviço?"
+  condicao_urgencia: "Há urgência ou prazo limite? Descreva brevemente."
+  riscos: "Há riscos identificados caso o pedido não seja atendido?"
+  alinhamento_planejamento: "Há relação com algum projeto, meta ou diretriz institucional?"
+  documentos_suporte: "Você possui fotos, relatórios ou laudos técnicos que apoiem a solicitação?"
+
+etp:
+  requisitos_tecnicos: "Quais são os requisitos técnicos ou padrões mínimos necessários?"
+  referencias_normativas: "Há normas ou manuais do TJSP ou do CNJ que precisam ser seguidos?"
+  alternativas_possiveis: "Existem alternativas à contratação (como reaproveitamento, manutenção, remanejamento)?"
+  estimativa_custos: "Há noção de custo unitário ou total? Base em pesquisa de mercado?"
+  impacto_na_atividade: "Qual o impacto esperado na rotina do órgão com a contratação?"
+  sustentabilidade: "Há critérios de sustentabilidade (materiais recicláveis, eficiência energética etc.)?"
+  riscos_execucao: "Que riscos podem ocorrer durante a execução e como podem ser mitigados?"
+
+tr:
+  escopo_detalhado: "Descreva o escopo detalhado da contratação (entregas, quantidades, prazos, locais)."
+  criterios_aceitacao: "O que define que o item ou serviço foi entregue corretamente?"
+  garantias: "Há garantias mínimas exigidas (prazo, cobertura, manutenção)?"
+  responsabilidades: "Quais serão as responsabilidades da contratada e do contratante?"
+  prazos_execucao: "Qual o prazo máximo de execução ou entrega?"
+  fiscalizacao: "Quem fará o acompanhamento e fiscalização do contrato?"
+  pagamento: "Como será feito o pagamento (parcelas, medições, condições)?"
