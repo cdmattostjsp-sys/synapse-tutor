@@ -1,110 +1,156 @@
 """
-formatter_docx.py
------------------------------------
-Conversor de texto Markdown → DOCX
-para o Synapse Tutor v2 (TJSP – SAAB).
-Compatível com o padrão institucional.
-
-Dependências: python-docx, markdown, beautifulsoup4
-pip install python-docx markdown beautifulsoup4
+utils/formatter_docx.py (v3.2)
+-------------------------------
+Converte markdown institucional em documento Word (.docx) com:
+- Suporte a títulos hierárquicos (#, ##, ###)
+- Estilo visual institucional (TJSP/SAAB)
+- Destaque colorido para sugestões 💡
+- Suporte básico a negrito, itálico e listas
+- Cabeçalho e rodapé automáticos do Synapse Tutor
 """
 
-import io
-from datetime import datetime
+from io import BytesIO
 from docx import Document
-from docx.shared import Pt
-from docx.enum.text import WD_ALIGN_PARAGRAPH
-import markdown
-from bs4 import BeautifulSoup
+from docx.shared import Pt, RGBColor, Inches
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_COLOR_INDEX
 
 
-def markdown_to_docx(md_text: str, title: str = "Rascunho DFD", meta: dict = None) -> io.BytesIO:
+def markdown_to_docx(markdown_text: str, title: str = "Documento Institucional") -> BytesIO:
     """
-    Converte texto markdown em arquivo DOCX com cabeçalho institucional.
-
-    Args:
-        md_text (str): Texto em formato markdown.
-        title (str): Título principal do documento.
-        meta (dict): Dicionário com informações de metadados (score, data, autor, etc.).
-
-    Returns:
-        io.BytesIO: Buffer do arquivo DOCX pronto para download.
+    Converte o markdown do Synapse Tutor em DOCX formatado.
+    Retorna um buffer BytesIO pronto para download.
     """
-    if not md_text:
-        raise ValueError("Texto vazio fornecido para conversão.")
 
-    meta = meta or {}
-
-    # Cria documento Word
+    # ---------------------------
+    # Inicialização do documento
+    # ---------------------------
     doc = Document()
+    section = doc.sections[0]
+    section.top_margin = Inches(1)
+    section.bottom_margin = Inches(1)
+    section.left_margin = Inches(1)
+    section.right_margin = Inches(1)
 
-    # ------------------------------
-    # Cabeçalho Institucional
-    # ------------------------------
-    header = doc.sections[0].header
-    p = header.paragraphs[0]
-    p.text = "TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO – SAAB\nPROJETO SYNAPSE.IA – TUTOR v2"
-    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.runs[0]
-    run.font.size = Pt(9)
-    run.font.name = "Calibri"
+    # Cabeçalho institucional
+    header = section.header
+    header_para = header.paragraphs[0]
+    header_para.text = "Tribunal de Justiça de São Paulo – SAAB | Synapse Tutor v2"
+    header_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    header_para.style.font.size = Pt(9)
+    header_para.style.font.color.rgb = RGBColor(90, 90, 90)
 
-    # ------------------------------
-    # Título
-    # ------------------------------
-    title_paragraph = doc.add_paragraph(title)
-    title_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    title_paragraph.runs[0].bold = True
-    title_paragraph.runs[0].font.size = Pt(14)
-    doc.add_paragraph("")  # espaçamento
+    # Rodapé institucional
+    footer = section.footer
+    footer_para = footer.paragraphs[0]
+    footer_para.text = "Documento gerado automaticamente – Synapse.IA | SAAB | TJSP"
+    footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    footer_para.style.font.size = Pt(8)
+    footer_para.style.font.color.rgb = RGBColor(100, 100, 100)
 
-    # ------------------------------
-    # Metadados (scores e data)
-    # ------------------------------
-    if meta:
-        meta_paragraph = doc.add_paragraph()
-        for k, v in meta.items():
-            meta_paragraph.add_run(f"{k}: ").bold = True
-            meta_paragraph.add_run(f"{v}\n")
-        doc.add_paragraph("")
+    # Título principal
+    doc.add_heading(title, level=1).alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    # ------------------------------
-    # Conversão Markdown → HTML
-    # ------------------------------
-    html = markdown.markdown(md_text)
-    soup = BeautifulSoup(html, "html.parser")
+    # ---------------------------
+    # Processamento linha a linha
+    # ---------------------------
+    lines = markdown_text.splitlines()
 
-    for element in soup.recursiveChildGenerator():
-        if element.name == "h1":
-            doc.add_heading(element.text.strip(), level=1)
-        elif element.name == "h2":
-            doc.add_heading(element.text.strip(), level=2)
-        elif element.name == "h3":
-            doc.add_heading(element.text.strip(), level=3)
-        elif element.name == "p":
-            doc.add_paragraph(element.text.strip())
-        elif element.name == "ul":
-            for li in element.find_all("li"):
-                doc.add_paragraph(li.text.strip(), style="List Bullet")
-        elif element.name == "ol":
-            for li in element.find_all("li"):
-                doc.add_paragraph(li.text.strip(), style="List Number")
+    for line in lines:
+        text = line.strip()
+        if not text:
+            doc.add_paragraph()
+            continue
 
-    # ------------------------------
-    # Rodapé
-    # ------------------------------
-    footer = doc.sections[0].footer
-    p = footer.paragraphs[0]
-    p.text = f"Gerado automaticamente pelo Synapse Tutor v2 • {datetime.now().strftime('%d/%m/%Y %H:%M')}"
-    p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    run = p.runs[0]
-    run.font.size = Pt(8)
-    run.font.name = "Calibri"
+        # ---------- Cabeçalhos ----------
+        if text.startswith("# "):
+            p = doc.add_heading(text.replace("# ", "").strip(), level=1)
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        elif text.startswith("## "):
+            p = doc.add_heading(text.replace("## ", "").strip(), level=2)
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        elif text.startswith("### "):
+            p = doc.add_heading(text.replace("### ", "").strip(), level=3)
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT
 
-    # ------------------------------
-    # Exportação para memória
-    # ------------------------------
-    buffer = io.BytesIO()
+        # ---------- Sugestões 💡 ----------
+        elif text.startswith("💡"):
+            p = doc.add_paragraph()
+            run = p.add_run(text)
+            run.font.bold = True
+            run.font.size = Pt(11)
+            run.font.color.rgb = RGBColor(0, 0, 0)
+            run.font.highlight_color = WD_COLOR_INDEX.YELLOW
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(6)
+            p.paragraph_format.left_indent = Inches(0.3)
+
+        # ---------- Listas ----------
+        elif text.startswith("- "):
+            p = doc.add_paragraph(style="List Bullet")
+            run = p.add_run(text.replace("- ", "").strip())
+            _apply_inline_formatting(run)
+
+        elif text.startswith("* "):
+            p = doc.add_paragraph(style="List Bullet")
+            run = p.add_run(text.replace("* ", "").strip())
+            _apply_inline_formatting(run)
+
+        elif text.startswith("1.") or text.startswith("1️⃣"):
+            p = doc.add_paragraph(style="List Number")
+            run = p.add_run(text)
+            _apply_inline_formatting(run)
+
+        # ---------- Texto comum ----------
+        else:
+            p = doc.add_paragraph()
+            run = p.add_run(text)
+            _apply_inline_formatting(run)
+
+    # ---------------------------
+    # Formatação final
+    # ---------------------------
+    for paragraph in doc.paragraphs:
+        paragraph_format = paragraph.paragraph_format
+        paragraph_format.space_after = Pt(6)
+        paragraph_format.line_spacing = 1.25
+
+    # ---------------------------
+    # Geração do buffer
+    # ---------------------------
+    buffer = BytesIO()
     doc.save(buffer)
     buffer.seek(0)
     return buffer
+
+
+def _apply_inline_formatting(run):
+    """
+    Aplica negrito, itálico e remoção de marcadores markdown básicos
+    dentro de uma linha.
+    """
+    text = run.text
+
+    # Negrito (**texto**)
+    if "**" in text:
+        parts = text.split("**")
+        formatted_text = ""
+        for i, part in enumerate(parts):
+            if i % 2 == 1:
+                formatted_text += f"<b>{part}</b>"
+            else:
+                formatted_text += part
+        text = formatted_text
+
+    # Itálico (*texto*)
+    if "*" in text:
+        parts = text.split("*")
+        formatted_text = ""
+        for i, part in enumerate(parts):
+            if i % 2 == 1:
+                formatted_text += f"<i>{part}</i>"
+            else:
+                formatted_text += part
+        text = formatted_text
+
+    # Remove símbolos visuais de markdown remanescentes
+    run.text = text.replace("**", "").replace("*", "").replace("`", "")
