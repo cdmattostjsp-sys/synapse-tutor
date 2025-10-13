@@ -1,22 +1,19 @@
 import os
 from datetime import datetime
-
 import streamlit as st
 import yaml
+from openai import OpenAI
 
-# ================================
-# Synapse Tutor v2 — DFD (POC TJSP)
-# Agora com VALIDAÇÃO SEMÂNTICA e
-# RASCUNHO ORIENTADO (markdown).
-# ================================
+# =========================================
+# Synapse Tutor v2 — Jornada Guiada Interativa (DFD)
+# Versão com validação semântica e exportação .docx
+# =========================================
 
-# Reuso do engine de validação já existente no repo
-# (mantém consistência com a página sinapse_chat_vNext.py)
-from validator_engine_vNext import validate_document  # API pública validate_document(...)
-from openai import OpenAI  # cliente OpenAI para o engine
+from validator_engine_vNext import validate_document  # Engine de validação já existente
+from utils.formatter_docx import markdown_to_docx     # Novo módulo utilitário
 
 # -------------------------------
-# Config da página
+# Configuração da página
 # -------------------------------
 st.set_page_config(
     page_title="Synapse Tutor – Jornada Guiada v2",
@@ -26,16 +23,15 @@ st.set_page_config(
 st.title("🧭 Synapse Tutor — Jornada Guiada Interativa (DFD)")
 st.markdown("""
 O **Synapse Tutor v2** coleta respostas e gera um rascunho textual do **Documento de Formalização da Demanda (DFD)**,
-agora com **validação semântica automática** e **rascunho orientado**.
+com **validação semântica automática** e **exportação institucional em .docx**.
 """)
 
 # -------------------------------
-# Helpers
+# Funções auxiliares
 # -------------------------------
 def _load_api_client():
     """
-    Mesmo padrão de obtenção da chave usado em synapse_chat_vNext.py:
-    primeiro variável de ambiente, depois Secrets do Streamlit.
+    Obtém a chave da API (usando o mesmo padrão de synapse_chat_vNext.py)
     """
     api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY", None)
     if not api_key:
@@ -43,7 +39,11 @@ def _load_api_client():
         return None
     return OpenAI(api_key=api_key)
 
+
 def _load_question_bank():
+    """
+    Carrega o arquivo journey/question_bank.yaml
+    """
     try:
         with open(os.path.join("journey", "question_bank.yaml"), "r", encoding="utf-8") as file:
             return yaml.safe_load(file)
@@ -51,8 +51,9 @@ def _load_question_bank():
         st.error("❌ Arquivo 'journey/question_bank.yaml' não encontrado.")
         st.stop()
 
+
 # -------------------------------
-# Estado
+# Estado da sessão
 # -------------------------------
 if "respostas" not in st.session_state:
     st.session_state["respostas"] = {}
@@ -173,8 +174,6 @@ with col1:
                 st.stop()
             with st.spinner("Executando validação…"):
                 try:
-                    # Usamos o mesmo contrato da página sinapse_chat_vNext.py (validate_document)
-                    # para manter o padrão de retorno e UX.
                     result = validate_document(st.session_state["dfd_text"], "DFD", client)
                     st.session_state["validation_result"] = result
                     st.success("Validação concluída com sucesso!")
@@ -184,12 +183,12 @@ with col1:
 with col2:
     vr = st.session_state.get("validation_result")
     if vr:
-        # KPIs
+        # Métricas principais
         c1, c2 = st.columns(2)
         c1.metric("Score Rígido", f"{vr.get('rigid_score', 0):.1f}%")
         c2.metric("Score Semântico", f"{vr.get('semantic_score', 0):.1f}%")
 
-        # Tabelas (render simples)
+        # Itens avaliados (rígidos)
         st.markdown("#### 🧩 Itens Avaliados (Rígidos)")
         rigid_rows = []
         for it in vr.get("rigid_result", []):
@@ -200,6 +199,7 @@ with col2:
             })
         st.table(rigid_rows)
 
+        # Itens avaliados (semânticos)
         st.markdown("#### 💡 Itens Avaliados (Semânticos)")
         sem_rows = []
         for it in vr.get("semantic_result", []):
@@ -211,15 +211,41 @@ with col2:
             })
         st.table(sem_rows)
 
+        # Rascunho orientado
         st.markdown("#### 📝 Rascunho orientado (markdown)")
         st.markdown(vr.get("guided_markdown", ""))
 
+        # Botão de download em Markdown
         st.download_button(
             "⬇️ Baixar rascunho orientado (.md)",
             data=vr.get("guided_markdown", "").encode("utf-8", errors="ignore"),
             file_name=f"{vr.get('guided_doc_title','Rascunho')}_DFD_{datetime.now().strftime('%Y%m%d_%H%M')}.md",
             mime="text/markdown"
         )
+
+        # =========================================
+        # Novo botão: exportar como Word (.docx)
+        # =========================================
+        try:
+            buffer = markdown_to_docx(
+                vr.get("guided_markdown", ""),
+                title="Documento de Formalização da Demanda – DFD (Rascunho Orientado)",
+                meta={
+                    "Score Rígido": f"{vr.get('rigid_score', 0):.1f}%",
+                    "Score Semântico": f"{vr.get('semantic_score', 0):.1f}%",
+                    "Data": datetime.now().strftime('%d/%m/%Y %H:%M')
+                }
+            )
+
+            st.download_button(
+                "⬇️ Baixar como .docx",
+                data=buffer,
+                file_name=f"DFD_orientado_{datetime.now().strftime('%Y%m%d_%H%M')}.docx",
+                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            )
+        except Exception as e:
+            st.error(f"Erro ao gerar o arquivo DOCX: {e}")
+
     else:
         st.info("Execute a validação para ver scores, tabelas e o rascunho orientado.")
 
