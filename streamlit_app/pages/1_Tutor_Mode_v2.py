@@ -1,5 +1,9 @@
 import sys
 import os
+from datetime import datetime
+import streamlit as st
+import yaml
+from openai import OpenAI
 
 # =========================================
 # Ajuste de PATH
@@ -7,11 +11,6 @@ import os
 root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 if root_dir not in sys.path:
     sys.path.append(root_dir)
-
-from datetime import datetime
-import streamlit as st
-import yaml
-from openai import OpenAI
 
 from validator_engine_vNext import validate_document
 from utils.formatter_docx import markdown_to_docx
@@ -24,8 +23,9 @@ st.set_page_config(page_title="Synapse Tutor – Jornada Guiada v2", layout="wid
 
 st.title("🧭 Synapse Tutor — Jornada Guiada Interativa (DFD)")
 st.markdown("""
-O **Synapse Tutor v2** agora permite **inserir ou ocultar sugestões construtivas** no rascunho final (.docx),
-mantendo a aderência à **Lei nº 14.133/2021** e à **IN SAAB nº 12/2025**.
+O **Synapse Tutor v2** agora possui **dois modos de operação**:
+- 🧠 *Tutor Orientador*: sempre sugere melhorias e exemplos.
+- 🧾 *Avaliador Institucional*: apenas analisa e certifica documentos completos.
 """)
 
 # -------------------------------
@@ -37,6 +37,7 @@ def _load_api_client():
         st.warning("⚠️ Para validação semântica, configure OPENAI_API_KEY.")
         return None
     return OpenAI(api_key=api_key)
+
 
 def _load_question_bank():
     try:
@@ -75,6 +76,13 @@ for key, pergunta in dfd_questions.items():
         answered += 1
 
 st.progress(answered / len(dfd_questions or [1]), text=f"{answered}/{len(dfd_questions)} respostas")
+
+# -------------------------------
+# Modo de Operação
+# -------------------------------
+st.divider()
+modo_tutor = st.radio("🎚️ Selecione o modo de operação:", ["Tutor Orientador", "Avaliador Institucional"])
+tutor_mode = True if modo_tutor == "Tutor Orientador" else False
 
 # -------------------------------
 # Geração do DFD
@@ -117,26 +125,31 @@ _Gerado automaticamente pelo Synapse Tutor — SAAB/TJSP, versão POC 2025_
         st.session_state["enhanced_markdown"] = ""
         st.success("✅ Documento base criado.")
 
+        # Exibe prévia do documento
+        with st.expander("👁️ Prévia do Documento Base"):
+            st.markdown(dfd_text)
+
 # -------------------------------
 # Validação + Recomendações
 # -------------------------------
 st.divider()
 st.subheader("✅ Validação e Recomendações")
 
-include_suggestions = st.checkbox("🔘 Incluir sugestões construtivas no resultado", value=True)
+include_suggestions = st.checkbox("💡 Incluir sugestões construtivas no resultado", value=True)
 
-if st.button("Executar validação"):
+if st.button("Executar validação e gerar rascunho orientado"):
     if not st.session_state["dfd_text"]:
         st.warning("⚠️ Gere o documento DFD antes.")
     else:
         client = _load_api_client()
         if client:
-            with st.spinner("Executando validação..."):
+            with st.spinner("Executando validação e análise semântica..."):
                 vr = validate_document(st.session_state["dfd_text"], "DFD", client)
                 st.session_state["validation_result"] = vr
-                enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr, include_suggestions)
+                enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr,
+                                            include_suggestions, tutor_mode)
                 st.session_state["enhanced_markdown"] = enhanced
-                st.success("Validação e recomendações concluídas!")
+                st.success("✅ Validação e recomendações concluídas!")
 
 vr = st.session_state.get("validation_result")
 if vr:
@@ -149,8 +162,11 @@ if vr:
     st.markdown(md_final)
 
     # Downloads
-    st.download_button("⬇️ Baixar (.md)", data=md_final.encode(), file_name="DFD_orientado.md", mime="text/markdown")
+    st.download_button("⬇️ Baixar (.md)", data=md_final.encode(),
+                       file_name="DFD_orientado.md", mime="text/markdown")
 
-    buffer = markdown_to_docx(md_final, "DFD (Rascunho com Sugestões)" if include_suggestions else "DFD (Rascunho Limpo)")
-    st.download_button("⬇️ Baixar (.docx)", data=buffer, file_name="DFD_orientado.docx",
+    buffer = markdown_to_docx(md_final,
+        f"DFD ({'Modo Tutor' if tutor_mode else 'Modo Avaliador'})")
+    st.download_button("⬇️ Baixar (.docx)", data=buffer,
+                       file_name="DFD_orientado.docx",
                        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document")
