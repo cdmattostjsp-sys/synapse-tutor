@@ -1,16 +1,23 @@
+import sys
 import os
+
+# =========================================
+# Ajuste de PATH para permitir imports da raiz do projeto
+# =========================================
+# Detecta o caminho raiz do projeto (duas pastas acima)
+root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+if root_dir not in sys.path:
+    sys.path.append(root_dir)
+
+# Agora os imports do projeto funcionam normalmente
 from datetime import datetime
 import streamlit as st
 import yaml
 from openai import OpenAI
 
-# =========================================
-# Synapse Tutor v2 — Jornada Guiada Interativa (DFD)
-# Versão com validação semântica e exportação .docx
-# =========================================
+from validator_engine_vNext import validate_document  # ✅ Agora acessível
+from utils.formatter_docx import markdown_to_docx
 
-from validator_engine_vNext import validate_document  # Engine de validação já existente
-from utils.formatter_docx import markdown_to_docx     # Novo módulo utilitário
 
 # -------------------------------
 # Configuração da página
