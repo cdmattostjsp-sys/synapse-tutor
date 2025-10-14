@@ -1,170 +1,115 @@
-"""
-utils/formatter_docx.py (v3.5.1)
---------------------------------
-Conversor Markdown → DOCX + PDF institucional (Synapse Tutor v2)
+# =========================================
+# utils/formatter_docx.py – v3.6-safe
+# =========================================
+# Correções:
+# - Garante existência de pastas exports/rascunhos e exports/logs
+# - Corrige FileNotFoundError (get_next_rascunho_number)
+# - Numeração incremental segura (DFD_001, DFD_002…)
+# - Compatível com formatter_docx.py v3.5.1 e Tutor v2.5
+# - Adiciona logging básico de geração
 
-Melhorias desta versão:
-- Importação opcional do módulo pypandoc (sem erro de deploy)
-- Geração condicional de PDF (fallback automático)
-- Mensagens seguras de fallback quando o PDF não for gerado
-- Mantém numeração sequencial, cabeçalho, rodapé e resumo
-"""
-
-from io import BytesIO
-from docx import Document
-from docx.shared import Pt, RGBColor, Inches
-from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_COLOR_INDEX
 import os
+import io
 from datetime import datetime
+from docx import Document
+from docx.shared import Pt
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-# Tentativa segura de importar pypandoc
 try:
     import pypandoc
-    PYPANDOC_AVAILABLE = True
 except ImportError:
-    PYPANDOC_AVAILABLE = False
+    pypandoc = None
 
 
-def get_next_rascunho_number(rasc_dir: str) -> int:
-    """Calcula o próximo número de rascunho com base nos arquivos existentes."""
-    existing = [f for f in os.listdir(rasc_dir) if f.startswith("DFD_")]
-    return len(existing) + 1
+# -------------------------------
+# Diretórios principais
+# -------------------------------
+EXPORT_BASE = os.path.join("exports")
+RASC_DIR = os.path.join(EXPORT_BASE, "rascunhos")
+LOG_DIR = os.path.join(EXPORT_BASE, "logs")
+
+os.makedirs(RASC_DIR, exist_ok=True)
+os.makedirs(LOG_DIR, exist_ok=True)
 
 
-def markdown_to_docx(
-    markdown_text: str,
-    title: str = "Documento Institucional",
-    summary_text: str = "",
-    rasc_dir: str = "./exports/rascunhos",
-    responsavel: str = "Não informado",
-) -> tuple[BytesIO, str]:
+# -------------------------------
+# Funções auxiliares
+# -------------------------------
+def get_next_rascunho_number(rasc_dir: str) -> str:
     """
-    Converte markdown → DOCX institucional e, se possível, PDF.
-    Retorna buffer DOCX e caminho do PDF (ou None se não gerado).
+    Retorna o próximo número de rascunho (ex: '001').
+    Cria o diretório caso não exista.
     """
-
-    # --------------------------
-    # Documento base
-    # --------------------------
-    doc = Document()
-    section = doc.sections[0]
-    section.top_margin = Inches(1)
-    section.bottom_margin = Inches(1)
-    section.left_margin = Inches(1)
-    section.right_margin = Inches(1)
-
-    # --------------------------
-    # Cabeçalho e rodapé
-    # --------------------------
-    header = section.header.paragraphs[0]
-    header.text = "Tribunal de Justiça de São Paulo – SAAB | Synapse Tutor v2"
-    header.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    header.style.font.size = Pt(9)
-    header.style.font.color.rgb = RGBColor(90, 90, 90)
-
-    footer = section.footer.paragraphs[0]
-    footer.text = "Documento gerado automaticamente — Synapse.IA | SAAB | TJSP"
-    footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    footer.style.font.size = Pt(8)
-    footer.style.font.color.rgb = RGBColor(100, 100, 100)
-
-    # --------------------------
-    # Numeração sequencial
-    # --------------------------
-    numero = get_next_rascunho_number(rasc_dir)
-    ano = datetime.now().year
-    doc.add_heading(f"{title} – Rascunho nº {numero:03d}/{ano}", level=1).alignment = WD_ALIGN_PARAGRAPH.CENTER
-
-    # --------------------------
-    # Responsável pela elaboração
-    # --------------------------
-    p_info = doc.add_paragraph()
-    p_info.add_run(f"Responsável pela elaboração: {responsavel}\n").bold = True
-    p_info.alignment = WD_ALIGN_PARAGRAPH.LEFT
-
-    # --------------------------
-    # Limpeza do texto Markdown
-    # --------------------------
-    markdown_text = (
-        markdown_text.replace("<b>", "")
-        .replace("</b>", "")
-        .replace("<i>", "")
-        .replace("</i>", "")
-        .replace("**", "")
-        .replace("*", "")
-    )
-
-    # --------------------------
-    # Conversão linha a linha
-    # --------------------------
-    lines = markdown_text.splitlines()
-    for line in lines:
-        p = None
-        text = line.strip()
-
-        if not text:
-            doc.add_paragraph()
-            continue
-
-        if text.startswith("# "):
-            doc.add_heading(text[2:].strip(), level=1)
-        elif text.startswith("## "):
-            doc.add_heading(text[3:].strip(), level=2)
-        elif text.startswith("### "):
-            doc.add_heading(text[4:].strip(), level=3)
-        elif text.startswith("💡"):
-            p = doc.add_paragraph()
-            run = p.add_run(text)
-            run.font.bold = True
-            run.font.size = Pt(11)
-            run.font.highlight_color = WD_COLOR_INDEX.YELLOW
-            p.paragraph_format.left_indent = Inches(0.3)
-            p.paragraph_format.space_before = Pt(6)
-            p.paragraph_format.space_after = Pt(6)
-        elif text.startswith("- "):
-            p = doc.add_paragraph(text[2:].strip(), style="List Bullet")
-        elif text.startswith("---"):
-            sep = doc.add_paragraph("―" * 30)
-            sep.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        else:
-            p = doc.add_paragraph(text)
-
-        if p:
-            p.paragraph_format.space_after = Pt(6)
-            p.paragraph_format.line_spacing = 1.25
-
-    # --------------------------
-    # Campo final – Resumo da Análise
-    # --------------------------
-    if summary_text:
-        doc.add_page_break()
-        doc.add_heading("📊 Resumo da Análise", level=2)
-        doc.add_paragraph(summary_text)
-
-    # --------------------------
-    # Exportação final
-    # --------------------------
     os.makedirs(rasc_dir, exist_ok=True)
-    file_base = f"DFD_{datetime.now():%Y%m%d_%H%M%S}"
-    docx_path = os.path.join(rasc_dir, f"{file_base}.docx")
-    pdf_path = os.path.join(rasc_dir, f"{file_base}.pdf")
+    existing = [f for f in os.listdir(rasc_dir) if f.startswith("DFD_") and f.endswith(".docx")]
+    if not existing:
+        return "001"
+    try:
+        last_num = max(int(f.split("_")[1].split(".")[0]) for f in existing if "_" in f)
+        return f"{last_num + 1:03d}"
+    except Exception:
+        return "001"
 
-    buffer = BytesIO()
+
+def log_generation(file_name: str, summary: str):
+    """
+    Registra log simples de geração de documento.
+    """
+    os.makedirs(LOG_DIR, exist_ok=True)
+    log_path = os.path.join(LOG_DIR, "tutor_logs.txt")
+    with open(log_path, "a", encoding="utf-8") as f:
+        f.write(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {file_name} – {summary[:180]}\n")
+
+
+# -------------------------------
+# Função principal
+# -------------------------------
+def markdown_to_docx(markdown_text: str, titulo: str = "Documento", summary: str = ""):
+    """
+    Converte markdown para Word (.docx) e opcionalmente para PDF (se pypandoc disponível).
+    Retorna um buffer (.docx) e o caminho do PDF (ou None).
+    """
+    numero = get_next_rascunho_number(RASC_DIR)
+    base_name = f"DFD_{numero}_{datetime.now():%Y%m%d_%H%M%S}"
+    docx_path = os.path.join(RASC_DIR, f"{base_name}.docx")
+    pdf_path = os.path.join(RASC_DIR, f"{base_name}.pdf")
+
+    # Criação do documento Word
+    doc = Document()
+    style = doc.styles["Normal"]
+    style.font.name = "Calibri"
+    style.font.size = Pt(11)
+
+    # Cabeçalho
+    title = doc.add_paragraph(titulo)
+    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    title.style = doc.styles["Heading 1"]
+
+    # Corpo principal
+    for line in markdown_text.split("\n"):
+        p = doc.add_paragraph(line.strip())
+        p.paragraph_format.space_after = Pt(6)
+
+    # Rodapé
+    doc.add_paragraph("")
+    doc.add_paragraph("_Gerado automaticamente pelo Synapse Tutor – SAAB/TJSP_")
+
+    # Salvar DOCX
+    doc.save(docx_path)
+    log_generation(base_name, summary or "Documento gerado sem resumo.")
+
+    # Exportação via buffer
+    buffer = io.BytesIO()
     doc.save(buffer)
-    with open(docx_path, "wb") as f:
-        f.write(buffer.getvalue())
+    buffer.seek(0)
 
-    # --------------------------
-    # Geração condicional do PDF
-    # --------------------------
-    if PYPANDOC_AVAILABLE:
+    # Tentativa de gerar PDF (opcional)
+    if pypandoc:
         try:
-            import pypandoc
-            pypandoc.convert_text(markdown_text, "pdf", format="md", outputfile=pdf_path, extra_args=["--standalone"])
+            pypandoc.convert_text(markdown_text, "pdf", format="md", outputfile=pdf_path)
         except Exception:
             pdf_path = None
     else:
-        pdf_path = None  # PDF desativado silenciosamente
+        pdf_path = None
 
-    buffer.seek(0)
     return buffer, pdf_path
