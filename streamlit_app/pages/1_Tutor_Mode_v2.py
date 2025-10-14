@@ -20,15 +20,8 @@ RASCDIR = os.path.join(EXPORTS_DIR, "rascunhos")
 os.makedirs(LOGS_DIR, exist_ok=True)
 os.makedirs(RASCDIR, exist_ok=True)
 
-# -------------------------------------
-# CONFIG
-# -------------------------------------
 st.set_page_config(page_title="Synapse Tutor v2 – DFD", layout="wide")
 st.title("🧭 Synapse Tutor — Jornada Guiada Interativa (DFD)")
-
-st.markdown("""
-O Synapse Tutor v2 agora registra automaticamente **logs de execução**, pontuação e modo de operação.
-""")
 
 # -------------------------------------
 # FUNÇÕES AUXILIARES
@@ -40,7 +33,6 @@ def _load_api_client():
         return None
     return OpenAI(api_key=api_key)
 
-
 def _load_question_bank():
     try:
         with open(os.path.join("journey", "question_bank.yaml"), "r", encoding="utf-8") as f:
@@ -49,20 +41,24 @@ def _load_question_bank():
         st.error("❌ Arquivo 'journey/question_bank.yaml' não encontrado.")
         st.stop()
 
-
 # -------------------------------------
-# ESTADO
-# -------------------------------------
-if "respostas" not in st.session_state:
-    st.session_state["respostas"] = {}
-if "validation_result" not in st.session_state:
-    st.session_state["validation_result"] = None
-
-# -------------------------------------
-# PERGUNTAS
+# INTERFACE E ESTADO
 # -------------------------------------
 question_bank = _load_question_bank()
 dfd_questions = question_bank.get("dfd", {})
+
+st.markdown("O Tutor agora gera rascunhos numerados, com registro de autor e exportação DOCX + PDF.")
+
+if st.button("🧹 Limpar sessão atual"):
+    st.session_state.clear()
+    st.success("Sessão limpa. Preencha novamente os campos.")
+
+if "respostas" not in st.session_state:
+    st.session_state["respostas"] = {}
+
+# -------------------------------------
+# COLETA DE RESPOSTAS
+# -------------------------------------
 st.subheader("🧾 Preencha as respostas abaixo")
 answered = 0
 for key, pergunta in dfd_questions.items():
@@ -74,26 +70,31 @@ for key, pergunta in dfd_questions.items():
 st.progress(answered / len(dfd_questions or [1]), text=f"{answered}/{len(dfd_questions)} respostas")
 
 # -------------------------------------
-# MODO DE OPERAÇÃO
+# MODO E RESPONSÁVEL
 # -------------------------------------
 st.divider()
 modo_tutor = st.radio("🎚️ Selecione o modo de operação:", ["Tutor Orientador", "Avaliador Institucional"])
 tutor_mode = True if modo_tutor == "Tutor Orientador" else False
+responsavel = st.text_input("👤 Informe o responsável pela elaboração (nome e cargo):")
 
 # -------------------------------------
-# GERAÇÃO DO DOCUMENTO
+# GERAÇÃO + VALIDAÇÃO
 # -------------------------------------
-st.divider()
-if st.button("Gerar DFD", type="primary"):
+if st.button("🚀 Gerar e Validar Documento"):
     r = st.session_state["respostas"]
     if not r:
         st.warning("⚠️ Preencha as respostas primeiro.")
     else:
-        dfd_text = f"""
+        client = _load_api_client()
+        if not client:
+            st.stop()
+
+        with st.spinner("Gerando DFD e executando validação..."):
+            dfd_text = f"""
 # Documento de Formalização da Demanda (DFD)
 **Data:** {datetime.now():%d/%m/%Y}
 **Unidade Solicitante:** {r.get('resp_unidade_demandante', 'Não informado')}
-**Responsável:** {r.get('resp_responsavel', 'Não informado')}
+**Responsável:** {responsavel or r.get('resp_responsavel', 'Não informado')}
 
 ## Descrição do Objeto
 {r.get('resp_objeto', 'Não informado')}
@@ -114,48 +115,24 @@ if st.button("Gerar DFD", type="primary"):
 
 _Gerado automaticamente pelo Synapse Tutor — SAAB/TJSP, versão 2025_
 """
-        st.session_state["dfd_text"] = dfd_text
-        with st.expander("👁️ Prévia do Documento Base"):
-            st.markdown(dfd_text)
-        st.success("✅ Documento base criado.")
+            vr = validate_document(dfd_text, "DFD", client)
+            enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr, True, tutor_mode)
+            summary = generate_summary(vr, tutor_mode, responsavel)
 
-# -------------------------------------
-# VALIDAÇÃO
-# -------------------------------------
-st.divider()
-include_suggestions = st.checkbox("💡 Incluir sugestões construtivas", value=True)
+            buffer, pdf_path = markdown_to_docx(enhanced, f"DFD ({modo_tutor})", summary, RASCDIR, responsavel)
 
-if st.button("Executar Validação e Gerar Relatório"):
-    if "dfd_text" not in st.session_state:
-        st.warning("⚠️ Gere o documento primeiro.")
-    else:
-        client = _load_api_client()
-        if client:
-            with st.spinner("Executando validação semântica..."):
-                vr = validate_document(st.session_state["dfd_text"], "DFD", client)
-                enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr, include_suggestions, tutor_mode)
-                summary = generate_summary(vr, tutor_mode)
+            log_entry = {
+                "timestamp": datetime.now().isoformat(),
+                "mode": modo_tutor,
+                "responsavel": responsavel,
+                "scores": {"rigid": vr.get("rigid_score", 0), "semantic": vr.get("semantic_score", 0)},
+                "files": {"docx": pdf_path.replace(".pdf", ".docx"), "pdf": pdf_path},
+            }
+            with open(os.path.join(LOGS_DIR, "tutor_logs.jsonl"), "a", encoding="utf-8") as log:
+                log.write(json.dumps(log_entry, ensure_ascii=False) + "\n")
 
-                # Exportação DOCX + LOG
-                buffer = markdown_to_docx(enhanced, f"DFD ({modo_tutor})", summary)
-                filename_docx = f"DFD_{datetime.now():%Y%m%d_%H%M%S}.docx"
-                filepath_docx = os.path.join(RASCDIR, filename_docx)
-                with open(filepath_docx, "wb") as f:
-                    f.write(buffer.getvalue())
-
-                log_entry = {
-                    "timestamp": datetime.now().isoformat(),
-                    "mode": modo_tutor,
-                    "scores": {"rigid": vr.get("rigid_score", 0), "semantic": vr.get("semantic_score", 0)},
-                    "file": filename_docx,
-                }
-                log_file = os.path.join(LOGS_DIR, "tutor_logs.jsonl")
-                with open(log_file, "a", encoding="utf-8") as log:
-                    log.write(json.dumps(log_entry, ensure_ascii=False) + "\n")
-
-                # Exibição e download
-                st.success("✅ Validação e registro concluídos.")
-                st.markdown(summary)
-                st.download_button("⬇️ Baixar DOCX", data=buffer,
-                                   file_name=filename_docx,
-                                   mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document")
+        st.success("✅ Documento validado e exportado com sucesso.")
+        st.download_button("⬇️ Baixar .DOCX", data=buffer, file_name="DFD_orientado.docx",
+                           mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document")
+        with open(pdf_path, "rb") as f:
+            st.download_button("⬇️ Baixar .PDF", data=f, file_name="DFD_orientado.pdf", mime="application/pdf")
