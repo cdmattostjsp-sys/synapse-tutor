@@ -1,11 +1,6 @@
 # =========================================
-# Synapse Tutor v2.5 – Página DFD (UX aprimorada)
+# Synapse Tutor v2.6 – Página DFD (UX de Jornada + só score semântico)
 # =========================================
-# Melhorias:
-# - Exibe prévia do documento base em painel expansível
-# - Orienta o usuário sobre o próximo passo (validação)
-# - Corrige tratamento de pdf_path (safe mode)
-# - Layout pedagógico e intuitivo
 
 import sys
 import os
@@ -27,17 +22,13 @@ from utils.recommender_engine import enhance_markdown
 # -------------------------------
 # Config
 # -------------------------------
-st.set_page_config(page_title="Synapse Tutor – Jornada Guiada v2", layout="wide")
+st.set_page_config(page_title="Synapse Tutor — Jornada Guiada", layout="wide")
 
-st.title("🧭 Synapse Tutor — Jornada Guiada Interativa (DFD)")
+st.title("🧭 Synapse Tutor — Jornada Guiada")
 st.markdown("""
-O **Synapse Tutor v2.5** auxilia o usuário na **elaboração e validação do Documento de Formalização da Demanda (DFD)**,
-seguindo os normativos da **Lei nº 14.133/2021** e da **IN SAAB nº 12/2025**.
-
-O fluxo é composto por três etapas:
-1️⃣ Preenchimento das respostas  
-2️⃣ Geração do documento base  
-3️⃣ Validação e exportação com sugestões automáticas
+O **Synapse Tutor** conduz você pela **jornada de contratação**.  
+**Primeiro passo:** elaborar o **Documento de Formalização da Demanda (DFD)**.  
+Em seguida, evoluímos para **ETP → TR → Contrato → Fiscalização**, sempre validando conteúdo e sugerindo aprimoramentos com base na **Lei nº 14.133/2021** e **IN SAAB nº 12/2025**.
 """)
 
 # -------------------------------
@@ -71,12 +62,11 @@ if "enhanced_markdown" not in st.session_state:
     st.session_state["enhanced_markdown"] = ""
 
 # -------------------------------
-# Etapa 1 – Coleta de respostas
+# Etapa 1 – Coleta de respostas (DFD)
 # -------------------------------
+st.header("1) DFD — Preencha as respostas do primeiro passo")
 question_bank = _load_question_bank()
 dfd_questions = question_bank.get("dfd", {})
-st.divider()
-st.subheader("🧾 Etapa 1 — Preencha as respostas abaixo")
 
 answered = 0
 for key, pergunta in dfd_questions.items():
@@ -86,14 +76,12 @@ for key, pergunta in dfd_questions.items():
         st.session_state["respostas"][campo] = resposta
         answered += 1
 
-st.progress(answered / len(dfd_questions or [1]), text=f"{answered}/{len(dfd_questions)} respostas")
+st.progress(answered / max(len(dfd_questions), 1), text=f"{answered}/{len(dfd_questions)} respostas")
 
 # -------------------------------
-# Etapa 2 – Geração do DFD
+# Etapa 2 – Geração do Documento Base
 # -------------------------------
-st.divider()
-st.subheader("📄 Etapa 2 — Geração do Documento Base")
-
+st.header("2) Gerar rascunho do DFD")
 if st.button("Gerar DFD", type="primary"):
     r = st.session_state["respostas"]
     if not r:
@@ -122,23 +110,21 @@ if st.button("Gerar DFD", type="primary"):
 ## 5️⃣ Documentos de Suporte
 {r.get('resp_documentos_suporte', 'Não informado')}
 
-_Gerado automaticamente pelo Synapse Tutor — SAAB/TJSP, versão POC 2025_
+_Gerado automaticamente pelo Synapse Tutor — SAAB/TJSP_
 """
         st.session_state["dfd_text"] = dfd_text
         st.session_state["validation_result"] = None
         st.session_state["enhanced_markdown"] = ""
-        st.success("✅ Documento base criado com sucesso.")
-        with st.expander("👁️ Visualizar documento gerado"):
+        st.success("✅ Documento base criado.")
+        with st.expander("👁️ Visualizar rascunho gerado"):
             st.markdown(st.session_state["dfd_text"])
-        st.info("ℹ️ Agora execute a **validação** abaixo para análise semântica e recomendações automáticas.")
+        st.info("ℹ️ Agora execute a **validação** para análise semântica e recomendações automáticas.")
 
 # -------------------------------
 # Etapa 3 – Validação e Recomendações
 # -------------------------------
-st.divider()
-st.subheader("✅ Etapa 3 — Validação e Recomendações")
-
-include_suggestions = st.checkbox("🔘 Incluir sugestões construtivas no resultado", value=True)
+st.header("3) Validação semântica e recomendações")
+include_suggestions = st.checkbox("💡 Incluir sugestões construtivas no resultado", value=True)
 
 if st.button("Executar validação"):
     if not st.session_state["dfd_text"]:
@@ -146,41 +132,35 @@ if st.button("Executar validação"):
     else:
         client = _load_api_client()
         if client:
-            with st.spinner("🔍 Executando validação semântica e estrutural..."):
+            with st.spinner("🔍 Executando validação semântica..."):
                 vr = validate_document(st.session_state["dfd_text"], "DFD", client)
                 st.session_state["validation_result"] = vr
                 enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr, include_suggestions)
                 st.session_state["enhanced_markdown"] = enhanced
-                st.success("✅ Validação e recomendações concluídas!")
+                st.success("✅ Validação concluída!")
 
 # -------------------------------
-# Exibição dos resultados
+# Resultados e Exportação
 # -------------------------------
 vr = st.session_state.get("validation_result")
 if vr:
-    st.divider()
-    st.subheader("📊 Resultados da Avaliação")
+    st.subheader("📊 Resultado da análise")
+    # ⚠️ Removemos o score rígido da UI (mantém-se disponível em logs se necessário)
+    sem_score = vr.get("semantic_score", 0.0)
+    st.metric("Score Semântico", f"{sem_score:.1f}%")
 
-    c1, c2 = st.columns(2)
-    c1.metric("Score Rígido", f"{vr.get('rigid_score', 0):.1f}%")
-    c2.metric("Score Semântico", f"{vr.get('semantic_score', 0):.1f}%")
-
-    st.markdown("### 📝 Rascunho Orientado Final")
+    st.markdown("### 📝 Rascunho orientado (pronto para exportação)")
     md_final = st.session_state["enhanced_markdown"] or vr.get("guided_markdown", "")
     st.markdown(md_final)
 
-    # -------------------------------
-    # Exportação e Download
-    # -------------------------------
+    # Exportação (DOCX sempre; PDF se disponível no ambiente)
     buffer, pdf_path = markdown_to_docx(
-        st.session_state["enhanced_markdown"],
-        f"DFD ({'Com Sugestões' if include_suggestions else 'Limpo'})",
+        md_final,
+        "DFD (Rascunho Orientado)",
         vr.get("summary", ""),
     )
 
-    docx_name = os.path.basename(pdf_path.replace(".pdf", ".docx")) if pdf_path else "DFD_orientado.docx"
-    pdf_name = os.path.basename(pdf_path) if pdf_path else None
-
+    docx_name = "DFD_orientado.docx"
     st.download_button(
         "⬇️ Baixar (.docx)",
         data=buffer,
@@ -189,6 +169,7 @@ if vr:
     )
 
     if pdf_path and os.path.exists(pdf_path):
+        pdf_name = os.path.basename(pdf_path)
         with open(pdf_path, "rb") as f:
             st.download_button(
                 "⬇️ Baixar (.pdf)",
@@ -197,4 +178,7 @@ if vr:
                 mime="application/pdf",
             )
     else:
-        st.info("📄 O arquivo PDF não foi gerado neste ambiente (pypandoc ausente).")
+        st.info("📄 O arquivo PDF pode não estar disponível neste ambiente (dependência opcional).")
+
+st.divider()
+st.caption("Jornada: DFD → ETP → TR → Contrato → Fiscalização • Synapse.IA | SAAB | TJSP")
