@@ -1,5 +1,5 @@
 # =========================================
-# Synapse Tutor v2.6 – Página DFD (UX de Jornada + só score semântico)
+# Synapse Tutor v2.7 – Jornada Guiada com Painel Visual
 # =========================================
 
 import sys
@@ -9,7 +9,7 @@ import streamlit as st
 import yaml
 from openai import OpenAI
 
-# Ajuste do PATH
+# Ajuste do PATH raiz
 root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 if root_dir not in sys.path:
     sys.path.append(root_dir)
@@ -20,16 +20,20 @@ from utils.formatter_docx import markdown_to_docx
 from utils.recommender_engine import enhance_markdown
 
 # -------------------------------
-# Config
+# Configuração inicial
 # -------------------------------
 st.set_page_config(page_title="Synapse Tutor — Jornada Guiada", layout="wide")
 
 st.title("🧭 Synapse Tutor — Jornada Guiada")
 st.markdown("""
-O **Synapse Tutor** conduz você pela **jornada de contratação**.  
-**Primeiro passo:** elaborar o **Documento de Formalização da Demanda (DFD)**.  
-Em seguida, evoluímos para **ETP → TR → Contrato → Fiscalização**, sempre validando conteúdo e sugerindo aprimoramentos com base na **Lei nº 14.133/2021** e **IN SAAB nº 12/2025**.
+O **Synapse Tutor** conduz você pela **jornada completa da contratação pública**.  
+O primeiro passo é a elaboração do **Documento de Formalização da Demanda (DFD)**.  
+À medida que as etapas são concluídas, o Tutor avança automaticamente para as seguintes fases:
 """)
+
+# Painel de progresso visual
+st.progress(0.2, "1️⃣ DFD (atual) → 2️⃣ ETP → 3️⃣ TR → 4️⃣ Contrato → 5️⃣ Fiscalização")
+st.caption("Etapa atual: Formalização da Demanda • Etapas futuras: ETP → TR → Contrato → Fiscalização")
 
 # -------------------------------
 # Funções auxiliares
@@ -50,7 +54,7 @@ def _load_question_bank():
         st.stop()
 
 # -------------------------------
-# Estado
+# Estado da sessão
 # -------------------------------
 if "respostas" not in st.session_state:
     st.session_state["respostas"] = {}
@@ -62,9 +66,9 @@ if "enhanced_markdown" not in st.session_state:
     st.session_state["enhanced_markdown"] = ""
 
 # -------------------------------
-# Etapa 1 – Coleta de respostas (DFD)
+# Etapa 1 – Coleta de respostas
 # -------------------------------
-st.header("1) DFD — Preencha as respostas do primeiro passo")
+st.header("1️⃣ DFD — Preencha as respostas iniciais")
 question_bank = _load_question_bank()
 dfd_questions = question_bank.get("dfd", {})
 
@@ -81,11 +85,11 @@ st.progress(answered / max(len(dfd_questions), 1), text=f"{answered}/{len(dfd_qu
 # -------------------------------
 # Etapa 2 – Geração do Documento Base
 # -------------------------------
-st.header("2) Gerar rascunho do DFD")
+st.header("2️⃣ Gerar Rascunho do DFD")
 if st.button("Gerar DFD", type="primary"):
     r = st.session_state["respostas"]
     if not r:
-        st.warning("⚠️ Preencha as respostas primeiro.")
+        st.warning("⚠️ Preencha as respostas antes de gerar o documento.")
     else:
         dfd_text = f"""
 # Documento de Formalização da Demanda (DFD)
@@ -115,15 +119,14 @@ _Gerado automaticamente pelo Synapse Tutor — SAAB/TJSP_
         st.session_state["dfd_text"] = dfd_text
         st.session_state["validation_result"] = None
         st.session_state["enhanced_markdown"] = ""
-        st.success("✅ Documento base criado.")
+        st.success("✅ Documento base criado com sucesso!")
         with st.expander("👁️ Visualizar rascunho gerado"):
             st.markdown(st.session_state["dfd_text"])
-        st.info("ℹ️ Agora execute a **validação** para análise semântica e recomendações automáticas.")
 
 # -------------------------------
-# Etapa 3 – Validação e Recomendações
+# Etapa 3 – Validação Semântica
 # -------------------------------
-st.header("3) Validação semântica e recomendações")
+st.header("3️⃣ Validação Semântica e Recomendações")
 include_suggestions = st.checkbox("💡 Incluir sugestões construtivas no resultado", value=True)
 
 if st.button("Executar validação"):
@@ -132,53 +135,37 @@ if st.button("Executar validação"):
     else:
         client = _load_api_client()
         if client:
-            with st.spinner("🔍 Executando validação semântica..."):
+            with st.spinner("🔍 Executando análise semântica..."):
                 vr = validate_document(st.session_state["dfd_text"], "DFD", client)
                 st.session_state["validation_result"] = vr
                 enhanced = enhance_markdown(vr.get("guided_markdown", ""), vr, include_suggestions)
                 st.session_state["enhanced_markdown"] = enhanced
-                st.success("✅ Validação concluída!")
+                st.success("✅ Validação concluída com sucesso!")
 
 # -------------------------------
 # Resultados e Exportação
 # -------------------------------
 vr = st.session_state.get("validation_result")
 if vr:
-    st.subheader("📊 Resultado da análise")
-    # ⚠️ Removemos o score rígido da UI (mantém-se disponível em logs se necessário)
+    st.subheader("📊 Resultado da Análise")
     sem_score = vr.get("semantic_score", 0.0)
     st.metric("Score Semântico", f"{sem_score:.1f}%")
-
-    st.markdown("### 📝 Rascunho orientado (pronto para exportação)")
+    st.markdown("### 📝 Rascunho Orientado")
     md_final = st.session_state["enhanced_markdown"] or vr.get("guided_markdown", "")
     st.markdown(md_final)
 
-    # Exportação (DOCX sempre; PDF se disponível no ambiente)
     buffer, pdf_path = markdown_to_docx(
         md_final,
         "DFD (Rascunho Orientado)",
         vr.get("summary", ""),
     )
 
-    docx_name = "DFD_orientado.docx"
     st.download_button(
-        "⬇️ Baixar (.docx)",
+        "⬇️ Baixar Documento (.docx)",
         data=buffer,
-        file_name=docx_name,
+        file_name="DFD_orientado.docx",
         mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
     )
 
-    if pdf_path and os.path.exists(pdf_path):
-        pdf_name = os.path.basename(pdf_path)
-        with open(pdf_path, "rb") as f:
-            st.download_button(
-                "⬇️ Baixar (.pdf)",
-                data=f,
-                file_name=pdf_name,
-                mime="application/pdf",
-            )
-    else:
-        st.info("📄 O arquivo PDF pode não estar disponível neste ambiente (dependência opcional).")
-
 st.divider()
-st.caption("Jornada: DFD → ETP → TR → Contrato → Fiscalização • Synapse.IA | SAAB | TJSP")
+st.caption("Etapa atual: DFD • Próximas: ETP → TR → Contrato → Fiscalização • Synapse.IA | SAAB | TJSP")
